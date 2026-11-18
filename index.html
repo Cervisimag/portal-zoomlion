@@ -12,11 +12,12 @@ nav.top button{font-weight:700;font-size:16px;padding:10px 18px}nav button.on{ba
 select,input{padding:8px;border-radius:6px;border:1px solid #8886;background:var(--c);color:var(--t);width:100%}
 table{width:100%;border-collapse:collapse;background:var(--c);border-radius:8px}td,th{padding:8px;border-bottom:1px solid #8883;text-align:left;vertical-align:top}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:12px}@media(max-width:600px){.two{grid-template-columns:1fr}}
-a{color:var(--n)}.viewer iframe{width:100%;height:78vh;border:0;background:#fff;border-radius:8px}.viewer{margin:8px 0 16px}.viewer button{border:0;padding:6px 12px;border-radius:6px;background:var(--r);color:var(--n);font-weight:700;cursor:pointer}@media(prefers-color-scheme:dark){a{color:var(--r)}}footer{max-width:1100px;margin:auto;padding:16px;font-size:12px;opacity:.75}h2{border-left:5px solid var(--r);padding-left:8px}th{background:var(--n);color:#fff}.d{font-weight:700}
+a{color:var(--n)}.viewer iframe{width:100%;height:calc(100vh - 70px);border:0;background:#fff;border-radius:8px}#viewer{position:fixed;inset:0;z-index:9;background:#000d;padding:12px 16px;margin:0}#viewer a{color:#fff}.viewer button{border:0;padding:6px 12px;border-radius:6px;background:var(--r);color:var(--n);font-weight:700;cursor:pointer}@media(prefers-color-scheme:dark){a{color:var(--r)}}footer{max-width:1100px;margin:auto;padding:16px;font-size:12px;opacity:.75}h2{border-left:5px solid var(--r);padding-left:8px}th{background:var(--n);color:#fff}.d{font-weight:700}
 </style>
 <header><img src="img/logo_zoomlion.png" alt="Zoomlion"><img src="img/logo_cervisimag.png" alt="Cervisimag"></header>
 <nav class=top><button data-s=t class=on>Movimiento de tierras</button><button data-s=a>Agrícola</button></nav><nav><button data-v=cat class=on>Catálogo</button><button data-v=cmp>Comparador</button><button data-v=pres>Presentaciones</button></nav>
 <main><div id=cat></div><div id=cmp hidden></div><div id=acat hidden></div><div id=acmp hidden></div><div id=pres hidden></div><div id=apres hidden></div></main>
+<div id=viewer class=viewer hidden><p><button class=vclose>Cerrar visor</button> <a class=vopen target=_blank>Abrir en pestaña nueva</a></p><iframe allowfullscreen></iframe></div>
 <footer>Datos técnicos orientativos, recopilados de las fichas y webs públicas de cada fabricante y de la documentación de Zoomlion. Pueden variar según versión, configuración y mercado; confirme siempre con la ficha oficial antes de tomar una decisión. Marcas y modelos pertenecen a sus respectivos propietarios. Última actualización: <span id=upd></span>.</footer>
 <script src="data/data.js"></script>
 <script>
@@ -31,7 +32,7 @@ const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt
 const sec=m=>/ruedas/i.test(kind(m))?'Palas cargadoras':/cargadora/i.test(kind(m))?'Minicargadoras':'Excavadoras';
 const groups={Excavadoras:[],'Palas cargadoras':[],Minicargadoras:[]};ZL.forEach(m=>groups[sec(m)].push(m));
 $('#cat').innerHTML=Object.entries(groups).map(([k,a])=>`<h2>${esc(k)}</h2><div class=grid>`+a.map(m=>
-`<div class=card><h3>${m.model}</h3>${esc((m.specs['Peso operativo']||[''])[0])}<br>${esc((m.specs['Motor']||[''])[0])}<p><a href="${pdf(m)}" target=_blank>Ficha técnica PDF</a> · <a href="#" data-c="${m.model}">Comparar</a></p></div>`).join('')+'</div>').join('');
+`<div class=card><h3>${m.model}</h3>${esc((m.specs['Peso operativo']||[''])[0])}<br>${esc((m.specs['Motor']||[''])[0])}<p><a href="${pdf(m)}" data-p="${pdf(m)}">Ver ficha técnica</a> · <a href="#" data-c="${m.model}">Comparar</a></p></div>`).join('')+'</div>').join('');
 // Comparador genérico: tierras (data/tech) y agrícola (data/agri). Esquemas en data/SCHEMA*.md
 const g=(o,p)=>p.split('.').reduce((a,k)=>a?.[k],o);
 const val=(o,r)=>{let v=typeof r[1]=='function'?r[1](o):g(o,r[1]);if(typeof v=='boolean')v=v?'Sí':'No';return v===null||v===undefined||v===''?null:v};
@@ -67,7 +68,7 @@ function makeCmp(root,cfg){
   const c=CT[q('.cs').value];
   if(!c){q('.res').innerHTML='<p>Sin datos para esta marca todavía.</p>';return}
   const rows=cfg.rows.map(r=>[r,val(z,r),val(c,r)]).filter(([r,a,b])=>a!==null||b!==null);
-  q('.res').innerHTML=`<table><tr><th><th>Zoomlion ${esc(z.model)}<th>${esc(((c.brand||'')+' '+(c.model||'')).trim())}<th>Dif. (Zoomlion − comp.)</tr>`+rows.map(([r,a,b])=>`<tr><td>${r[0]}<td>${fmt(a,r)}<td>${fmt(b,r)}<td class=d>${typeof a=='number'&&typeof b=='number'?`${a-b>0?'+':''}${Math.round((a-b)*10)/10} ${r[2]||''}`:'—'}`).join('')+`</table>${z.doc?`<p><a href="${z.doc}" target=_blank>Ficha técnica Zoomlion</a></p>`:''}`;
+  q('.res').innerHTML=`<table><tr><th><th>Zoomlion ${esc(z.model)}<th>${esc(((c.brand||'')+' '+(c.model||'')).trim())}<th>Dif. (Zoomlion − comp.)</tr>`+rows.map(([r,a,b])=>`<tr><td>${r[0]}<td>${fmt(a,r)}<td>${fmt(b,r)}<td class=d>${typeof a=='number'&&typeof b=='number'?`${a-b>0?'+':''}${Math.round((a-b)*10)/10} ${r[2]||''}`:'—'}`).join('')+`</table>${z.doc?`<p><a href="${z.doc}" data-p="${z.doc}">Ver ficha técnica Zoomlion</a></p>`:''}`;
  }
  Promise.all([...cfg.brands.map(b=>getJ(`data/${cfg.dir}/${b}.json`)),getJ(`data/${cfg.dir}/zoomlion.json`)]).then(a=>{
   ZT=Object.fromEntries(a.pop().map(x=>[x.model,x]));CT=a.flat();
@@ -85,9 +86,9 @@ const cmpT=makeCmp($('#cmp'),{dir:'tech',brands:BR_T,rows:ROWS_T,models:()=>ZL.m
 const cmpA=makeCmp($('#acmp'),{dir:'agri',brands:BR_A,rows:ROWS_A,models:zt=>Object.keys(zt),
  zbase:(m,zt)=>({...zt,model:m}),metric:o=>o.power_hp_rated??o.power_hp_max,tol:.15,fam:()=>1,label:c=>(c.power_hp_rated??c.power_hp_max)+' CV'});
 // Catálogo agrícola
-getJ('data/agri/zoomlion.json').then(a=>{$('#acat').innerHTML=a.length?`<h2>Tractores Zoomlion</h2><div class=grid>`+a.map(m=>`<div class=card><h3>${esc(m.model)}${m.category=='hybrid_tractor'?' · HÍBRIDO':''}</h3>${esc(m.series||'')}<br>${m.power_hp_rated?m.power_hp_rated+' CV':''} ${esc(eng(m))}<p>${m.doc?`<a href="${m.doc}" target=_blank>Ficha técnica PDF</a> · `:''}<a href="#" data-a="${esc(m.model)}">Comparar</a></p></div>`).join('')+'</div>':'<p>Datos agrícolas en preparación.</p>'});
+getJ('data/agri/zoomlion.json').then(a=>{$('#acat').innerHTML=a.length?`<h2>Tractores Zoomlion</h2><div class=grid>`+a.map(m=>`<div class=card><h3>${esc(m.model)}${m.category=='hybrid_tractor'?' · HÍBRIDO':''}</h3>${esc(m.series||'')}<br>${m.power_hp_rated?m.power_hp_rated+' CV':''} ${esc(eng(m))}<p>${m.doc?`<a href="${m.doc}" data-p="${m.doc}">Ver ficha técnica</a> · `:''}<a href="#" data-a="${esc(m.model)}">Comparar</a></p></div>`).join('')+'</div>':'<p>Datos agrícolas en preparación.</p>'});
 // Presentaciones: data/presentaciones.json {t:[{title,file,description}],a:[...]}; los archivos van en presentaciones/
-getJ('data/presentaciones.json').then(p=>[['#pres','t'],['#apres','a']].forEach(([id,k])=>{const a=p[k]||[];$(id).innerHTML='<h2>Presentaciones</h2><div class=viewer hidden><p><button class=vclose>Cerrar visor</button> <a class=vopen target=_blank>Abrir en pestaña nueva</a></p><iframe allowfullscreen></iframe></div>'+(a.length?'<div class=grid>'+a.map(x=>`<div class=card><h3>${esc(x.title)}</h3>${esc(x.description||'')}<p><a href="#" data-p="${esc(x.file)}">Ver presentación</a></p></div>`).join('')+'</div>':'<p>Próximamente.</p>')}));
+getJ('data/presentaciones.json').then(p=>[['#pres','t'],['#apres','a']].forEach(([id,k])=>{const a=p[k]||[];$(id).innerHTML='<h2>Presentaciones</h2>'+(a.length?'<div class=grid>'+a.map(x=>`<div class=card><h3>${esc(x.title)}</h3>${esc(x.description||'')}<p><a href="${esc(x.file)}" data-p="${esc(x.file)}">Ver presentación</a></p></div>`).join('')+'</div>':'<p>Próximamente.</p>')}));
 $('#upd').textContent=new Date(document.lastModified).toLocaleDateString('es-ES');
 const st={s:'t',v:'cat'};
 function go(sec,v){st.s=sec||st.s;st.v=v||st.v;document.querySelectorAll('nav.top button').forEach(x=>x.classList.toggle('on',x.dataset.s==st.s));document.querySelectorAll('nav:not(.top) button').forEach(x=>x.classList.toggle('on',x.dataset.v==st.v));['cat','cmp','pres','acat','acmp','apres'].forEach(id=>$('#'+id).hidden=id!=(st.s=='t'?'':'a')+st.v)}
@@ -96,7 +97,8 @@ document.querySelectorAll('nav:not(.top) button').forEach(b=>b.onclick=()=>go(nu
 // PowerPoint: visor en línea de Microsoft (necesita la URL pública del sitio publicado; no funciona en localhost)
 const vsrc=f=>/\.pptx?$/.test(f)?'https://view.officeapps.live.com/op/embed.aspx?src='+encodeURIComponent(new URL(f,location.href).href):f;
 document.addEventListener('click',e=>{const t=e.target,p=t.dataset?.p,v=t.closest?.('.viewer');
- if(p){e.preventDefault();const w=t.closest('main>div').querySelector('.viewer');w.querySelector('iframe').src=vsrc(p);w.querySelector('.vopen').href=p;w.hidden=false;w.scrollIntoView({behavior:'smooth'});return}
- if(v&&t.className=='vclose'){v.querySelector('iframe').src='about:blank';v.hidden=true}});
+ if(p){e.preventDefault();const w=$('#viewer');w.querySelector('iframe').src=vsrc(p);w.querySelector('.vopen').href=p;w.hidden=false;return}
+ if(v&&t.className=='vclose')closeV()});
+const closeV=()=>{$('#viewer iframe').src='about:blank';$('#viewer').hidden=true};document.addEventListener('keydown',e=>{if(e.key=='Escape')closeV()});
 document.addEventListener('click',e=>{const c=e.target.dataset?.c,a=e.target.dataset?.a;if(c||a){e.preventDefault();(c?cmpT:cmpA).set(c||a);go(c?'t':'a','cmp')}});
 </script>
