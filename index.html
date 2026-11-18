@@ -59,7 +59,7 @@ const ROWS_A=[['Potencia nominal','power_hp_rated','CV',1],['Potencia máxima','
 ['Tipo de bomba','hydraulics.pump_type'],['Caudal hidráulico','hydraulics.flow_lpm','L/min',1],['Presión máx.','hydraulics.max_pressure_bar','bar',1],['Distribuidores traseros (máx.)','hydraulics.rear_remote_valves_max','',1],
 ['Elevador trasero','linkage.rear_lift_kg','kg',1],['Elevador delantero','linkage.front_lift_kg','kg',1],['Elevador trasero (daN)','linkage.rear_lift_dan','daN',1],['Elevador delantero (daN)','linkage.front_lift_dan','daN',1],['Categoría enganche','linkage.category'],['TDF trasera','pto.rear_speeds_rpm'],['TDF delantera','pto.front_pto'],
 ['Peso','weight_kg','kg',0],['Distancia entre ejes','wheelbase_mm','mm',0],['Depósito combustible','fuel_l','l',0],['Depósito AdBlue','adblue_l','l',0],['Neumáticos delanteros','tires.front'],['Neumáticos traseros','tires.rear'],['Suspensión de cabina','cab.suspension'],['Aire acondicionado','cab.air_conditioning'],['ISOBUS','cab.isobus'],['Guiado GPS','cab.gps_guidance'],['Fuente','source'],['Notas','notes']];
-const BR_T=['hidromek','case','liebherr','caterpillar','komatsu','kobelco','sany','liugong','volvo','jcb','develon','hyundai','hitachi','kubota','takeuchi'];
+const BR_T=['hidromek','case','liebherr','caterpillar','komatsu','kobelco','sany','liugong','volvo','jcb','develon','hyundai','hitachi','kubota','takeuchi','sunward'];
 const BR_A=['fendt','claas','johndeere','newholland','deutzfahr','caseih','masseyferguson','valtra','kubota','same','lovol','lamborghini'];
 const fv=(v,u)=>v===null?'—':/^https?:/.test(v)?`<a href="${esc(v)}" target=_blank>enlace</a>`:esc(v)+(u?' '+u:'');
 const r1=x=>Math.round(x*10)/10;

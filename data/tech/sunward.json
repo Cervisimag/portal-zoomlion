@@ -1,0 +1,1379 @@
+[
+ {
+  "brand": "Sunward",
+  "model": "SWE 08F",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1010,
+  "engine": {
+   "make": "Yanmar",
+   "model": "2TNV70-PSU",
+   "displacement_l": 0.57,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 7.2,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Quantitative gear pump",
+   "pump_flow_lpm": "2x9.6",
+   "pump_flow_total_lpm": 19.2,
+   "system_pressure_bar": 160,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.4,
+   "arm_dig_force_kn": 5.8,
+   "swing_speed_rpm": 8.2,
+   "travel_speed_kmh": 2.9,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 1450,
+   "max_reach_mm": 2850,
+   "max_dump_height_mm": 1770,
+   "bucket_capacity_m3": 0.022,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 10,
+   "hydraulic_tank_l": 9.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-08f// ; https://sunward.eu/wp-content/uploads/2026/08/Sunward-SW08F-Brochure_WEB_EN.pdf",
+  "notes": "Micro excavator, rubber tracks (180 mm shoes), boom 1350 mm, arm 700 mm, standard bucket 0.022 m3. Power is 'rated power output' (no standard stated), 7.2 kW @ 2400 rpm. Pump flow total is the sum of 2x9.6 L/min. Pressure 16 MPa converted to 160 bar. Travel 2.9 high / 1.5 low km/h. Cab/canopy not stated in the spec table."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 10FE",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1085,
+  "engine": {
+   "make": null,
+   "model": "Three-phase asynchronous electric motor, LFP battery 72 V",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 5.5,
+   "rpm": null,
+   "emission_stage": "Zero emission",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x gear pump (three-pump quantitative open-loop)",
+   "pump_flow_lpm": "2x9.9",
+   "pump_flow_total_lpm": 19.8,
+   "system_pressure_bar": 160,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.4,
+   "arm_dig_force_kn": 5.8,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 2.9,
+   "gradeability_pct": 57.7,
+   "max_dig_depth_mm": 1440,
+   "max_reach_mm": 2845,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.022,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 10.7
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-10fe// ; https://sunward.eu/wp-content/uploads/2026/09/SUNWARD_SWE-10FE-09.2026_HR_EN.pdf",
+  "notes": "Battery-electric micro excavator. Boom 1350 mm, arm 700 mm. Motor rated power 5.5 kW, rated torque 19.4 N.m (web says 'max. torque'); battery 12.888 kWh per brochure text (spec table says 12.8), 4-6 h indicative. Pump total is the sum of 2x9.9 L/min; 16 MPa converted to 160 bar. Travel 2.9 high / 1.5 low km/h. Dump height not published (only max digging height 2505 mm). Weight 1085 kg on web page (brochure table 1.08 t). Cab not stated."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 17F",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1780,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F-SSU",
+   "displacement_l": 1.267,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 13.4,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Single axial/variable plunger piston pump, load-sensing",
+   "pump_flow_lpm": "62",
+   "pump_flow_total_lpm": 62,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 21,
+   "arm_dig_force_kn": 12,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 2060,
+   "max_reach_mm": 3885,
+   "max_dump_height_mm": 2440,
+   "bucket_capacity_m3": 0.035,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 21,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-17f// ; https://sunward.eu/wp-content/uploads/2025/05/SUNWARD_SWE-17F_05.2025_FINAL_HR_EN.pdf",
+  "notes": "Rubber tracks (230 mm shoes), boom 1800 mm, arm 950 mm, standard bucket 0.035 m3; track width 990-1360 mm. Rated power only (no standard stated). Engine designation in brochure: 3TNV80-SSU (Euro V). Pressure 24.5 MPa converted to 245 bar. Travel 4.5 high / 2.5 low km/h. Enclosed cab meets TOPS/FOPS per brochure; heater and radio, air conditioning not mentioned."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 18UF",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1880,
+  "engine": {
+   "make": null,
+   "model": "Yanmar 3TNV80F-SSU (13.4 kW) or Kubota D1105 (14 kW), two engine options",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Single variable plunger pump, load-sensing",
+   "pump_flow_lpm": "62",
+   "pump_flow_total_lpm": 62,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 22.7,
+   "arm_dig_force_kn": 9.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 2390,
+   "max_reach_mm": 4160,
+   "max_dump_height_mm": 2560,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 24.6,
+   "hydraulic_tank_l": 18.6
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-18uf// ; https://sunward.eu/wp-content/uploads/2025/06/SUNWARD_SWE-18UF_06.2025_FINAL_HR_EN.pdf",
+  "notes": "Zero tail swing, rubber tracks (230 mm shoes), boom 1800 mm, arm 1150 mm, 0.04 m3 bucket. Two engine options (Yanmar 3TNV80F-SSU 1.267 L 13.4 kW / Kubota D1105 1.123 L 14 kW, both @ 2200 rpm) so make, displacement and power left null. Pressure 24.5 MPa converted to 245 bar. Travel 4.4 high / 2.3 low km/h. 4-post canopy with TOPS/FOPS; 3 auxiliary lines standard."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 20F-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1910,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F-SSU",
+   "displacement_l": 1.267,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 13.4,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable piston pumps + 1 gear pump + 1 pilot gear pump",
+   "pump_flow_lpm": "2x21+13+6",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 21,
+   "arm_dig_force_kn": 9.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 3.5,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 2260,
+   "max_reach_mm": 4075,
+   "max_dump_height_mm": 2545,
+   "bucket_capacity_m3": 0.035,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 21,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-20f-1// ; https://sunward.eu/wp-content/uploads/2026/10/SUNWARD_SWE-20F-1_10.2026_FINAL_HR_EN.pdf",
+  "notes": "Rubber tracks, boom 1800 mm, arm 1150 mm, 0.035 m3 bucket; available with canopy or enclosed cab (TOPS/FOPS protection per brochure). Pressure given as '21 / 19 MPa' (mixed circuits) so left null; total flow not stated. Brochure engine designation 3TNV80-SSU (Euro V). Travel 3.5 high / 2 low km/h."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 20FE",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1850,
+  "engine": {
+   "make": null,
+   "model": "Three-phase asynchronous electric motor, LFP battery 20.608 kWh / 73.6 V",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 10,
+   "rpm": 2060,
+   "emission_stage": "Zero emission",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump",
+   "pump_flow_lpm": "44.8",
+   "pump_flow_total_lpm": 44.8,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 21,
+   "arm_dig_force_kn": 9.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 57.7,
+   "max_dig_depth_mm": 2260,
+   "max_reach_mm": 4075,
+   "max_dump_height_mm": 2545,
+   "bucket_capacity_m3": 0.035,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 20
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-20fe// ; https://sunward.eu/wp-content/uploads/2026/09/SUNWARD_SWE-20FE_09.2026_FINAL_HR_EN.pdf",
+  "notes": "Battery-electric, canopy or cab version, boom 1800 mm, arm 1150 mm. Motor 10 kW @ 2060 rpm, rated torque 46 N.m, indicative runtime 4-6 h. Pressure 24.5 MPa converted to 245 bar. Travel 4.4 high / 2.3 low km/h. Max reach 4075 mm is from the web spec table (brochure does not list it). ROPS/FOPS not stated."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 25F",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2640,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F-SPSU",
+   "displacement_l": 1.267,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 14.6,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable plunger pump",
+   "pump_flow_lpm": "77",
+   "pump_flow_total_lpm": 77,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 24,
+   "arm_dig_force_kn": 14,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 2705,
+   "max_reach_mm": 4845,
+   "max_dump_height_mm": 3110,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42.5,
+   "hydraulic_tank_l": 30
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-25f// ; https://sunward.eu/wp-content/uploads/2025/05/SUNWARD_SWE-25F_05.2025_FINAL_HR_ENG.pdf",
+  "notes": "Rubber tracks, boom 2050 mm, arm 1350 mm, 0.08 m3 bucket. Rated power only (no standard stated). Brochure engine designation 3TNV80-PSU (Euro V). Pressure 24.5 MPa converted to 245 bar. Travel 4.4 high / 2.6 low km/h. Skeleton-type cab per FOPS/TOPS certification (brochure)."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 25UF",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2750,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": 1.123,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 15.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Option 1: 2 variable plunger pumps + 1 gear pump; Option 2: 1 variable plunger pump",
+   "pump_flow_lpm": "Option 1: 2x28.8+19.2; Option 2: 77",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 24,
+   "arm_dig_force_kn": 14,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 2800,
+   "max_reach_mm": 4780,
+   "max_dump_height_mm": 3040,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 26,
+   "hydraulic_tank_l": 24
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-25uf// ; https://sunward.eu/wp-content/uploads/2026/08/260625-Sunward-SWE25UF-Brochure_FINAL_WEB_EN.pdf",
+  "notes": "Zero tail swing, rubber tracks (300 mm shoes), boom 2050 mm, arm 1350 mm, cab or canopy. Brochure lists two hydraulic options (opt.1 pressure 2x23.5+19 MPa, opt.2 24.5 MPa / 77 L/min), so total flow and pressure left null (web shows option 1). Rated power only. Travel 4.4 high / 2.6 low km/h. ROPS/FOPS not stated in the figures."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 35UF",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3750,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703-E4B-SWD-1",
+   "displacement_l": 1.647,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable piston pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 31.8,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": 57,
+   "max_dig_depth_mm": 3320,
+   "max_reach_mm": 5575,
+   "max_dump_height_mm": 3520,
+   "bucket_capacity_m3": 0.11,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 40,
+   "hydraulic_tank_l": 41
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-35uf// ; https://sunward.eu/wp-content/uploads/2025/05/SUNWARD_SWE-35UF_05.2025_FINAL_HR_EN.pdf",
+  "notes": "Zero tail swing, rubber tracks, standard arm 1550 mm, boom 2550 mm, cab or canopy (web: ROPS/FOPS cab with air conditioning; closed and open cabs offered so A/C left null). Weight 3750 kg with rubber tracks (3850 kg with steel tracks). Arm force 19.8 / 18 kN depends on arm length so left null. Pump flow conflicting: web 103.4 L/min vs brochure 1x88 L/min, left null. Pressure 26 MPa converted to 260 bar. Travel 4.0 high / 2.3 low km/h. Brochure engine designation D1703 (Euro V)."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 50UF",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5480,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1803-T",
+   "displacement_l": 1.8,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 29.7,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable plunger pump",
+   "pump_flow_lpm": "110",
+   "pump_flow_total_lpm": 110,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 34,
+   "arm_dig_force_kn": 23,
+   "swing_speed_rpm": 10.7,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 3375,
+   "max_reach_mm": 5940,
+   "max_dump_height_mm": 3955,
+   "bucket_capacity_m3": 0.14,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70,
+   "hydraulic_tank_l": 70
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-50uf// ; https://sunward.eu/wp-content/uploads/2026/08/2026-Sunward-SWE-50UF-Brochure-FINAL_WEB_EN.pdf",
+  "notes": "Zero tail swing, rubber tracks (400 mm shoes), boom 2700 mm, arm 1550 mm. Operating mass 5480 kg in spec table (web intro text says 5.3 t). Max torque 150 N.m @ 1500 rpm. Pressure 25 MPa converted to 250 bar. Travel 4.3 high / 2.5 low km/h. Cab with 7-inch touchscreen; ROPS/FOPS and A/C not stated."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 60UF",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 6000,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-E5B-SWD-1S",
+   "displacement_l": 2.6,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 35,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable piston pump",
+   "pump_flow_lpm": "158.4",
+   "pump_flow_total_lpm": 158.4,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 47,
+   "arm_dig_force_kn": 31,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 3700,
+   "max_reach_mm": 6260,
+   "max_dump_height_mm": 3950,
+   "bucket_capacity_m3": 0.18,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70,
+   "hydraulic_tank_l": 70
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-60uf// ; https://sunward.eu/wp-content/uploads/2026/10/Sunward-SWE-60UF-Brochure_10.2026_WEB_EN.pdf",
+  "notes": "Zero tail swing, rubber tracks (400 mm shoes), boom 2900 mm, arm 1600 mm, cab. Max dump height = 'max. loading height' of brochure. Max torque 174.1 N.m @ 1500 rpm. Pressure 25 MPa converted to 250 bar. Travel 4.2 high / 2.2 low km/h. ROPS/FOPS and A/C not stated."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 90UF",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8750,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C-SSU",
+   "displacement_l": 3.319,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 46.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable piston pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 63.5,
+   "arm_dig_force_kn": 38,
+   "swing_speed_rpm": 11.2,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 4545,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5245,
+   "bucket_capacity_m3": 0.26,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 80
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-90uf// ; https://sunward.eu/wp-content/uploads/2026/08/Sunward-SWE90UF-Brochure_WEB_EN.pdf",
+  "notes": "Short tail swing, mono boom 3400 mm, arm 2100 mm, steel tracks 450 mm shoes (brochure). Weight 8750 kg (brochure range 8750-8900 kg). Conflicts so left null: pump flow (web 158.4 vs brochure 160 L/min), pressure (web 28 MPa vs brochure 29 MPa) and max reach (web 7445 mm vs brochure max reach 7270 / reach on ground 7445). Dump height = brochure 'max. loading height'. Gradeability published as 35 deg (= 70 %). Travel 4.7 high / 2.7 low km/h. Cab type 'Cab'; ROPS/FOPS not stated."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 90UF-2PB",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 9600,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C-SSU",
+   "displacement_l": 3.319,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 46.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable piston pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 63.5,
+   "arm_dig_force_kn": 38,
+   "swing_speed_rpm": 11.2,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 4735,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 6135,
+   "bucket_capacity_m3": 0.26,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 80
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-90uf-2pb// ; https://sunward.eu/wp-content/uploads/2026/08/Sunward-SWE90UF-Brochure_WEB_EN.pdf",
+  "notes": "Short tail swing, 2-piece boom (1950+2050 mm), arm 2100 mm, 450 mm shoes. Weight 9600 kg (brochure range 9600-9750 kg). Conflicts so left null: pump flow (web 158.4 vs brochure 160 L/min), pressure (web 28 vs brochure 29 MPa) and max reach (web 8035 mm vs brochure max reach 7875 / reach on ground 8035). Dump height = brochure 'max. loading height'. Gradeability published as 35 deg (= 70 %). Travel 4.7 high / 2.7 low km/h."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 155F-5A",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14700,
+  "engine": {
+   "make": "Cummins",
+   "model": "F3.8",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 90,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable plunger pumps",
+   "pump_flow_lpm": "2x165",
+   "pump_flow_total_lpm": 330,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 100,
+   "arm_dig_force_kn": 76,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5530,
+   "max_reach_mm": 8330,
+   "max_dump_height_mm": 6145,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 300,
+   "hydraulic_tank_l": 185
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-155f// ; https://sunward.eu/wp-content/uploads/2026/07/SUNWARD_SWE-155F-5A_07.2026_FINAL_HR_EN.pdf",
+  "notes": "Web page title 'SWE 155F' (brochure 'SWE 155F-5A'); web engine shown as 'Cummins QSF3.8', brochure 'F3.8'. Mono boom 4600 mm, arm 2500 mm, 500 mm shoes, dozer blade standard. Max torque 500 N.m @ 1500 rpm. Pressure '31.4/34.3 MPa' (normal/boost) so left null. Travel 5.7 high / 3.5 low km/h. Rated power only."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 155UF",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 16500,
+  "engine": {
+   "make": "Cummins",
+   "model": "F3.8",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 90,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pumps",
+   "pump_flow_lpm": "2x165 + 44 (web); brochure: 2x165 + 44 with 22 L/min pilot pump",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 100,
+   "arm_dig_force_kn": 76,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5525,
+   "max_reach_mm": 8370,
+   "max_dump_height_mm": 6200,
+   "bucket_capacity_m3": 0.61,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 180,
+   "hydraulic_tank_l": 150
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-155uf// ; https://sunward.eu/wp-content/uploads/2026/09/Sunward-SWE-155UF-Range-Brochure_09.26_WEB_EN.pdf",
+  "notes": "Short tail swing, mono boom 4600 mm, arm 2500 mm, 600 mm shoes (brochure lifting table mentions steel tracks), cab. Dump height = brochure 'max. loading height'. Total flow and pressure left null: '2x165 + 44 L/min' leaves the 44 L/min role unclear and pressure is '31.4/34.3 MPa'. Gradeability printed as '57 deg' (unit unclear) so left null. Travel 5.3 high / 3.2 low km/h. Rated power only."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 155UF-2PB",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17000,
+  "engine": {
+   "make": "Cummins",
+   "model": "F3.8",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 90,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable piston pumps",
+   "pump_flow_lpm": "2x165 + 44 (web); brochure: 2x165 + 44 with 22 L/min pilot pump",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 100,
+   "arm_dig_force_kn": 76,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5600,
+   "max_reach_mm": 8490,
+   "max_dump_height_mm": 7140,
+   "bucket_capacity_m3": 0.61,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 180,
+   "hydraulic_tank_l": 150
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-155uf-2pb// ; https://sunward.eu/wp-content/uploads/2026/09/Sunward-SWE-155UF-Range-Brochure_09.26_WEB_EN.pdf",
+  "notes": "Short tail swing, 2-piece boom (1980+2820 mm), arm 2500 mm, 600 mm shoes, cab. Dump height = brochure 'max. loading height'. Total flow and pressure left null (44 L/min role unclear; pressure '31.4/34.3 MPa'). Gradeability printed as '57 deg' so left null. Travel 5.3 high / 3.5 low km/h. Rated power only."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 215F-5A",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 21800,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 129,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable piston pumps",
+   "pump_flow_lpm": "2x286",
+   "pump_flow_total_lpm": 572,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 155,
+   "arm_dig_force_kn": 110,
+   "swing_speed_rpm": 11.8,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6635,
+   "max_reach_mm": 9915,
+   "max_dump_height_mm": 6980,
+   "bucket_capacity_m3": 1.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 300
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-215f-2// ; https://sunward.eu/wp-content/uploads/2026/10/SUNWARD_SWE-215F-5A_10.2026_FINAL_HR_EN.pdf",
+  "notes": "Boom 5700 mm, arm 2920 mm. Pump flow from web page (brochure omits it); pressure '31.4/34.3 MPa' so left null. Max torque 881 N.m @ 1300 rpm. Travel 5.2 high / 3.3 low km/h. Rated power only. Listed as slug swe-215f-2 on the web."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 225FN",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22500,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 129,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable piston pumps",
+   "pump_flow_lpm": "2x286",
+   "pump_flow_total_lpm": 572,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 155,
+   "arm_dig_force_kn": 115,
+   "swing_speed_rpm": 11.8,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6375,
+   "max_reach_mm": 9655,
+   "max_dump_height_mm": 6700,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 325,
+   "hydraulic_tank_l": 300
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://sunward.eu/product/swe-225fn// ; https://sunward.eu/wp-content/uploads/2026/03/SUNWARD_SWE-225FN_03.2026_FINAL_HR_ENG.pdf",
+  "notes": "Narrow undercarriage version (width 2540 mm), boom 5700 mm, arm 2600 mm. Pump flow from web page; pressure '31.4/34.3 MPa' so left null. Max torque 881 N.m @ 1300 rpm. Travel 5.1 high / 3.2 low km/h. Cab with automatic A/C and 10-inch LCD; ROPS/FOPS not stated. Rated power only."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 240FE",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23360,
+  "engine": {
+   "make": null,
+   "model": "Permanent magnet synchronous electric motor, LFP battery 423 kWh / 618 V",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 132,
+   "rpm": null,
+   "emission_stage": "Zero emission",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable piston pumps",
+   "pump_flow_lpm": "2x234",
+   "pump_flow_total_lpm": 468,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 158.8,
+   "arm_dig_force_kn": 135.4,
+   "swing_speed_rpm": 10.6,
+   "travel_speed_kmh": 4.94,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6750,
+   "max_reach_mm": 9965,
+   "max_dump_height_mm": 6921,
+   "bucket_capacity_m3": 1.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 300
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-240fe// ; https://sunward.eu/wp-content/uploads/2026/09/SUNWARD_SWE-240FE-09.2026_FINAL_HR_EN.pdf",
+  "notes": "Battery-electric; web page title reads 'SWE 240FED' (URL and brochure 'SWE 240FE'). Boom 5700 mm, arm 2920 mm. Motor rated 132 kW, rated torque 700 N.m, indicative runtime 6-8 h. Pressure '31.4/34.3 MPa' so left null. Max reach 9965 mm from web (not in brochure text). Travel 4.94 high / 3.08 low km/h. ROPS/FOPS not stated."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWE 335F-5",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 33600,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSB6.7",
+   "displacement_l": 6.7,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 209,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable plunger pumps",
+   "pump_flow_lpm": "2x296",
+   "pump_flow_total_lpm": 592,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 210,
+   "arm_dig_force_kn": 165,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 5.8,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7010,
+   "max_reach_mm": 10570,
+   "max_dump_height_mm": 7280,
+   "bucket_capacity_m3": 1.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600,
+   "hydraulic_tank_l": 400
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swe-335f// ; https://sunward.eu/wp-content/uploads/2026/10/SUNWARD_SWE-335F_10.2026_FINAL_HR_EN.pdf",
+  "notes": "Boom 6150 mm, arm 2900 mm, 600 mm shoes. Web engine 'Cummins QSB6.7', brochure 'B6.7-129-SV'. Max torque 1280 N.m @ 1500 rpm. Pressure 34.3 MPa converted to 343 bar. Pump flow from web (brochure omits). Travel 5.8 high / 4 low km/h. Rated power only. Largest Sunward excavator on sunward.eu."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SL 06W",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 1700,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Hydrostatic transmission",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 25
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1830,
+   "bucket_capacity_m3": 0.26,
+   "breakout_force_kn": 13,
+   "rated_operating_capacity_kg": 500,
+   "tipping_load_kg": 1155
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/sl-06w// ; https://sunward.eu/wp-content/uploads/2026/09/SUNWARD-SL-06W-BROCHURE_09.2026_WEB_EN.pdf",
+  "notes": "Articulated compact wheel loader, standard bucket 0.26 m3 (1200 mm wide), tyres 26x12-12, canopy standard, cab optional (ROPS/FOPS). Tipping load straight 1155 kg / articulated 968 kg (straight stored). Dump reach 800 mm, tractive force 16.7 kN. Aux flow 25 L/min at 18 MPa (180 bar auxiliary pressure; system pressure not stated). Rated power only, engine displacement not stated on this brochure."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SL 12W",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 2500,
+  "engine": {
+   "make": "Kubota",
+   "model": "V1505",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.5,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Hydrostatic transmission",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 33
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 18,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2029,
+   "bucket_capacity_m3": 0.38,
+   "breakout_force_kn": 19,
+   "rated_operating_capacity_kg": 800,
+   "tipping_load_kg": 1589
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/sl-12w// ; https://sunward.eu/wp-content/uploads/2026/10/SUNWARD-SL-12W-BROCHURE_10.2026_WEB_EN.pdf",
+  "notes": "Articulated compact wheel loader, standard bucket 0.38 m3 (1500 mm wide), tyres 31x15.5-15, canopy or cab (ROPS/FOPS; A/C only with cab as option). Tipping load standard 1589 kg / articulated 1355 kg (standard stored). Travel speed 7 / 18 km/h (high gear stored). Dump reach 608 mm, tractive force 17.0 kN. Aux flow 33 L/min at 18 MPa (180 bar auxiliary pressure). Rated power only."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWL 2830",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 2780,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403-CR-TE4B",
+   "displacement_l": null,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 47.9,
+   "rpm": 2700,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed hydrostatic travel; standard or high-flow auxiliary",
+   "pump_flow_lpm": "Standard 65 / High 95",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 13,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2320,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 19.6,
+   "rated_operating_capacity_kg": 750,
+   "tipping_load_kg": 1500
+  },
+  "capacities": {
+   "fuel_l": 75,
+   "hydraulic_tank_l": 23
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://sunward.eu/product/swl-2830/ ; https://sunward.eu/wp-content/uploads/2026/09/Sunward-Skid-Steer-Brochure_WEB_EN.pdf",
+  "notes": "Skid steer, bucket width 1600 mm. Bucket breakout 2000 kgf, boom breakout 1900 kgf (18.6 kN). Max torque 195.6 N.m @ 1600 rpm. Pressure 21 MPa converted to 210 bar. Breakout forces published in kgf and converted to kN (x9.80665); bucket breakout stored in breakout_force_kn, boom (lift) breakout in notes. Hydraulic flow standard/high versions are both offered per brochure so total and aux flow left null. 'Max. dump height' = clearance at maximum lift and dump. Rated power only. Figures with standard bucket and tyres/tracks."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWL 3230",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3460,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-TE5B",
+   "displacement_l": null,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 54.6,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed hydrostatic travel; standard or high-flow auxiliary",
+   "pump_flow_lpm": "Standard 84 / High 125",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2395,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 24.3,
+   "rated_operating_capacity_kg": 1100,
+   "tipping_load_kg": 2200
+  },
+  "capacities": {
+   "fuel_l": 110,
+   "hydraulic_tank_l": 33
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://sunward.eu/product/swl-3230/ ; https://sunward.eu/wp-content/uploads/2026/09/Sunward-Skid-Steer-Brochure_WEB_EN.pdf",
+  "notes": "Skid steer, bucket width 1830 mm. Bucket breakout 2480 kgf, boom breakout 2430 kgf (23.8 kN). Max torque 265 N.m @ 1500 rpm. Travel speed 12-18 km/h (range, left null). Pressure 21 MPa converted to 210 bar. Breakout forces published in kgf and converted to kN (x9.80665); bucket breakout stored in breakout_force_kn, boom (lift) breakout in notes. Hydraulic flow standard/high versions are both offered per brochure so total and aux flow left null. 'Max. dump height' = clearance at maximum lift and dump. Rated power only. Figures with standard bucket and tyres/tracks."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWL 4038",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3650,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-TE5B",
+   "displacement_l": null,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 54.6,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed hydrostatic travel; standard or high-flow auxiliary",
+   "pump_flow_lpm": "Standard 89 / High 130",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2493,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 33.8,
+   "rated_operating_capacity_kg": 1300,
+   "tipping_load_kg": 2600
+  },
+  "capacities": {
+   "fuel_l": 95,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://sunward.eu/product/swl-4038/ ; https://sunward.eu/wp-content/uploads/2026/09/Sunward-Skid-Steer-Brochure_WEB_EN.pdf",
+  "notes": "Skid steer, bucket width 2015 mm. Bucket breakout 3450 kgf, boom breakout 2600 kgf (25.5 kN). Max torque 265 N.m @ 1500 rpm. Travel speed 12-18 km/h (range, left null). Pressure 21 MPa converted to 210 bar. Breakout forces published in kgf and converted to kN (x9.80665); bucket breakout stored in breakout_force_kn, boom (lift) breakout in notes. Hydraulic flow standard/high versions are both offered per brochure so total and aux flow left null. 'Max. dump height' = clearance at maximum lift and dump. Rated power only. Figures with standard bucket and tyres/tracks."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWTL 4538",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 4680,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-TE5B",
+   "displacement_l": null,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 54.6,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed hydrostatic travel; standard or high-flow auxiliary",
+   "pump_flow_lpm": "Standard 89 / High 130",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2497,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 33.8,
+   "rated_operating_capacity_kg": 1200,
+   "tipping_load_kg": 3430
+  },
+  "capacities": {
+   "fuel_l": 95,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://sunward.eu/product/swtl-4538/ ; https://sunward.eu/wp-content/uploads/2026/09/Sunward-Skid-Steer-Brochure_WEB_EN.pdf",
+  "notes": "Compact track loader, rubber tracks 450 mm, bucket width 2015 mm. Bucket breakout 3450 kgf, boom breakout 2600 kgf (25.5 kN). Max torque 265 N.m @ 1500 rpm. Travel speed 8-12 km/h (range, left null). Pressure 21 MPa converted to 210 bar. Breakout forces published in kgf and converted to kN (x9.80665); bucket breakout stored in breakout_force_kn, boom (lift) breakout in notes. Hydraulic flow standard/high versions are both offered per brochure so total and aux flow left null. 'Max. dump height' = clearance at maximum lift and dump. Rated power only. Figures with standard bucket and tyres/tracks."
+ },
+ {
+  "brand": "Sunward",
+  "model": "SWTL 5238",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5375,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-TIE5B",
+   "displacement_l": null,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 85.1,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Hydraulic system with electronically controlled assistance; standard or high-flow auxiliary",
+   "pump_flow_lpm": "Standard 90 / High 150",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2615,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 38.2,
+   "rated_operating_capacity_kg": 1500,
+   "tipping_load_kg": 4286
+  },
+  "capacities": {
+   "fuel_l": 117,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://sunward.eu/product/swtl-5238// ; https://sunward.eu/wp-content/uploads/2026/03/SUNWARD_SWTL_5238_03.2026_HR_EN.pdf",
+  "notes": "Compact track loader, rubber tracks 450 mm, bucket width 2015 mm. Bucket breakout 3900 kgf (web page only) and boom breakout 3000 kgf (29.4 kN) converted to kN (x9.80665); brochure gives no breakout. Max torque 386 N.m @ 1500 rpm. Max operating pressure 250 bar (brochure). Travel 8 / 12 km/h per brochure (web mis-prints mph); high gear stored. Flow standard/high both offered so total and aux flow left null. 'Max. dump height' = clearance at maximum lift and dump. Fully enclosed positive-pressure cab; A/C not stated. Rated power only."
+ }
+]
