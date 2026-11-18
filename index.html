@@ -68,7 +68,7 @@ function dif(a,b,r,approx){if(typeof a!='number'||typeof b!='number')return '';c
  return `<small class="${c}">Zoomlion ${approx?'≈ ':''}${d>0?'+':''}${r1(d)} ${r[2]||''}${p!=null?` (${p>0?'+':''}${p} %)`:''}${approx?' · tipos de potencia distintos':''}</small>`}
 const MAXC=3;
 // Precio por unidad de prestación: [fila, unidad, denominador(o,z) -> número | {v,t}]; t = tipo de dato si puede diferir (potencia neta/bruta, nominal/máxima)
-const RAT_T=[['Precio por kW','€/kW',(o,z)=>{const p=pw(o,pw(z)?.t)||pw(o);return p&&{v:p.v,t:p.t}}],['Precio por tonelada','€/t',o=>o.weight_kg&&o.weight_kg/1000],['Precio por kN (cazo)','€/kN',o=>g(o,'performance.bucket_dig_force_kn')]];
+const RAT_T=[['Precio por kW','€/kW',(o,z)=>{const p=pw(o,pw(z)?.t)||pw(o);return p&&{v:p.v,t:p.t}}],['Precio por tonelada','€/t',o=>o.weight_kg&&o.weight_kg/1000]];
 const RAT_A=[['Precio por CV','€/CV',o=>{const v=o.power_hp_rated??o.power_hp_max;return v&&{v,t:o.power_hp_rated!=null?'nominal':'máxima'}}],['Precio por kg','€/kg',o=>o.weight_kg],['Precio por Nm de par','€/Nm',o=>g(o,'engine.max_torque_nm')]];
 const dn=(r,o,z)=>{const x=r[2](o,z);return x&&typeof x=='object'?x:x?{v:x}:null};
 // cfg: k ('t'|'a'), dir, brands, rows, models(zt), group(m), zbase(model,ztech), metric(o)->n, tol, fam(o), label(o)
