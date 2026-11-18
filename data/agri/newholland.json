@@ -1,0 +1,4759 @@
+[
+ {
+  "brand": "New Holland",
+  "model": "T7.180",
+  "category": "tractor",
+  "series": "T7 SWB (new, 07/26)",
+  "power_hp_rated": 179,
+  "power_hp_max": 181,
+  "power_kw_rated": 132,
+  "power_kw_max": 133,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 844,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (24x24 semi-powershift, 40/50 km/h ECO) or Auto Command (CVT)",
+   "speeds": "24x24 or continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1901/1575/1929/1594)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": "rear radius index 650-950"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_SWB_Nuevo.pdf (Caracteristicas tecnicas, pp.33-35)",
+  "notes": "All power figures are with power management (the brochure lists only these): rated @2200 rpm 179 hp (132 kW), max @1600 rpm 181 hp (133 kW). Torque 844 Nm @1300 rpm with PM. Hydraulic main pump 150 l/min (MegaFlow 170). Lift 8380 kg at balls (7450 kg full range at 610 mm). Weight = rigid standard front axle without front lift/PTO (8400 kg suspended reinforced axle); GVW 11500 kg at 50 km/h (class 3.6 axle). Rear remotes up to 5 electrohydraulic (+Power Beyond). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.190",
+  "category": "tractor",
+  "series": "T7 SWB (new, 07/26)",
+  "power_hp_rated": 190,
+  "power_hp_max": 192,
+  "power_kw_rated": 140,
+  "power_kw_max": 141,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 906,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (24x24 semi-powershift, 40/50 km/h ECO) or Auto Command (CVT)",
+   "speeds": "24x24 or continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1901/1575/1929/1594)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": "rear radius index 650-950"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_SWB_Nuevo.pdf (Caracteristicas tecnicas, pp.33-35)",
+  "notes": "All power figures are with power management (the brochure lists only these): rated @2200 rpm 190 hp (140 kW), max @1600 rpm 192 hp (141 kW). Torque 906 Nm @1300 rpm with PM. Hydraulic main pump 150 l/min (MegaFlow 170). Lift 8380 kg at balls (7450 kg full range at 610 mm). Weight = rigid standard front axle without front lift/PTO (8400 kg suspended reinforced axle); GVW 11500 kg at 50 km/h (class 3.6 axle). Rear remotes up to 5 electrohydraulic (+Power Beyond). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.210",
+  "category": "tractor",
+  "series": "T7 SWB (new, 07/26)",
+  "power_hp_rated": 204,
+  "power_hp_max": 211,
+  "power_kw_rated": 150,
+  "power_kw_max": 155,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 979,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (24x24 semi-powershift, 40/50 km/h ECO) or Auto Command (CVT)",
+   "speeds": "24x24 or continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1901/1575/1929/1594)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": "rear radius index 650-950"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_SWB_Nuevo.pdf (Caracteristicas tecnicas, pp.33-35)",
+  "notes": "All power figures are with power management (the brochure lists only these): rated @2200 rpm 204 hp (150 kW), max @1600 rpm 211 hp (155 kW). Torque 979 Nm @1300 rpm with PM. Hydraulic main pump 150 l/min (MegaFlow 170). Lift 8380 kg at balls (7450 kg full range at 610 mm). Weight = rigid standard front axle without front lift/PTO (8400 kg suspended reinforced axle); GVW 11500 kg at 50 km/h (class 3.6 axle). Rear remotes up to 5 electrohydraulic (+Power Beyond). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.225",
+  "category": "tractor",
+  "series": "T7 SWB (new, 07/26)",
+  "power_hp_rated": 211,
+  "power_hp_max": 226,
+  "power_kw_rated": 155,
+  "power_kw_max": 166,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1063,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (24x24 semi-powershift, 40/50 km/h ECO) or Auto Command (CVT)",
+   "speeds": "24x24 or continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1901/1575/1929/1594)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": "rear radius index 650-950"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_SWB_Nuevo.pdf (Caracteristicas tecnicas, pp.33-35)",
+  "notes": "All power figures are with power management (the brochure lists only these): rated @2200 rpm 211 hp (155 kW), max @1600 rpm 226 hp (166 kW). Torque 1063 Nm @1300 rpm with PM. Hydraulic main pump 150 l/min (MegaFlow 170). Lift 8380 kg at balls (7450 kg full range at 610 mm). Weight = rigid standard front axle without front lift/PTO (8400 kg suspended reinforced axle); GVW 11500 kg at 50 km/h (class 3.6 axle). Rear remotes up to 5 electrohydraulic (+Power Beyond). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.230",
+  "category": "tractor",
+  "series": "T7 LWB",
+  "power_hp_rated": 180,
+  "power_hp_max": 225,
+  "power_kw_rated": 132,
+  "power_kw_max": 165,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 940,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT; Power Command 18x6/19x6 powershift also offered, not on T7.300)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1931/1598/1912/1583)",
+   "front_pto": "optional"
+  },
+  "weight_kg": 8000,
+  "wheelbase_mm": 2884,
+  "fuel_l": 465,
+  "adblue_l": 54,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42, 650/75R38, 710/70R38 (brochure dimension sizes; max 710/70R38 per PLM brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_LWB_PLM.pdf (Caracteristicas tecnicas); rated hp from official T7 LWB Stage V brochure table (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-lwb-stage-v)",
+  "notes": "Max power 225 hp (165 kW) with power management; without PM max 200 hp (147 kW). Torque 940@1500 (Nm@rpm) with PM. Turbo type T per model. Hydraulics: 120/150 (Power Command) or 150/170 l/min (Auto Command, MegaFlow opt.). Weight = min unladen (8000/8400 and 8000/8900 stated for groups of models); GVW 14400/15000 kg. Max rear tyre 710/70R38. Rated power 180 hp (132 kW) ISO TR14396/ECE R120 without EPM, filled from official T7 LWB Stage V brochure (T7.300 rated hp from its model table). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.245",
+  "category": "tractor",
+  "series": "T7 LWB",
+  "power_hp_rated": 200,
+  "power_hp_max": 245,
+  "power_kw_rated": 147,
+  "power_kw_max": 180,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1035,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT; Power Command 18x6/19x6 powershift also offered, not on T7.300)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1931/1598/1912/1583)",
+   "front_pto": "optional"
+  },
+  "weight_kg": 8000,
+  "wheelbase_mm": 2884,
+  "fuel_l": 465,
+  "adblue_l": 54,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42, 650/75R38, 710/70R38 (brochure dimension sizes; max 710/70R38 per PLM brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_LWB_PLM.pdf (Caracteristicas tecnicas); rated hp from official T7 LWB Stage V brochure table (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-lwb-stage-v)",
+  "notes": "Max power 245 hp (180 kW) with power management; without PM max 220 hp (162 kW). Torque 1035@1500 (Nm@rpm) with PM. Turbo type WT per model. Hydraulics: 120/150 (Power Command) or 150/170 l/min (Auto Command, MegaFlow opt.). Weight = min unladen (8000/8400 and 8000/8900 stated for groups of models); GVW 14400/15000 kg. Max rear tyre 710/70R38. Rated power 200 hp (147 kW) ISO TR14396/ECE R120 without EPM, filled from official T7 LWB Stage V brochure (T7.300 rated hp from its model table). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.260",
+  "category": "tractor",
+  "series": "T7 LWB",
+  "power_hp_rated": 220,
+  "power_hp_max": 260,
+  "power_kw_rated": 162,
+  "power_kw_max": 191,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1100,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT; Power Command 18x6/19x6 powershift also offered, not on T7.300)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1931/1598/1912/1583)",
+   "front_pto": "optional"
+  },
+  "weight_kg": 8000,
+  "wheelbase_mm": 2884,
+  "fuel_l": 465,
+  "adblue_l": 54,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42, 650/75R38, 710/70R38 (brochure dimension sizes; max 710/70R38 per PLM brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_LWB_PLM.pdf (Caracteristicas tecnicas); rated hp from official T7 LWB Stage V brochure table (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-lwb-stage-v)",
+  "notes": "Max power 260 hp (191 kW) with power management; without PM max 240 hp (177 kW). Torque 1100@1500 (Nm@rpm) with PM. Turbo type WT per model. Hydraulics: 120/150 (Power Command) or 150/170 l/min (Auto Command, MegaFlow opt.). Weight = min unladen (8000/8400 and 8000/8900 stated for groups of models); GVW 14400/15000 kg. Max rear tyre 710/70R42. Rated power 220 hp (162 kW) ISO TR14396/ECE R120 without EPM, filled from official T7 LWB Stage V brochure (T7.300 rated hp from its model table). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.270",
+  "category": "tractor",
+  "series": "T7 LWB",
+  "power_hp_rated": 240,
+  "power_hp_max": 270,
+  "power_kw_rated": 177,
+  "power_kw_max": 198,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1160,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT; Power Command 18x6/19x6 powershift also offered, not on T7.300)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1931/1598/1912/1583)",
+   "front_pto": "optional"
+  },
+  "weight_kg": 8000,
+  "wheelbase_mm": 2884,
+  "fuel_l": 465,
+  "adblue_l": 54,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42, 650/75R38, 710/70R38 (brochure dimension sizes; max 710/70R38 per PLM brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_LWB_PLM.pdf (Caracteristicas tecnicas); rated hp from official T7 LWB Stage V brochure table (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-lwb-stage-v)",
+  "notes": "Max power 270 hp (198 kW) with power management; without PM max 260 hp (191 kW). Torque 1160@1500 (Nm@rpm) with PM. Turbo type WT per model. Hydraulics: 120/150 (Power Command) or 150/170 l/min (Auto Command, MegaFlow opt.). Weight = min unladen (8000/8400 and 8000/8900 stated for groups of models); GVW 14400/15000 kg. Max rear tyre 710/70R42. Rated power 240 hp (177 kW) ISO TR14396/ECE R120 without EPM, filled from official T7 LWB Stage V brochure (T7.300 rated hp from its model table). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.300",
+  "category": "tractor",
+  "series": "T7 LWB",
+  "power_hp_rated": 260,
+  "power_hp_max": 300,
+  "power_kw_rated": null,
+  "power_kw_max": 222,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1249,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT; Power Command 18x6/19x6 powershift also offered, not on T7.300)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 150,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1931/1598/1912/1583)",
+   "front_pto": "optional"
+  },
+  "weight_kg": 8000,
+  "wheelbase_mm": 2884,
+  "fuel_l": 465,
+  "adblue_l": 54,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42, 650/75R38, 710/70R38 (brochure dimension sizes; max 710/70R38 per PLM brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_LWB_PLM.pdf (Caracteristicas tecnicas); rated hp from official T7 LWB Stage V brochure table (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-lwb-stage-v)",
+  "notes": "Max power 300 hp (222 kW) with power management; without PM max 280 hp (205 kW). Torque 1249@1300 (Nm@rpm) with PM. Turbo type eVGT per model. Hydraulics: 120/150 (Power Command) or 150/170 l/min (Auto Command, MegaFlow opt.). Weight = min unladen (8000/8400 and 8000/8900 stated for groups of models); GVW 14400/15000 kg. Max rear tyre 710/70R42. Rated power 260 hp (kW rated not published in the brochure tables) ISO TR14396/ECE R120 without EPM, filled from official T7 LWB Stage V brochure (T7.300 rated hp from its model table). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.290 HD",
+  "category": "tractor",
+  "series": "T7 Heavy Duty",
+  "power_hp_rated": 270,
+  "power_hp_max": 288,
+  "power_kw_rated": 199,
+  "power_kw_max": 212,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1194,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11058,
+   "front_lift_kg": 6016,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1871/1598/1853/1583)",
+   "front_pto": "1000/1000E (engine rpm 1886/1585)"
+  },
+  "weight_kg": 10500,
+  "wheelbase_mm": 2995,
+  "fuel_l": 630,
+  "adblue_l": 96,
+  "tires": {
+   "front": null,
+   "rear": "650/85R38, VF 650/85R42, 710/70R42, 710/75R42, 900/60R42 (brochure rear tyre sizes)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_Heavy_Duty_PLM.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 270 hp (199 kW), max 288 hp (212 kW) ISO TR14396/ECE R120. Hydraulic pump 165 l/min std (220 MegaFlow). Full-range lift 10305 kg. Min unladen/shipping weight 10500 kg (typical 10500-12500); GVW 17200 kg at 50 km/h (class 4). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.315 HD",
+  "category": "tractor",
+  "series": "T7 Heavy Duty",
+  "power_hp_rated": 300,
+  "power_hp_max": 313,
+  "power_kw_rated": 221,
+  "power_kw_max": 230,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1282,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11058,
+   "front_lift_kg": 6016,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1871/1598/1853/1583)",
+   "front_pto": "1000/1000E (engine rpm 1886/1585)"
+  },
+  "weight_kg": 10500,
+  "wheelbase_mm": 2995,
+  "fuel_l": 630,
+  "adblue_l": 96,
+  "tires": {
+   "front": null,
+   "rear": "650/85R38, VF 650/85R42, 710/70R42, 710/75R42, 900/60R42 (brochure rear tyre sizes)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_Heavy_Duty_PLM.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 300 hp (221 kW), max 313 hp (230 kW) ISO TR14396/ECE R120. Hydraulic pump 165 l/min std (220 MegaFlow). Full-range lift 10305 kg. Min unladen/shipping weight 10500 kg (typical 10500-12500); GVW 17200 kg at 50 km/h (class 4). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.340 HD",
+  "category": "tractor",
+  "series": "T7 Heavy Duty",
+  "power_hp_rated": 340,
+  "power_hp_max": 340,
+  "power_kw_rated": 250,
+  "power_kw_max": 250,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1398,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT)",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11058,
+   "front_lift_kg": 6016,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1871/1598/1853/1583)",
+   "front_pto": "1000/1000E (engine rpm 1886/1585)"
+  },
+  "weight_kg": 10500,
+  "wheelbase_mm": 2995,
+  "fuel_l": 630,
+  "adblue_l": 96,
+  "tires": {
+   "front": null,
+   "rear": "650/85R38, VF 650/85R42, 710/70R42, 710/75R42, 900/60R42 (brochure rear tyre sizes)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_Heavy_Duty_PLM.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 340 hp (250 kW), max 340 hp (250 kW) ISO TR14396/ECE R120. Hydraulic pump 165 l/min std (220 MegaFlow). Full-range lift 10305 kg. Min unladen/shipping weight 10500 kg (typical 10500-12500); GVW 17200 kg at 50 km/h (class 4). Pump type CCLS standard per official brochure spec table."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.270 Methane Power",
+  "category": "tractor",
+  "series": "T7 Methane Power (CNG/biomethane)",
+  "power_hp_rated": null,
+  "power_hp_max": 270,
+  "power_kw_rated": null,
+  "power_kw_max": 199,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7 CNG",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "n/a (gas engine; see source)",
+   "turbo": true,
+   "max_torque_nm": 1159,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT) 40 km/h ECO / 50 km/h ECO optional",
+   "speeds": "continuous 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 170,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 4976,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E (engine rpm 1931/1598/1912/1583)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2884,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7.270_Methane_Power_PLM.pdf (Caracteristicas tecnicas)",
+  "notes": "Gas-fuelled (CNG/biomethane) tractor. Max 270 hp (199 kW); nominal not given. Fuel storage 626 l / 110.68 kg CNG at 200 bar (1106 l / 197 kg with extra cylinders), so fuel_l left null (not a liquid tank). GVW 15000 kg. Pump type CCLS standard per official brochure spec table. Filled from official brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-270-methane-power-with-plm-intelligence): Auto Command CVT 0.03-40/50 km/h, up to 5 rear valves, PTO speeds, front PTO optional. Brochure methane capacity 656 l/115 kg at 200 bar (1137 l/201 kg with range extender) differs from the 626 l figure above; weight not published (GVW 15000 kg)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.360 XD",
+  "category": "tractor",
+  "series": "T7 XD",
+  "power_hp_rated": null,
+  "power_hp_max": 360,
+  "power_kw_rated": null,
+  "power_kw_max": 265,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT 8.7",
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1616,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT)",
+   "speeds": "continuous; 40/50/60 km/h versions",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11760,
+   "front_lift_kg": 5800,
+   "category": "III/IVN (rear), IIIN (front)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000 (engine rpm 1598/1852) or 1000/1000E (1852/1567)",
+   "front_pto": "1000/1000E (engine rpm 1886/1585)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3190,
+  "fuel_l": 680,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_XD.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-xd (brochure 11/25)",
+  "notes": "Only max power listed: 360 hp (265 kW). Hydraulic pump 220 l/min std, 360 MegaFlow. Rated rpm 2000. Pump type CCLS standard per official brochure spec table. Wheelbase 3190 mm from official T7 XD brochure (11/25) cover page. Weight not published (GVW 18000 kg). Max speed 60 km/h (40/50/60 versions). Rated power not published (only max listed)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.390 XD",
+  "category": "tractor",
+  "series": "T7 XD",
+  "power_hp_rated": null,
+  "power_hp_max": 390,
+  "power_kw_rated": null,
+  "power_kw_max": 287,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT 8.7",
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT)",
+   "speeds": "continuous; 40/50/60 km/h versions",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11760,
+   "front_lift_kg": 5800,
+   "category": "III/IVN (rear), IIIN (front)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000 (engine rpm 1598/1852) or 1000/1000E (1852/1567)",
+   "front_pto": "1000/1000E (engine rpm 1886/1585)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3190,
+  "fuel_l": 680,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_XD.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-xd (brochure 11/25)",
+  "notes": "Only max power listed: 390 hp (287 kW). Hydraulic pump 220 l/min std, 360 MegaFlow. Rated rpm 2000. Pump type CCLS standard per official brochure spec table. Wheelbase 3190 mm from official T7 XD brochure (11/25) cover page. Weight not published (GVW 18000 kg). Max speed 60 km/h (40/50/60 versions). Rated power not published (only max listed)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.440 XD",
+  "category": "tractor",
+  "series": "T7 XD",
+  "power_hp_rated": null,
+  "power_hp_max": 435,
+  "power_kw_rated": null,
+  "power_kw_max": 320,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT 8.7",
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1851,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Auto Command (CVT)",
+   "speeds": "continuous; 40/50/60 km/h versions",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11760,
+   "front_lift_kg": 5800,
+   "category": "III/IVN (rear), IIIN (front)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000 (engine rpm 1598/1852) or 1000/1000E (1852/1567)",
+   "front_pto": "1000/1000E (engine rpm 1886/1585)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3190,
+  "fuel_l": 680,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T7_XD.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-xd (brochure 11/25)",
+  "notes": "Only max power listed: 435 hp (320 kW). Hydraulic pump 220 l/min std, 360 MegaFlow. Rated rpm 2000. Pump type CCLS standard per official brochure spec table. Wheelbase 3190 mm from official T7 XD brochure (11/25) cover page. Weight not published (GVW 18000 kg). Max speed 60 km/h (40/50/60 versions). Rated power not published (only max listed)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T8.415",
+  "category": "tractor",
+  "series": "T8 Genesis",
+  "power_hp_rated": 355,
+  "power_hp_max": 409,
+  "power_kw_rated": 261,
+  "power_kw_max": 301,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT Cursor 9",
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1800,
+   "max_torque_rpm": 1350,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Ultra Command (powershift) or Auto Command (CVT)",
+   "speeds": "continuous 0.03-50 (Auto Command)",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 221,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 10927,
+   "front_lift_kg": 5810,
+   "category": "IVN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (engine rpm 1804)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 11440,
+  "wheelbase_mm": 3550,
+  "fuel_l": 609,
+  "adblue_l": 99,
+  "tires": {
+   "front": null,
+   "rear": "620/70R42, 710/70R42, 900/60R42 (brochure dimension basis; also 650/85R38, 710/70R38, 800/70R42, 710/75R42, 900/60R38)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T8_GENESIS.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t8-genesis (brochure 11/25)",
+  "notes": "Nominal 355 hp (261 kW) (Ultra and Auto Command); max with power management 409 hp (301 kW); max Ultra/Auto Command w/o PM 390 hp (287 kW). Torque 1800 Nm @1300-1400 rpm with PM. Fuel 609 l (Auto Command)/647 l (Ultra Command). Flow 236 l/min (Ultra)/221 (Auto). Weight = min with suspended front axle; GVW 18000 kg. Rear tyres 620/70R42-900/60R42. Pump type CCLS standard per official brochure spec table. Spec table re-checked against official T8 GENESIS brochure (11/25) on agriculture.newholland.com/en-gb/europe: range is only T8.415 and T8.440 (no T8.380/T8.410/T8.435/T8.470 in current EU lineup)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T8.440",
+  "category": "tractor",
+  "series": "T8 Genesis",
+  "power_hp_rated": 404,
+  "power_hp_max": 435,
+  "power_kw_rated": 297,
+  "power_kw_max": 320,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT Cursor 9",
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": 1350,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Ultra Command (powershift) or Auto Command (CVT)",
+   "speeds": "continuous 0.03-50 (Auto Command)",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 221,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 10927,
+   "front_lift_kg": 5810,
+   "category": "IVN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (engine rpm 1804)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 13039,
+  "wheelbase_mm": 3550,
+  "fuel_l": 609,
+  "adblue_l": 99,
+  "tires": {
+   "front": null,
+   "rear": "620/70R42, 710/70R42, 900/60R42 (brochure dimension basis; also 650/85R38, 710/70R38, 800/70R42, 710/75R42, 900/60R38)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T8_GENESIS.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t8-genesis (brochure 11/25)",
+  "notes": "Nominal 404 hp (297 kW) Ultra Command / 385 hp (283 kW) Auto Command; max 435 hp (320 kW) Ultra / 417 hp (307 kW) Auto Command. Torque 1850 Nm with PM. Fuel 609 l (Auto)/647 l (Ultra). Flow 236/221 l/min. Weight = min with suspended front axle; GVW 18000 kg. Pump type CCLS standard per official brochure spec table. Spec table re-checked against official T8 GENESIS brochure (11/25) on agriculture.newholland.com/en-gb/europe: range is only T8.415 and T8.440 (no T8.380/T8.410/T8.435/T8.470 in current EU lineup)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.145",
+  "category": "tractor",
+  "series": "T6",
+  "power_hp_rated": 116,
+  "power_hp_max": 145,
+  "power_kw_rated": 85,
+  "power_kw_max": 107,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 590,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command (16x16/17x16; not T6.165/175) / Dynamic Command 23x23/24x24 / Auto Command (CVT)",
+   "speeds": "see model; CVT 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Standard 86 l/min main pump (190 bar); CCLS optional (121/150 l/min, 210 bar)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893); T6.175/180 also 540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5680,
+  "wheelbase_mm": 2642,
+  "fuel_l": 218,
+  "adblue_l": 31,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38, 650/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6_StageV.pdf (Caracteristicas tecnicas, p.35)",
+  "notes": "Nominal (no PM) 116 hp (85 kW); max with PM 145 hp (107 kW). Torque 590 Nm with PM / 528 Nm without. Pump 86/190 (EC/DC std), 121/210 (Electro Command opt.), 150/210 (Dynamic/Auto Command). Fuel 218 std/263 opt. Weight = min shipping with SideWinder II armrest (classic armrest version differs). GVW 10500 kg. Full-range lift 5284 kg. Pump type, optional front PTO (1000 rpm) and rear tyre sizes added from official T6 Stage V brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-stage-v)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.155",
+  "category": "tractor",
+  "series": "T6",
+  "power_hp_rated": 125,
+  "power_hp_max": 155,
+  "power_kw_rated": 92,
+  "power_kw_max": 114,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 640,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command (16x16/17x16; not T6.165/175) / Dynamic Command 23x23/24x24 / Auto Command (CVT)",
+   "speeds": "see model; CVT 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Standard 86 l/min main pump (190 bar); CCLS optional (121/150 l/min, 210 bar)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893); T6.175/180 also 540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5680,
+  "wheelbase_mm": 2642,
+  "fuel_l": 218,
+  "adblue_l": 31,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38, 650/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6_StageV.pdf (Caracteristicas tecnicas, p.35)",
+  "notes": "Nominal (no PM) 125 hp (92 kW); max with PM 155 hp (114 kW). Torque 640 Nm with PM / 560 Nm without. Pump 86/190 (EC/DC std), 121/210 (Electro Command opt.), 150/210 (Dynamic/Auto Command). Fuel 218 std/263 opt. Weight = min shipping with SideWinder II armrest (classic armrest version differs). GVW 10500 kg. Full-range lift 5284 kg. Pump type, optional front PTO (1000 rpm) and rear tyre sizes added from official T6 Stage V brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-stage-v)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.160",
+  "category": "tractor",
+  "series": "T6",
+  "power_hp_rated": 135,
+  "power_hp_max": 164,
+  "power_kw_rated": 99,
+  "power_kw_max": 121,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 707,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command (16x16/17x16; not T6.165/175) / Dynamic Command 23x23/24x24 / Auto Command (CVT)",
+   "speeds": "see model; CVT 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Standard 86 l/min main pump (190 bar); CCLS optional (121/150 l/min, 210 bar)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893); T6.175/180 also 540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5860,
+  "wheelbase_mm": 2642,
+  "fuel_l": 218,
+  "adblue_l": 31,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38, 650/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6_StageV.pdf (Caracteristicas tecnicas, p.35)",
+  "notes": "Nominal (no PM) 135 hp (99 kW); max with PM 164 hp (121 kW). Torque 707 Nm with PM / 611 Nm without. Pump 86/190 (EC/DC std), 121/210 (Electro Command opt.), 150/210 (Dynamic/Auto Command). Fuel 218 std/263 opt. Weight = min shipping with SideWinder II armrest (classic armrest version differs). GVW 10500 kg. Full-range lift 5284 kg. Pump type, optional front PTO (1000 rpm) and rear tyre sizes added from official T6 Stage V brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-stage-v)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.165",
+  "category": "tractor",
+  "series": "T6",
+  "power_hp_rated": 135,
+  "power_hp_max": 169,
+  "power_kw_rated": 99,
+  "power_kw_max": 124,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command (16x16/17x16; not T6.165/175) / Dynamic Command 23x23/24x24 / Auto Command (CVT)",
+   "speeds": "see model; CVT 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Standard 86 l/min main pump (190 bar); CCLS optional (121/150 l/min, 210 bar)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893); T6.175/180 also 540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5740,
+  "wheelbase_mm": 2642,
+  "fuel_l": 218,
+  "adblue_l": 31,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38, 650/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6_StageV.pdf (Caracteristicas tecnicas, p.35)",
+  "notes": "Nominal (no PM) 135 hp (99 kW); max with PM 169 hp (124 kW). Torque 700 Nm with PM / 605 Nm without. Pump 86/190 (EC/DC std), 121/210 (Electro Command opt.), 150/210 (Dynamic/Auto Command). Fuel 218 std/263 opt. Weight = min shipping with SideWinder II armrest (classic armrest version differs). GVW 10500 kg. Full-range lift 5284 kg. Pump type, optional front PTO (1000 rpm) and rear tyre sizes added from official T6 Stage V brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-stage-v)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.175",
+  "category": "tractor",
+  "series": "T6",
+  "power_hp_rated": 145,
+  "power_hp_max": 175,
+  "power_kw_rated": 107,
+  "power_kw_max": 129,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command (16x16/17x16; not T6.165/175) / Dynamic Command 23x23/24x24 / Auto Command (CVT)",
+   "speeds": "see model; CVT 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Standard 86 l/min main pump (190 bar); CCLS optional (121/150 l/min, 210 bar)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893); T6.175/180 also 540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5740,
+  "wheelbase_mm": 2642,
+  "fuel_l": 218,
+  "adblue_l": 31,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38, 650/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6_StageV.pdf (Caracteristicas tecnicas, p.35)",
+  "notes": "Nominal (no PM) 145 hp (107 kW); max with PM 175 hp (129 kW). Torque 700 Nm with PM / 650 Nm without. Pump 86/190 (EC/DC std), 121/210 (Electro Command opt.), 150/210 (Dynamic/Auto Command). Fuel 218 std/263 opt. Weight = min shipping with SideWinder II armrest (classic armrest version differs). GVW 10500 kg. Full-range lift 5284 kg. Pump type, optional front PTO (1000 rpm) and rear tyre sizes added from official T6 Stage V brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-stage-v)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.180",
+  "category": "tractor",
+  "series": "T6",
+  "power_hp_rated": 150,
+  "power_hp_max": 175,
+  "power_kw_rated": 110,
+  "power_kw_max": 129,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 738,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command (16x16/17x16; not T6.165/175) / Dynamic Command 23x23/24x24 / Auto Command (CVT)",
+   "speeds": "see model; CVT 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Standard 86 l/min main pump (190 bar); CCLS optional (121/150 l/min, 210 bar)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893); T6.175/180 also 540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5680,
+  "wheelbase_mm": 2642,
+  "fuel_l": 218,
+  "adblue_l": 31,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38, 650/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6_StageV.pdf (Caracteristicas tecnicas, p.35)",
+  "notes": "Nominal (no PM) 150 hp (110 kW); max with PM 175 hp (129 kW). Torque 738 Nm with PM / 650 Nm without. Pump 86/190 (EC/DC std), 121/210 (Electro Command opt.), 150/210 (Dynamic/Auto Command). Fuel 218 std/263 opt. Weight = min shipping with SideWinder II armrest (classic armrest version differs). GVW 10500 kg. Full-range lift 5284 kg. Pump type, optional front PTO (1000 rpm) and rear tyre sizes added from official T6 Stage V brochure (https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-stage-v)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T6.180 Methane Power",
+  "category": "tractor",
+  "series": "T6 Methane Power (CNG/biomethane)",
+  "power_hp_rated": 150,
+  "power_hp_max": 175,
+  "power_kw_rated": 110,
+  "power_kw_max": 129,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF (gas)",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "n/a (gas engine; see source)",
+   "turbo": true,
+   "max_torque_nm": 738,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command 4-step semi-powershift (40 km/h or 40/50 ECO) or Dynamic Command 8-step (40/50 km/h ECO)",
+   "speeds": "Electro Command 2.27 km/h min (0.19 with creeper); Dynamic Command 23x23 / 46x46 with creeper, min 2.22 km/h",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3200,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1969/1546/1893)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5610,
+  "wheelbase_mm": 2642,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "16.9R38, 18.4R38, 520/70R38, 600/65R38 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T6.180_Methane_Power.pdf (Caracteristicas tecnicas)",
+  "notes": "Gas-fuelled tractor. Nominal 150 hp (110 kW); with PM 165 hp (121 kW); max without PM 160 hp (118 kW); max with PM 175 hp (129 kW). Torque 738 Nm with PM / 650 Nm without at 1500 rpm. CNG storage per source (fuel_l left null; brochure text mentions 185 l / 32 kg CNG and a 270 l auxiliary front tank). Pump 121 (EC)/150 (DC) l/min at 210 bar. Full-range lift 5284 kg. Filled from official T6 Methane Power brochure (04/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t6-methane-power : 6 cyl 6728 cm3, rated rpm 2200, wheelbase 2642 mm (standard axle; 2684 Terraglide), min shipping weight 5610 kg (5680 kg other variant), front lift 3200 kg, up to 5 Deluxe rear valves with diverter. Methane tank 185 l tractor + 270 l range extender (not a liquid tank: fuel_l null). Max permissible weight 9500/10500 kg."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.110",
+  "category": "tractor",
+  "series": "T5 Dynamic Command / Auto Command",
+  "power_hp_rated": 100,
+  "power_hp_max": 110,
+  "power_kw_rated": 74,
+  "power_kw_max": 81,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 520,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (8-speed semi-powershift, 40 km/h) or Auto Command (CVT)",
+   "speeds": "DC 0.216-40; AC 0.02-40",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5500,
+   "front_lift_kg": 2250,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (engine rpm 1938/1926); 540/540E/1000 (1969/1546/1893); 540E/1000/1000E (1546/1893/1621)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_DynamicCommand_AutoCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 100 hp (74 kW) at 2200 rpm; max 110 hp (81 kW) ISO TR14396/ECE R120. Torque 520 Nm @1300 rpm. Standard pump 80 l/min at 200 bar. Weight = min shipping; GVW 8800 kg. Up to 4 rear remotes. Front PTO 1000 rpm optional per official T5 Dynamic Command/Auto Command brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dynamic-command-auto-command ."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.120",
+  "category": "tractor",
+  "series": "T5 Dynamic Command / Auto Command",
+  "power_hp_rated": 110,
+  "power_hp_max": 120,
+  "power_kw_rated": 81,
+  "power_kw_max": 88,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 551,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (8-speed semi-powershift, 40 km/h) or Auto Command (CVT)",
+   "speeds": "DC 0.216-40; AC 0.02-40",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5500,
+   "front_lift_kg": 2250,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (engine rpm 1938/1926); 540/540E/1000 (1969/1546/1893); 540E/1000/1000E (1546/1893/1621)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_DynamicCommand_AutoCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 110 hp (81 kW) at 2200 rpm; max 120 hp (88 kW) ISO TR14396/ECE R120. Torque 551 Nm @1300 rpm. Standard pump 80 l/min at 200 bar. Weight = min shipping; GVW 8800 kg. Up to 4 rear remotes. Front PTO 1000 rpm optional per official T5 Dynamic Command/Auto Command brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dynamic-command-auto-command ."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.130",
+  "category": "tractor",
+  "series": "T5 Dynamic Command / Auto Command",
+  "power_hp_rated": 120,
+  "power_hp_max": 130,
+  "power_kw_rated": 88,
+  "power_kw_max": 96,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 610,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (8-speed semi-powershift, 40 km/h) or Auto Command (CVT)",
+   "speeds": "DC 0.216-40; AC 0.02-40",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5500,
+   "front_lift_kg": 2250,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (engine rpm 1938/1926); 540/540E/1000 (1969/1546/1893); 540E/1000/1000E (1546/1893/1621)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_DynamicCommand_AutoCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 120 hp (88 kW) at 2200 rpm; max 130 hp (96 kW) ISO TR14396/ECE R120. Torque 610 Nm @1300 rpm. Standard pump 80 l/min at 200 bar. Weight = min shipping; GVW 8800 kg. Up to 4 rear remotes. Front PTO 1000 rpm optional per official T5 Dynamic Command/Auto Command brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dynamic-command-auto-command ."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.140",
+  "category": "tractor",
+  "series": "T5 Dynamic Command / Auto Command",
+  "power_hp_rated": 130,
+  "power_hp_max": 140,
+  "power_kw_rated": 96,
+  "power_kw_max": 103,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF",
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 630,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Dynamic Command (8-speed semi-powershift, 40 km/h) or Auto Command (CVT)",
+   "speeds": "DC 0.216-40; AC 0.02-40",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5500,
+   "front_lift_kg": 2250,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (engine rpm 1938/1926); 540/540E/1000 (1969/1546/1893); 540E/1000/1000E (1546/1893/1621)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_DynamicCommand_AutoCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Nominal 130 hp (96 kW) at 2200 rpm; max 140 hp (103 kW) ISO TR14396/ECE R120. Torque 630 Nm @1300 rpm. Standard pump 80 l/min at 200 bar. Weight = min shipping; GVW 8800 kg. Up to 4 rear remotes. Front PTO 1000 rpm optional per official T5 Dynamic Command/Auto Command brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dynamic-command-auto-command ."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.100 Electro Command",
+  "category": "tractor",
+  "series": "T5 Electro Command",
+  "power_hp_rated": null,
+  "power_hp_max": 101,
+  "power_kw_rated": null,
+  "power_kw_max": 74,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 450,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command 16x16 (32x32 with creeper)",
+   "speeds": "16x16, 40 km/h ECO",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": 2250,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 174,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_ElectroCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Only max power given (101 hp, 74 kW). Fuel 174 l. 3 rear valves + 2 mid-mount."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.110 Electro Command",
+  "category": "tractor",
+  "series": "T5 Electro Command",
+  "power_hp_rated": null,
+  "power_hp_max": 110,
+  "power_kw_rated": null,
+  "power_kw_max": 81,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command 16x16 (32x32 with creeper)",
+   "speeds": "16x16, 40 km/h ECO",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": 2250,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 174,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_ElectroCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Only max power given (110 hp, 81 kW). Fuel 174 l. 3 rear valves + 2 mid-mount."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.120 Electro Command",
+  "category": "tractor",
+  "series": "T5 Electro Command",
+  "power_hp_rated": null,
+  "power_hp_max": 117,
+  "power_kw_rated": null,
+  "power_kw_max": 86,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 506,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Electro Command 16x16 (32x32 with creeper)",
+   "speeds": "16x16, 40 km/h ECO",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": 2250,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 174,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_ElectroCommand.pdf (Caracteristicas tecnicas)",
+  "notes": "Only max power given (117 hp, 86 kW). Fuel 174 l. 3 rear valves + 2 mid-mount."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.80 Utility",
+  "category": "tractor",
+  "series": "T5 Utility",
+  "power_hp_rated": null,
+  "power_hp_max": 80,
+  "power_kw_rated": null,
+  "power_kw_max": 59,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 350,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 12x12 / Dual Command 24x24",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (80 hp, 59 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.90 Utility",
+  "category": "tractor",
+  "series": "T5 Utility",
+  "power_hp_rated": null,
+  "power_hp_max": 90,
+  "power_kw_rated": null,
+  "power_kw_max": 66,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 380,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 12x12 / Dual Command 24x24",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (90 hp, 66 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.100 Utility",
+  "category": "tractor",
+  "series": "T5 Utility",
+  "power_hp_rated": null,
+  "power_hp_max": 101,
+  "power_kw_rated": null,
+  "power_kw_max": 74,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 450,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 12x12 / Dual Command 24x24",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (101 hp, 74 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.110 Utility",
+  "category": "tractor",
+  "series": "T5 Utility",
+  "power_hp_rated": null,
+  "power_hp_max": 110,
+  "power_kw_rated": null,
+  "power_kw_max": 81,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 12x12 / Dual Command 24x24",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (110 hp, 81 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.120 Utility",
+  "category": "tractor",
+  "series": "T5 Utility",
+  "power_hp_rated": null,
+  "power_hp_max": 117,
+  "power_kw_rated": null,
+  "power_kw_max": 86,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 506,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 12x12 / Dual Command 24x24",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (117 hp, 86 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.90S",
+  "category": "tractor",
+  "series": "T5S (narrow utility)",
+  "power_hp_rated": null,
+  "power_hp_max": 90,
+  "power_kw_rated": null,
+  "power_kw_max": 66,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 380,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchro Shuttle/Powershuttle 12x12 (T5S) ",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4400,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3900,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (90 hp, 66 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.100S",
+  "category": "tractor",
+  "series": "T5S (narrow utility)",
+  "power_hp_rated": null,
+  "power_hp_max": 101,
+  "power_kw_rated": null,
+  "power_kw_max": 74,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 450,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchro Shuttle/Powershuttle 12x12 (T5S) ",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4400,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3900,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (101 hp, 74 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T5.110S",
+  "category": "tractor",
+  "series": "T5S (narrow utility)",
+  "power_hp_rated": null,
+  "power_hp_max": 110,
+  "power_kw_rated": null,
+  "power_kw_max": 81,
+  "power_standard": "ISO TR14396 / ECE R120 @1900 rpm",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR 2 (ECOBlue, SCR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchro Shuttle/Powershuttle 12x12 (T5S) ",
+   "speeds": "12x12, 20x20, 24x24 (Dual Command), 40x40 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4400,
+   "front_lift_kg": 1670,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (engine rpm 1938/1535/1926)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3900,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T5_Utility_StageV.pdf (Caracteristicas tecnicas, pp.33-37)",
+  "notes": "Only max power given at 1900 rpm (110 hp, 81 kW). Pump 64 l/min at 190 bar (MegaFlow opt. 82). Weight = min unladen 4WD with cab. GVW 6000-7000 kg by axle. Front PTO 1000 rpm optional per official T5 Dual Command/T5S brochure (11/25) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t5-dual-command ; official naming of the Utility models is 'T5 Dual Command' (T5.80-T5.120) and 'T5S'."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.80 F/N/V",
+  "category": "tractor",
+  "series": "T4 F/N/V (narrow/vineyard/orchard specialty)",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55,
+  "power_kw_max": 55,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF (see source)",
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 16x16 / Dual Command 32x16 (44x16 with creeper)",
+   "speeds": "16x16 to 44x16, 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; front 1000 optional",
+   "front_pto": "1000 (optional, with front lift)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_FNV_StageV.pdf (Especificaciones pp.25-27)",
+  "notes": "Specialty narrow tractor, versions V (narrow vineyard), N (narrow), F (fruit) with CAB or ROPS. Nominal 75 hp (55 kW), max @1900 76 hp. Flow = main 64 + service pump 36 l/min (MegaFlow 80+36). Lift 2200 kg (V, N) / 2520 kg (F) at balls; shown 2520 (max). Weight not listed (max permitted 4500-4800 kg). Fuel varies 58-110 l by version. Wheelbase 2180 (2436 SuperSteer). Front lift & 1000 rpm front PTO optional per official T4 FNV brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-fnv-stage-v ; fuel tank varies by variant (58-110 l), so fuel_l left null."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.90 F/N/V",
+  "category": "tractor",
+  "series": "T4 F/N/V (narrow/vineyard/orchard specialty)",
+  "power_hp_rated": 86,
+  "power_hp_max": 87,
+  "power_kw_rated": 63,
+  "power_kw_max": 63,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 351,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 16x16 / Dual Command 32x16 (44x16 with creeper)",
+   "speeds": "16x16 to 44x16, 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; front 1000 optional",
+   "front_pto": "1000 (optional, with front lift)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_FNV_StageV.pdf (Especificaciones pp.25-27)",
+  "notes": "Specialty narrow tractor, versions V (narrow vineyard), N (narrow), F (fruit) with CAB or ROPS. Nominal 86 hp (63 kW), max @1900 87 hp. Flow = main 64 + service pump 36 l/min (MegaFlow 80+36). Lift 2200 kg (V, N) / 2520 kg (F) at balls; shown 2520 (max). Weight not listed (max permitted 4500-4800 kg). Fuel varies 58-110 l by version. Wheelbase 2180 (2436 SuperSteer). Front lift & 1000 rpm front PTO optional per official T4 FNV brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-fnv-stage-v ; fuel tank varies by variant (58-110 l), so fuel_l left null. The official site also lists a 'T4 FNV Auto Command' page (CVT, 115 l/min CCLS pump, T4.90 NV and T4.100-T4.120) under the same model names; not duplicated as separate entries."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.100 F/N/V",
+  "category": "tractor",
+  "series": "T4 F/N/V (narrow/vineyard/orchard specialty)",
+  "power_hp_rated": 99,
+  "power_hp_max": 100,
+  "power_kw_rated": 73,
+  "power_kw_max": 73,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 407,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 16x16 / Dual Command 32x16 (44x16 with creeper)",
+   "speeds": "16x16 to 44x16, 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; front 1000 optional",
+   "front_pto": "1000 (optional, with front lift)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_FNV_StageV.pdf (Especificaciones pp.25-27)",
+  "notes": "Specialty narrow tractor, versions V (narrow vineyard), N (narrow), F (fruit) with CAB or ROPS. Nominal 99 hp (73 kW), max @1900 100 hp. Flow = main 64 + service pump 36 l/min (MegaFlow 80+36). Lift 2200 kg (V, N) / 2520 kg (F) at balls; shown 2520 (max). Weight not listed (max permitted 4500-4800 kg). Fuel varies 58-110 l by version. Wheelbase 2180 (2436 SuperSteer). Front lift & 1000 rpm front PTO optional per official T4 FNV brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-fnv-stage-v ; fuel tank varies by variant (58-110 l), so fuel_l left null. The official site also lists a 'T4 FNV Auto Command' page (CVT, 115 l/min CCLS pump, T4.90 NV and T4.100-T4.120) under the same model names; not duplicated as separate entries."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.110 F/N/V",
+  "category": "tractor",
+  "series": "T4 F/N/V (narrow/vineyard/orchard specialty)",
+  "power_hp_rated": 110,
+  "power_hp_max": 111,
+  "power_kw_rated": 81,
+  "power_kw_max": 81,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 16x16 / Dual Command 32x16 (44x16 with creeper)",
+   "speeds": "16x16 to 44x16, 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; front 1000 optional",
+   "front_pto": "1000 (optional, with front lift)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_FNV_StageV.pdf (Especificaciones pp.25-27)",
+  "notes": "Specialty narrow tractor, versions V (narrow vineyard), N (narrow), F (fruit) with CAB or ROPS. Nominal 110 hp (81 kW), max @1900 111 hp. Flow = main 64 + service pump 36 l/min (MegaFlow 80+36). Lift 2200 kg (V, N) / 2520 kg (F) at balls; shown 2520 (max). Weight not listed (max permitted 4500-4800 kg). Fuel varies 58-110 l by version. Wheelbase 2180 (2436 SuperSteer). Front lift & 1000 rpm front PTO optional per official T4 FNV brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-fnv-stage-v ; fuel tank varies by variant (58-110 l), so fuel_l left null. The official site also lists a 'T4 FNV Auto Command' page (CVT, 115 l/min CCLS pump, T4.90 NV and T4.100-T4.120) under the same model names; not duplicated as separate entries."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.120 F/N/V",
+  "category": "tractor",
+  "series": "T4 F/N/V (narrow/vineyard/orchard specialty)",
+  "power_hp_rated": 120,
+  "power_hp_max": 121,
+  "power_kw_rated": 88,
+  "power_kw_max": 88,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 518,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershuttle 16x16 / Dual Command 32x16 (44x16 with creeper)",
+   "speeds": "16x16 to 44x16, 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; front 1000 optional",
+   "front_pto": "1000 (optional, with front lift)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_FNV_StageV.pdf (Especificaciones pp.25-27)",
+  "notes": "Specialty narrow tractor, versions V (narrow vineyard), N (narrow), F (fruit) with CAB or ROPS. Nominal 120 hp (88 kW), max @1900 121 hp. Flow = main 64 + service pump 36 l/min (MegaFlow 80+36). Lift 2200 kg (V, N) / 2520 kg (F) at balls; shown 2520 (max). Weight not listed (max permitted 4500-4800 kg). Fuel varies 58-110 l by version. Wheelbase 2180 (2436 SuperSteer). Front lift & 1000 rpm front PTO optional per official T4 FNV brochure https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-fnv-stage-v ; fuel tank varies by variant (58-110 l), so fuel_l left null. The official site also lists a 'T4 FNV Auto Command' page (CVT, 115 l/min CCLS pump, T4.90 NV and T4.100-T4.120) under the same model names; not duplicated as separate entries."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.80LP",
+  "category": "tractor",
+  "series": "T4 LP (low profile)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "16x16 Shuttle Command / Powershuttle; 32x16 Split or Dual Command; up to 44x16 with creeper (40 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (28x16 Shuttle Command; 44x16 Dual Command)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/540E/1000 optional)",
+   "front_pto": "optional (front lift & PTO)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": 81,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "rear tyre size index 650-675"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp",
+  "notes": "Low-profile specialty tractor. Nominal 75 hp (55 kW). Fuel 81 l (ROPS)/104 l (cab). GVW max 5200 kg. Filled from official T4 LP brochure (09/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp : standard MegaFlow 64 l/min + 36 l/min steering pump (optional Super MegaFlow 80 l/min with load sensing), rear linkage Cat II, PTO 540/540E, front lift and PTO optional, max rear/mid outlets 10/8 (outlets, not valve count), tyre index 650/675. Brochure states max permissible weight 4800 kg (existing GVW 5200 kg above left unchanged: may refer to another variant)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.90LP",
+  "category": "tractor",
+  "series": "T4 LP (low profile)",
+  "power_hp_rated": 86,
+  "power_hp_max": null,
+  "power_kw_rated": 63,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 351,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "16x16 Shuttle Command / Powershuttle; 32x16 Split or Dual Command; up to 44x16 with creeper (40 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (28x16 Shuttle Command; 44x16 Dual Command)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/540E/1000 optional)",
+   "front_pto": "optional (front lift & PTO)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": 81,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": "rear tyre size index 650-675"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp",
+  "notes": "Low-profile specialty tractor. Nominal 86 hp (63 kW). Fuel 81 l (ROPS)/104 l (cab). GVW max 5200 kg. Filled from official T4 LP brochure (09/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp : standard MegaFlow 64 l/min + 36 l/min steering pump (optional Super MegaFlow 80 l/min with load sensing), rear linkage Cat II, PTO 540/540E, front lift and PTO optional, max rear/mid outlets 10/8 (outlets, not valve count), tyre index 650/675. Brochure states max permissible weight 4800 kg (existing GVW 5200 kg above left unchanged: may refer to another variant)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.100LP",
+  "category": "tractor",
+  "series": "T4 LP (low profile)",
+  "power_hp_rated": 99,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 407,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "16x16 Shuttle Command / Powershuttle; 32x16 Split or Dual Command; up to 44x16 with creeper (40 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (28x16 Shuttle Command; 44x16 Dual Command)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/540E/1000 optional)",
+   "front_pto": "optional (front lift & PTO)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": 81,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": "rear tyre size index 650-675"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp",
+  "notes": "Low-profile specialty tractor. Nominal 99 hp (73 kW). Fuel 81 l (ROPS)/104 l (cab). GVW max 5200 kg. Filled from official T4 LP brochure (09/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp : standard MegaFlow 64 l/min + 36 l/min steering pump (optional Super MegaFlow 80 l/min with load sensing), rear linkage Cat II, PTO 540/540E, front lift and PTO optional, max rear/mid outlets 10/8 (outlets, not valve count), tyre index 650/675. Brochure states max permissible weight 4800 kg (existing GVW 5200 kg above left unchanged: may refer to another variant)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.110LP",
+  "category": "tractor",
+  "series": "T4 LP (low profile)",
+  "power_hp_rated": 110,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "16x16 Shuttle Command / Powershuttle; 32x16 Split or Dual Command; up to 44x16 with creeper (40 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (28x16 Shuttle Command; 44x16 Dual Command)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/540E/1000 optional)",
+   "front_pto": "optional (front lift & PTO)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": 81,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": "rear tyre size index 650-675"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp",
+  "notes": "Low-profile specialty tractor. Nominal 110 hp (81 kW). Fuel 81 l (ROPS)/104 l (cab). GVW max 5200 kg. Filled from official T4 LP brochure (09/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp : standard MegaFlow 64 l/min + 36 l/min steering pump (optional Super MegaFlow 80 l/min with load sensing), rear linkage Cat II, PTO 540/540E, front lift and PTO optional, max rear/mid outlets 10/8 (outlets, not valve count), tyre index 650/675. Brochure states max permissible weight 4800 kg (existing GVW 5200 kg above left unchanged: may refer to another variant)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.120LP",
+  "category": "tractor",
+  "series": "T4 LP (low profile)",
+  "power_hp_rated": 120,
+  "power_hp_max": null,
+  "power_kw_rated": 88,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 518,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "16x16 Shuttle Command / Powershuttle; 32x16 Split or Dual Command; up to 44x16 with creeper (40 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (28x16 Shuttle Command; 44x16 Dual Command)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2520,
+   "front_lift_kg": 1500,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/540E/1000 optional)",
+   "front_pto": "optional (front lift & PTO)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2180,
+  "fuel_l": 81,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": "rear tyre size index 650-675"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp",
+  "notes": "Low-profile specialty tractor. Nominal 120 hp (88 kW). Fuel 81 l (ROPS)/104 l (cab). GVW max 5200 kg. Filled from official T4 LP brochure (09/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-lp : standard MegaFlow 64 l/min + 36 l/min steering pump (optional Super MegaFlow 80 l/min with load sensing), rear linkage Cat II, PTO 540/540E, front lift and PTO optional, max rear/mid outlets 10/8 (outlets, not valve count), tyre index 650/675. Brochure states max permissible weight 4800 kg (existing GVW 5200 kg above left unchanged: may refer to another variant)."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.80F S",
+  "category": "tractor",
+  "series": "T4 F S (narrow fruit specialty)",
+  "power_hp_rated": null,
+  "power_hp_max": 75,
+  "power_kw_rated": null,
+  "power_kw_max": 55,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT S8000",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 2700,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4F_S.pdf (Caracteristicas tecnicas)",
+  "notes": "Max power @1900 rpm 75 hp (55 kW). Hydraulics: dual pump 49+31 l/min (flow_lpm = sum). Weight = total ROPS 4WD (2WD 2375 kg for T4.80F S). GVW 4500 kg."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.90F S",
+  "category": "tractor",
+  "series": "T4 F S (narrow fruit specialty)",
+  "power_hp_rated": null,
+  "power_hp_max": 86,
+  "power_kw_rated": null,
+  "power_kw_max": 63,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F5C",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 351,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 116,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3100,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4F_S.pdf (Caracteristicas tecnicas)",
+  "notes": "Max power @1900 rpm 86 hp (63 kW). Hydraulics: dual pump 73+43 l/min (flow_lpm = sum). Weight = total ROPS 4WD (2WD 2375 kg for T4.80F S). GVW 4500 kg."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.100F S",
+  "category": "tractor",
+  "series": "T4 F S (narrow fruit specialty)",
+  "power_hp_rated": null,
+  "power_hp_max": 99,
+  "power_kw_rated": null,
+  "power_kw_max": 73,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F5C",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 407,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 116,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3100,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4F_S.pdf (Caracteristicas tecnicas)",
+  "notes": "Max power @1900 rpm 99 hp (73 kW). Hydraulics: dual pump 73+43 l/min (flow_lpm = sum). Weight = total ROPS 4WD (2WD 2375 kg for T4.80F S). GVW 4500 kg."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.110F S",
+  "category": "tractor",
+  "series": "T4 F S (narrow fruit specialty)",
+  "power_hp_rated": null,
+  "power_hp_max": 110,
+  "power_kw_rated": null,
+  "power_kw_max": 81,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F5C",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 116,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3100,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4F_S.pdf (Caracteristicas tecnicas)",
+  "notes": "Max power @1900 rpm 110 hp (81 kW). Hydraulics: dual pump 73+43 l/min (flow_lpm = sum). Weight = total ROPS 4WD (2WD 2375 kg for T4.80F S). GVW 4500 kg."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.75S",
+  "category": "tractor",
+  "series": "T4S",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT S8000",
+   "cylinders": 3,
+   "displacement_l": 2.93,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "8x8 Synchro Shuttle 30 km/h; 12x12 40 km/h (min 0.83); 20x20 with creeper (min 0.14)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (20x20)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 47.7,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "I & II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E and ground speed (optional)",
+   "front_pto": null
+  },
+  "weight_kg": 2850,
+  "wheelbase_mm": 2123,
+  "fuel_l": 82,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "480/70R30 (brochure dimension basis; also 380/70R28, 420/70R28, 420/70R30)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T4S_StageV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4s-stage-v",
+  "notes": "Compact 3-cyl. Weight = ROPS DT (cab DT 3100). GVW 4800 kg DT. Lift 3000 kg at balls. Filled from official T4S Stage V brochure (02/22) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4s-stage-v : pump 47.7 l/min, lift 3000 kg at ball ends with aux cylinder (1950 kg through the range), wheelbase 2123 mm (4WD; 2085 mm 2WD), 3 rear remotes, rated 55 kW/75 hp = max."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T3.80F",
+  "category": "tractor",
+  "series": "T3F / T3 LP (compact specialty)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "UNECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT S8000",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF (no AdBlue)",
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "12x12 (30 or 40 km/h Synchro Shuttle); 20x20 with creeper (min 0.10 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (20x20)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 52,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2277,
+   "front_lift_kg": null,
+   "category": "I / II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (engine rpm 1958/1592)",
+   "front_pto": null
+  },
+  "weight_kg": 2200,
+  "wheelbase_mm": 1905,
+  "fuel_l": 42,
+  "adblue_l": null,
+  "tires": {
+   "front": "200/70R16-280/70R16 (T3F)",
+   "rear": "320/70R20-360/70R24 (T3F)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T3F_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t3f-lp",
+  "notes": "T3.80F: 75 hp (55 kW). Weight = shipping, GVW 4200 kg. T3.80LP (low profile) weight 2800 kg, fuel 63 l, GVW 4600 kg - listed separately. Filled from official T3F/LP brochure (04/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t3f-lp : max hydraulic flow 52 l/min, lift 2277 kg at ball ends, wheelbase 1905 mm, 3 rear valves, max engine power per UNECE R120. T3.60/T3.70 variants (56/65 hp) are below the 70 hp threshold and not listed."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T3.80LP",
+  "category": "tractor",
+  "series": "T3F / T3 LP (compact specialty)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "UNECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT S8000",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF (no AdBlue)",
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "see source",
+   "speeds": "12x12 (30 or 40 km/h Synchro Shuttle); 20x20 with creeper (min 0.10 km/h)",
+   "max_speed_kmh": 40,
+   "creeper": "optional (20x20)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 52,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": null,
+   "category": "I / II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (engine rpm 1958/1592)",
+   "front_pto": null
+  },
+  "weight_kg": 2800,
+  "wheelbase_mm": 2104,
+  "fuel_l": 63,
+  "adblue_l": null,
+  "tires": {
+   "front": "260/70R16-280/70R18 (T3LP)",
+   "rear": "340/85R24-380/70R28 (T3LP)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/T3F_LP.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t3f-lp",
+  "notes": "T3.80LP low profile: 75 hp (55 kW). Weight shipping 2800 kg, GVW 4600 kg (grouping of merged cells assumed). Filled from official T3F/LP brochure (04/24) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t3f-lp : max hydraulic flow 52 l/min, lift 2800 kg at ball ends, wheelbase 2104 mm, 3 rear valves, max engine power per UNECE R120. T3.60/T3.70 variants (56/65 hp) are below the 70 hp threshold and not listed."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.80V",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 36,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3235,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 3505,
+  "wheelbase_mm": 1341,
+  "fuel_l": 81,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 75 hp (55 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 3505 kg (no cab version); up to 4 rear remote valves; pump flow for rear remotes/lift 36 l/min (dedicated 36 l/min pump), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.80N",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 36,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3235,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 3725,
+  "wheelbase_mm": 1341,
+  "fuel_l": 81,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 75 hp (55 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 3725 kg (no cab version); up to 4 rear remote valves; pump flow for rear remotes/lift 36 l/min (dedicated 36 l/min pump), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.80F",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 74,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 36,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3235,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 3725,
+  "wheelbase_mm": 1341,
+  "fuel_l": 81,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 74 hp (55 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 3725 kg (no cab version); up to 4 rear remote valves; pump flow for rear remotes/lift 36 l/min (dedicated 36 l/min pump), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.90",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 85,
+  "power_hp_max": null,
+  "power_kw_rated": 63,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 351,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 45,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3455,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 4700,
+  "wheelbase_mm": 1586,
+  "fuel_l": 96,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 85 hp (63 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 4700 kg (cab version 5100 kg); up to 5 rear remote valves; pump flow for rear remotes/lift 45 l/min (standard 45 l/min pump; optional double pump 54+27 = 81 l/min), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.90M",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 85,
+  "power_hp_max": null,
+  "power_kw_rated": 63,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 351,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 45,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3455,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 4700,
+  "wheelbase_mm": 1586,
+  "fuel_l": 96,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 85 hp (63 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 4700 kg (cab version 5100 kg); up to 5 rear remote valves; pump flow for rear remotes/lift 45 l/min (standard 45 l/min pump; optional double pump 54+27 = 81 l/min), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.100",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 98,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 407,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 45,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3455,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 4700,
+  "wheelbase_mm": 1649,
+  "fuel_l": 96,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 98 hp (73 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 4700 kg (cab version 5100 kg); up to 5 rear remote valves; pump flow for rear remotes/lift 45 l/min (standard 45 l/min pump; optional double pump 54+27 = 81 l/min), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.100M",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 98,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 407,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 45,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3455,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 5200,
+  "wheelbase_mm": 1649,
+  "fuel_l": 96,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 98 hp (73 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 5200 kg (cab version 5600 kg); up to 5 rear remote valves; pump flow for rear remotes/lift 45 l/min (standard 45 l/min pump; optional double pump 54+27 = 81 l/min), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.110",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 109,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 45,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3455,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 4700,
+  "wheelbase_mm": 1649,
+  "fuel_l": 96,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 109 hp (81 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 4700 kg (cab version 5100 kg); up to 5 rear remote valves; pump flow for rear remotes/lift 45 l/min (standard 45 l/min pump; optional double pump 54+27 = 81 l/min), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "TK4.110M",
+  "category": "tractor",
+  "series": "TK4 (crawler, orchard/vineyard specialty)",
+  "power_hp_rated": 109,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "8x8 (16x8 with creeper)",
+   "speeds": "8x8, 1.6-12 km/h",
+   "max_speed_kmh": 12,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 45,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3455,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E; 540/1000 option",
+   "front_pto": null
+  },
+  "weight_kg": 5200,
+  "wheelbase_mm": 1649,
+  "fuel_l": 96,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/New Holland Tractors/TK4_FaseV.pdf (Caracteristicas tecnicas) ; https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v",
+  "notes": "Tracked specialty tractor, nominal 109 hp (81 kW). Weight not captured. Wheelbase = track length value printed as 'Distancia entre ejes'. Filled from official TK4 brochure (spec table) https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/tk4-stage-v: weight = ROPS version 5200 kg (cab version 5600 kg); up to 5 rear remote valves; pump flow for rear remotes/lift 45 l/min (standard 45 l/min pump; optional double pump 54+27 = 81 l/min), separate 19 l/min steering pump. Rated power per brochure."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.165 S",
+  "category": "tractor",
+  "series": "T7 S (Stage V)",
+  "power_hp_rated": 150,
+  "power_hp_max": 165,
+  "power_kw_rated": 110,
+  "power_kw_max": 121,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "ECOBlue HI-eSCR 2 (SCR)",
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Range Command semi-powershift 18/19x6 (40 km/h or 40 ECO)",
+   "speeds": "18/19x6",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8257,
+   "front_lift_kg": 3568,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2734,
+  "fuel_l": 312,
+  "adblue_l": 48,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42 (reference size for dimensions)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7s-stage-v ; official T7S Stage V brochure PDF (02/22) https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9eb19162860d4001977089044e621d53?v=473a61dd, spec table",
+  "notes": "Brochure figures are ISO TR14396 / ECE R120: rated 150 hp (110 kW), max 165 hp (121 kW). Max torque 700 Nm (rpm not published). Weight_kg left null: brochure only gives max permissible weight 10500 kg. Lift 8257 kg at ball ends (6616 kg through the range, 610 mm behind ball ends). Front lift at ball ends. Min speed 1.98 km/h, max 40 km/h; max 4 rear valves plus 3 mid-mount valves. Creep gears optional. Tyre reference in brochure 650/65R42 rear."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.195 S",
+  "category": "tractor",
+  "series": "T7 S (Stage V)",
+  "power_hp_rated": 175,
+  "power_hp_max": 190,
+  "power_kw_rated": 129,
+  "power_kw_max": 140,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "ECOBlue HI-eSCR 2 (SCR)",
+   "turbo": true,
+   "max_torque_nm": 805,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Power Command full powershift 18/19x6 (40 km/h or 40 ECO)",
+   "speeds": "18/19x6",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8647,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2884,
+  "fuel_l": 312,
+  "adblue_l": 48,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42 (reference size for dimensions)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7s-stage-v ; official T7S Stage V brochure PDF (02/22) https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9eb19162860d4001977089044e621d53?v=473a61dd, spec table",
+  "notes": "Brochure figures are ISO TR14396 / ECE R120: rated 175 hp (129 kW), max 190 hp (140 kW). Max torque 805 Nm (rpm not published). Weight_kg left null: brochure only gives max permissible weight 13600 kg. Lift 8647 kg at ball ends (10463 kg with optional 110 mm rear lift rams; 6016/9266 kg through the range 610 mm behind ball ends). Front lift at ball ends. Min speed 1.98 km/h, max 40 km/h; max 4 rear valves plus 4 mid-mount valves. Creep gears optional. Tyre reference in brochure 650/65R42 rear."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.215 S",
+  "category": "tractor",
+  "series": "T7 S (Stage V)",
+  "power_hp_rated": 195,
+  "power_hp_max": 214,
+  "power_kw_rated": 143,
+  "power_kw_max": 157,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "ECOBlue HI-eSCR 2 (SCR)",
+   "turbo": true,
+   "max_torque_nm": 875,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Power Command full powershift 18/19x6 (40 km/h or 40 ECO)",
+   "speeds": "18/19x6",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8647,
+   "front_lift_kg": 5925,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2884,
+  "fuel_l": 312,
+  "adblue_l": 48,
+  "tires": {
+   "front": null,
+   "rear": "650/65R42 (reference size for dimensions)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7s-stage-v ; official T7S Stage V brochure PDF (02/22) https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9eb19162860d4001977089044e621d53?v=473a61dd, spec table",
+  "notes": "Brochure figures are ISO TR14396 / ECE R120: rated 195 hp (143 kW), max 214 hp (157 kW). Max torque 875 Nm (rpm not published). Weight_kg left null: brochure only gives max permissible weight 13600 kg. Lift 8647 kg at ball ends (10463 kg with optional 110 mm rear lift rams; 6016/9266 kg through the range 610 mm behind ball ends). Front lift at ball ends. Min speed 1.98 km/h, max 40 km/h; max 4 rear valves plus 4 mid-mount valves. Creep gears optional. Tyre reference in brochure 650/65R42 rear."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T7.175",
+  "category": "tractor",
+  "series": "T7 SWB (Stage V)",
+  "power_hp_rated": 140,
+  "power_hp_max": 175,
+  "power_kw_rated": 103,
+  "power_kw_max": 129,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT NEF 6.7",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "ECOBlue HI-eSCR 2 (SCR)",
+   "turbo": true,
+   "max_torque_nm": 750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Range Command semi-powershift 18x6 / Power Command full powershift 18x6 / Auto Command CVT",
+   "speeds": "18x6 (28x12 with creeper) or continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": "optional (28x12 / 29x12)"
+  },
+  "hydraulics": {
+   "pump_type": "Closed Centre Load Sensing (CCLS)",
+   "flow_lpm": 140,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8257,
+   "front_lift_kg": 3568,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6300,
+  "wheelbase_mm": null,
+  "fuel_l": 330,
+  "adblue_l": 48,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t7-swb-stage-v ; official T7 SWB Stage V brochure PDF (spec table, 'Models T7.165 S/T7.175/...'; downloaded from the page, 02/22)",
+  "notes": "Listed on the official New Holland UK/EU T7 SWB Stage V page (older generation than the 'new T7 SWB' 07/26 entries T7.180-T7.225; models T7.190/T7.210/T7.225 of this older page share a name with the new-generation entries already in this file and are not duplicated). Rated 140 hp (103 kW), max without EPM 155 hp (114 kW), max with EPM 175 hp (129 kW); rated EPM 160 hp (118 kW). Torque 655 Nm standard / 750 Nm EPM @1500 rpm. Transmissions: Range Command 18x6 (28x12 creeper), Power Command 18x6, Auto Command CVT 0.02-40 km/h (50 km/h optional). Pump 113 l/min (Range/Power Command), 140 l/min (160 MegaFlow) on Auto Command; 4 mechanical or 5 electrohydraulic rear valves, 3 mid-mount. Lift 8257 kg at ball ends (6616 kg through the range). Weight = min unballasted, standard front axle 6300 kg (Range/Power Command) / 6350 kg (Auto Command); Terraglide 6600/6650 kg. Max permissible 10500/11500 kg. Diesel 330 l, AdBlue 48 l. PTO engine speeds 540/540E/1000 at 1969/1546/1893 rpm."
+ },
+ {
+  "brand": "New Holland",
+  "model": "T4.75",
+  "category": "tractor",
+  "series": "T4 (Stage V)",
+  "power_hp_rated": 75,
+  "power_hp_max": 75,
+  "power_kw_rated": 55,
+  "power_kw_max": 55,
+  "power_standard": "ISO TR14396 / ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F5C",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 309,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchro Shuttle 12x12 (hydraulic Powershuttle optional)",
+   "speeds": "12x12; 20x20 with creeper",
+   "max_speed_kmh": 40,
+   "creeper": "optional (20x20)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 47.5,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2760,
+   "front_lift_kg": null,
+   "category": "I / II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (engine rpm 1958/1592)",
+   "front_pto": null
+  },
+  "weight_kg": 2700,
+  "wheelbase_mm": 2132,
+  "fuel_l": 90,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "480/70R30 (brochure dimension basis)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://agriculture.newholland.com/en-gb/europe/products/agricultural-tractors/t4-stage-v ; official T4 Stage V brochure PDF (02/22), spec table pp.18-20",
+  "notes": "Rated = max 75 hp (55 kW) ISO TR14396/ECE R120 at 2300 rpm; torque 309 Nm @1500 rpm. Engine FPT F5C 3400 cm3 turbo (listed '4/T/2'), Stage V. Transmission Synchro Shuttle 12x12 (30/40 km/h), hydraulic Powershuttle optional, 20x20 with creeper (min 0.1 km/h). Main pump 47.5 l/min (fixed displacement) + steering/services 27.5-36 l/min; 3 rear valves + 2 mid. Rear linkage Cat I/II, 2760 kg at ball ends (2070 kg through the range). PTO 540/540E (1958/1592 rpm). Weight = min 4WD with ROPS 2700 kg (cab 2830 kg, 2WD ROPS 2280 kg); max permissible 4800 kg 4WD. Wheelbase 4WD 2132 mm (2WD 2180). Diesel 90 l. Rear tyre basis 480/70R30. T4.55 and T4.65 of the same brochure are below 70 hp and not listed."
+ }
+]

@@ -1,0 +1,4960 @@
+[
+ {
+  "brand": "John Deere",
+  "model": "6R 110",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 110,
+  "power_hp_max": 135,
+  "power_kw_rated": 81,
+  "power_kw_max": 99,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 543,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / AutoQuad Plus EcoShift / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 6800,
+   "front_lift_kg": 4000,
+   "category": "II/IIIN (IIIN for 6R 140/150 per table split)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2580,
+  "fuel_l": 199,
+  "adblue_l": 13.5,
+  "tires": {
+   "front": "max 520/60R28 or 540/65R28 (table splits by model)",
+   "rear": "max 650/60R38 or 650/65R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.26-27 (pdf pages, spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-110-tractor-ndqxquw",
+  "notes": "Rated 110 hp (81 kW) ECE R120 without IPM; engine max power 121 hp (89 kW) without IPM; with Intelligent Power Management max 135 hp (99 kW), rated with IPM at 2100 rpm +20 hp. Torque 515 Nm without IPM / 543 Nm with IPM at 1600 rpm. Fuel 199 std/225 opt. Hydraulic flow 114 std (155 opt on some models, table merged cells). Up to 5+3 remote valves. Weight = shipping weight; GVW 10450 kg. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/441AL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-110-tractor-ndqxquw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 120",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 120,
+  "power_hp_max": 145,
+  "power_kw_rated": 88,
+  "power_kw_max": 107,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 585,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / AutoQuad Plus EcoShift / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 6800,
+   "front_lift_kg": 4000,
+   "category": "II/IIIN (IIIN for 6R 140/150 per table split)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2580,
+  "fuel_l": 199,
+  "adblue_l": 13.5,
+  "tires": {
+   "front": "max 520/60R28 or 540/65R28 (table splits by model)",
+   "rear": "max 650/60R38 or 650/65R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.26-27 (pdf pages, spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-120-tractor-mdhhquw",
+  "notes": "Rated 120 hp (88 kW) ECE R120 without IPM; engine max power 132 hp (97 kW) without IPM; with Intelligent Power Management max 145 hp (107 kW), rated with IPM at 2100 rpm +20 hp. Torque 562 Nm without IPM / 585 Nm with IPM at 1600 rpm. Fuel 199 std/225 opt. Hydraulic flow 114 std (155 opt on some models, table merged cells). Up to 5+3 remote valves. Weight = shipping weight; GVW 10450 kg. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08GAL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-120-tractor-mdhhquw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 130",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 130,
+  "power_hp_max": 156,
+  "power_kw_rated": 96,
+  "power_kw_max": 115,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 627,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / AutoQuad Plus EcoShift / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 6800,
+   "front_lift_kg": 4000,
+   "category": "II/IIIN (IIIN for 6R 140/150 per table split)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2580,
+  "fuel_l": 199,
+  "adblue_l": 13.5,
+  "tires": {
+   "front": "max 520/60R28 or 540/65R28 (table splits by model)",
+   "rear": "max 650/60R38 or 650/65R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.26-27 (pdf pages, spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-130-tractor-mdbaquw",
+  "notes": "Rated 130 hp (96 kW) ECE R120 without IPM; engine max power 143 hp (105 kW) without IPM; with Intelligent Power Management max 156 hp (115 kW), rated with IPM at 2100 rpm +20 hp. Torque 609 Nm without IPM / 627 Nm with IPM at 1600 rpm. Fuel 199 std/225 opt. Hydraulic flow 114 std (155 opt on some models, table merged cells). Up to 5+3 remote valves. Weight = shipping weight; GVW 10450 kg. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/00ZAL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-130-tractor-mdbaquw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 140",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 140,
+  "power_hp_max": 166,
+  "power_kw_rated": 103,
+  "power_kw_max": 122,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 669,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / AutoQuad Plus EcoShift / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 6800,
+   "front_lift_kg": 4000,
+   "category": "II/IIIN (IIIN for 6R 140/150 per table split)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2580,
+  "fuel_l": 199,
+  "adblue_l": 13.5,
+  "tires": {
+   "front": "max 520/60R28 or 540/65R28 (table splits by model)",
+   "rear": "max 650/60R38 or 650/65R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.26-27 (pdf pages, spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-140-tractor-mdfbm0w",
+  "notes": "Rated 140 hp (103 kW) ECE R120 without IPM; engine max power 154 hp (113 kW) without IPM; with Intelligent Power Management max 166 hp (122 kW), rated with IPM at 2100 rpm +20 hp. Torque 656 Nm without IPM / 669 Nm with IPM at 1600 rpm. Fuel 199 std/225 opt. Hydraulic flow 114 std (155 opt on some models, table merged cells). Up to 5+3 remote valves. Weight = shipping weight; GVW 10450 kg. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/01A3L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-140-tractor-mdfbm0w); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 150",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 150,
+  "power_hp_max": 177,
+  "power_kw_rated": 110,
+  "power_kw_max": 130,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 711,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / AutoQuad Plus EcoShift / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 6800,
+   "front_lift_kg": 4000,
+   "category": "II/IIIN (IIIN for 6R 140/150 per table split)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2580,
+  "fuel_l": 199,
+  "adblue_l": 13.5,
+  "tires": {
+   "front": "max 520/60R28 or 540/65R28 (table splits by model)",
+   "rear": "max 650/60R38 or 650/65R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.26-27 (pdf pages, spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-150-tractor-mdfdm0w",
+  "notes": "Rated 150 hp (110 kW) ECE R120 without IPM; engine max power 165 hp (121 kW) without IPM; with Intelligent Power Management max 177 hp (130 kW), rated with IPM at 2100 rpm +20 hp. Torque 702 Nm without IPM / 711 Nm with IPM at 1600 rpm. Fuel 199 std/225 opt. Hydraulic flow 114 std (155 opt on some models, table merged cells). Up to 5+3 remote valves. Weight = shipping weight; GVW 10450 kg. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/01C3L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-150-tractor-mdfdm0w); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 145",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 145,
+  "power_hp_max": 192,
+  "power_kw_rated": 107,
+  "power_kw_max": 141,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 773,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / DirectDrive (not 185) / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 8100,
+   "front_lift_kg": 4000,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7900,
+  "wheelbase_mm": 2765,
+  "fuel_l": 280,
+  "adblue_l": 16,
+  "tires": {
+   "front": "max 600/65R28",
+   "rear": "max 710/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.27-28 (spec table)",
+  "notes": "Rated 145 hp (107 kW) ECE R120; engine max 160 hp (117 kW) without IPM; with IPM max 192 hp (141 kW). Torque 679/773 Nm (without/with IPM) at 1600 rpm. Fuel 280 std/322 opt. Flow 114 std/155 opt. Weight = shipping weight, GVW 11750 kg."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 155",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 155,
+  "power_hp_max": 203,
+  "power_kw_rated": 114,
+  "power_kw_max": 149,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 815,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / DirectDrive (not 185) / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 8100,
+   "front_lift_kg": 4000,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7900,
+  "wheelbase_mm": 2765,
+  "fuel_l": 280,
+  "adblue_l": 16,
+  "tires": {
+   "front": "max 600/65R28",
+   "rear": "max 710/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.27-28 (spec table)",
+  "notes": "Rated 155 hp (114 kW) ECE R120; engine max 171 hp (125 kW) without IPM; with IPM max 203 hp (149 kW). Torque 726/815 Nm (without/with IPM) at 1600 rpm. Fuel 280 std/322 opt. Flow 114 std/155 opt. Weight = shipping weight, GVW 11750 kg."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 165",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 165,
+  "power_hp_max": 213,
+  "power_kw_rated": 121,
+  "power_kw_max": 157,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 842,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / DirectDrive (not 185) / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 8100,
+   "front_lift_kg": 4000,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7900,
+  "wheelbase_mm": 2765,
+  "fuel_l": 280,
+  "adblue_l": 16,
+  "tires": {
+   "front": "max 600/65R28",
+   "rear": "max 710/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.27-28 (spec table)",
+  "notes": "Rated 165 hp (121 kW) ECE R120; engine max 182 hp (133 kW) without IPM; with IPM max 213 hp (157 kW). Torque 773/842 Nm (without/with IPM) at 1600 rpm. Fuel 280 std/322 opt. Flow 114 std/155 opt. Weight = shipping weight, GVW 11750 kg."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 185",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 185,
+  "power_hp_max": 234,
+  "power_kw_rated": 136,
+  "power_kw_max": 172,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 941,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus / DirectDrive (not 185) / AutoPowr (CVT)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 8100,
+   "front_lift_kg": 4000,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540/540E/1000 and 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7900,
+  "wheelbase_mm": 2765,
+  "fuel_l": 280,
+  "adblue_l": 16,
+  "tires": {
+   "front": "max 600/65R28",
+   "rear": "max 710/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2025.pdf p.27-28 (spec table)",
+  "notes": "Rated 185 hp (136 kW) ECE R120; engine max 204 hp (150 kW) without IPM; with IPM max 234 hp (172 kW). Torque 866/941 Nm (without/with IPM) at 1600 rpm. Fuel 280 std/322 opt. Flow 114 std/155 opt. Weight = shipping weight, GVW 11750 kg."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 180",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 180,
+  "power_hp_max": 229,
+  "power_kw_rated": 132,
+  "power_kw_max": 168,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 920,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr (CVT) / e19 (19/19 powershift, not 6R 240)",
+   "speeds": "e19 19/19 or AutoPowr continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9550,
+   "front_lift_kg": 4000,
+   "category": "3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8900,
+  "wheelbase_mm": 2800,
+  "fuel_l": 360,
+  "adblue_l": 21,
+  "tires": {
+   "front": "max 600/70R28",
+   "rear": "max 800/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional); cab noise 66 dB(A)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2026.pdf p.49 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-180-tractor-mdhfrkw",
+  "notes": "Rated 180 hp (132 kW) ECE R120 without IPM; with IPM rated 220 hp (162 kW) at 2100 rpm; engine max 198 hp (146 kW) without IPM, 229 hp (168 kW) with IPM. Torque 843 Nm without / 920 Nm with boost at 1600 rpm. Engine type/frame (PVS 180-220 vs PSS 240/230/260) inferred from column grouping of merged cells. Hydraulic flow 155 std/210 opt. Fuel 360 std/435 opt. Shipping weight/wheelbase by frame group. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08EFL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-180-tractor-mdhfrkw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 200",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 200,
+  "power_hp_max": 249,
+  "power_kw_rated": 147,
+  "power_kw_max": 183,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1003,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr (CVT) / e19 (19/19 powershift, not 6R 240)",
+   "speeds": "e19 19/19 or AutoPowr continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9550,
+   "front_lift_kg": 4000,
+   "category": "3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8900,
+  "wheelbase_mm": 2800,
+  "fuel_l": 360,
+  "adblue_l": 21,
+  "tires": {
+   "front": "max 600/70R28",
+   "rear": "max 800/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional); cab noise 66 dB(A)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2026.pdf p.49 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-200-tractor-mdhurkw",
+  "notes": "Rated 200 hp (147 kW) ECE R120 without IPM; with IPM rated 240 hp (177 kW) at 2100 rpm; engine max 220 hp (162 kW) without IPM, 249 hp (183 kW) with IPM. Torque 936 Nm without / 1003 Nm with boost at 1600 rpm. Engine type/frame (PVS 180-220 vs PSS 240/230/260) inferred from column grouping of merged cells. Hydraulic flow 155 std/210 opt. Fuel 360 std/435 opt. Shipping weight/wheelbase by frame group. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08TFL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-200-tractor-mdhurkw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 220",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 220,
+  "power_hp_max": 259,
+  "power_kw_rated": 162,
+  "power_kw_max": 191,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1025,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr (CVT) / e19 (19/19 powershift, not 6R 240)",
+   "speeds": "e19 19/19 or AutoPowr continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9550,
+   "front_lift_kg": 4000,
+   "category": "3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8900,
+  "wheelbase_mm": 2800,
+  "fuel_l": 360,
+  "adblue_l": 21,
+  "tires": {
+   "front": "max 600/70R28",
+   "rear": "max 800/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional); cab noise 66 dB(A)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2026.pdf p.49 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-220-tractor-mdhvrkw",
+  "notes": "Rated 220 hp (162 kW) ECE R120 without IPM; with IPM rated 259 hp (191 kW) at 2100 rpm; engine max 242 hp (178 kW) without IPM, 259 hp (191 kW) with IPM. Torque 1025 Nm without / 1025 Nm with boost at 1600 rpm. Engine type/frame (PVS 180-220 vs PSS 240/230/260) inferred from column grouping of merged cells. Hydraulic flow 155 std/210 opt. Fuel 360 std/435 opt. Shipping weight/wheelbase by frame group. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08UFL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-220-tractor-mdhvrkw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 240",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 240,
+  "power_hp_max": 291,
+  "power_kw_rated": 177,
+  "power_kw_max": 214,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1171,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr (CVT) / e19 (19/19 powershift, not 6R 240)",
+   "speeds": "e19 19/19 or AutoPowr continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 210,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 10400,
+   "front_lift_kg": 5900,
+   "category": "3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 9850,
+  "wheelbase_mm": 2900,
+  "fuel_l": 405,
+  "adblue_l": 21,
+  "tires": {
+   "front": "max 600/70R30",
+   "rear": "max 800/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional); cab noise 66 dB(A)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2026.pdf p.49 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-240-tractor-mdhwrkw",
+  "notes": "Rated 240 hp (177 kW) ECE R120 without IPM; with IPM rated 280 hp (206 kW) at 2100 rpm; engine max 264 hp (194 kW) without IPM, 291 hp (214 kW) with IPM. Torque 1124 Nm without / 1171 Nm with boost at 1600 rpm. Engine type/frame (PVS 180-220 vs PSS 240/230/260) inferred from column grouping of merged cells. Hydraulic flow 210. Fuel 405 std/475 opt. Shipping weight/wheelbase by frame group. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08VFL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-240-tractor-mdhwrkw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 230",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 230,
+  "power_hp_max": 281,
+  "power_kw_rated": 169,
+  "power_kw_max": 206,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1129,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr (CVT) / e19 (19/19 powershift, not 6R 240)",
+   "speeds": "e19 19/19 or AutoPowr continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 210,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 10400,
+   "front_lift_kg": 5900,
+   "category": "3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 9850,
+  "wheelbase_mm": 2900,
+  "fuel_l": 405,
+  "adblue_l": 21,
+  "tires": {
+   "front": "max 600/70R30",
+   "rear": "max 800/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional); cab noise 66 dB(A)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2026.pdf p.49 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-230-tractor-mdhrrkw",
+  "notes": "Rated 230 hp (169 kW) ECE R120 without IPM; with IPM rated 270 hp (199 kW) at 2100 rpm; engine max 253 hp (186 kW) without IPM, 281 hp (206 kW) with IPM. Torque 1077 Nm without / 1129 Nm with boost at 1600 rpm. Engine type/frame (PVS 180-220 vs PSS 240/230/260) inferred from column grouping of merged cells. Hydraulic flow 210. Fuel 405 std/475 opt. Shipping weight/wheelbase by frame group. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08QFL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-230-tractor-mdhrrkw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6R 260",
+  "category": "tractor",
+  "series": "6R",
+  "power_hp_rated": 260,
+  "power_hp_max": 305,
+  "power_kw_rated": 191,
+  "power_kw_max": 224,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1245,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr (CVT) / e19 (19/19 powershift, not 6R 240)",
+   "speeds": "e19 19/19 or AutoPowr continuous 0.02-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 210,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 10400,
+   "front_lift_kg": 5900,
+   "category": "3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options 540E/1000/1000E)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 9850,
+  "wheelbase_mm": 2900,
+  "fuel_l": 405,
+  "adblue_l": 21,
+  "tires": {
+   "front": "max 600/70R30",
+   "rear": "max 800/70R38"
+  },
+  "cab": {
+   "suspension": "HCS Plus hydraulic cab suspension (optional); cab noise 66 dB(A)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac Ready (standard)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6R_folleto_2026.pdf p.49 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-260-tractor-mdhxrkw",
+  "notes": "Rated 260 hp (191 kW) ECE R120 without IPM; with IPM rated 300 hp (221 kW) at 2100 rpm; engine max 286 hp (210 kW) without IPM, 305 hp (224 kW) with IPM. Torque 1217 Nm without / 1245 Nm with boost at 1600 rpm. Engine type/frame (PVS 180-220 vs PSS 240/230/260) inferred from column grouping of merged cells. Hydraulic flow 210. Fuel 405 std/475 opt. Shipping weight/wheelbase by frame group. Null fields filled from official UK spec table (max_pressure_bar): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/08WFL/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-260-tractor-mdhxrkw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 95",
+  "category": "tractor",
+  "series": "6M (short frame)",
+  "power_hp_rated": 95,
+  "power_hp_max": 120,
+  "power_kw_rated": 70,
+  "power_kw_max": 88,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech EWS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 445,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5650,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5900,
+  "wheelbase_mm": 2400,
+  "fuel_l": 175,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-95-tractor-njawmuw",
+  "notes": "Rated 95 hp (70 kW) ECE R120; engine max 105 hp (77 kW) without IPM, 120 hp (88 kW) with IPM. Torque 445 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6001L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-95-tractor-njawmuw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 105",
+  "category": "tractor",
+  "series": "6M (short frame)",
+  "power_hp_rated": 105,
+  "power_hp_max": 130,
+  "power_kw_rated": 77,
+  "power_kw_max": 96,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech EWS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 492,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5650,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5900,
+  "wheelbase_mm": 2400,
+  "fuel_l": 175,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-105-tractor-njaxmuw",
+  "notes": "Rated 105 hp (77 kW) ECE R120; engine max 116 hp (85 kW) without IPM, 130 hp (96 kW) with IPM. Torque 492 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6011L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-105-tractor-njaxmuw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 115",
+  "category": "tractor",
+  "series": "6M (short frame)",
+  "power_hp_rated": 115,
+  "power_hp_max": 140,
+  "power_kw_rated": 85,
+  "power_kw_max": 103,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech EWS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 538,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5650,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5900,
+  "wheelbase_mm": 2400,
+  "fuel_l": 175,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-115-tractor-nje4muw",
+  "notes": "Rated 115 hp (85 kW) ECE R120; engine max 126 hp (93 kW) without IPM, 140 hp (103 kW) with IPM. Torque 538 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6181L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-115-tractor-nje4muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 125",
+  "category": "tractor",
+  "series": "6M (short frame)",
+  "power_hp_rated": 125,
+  "power_hp_max": 150,
+  "power_kw_rated": 92,
+  "power_kw_max": 110,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech EWS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 585,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5650,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 5900,
+  "wheelbase_mm": 2400,
+  "fuel_l": 175,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-125-tractor-nja0muw",
+  "notes": "Rated 125 hp (92 kW) ECE R120; engine max 138 hp (101 kW) without IPM, 150 hp (110 kW) with IPM. Torque 585 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6041L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-125-tractor-nja0muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 130",
+  "category": "tractor",
+  "series": "6M (small frame)",
+  "power_hp_rated": 130,
+  "power_hp_max": 156,
+  "power_kw_rated": 96,
+  "power_kw_max": 115,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 609,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 6400,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6200,
+  "wheelbase_mm": 2580,
+  "fuel_l": 205,
+  "adblue_l": 14,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-130-tractor-nja1muw",
+  "notes": "Rated 130 hp (96 kW) ECE R120; engine max 143 hp (105 kW) without IPM, 156 hp (115 kW) with IPM. Torque 609 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6051L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-130-tractor-nja1muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 140",
+  "category": "tractor",
+  "series": "6M (small frame)",
+  "power_hp_rated": 140,
+  "power_hp_max": 166,
+  "power_kw_rated": 103,
+  "power_kw_max": 122,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 656,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 6400,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6200,
+  "wheelbase_mm": 2580,
+  "fuel_l": 205,
+  "adblue_l": 14,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-140-tractor-nja2muw",
+  "notes": "Rated 140 hp (103 kW) ECE R120; engine max 154 hp (113 kW) without IPM, 166 hp (122 kW) with IPM. Torque 656 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6061L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-140-tractor-nja2muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 150",
+  "category": "tractor",
+  "series": "6M (small frame)",
+  "power_hp_rated": 150,
+  "power_hp_max": 177,
+  "power_kw_rated": 110,
+  "power_kw_max": 130,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS 4.5L",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 702,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 6400,
+   "front_lift_kg": 4400,
+   "category": "II/III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 6200,
+  "wheelbase_mm": 2580,
+  "fuel_l": 205,
+  "adblue_l": 14,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-150-tractor-nja3muw",
+  "notes": "Rated 150 hp (110 kW) ECE R120; engine max 165 hp (121 kW) without IPM, 177 hp (130 kW) with IPM. Torque 702 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 10450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6071L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-150-tractor-nja3muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 145",
+  "category": "tractor",
+  "series": "6M (medium frame)",
+  "power_hp_rated": 145,
+  "power_hp_max": 171,
+  "power_kw_rated": 107,
+  "power_kw_max": 126,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 679,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 7650,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7800,
+  "wheelbase_mm": 2765,
+  "fuel_l": 285,
+  "adblue_l": 16,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-145-tractor-nje5muw",
+  "notes": "Rated 145 hp (107 kW) ECE R120; engine max 160 hp (117 kW) without IPM, 171 hp (126 kW) with IPM. Torque 679 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 12400 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6191L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-145-tractor-nje5muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 155",
+  "category": "tractor",
+  "series": "6M (medium frame)",
+  "power_hp_rated": 155,
+  "power_hp_max": 182,
+  "power_kw_rated": 114,
+  "power_kw_max": 134,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 726,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 7650,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7800,
+  "wheelbase_mm": 2765,
+  "fuel_l": 285,
+  "adblue_l": 16,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-155-tractor-nja4muw",
+  "notes": "Rated 155 hp (114 kW) ECE R120; engine max 171 hp (126 kW) without IPM, 182 hp (134 kW) with IPM. Torque 726 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 12400 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6081L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-155-tractor-nja4muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 165",
+  "category": "tractor",
+  "series": "6M (medium frame)",
+  "power_hp_rated": 165,
+  "power_hp_max": 192,
+  "power_kw_rated": 121,
+  "power_kw_max": 141,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 773,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 7650,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7800,
+  "wheelbase_mm": 2765,
+  "fuel_l": 285,
+  "adblue_l": 16,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-165-tractor-njiwmuw",
+  "notes": "Rated 165 hp (121 kW) ECE R120; engine max 182 hp (134 kW) without IPM, 192 hp (141 kW) with IPM. Torque 773 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 12400 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6201L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-165-tractor-njiwmuw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 185",
+  "category": "tractor",
+  "series": "6M (medium frame)",
+  "power_hp_rated": 185,
+  "power_hp_max": 213,
+  "power_kw_rated": 136,
+  "power_kw_max": 157,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 866,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 7650,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 7800,
+  "wheelbase_mm": 2765,
+  "fuel_l": 285,
+  "adblue_l": 16,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-185-tractor-njixmuw",
+  "notes": "Rated 185 hp (136 kW) ECE R120; engine max 204 hp (150 kW) without IPM, 213 hp (157 kW) with IPM. Torque 866 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 12400 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6211L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-185-tractor-njixmuw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 180",
+  "category": "tractor",
+  "series": "6M (large frame)",
+  "power_hp_rated": 180,
+  "power_hp_max": 208,
+  "power_kw_rated": 132,
+  "power_kw_max": 153,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 843,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9050,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8500,
+  "wheelbase_mm": 2800,
+  "fuel_l": 325,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-180-tractor-njexmuw",
+  "notes": "Rated 180 hp (132 kW) ECE R120; engine max 198 hp (146 kW) without IPM, 208 hp (153 kW) with IPM. Torque 843 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 13450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6111L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-180-tractor-njexmuw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 200",
+  "category": "tractor",
+  "series": "6M (large frame)",
+  "power_hp_rated": 200,
+  "power_hp_max": 229,
+  "power_kw_rated": 147,
+  "power_kw_max": 168,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 936,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9050,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8500,
+  "wheelbase_mm": 2800,
+  "fuel_l": 325,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-200-tractor-njezmuw",
+  "notes": "Rated 200 hp (147 kW) ECE R120; engine max 220 hp (162 kW) without IPM, 229 hp (168 kW) with IPM. Torque 936 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 13450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6131L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-200-tractor-njezmuw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 220",
+  "category": "tractor",
+  "series": "6M (large frame)",
+  "power_hp_rated": 220,
+  "power_hp_max": 249,
+  "power_kw_rated": 162,
+  "power_kw_max": 184,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1025,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9050,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8500,
+  "wheelbase_mm": 2800,
+  "fuel_l": 325,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-220-tractor-nje0muw",
+  "notes": "Rated 220 hp (162 kW) ECE R120; engine max 242 hp (178 kW) without IPM, 249 hp (184 kW) with IPM. Torque 1025 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 13450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6141L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-220-tractor-nje0muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 240",
+  "category": "tractor",
+  "series": "6M (large frame)",
+  "power_hp_rated": 240,
+  "power_hp_max": 270,
+  "power_kw_rated": 177,
+  "power_kw_max": 199,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1124,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9050,
+   "front_lift_kg": 4400,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 8500,
+  "wheelbase_mm": 2800,
+  "fuel_l": 325,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-240-tractor-nje2muw",
+  "notes": "Rated 240 hp (177 kW) ECE R120; engine max 264 hp (194 kW) without IPM, 270 hp (199 kW) with IPM. Torque 1124 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 13450 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6161L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-240-tractor-nje2muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 230",
+  "category": "tractor",
+  "series": "6M (extra-large frame)",
+  "power_hp_rated": 230,
+  "power_hp_max": 260,
+  "power_kw_rated": 169,
+  "power_kw_max": 191,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1077,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9900,
+   "front_lift_kg": 5900,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 9300,
+  "wheelbase_mm": 2900,
+  "fuel_l": 410,
+  "adblue_l": 25,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Optional: Mechanical Cab Suspension (MCS)",
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-230-tractor-nje1muw",
+  "notes": "Rated 230 hp (169 kW) ECE R120; engine max 253 hp (186 kW) without IPM, 260 hp (191 kW) with IPM. Torque 1077 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 15000 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.suspension, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6151L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-230-tractor-nje1muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "6M 250",
+  "category": "tractor",
+  "series": "6M (extra-large frame)",
+  "power_hp_rated": 250,
+  "power_hp_max": 281,
+  "power_kw_rated": 184,
+  "power_kw_max": 206,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS 6.8L",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1171,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "PowrQuad Plus / AutoQuad Plus / CommandQuad Plus / AutoPowr (CVT; availability varies by model)",
+   "speeds": "20/20, 24/24 or CVT 0.03-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9900,
+   "front_lift_kg": 5900,
+   "category": "III/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options per model)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 9300,
+  "wheelbase_mm": 2900,
+  "fuel_l": 410,
+  "adblue_l": 25,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Optional: Mechanical Cab Suspension (MCS)",
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional: AutoTrac™ with Universal/CommandCenter™ display"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_6M_folleto.pdf p.39-41 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-250-tractor-nje3muw",
+  "notes": "Rated 250 hp (184 kW) ECE R120; engine max 275 hp (202 kW) without IPM, 281 hp (206 kW) with IPM. Torque 1171 Nm without boost at 1600 rpm. Engine model per frame group (EWS 95-125, PSS 130-150, PVS 145-220, PSS 230/240/250: 240 assigned by column grouping). Rear lift = max at hooks (small frames list two values std/opt: 4350/5650 short, 5650/6400 small; value shown is higher). Flow shown is first (standard) value; options 114 (short), 155 (medium), 195 (large/XL). Fuel std; weight = shipping weight; GVW 15000 kg. 6MH 155 (hillside) not included. Null fields filled from official UK spec table (max_pressure_bar, front_lift_kg, cab.suspension, cab.isobus, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/6171L/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6m-250-tractor-nje3muw); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5075M",
+  "category": "tractor",
+  "series": "5M",
+  "power_hp_rated": 75,
+  "power_hp_max": 75,
+  "power_kw_rated": 55,
+  "power_kw_max": 55,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech E",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF",
+   "turbo": true,
+   "max_torque_nm": 304,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrReverser / PowrQuad Plus / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 70,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3704,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (5075M PowrReverser: 540/540E)",
+   "front_pto": "1000 (cab, optional)"
+  },
+  "weight_kg": 4175,
+  "wheelbase_mm": 2350,
+  "fuel_l": 191,
+  "adblue_l": null,
+  "tires": {
+   "front": "max 480/65R24",
+   "rear": "max 540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_5M_folleto.pdf p.20-21 (spec table)",
+  "notes": "Rated 75 hp (55 kW) 97/68/EC; max 75 hp (55 kW). Torque 304 Nm at 1600 rpm. Rear lift = EHC standard value (opt. higher; 5095M/5105M 3704 with PowrReverser, 5045 with PowrQuad/Powr8). Weight = min shipping weight (cab); GVW 7500-8200 kg. Fuel = cab version. Front lift 2875 kg."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5095M",
+  "category": "tractor",
+  "series": "5M",
+  "power_hp_rated": 95,
+  "power_hp_max": 100,
+  "power_kw_rated": 69,
+  "power_kw_max": 74,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 396,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrReverser / PowrQuad Plus / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 73,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5045,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (5075M PowrReverser: 540/540E)",
+   "front_pto": "1000 (cab, optional)"
+  },
+  "weight_kg": 4175,
+  "wheelbase_mm": 2350,
+  "fuel_l": 159,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 480/65R24",
+   "rear": "max 540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "Optional: AutoTrac™ with AutoTrac Basic"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_5M_folleto.pdf p.20-21 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5095m-tractor-mjqyufbz",
+  "notes": "Rated 95 hp (69 kW) 97/68/EC; max 100 hp (74 kW). Torque 396 Nm at 1600 rpm. Rear lift = EHC standard value (opt. higher; 5095M/5105M 3704 with PowrReverser, 5045 with PowrQuad/Powr8). Weight = min shipping weight (cab); GVW 7500-8200 kg. Fuel = cab version. Front lift 2875 kg. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/242PPY/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5095m-tractor-mjqyufbz); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5105M",
+  "category": "tractor",
+  "series": "5M",
+  "power_hp_rated": 105,
+  "power_hp_max": 110,
+  "power_kw_rated": 77,
+  "power_kw_max": 81,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 437,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrReverser / PowrQuad Plus / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 73,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5045,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (5075M PowrReverser: 540/540E)",
+   "front_pto": "1000 (cab, optional)"
+  },
+  "weight_kg": 4175,
+  "wheelbase_mm": 2350,
+  "fuel_l": 159,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 480/65R24",
+   "rear": "max 540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "Optional: AutoTrac™ with AutoTrac Basic"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_5M_folleto.pdf p.20-21 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5105m-tractor-mjqzufbz",
+  "notes": "Rated 105 hp (77 kW) 97/68/EC; max 110 hp (81 kW). Torque 437 Nm at 1600 rpm. Rear lift = EHC standard value (opt. higher; 5095M/5105M 3704 with PowrReverser, 5045 with PowrQuad/Powr8). Weight = min shipping weight (cab); GVW 7500-8200 kg. Fuel = cab version. Front lift 2875 kg. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/243PPY/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5105m-tractor-mjqzufbz); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5120M",
+  "category": "tractor",
+  "series": "5M",
+  "power_hp_rated": 120,
+  "power_hp_max": 125,
+  "power_kw_rated": 88,
+  "power_kw_max": 92,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 500,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrReverser / PowrQuad Plus / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 73,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5045,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (5075M PowrReverser: 540/540E)",
+   "front_pto": "1000 (cab, optional)"
+  },
+  "weight_kg": 4400,
+  "wheelbase_mm": 2350,
+  "fuel_l": 159,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 480/65R24",
+   "rear": "max 540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "Optional: AutoTrac™ with AutoTrac Basic"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_5M_folleto.pdf p.20-21 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5120m-tractor-mjq0ufbz",
+  "notes": "Rated 120 hp (88 kW) 97/68/EC; max 125 hp (92 kW). Torque 500 Nm at 1600 rpm. Rear lift = EHC standard value (opt. higher; 5095M/5105M 3704 with PowrReverser, 5045 with PowrQuad/Powr8). Weight = min shipping weight (cab); GVW 7500-8200 kg. Fuel = cab version. Front lift 2875 kg. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/244PPY/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5120m-tractor-mjq0ufbz); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5130M",
+  "category": "tractor",
+  "series": "5M",
+  "power_hp_rated": 130,
+  "power_hp_max": 135,
+  "power_kw_rated": 95,
+  "power_kw_max": 99,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 541,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrReverser / PowrQuad Plus / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 73,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5045,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (5075M PowrReverser: 540/540E)",
+   "front_pto": "1000 (cab, optional)"
+  },
+  "weight_kg": 4400,
+  "wheelbase_mm": 2350,
+  "fuel_l": 159,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 480/65R24",
+   "rear": "max 540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "Optional: AutoTrac™ with AutoTrac Basic"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_5M_folleto.pdf p.20-21 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5130m-tractor-mjq1ufbz",
+  "notes": "Rated 130 hp (95 kW) 97/68/EC; max 135 hp (99 kW). Torque 541 Nm at 1600 rpm. Rear lift = EHC standard value (opt. higher; 5095M/5105M 3704 with PowrReverser, 5045 with PowrQuad/Powr8). Weight = min shipping weight (cab); GVW 7500-8200 kg. Fuel = cab version. Front lift 2875 kg. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/245PPY/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5130m-tractor-mjq1ufbz); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5105ML",
+  "category": "tractor",
+  "series": "5M L (narrow cab, specialty)",
+  "power_hp_rated": 105,
+  "power_hp_max": 110.3,
+  "power_kw_rated": 77.2,
+  "power_kw_max": 81.1,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 4045 PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 437,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrQuad / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 117,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4261,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2350,
+  "fuel_l": 139,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 360/70R20 (standard axle)",
+   "rear": "max 480/65R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "AutoTrac Ready (optional)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.20 (printed pp.38-39)",
+  "notes": "Narrow-cab (1240 mm) 5M variant for orchard/vineyard. Rated 105 hp; max 110.3 hp (81.1 kW). Rear lift std 4261 kg (opt 4942). Weight = min shipping; GVW 7500 kg; wheelbase 2350 (standard front axle)/2300 (narrow axle)."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5120ML",
+  "category": "tractor",
+  "series": "5M L (narrow cab, specialty)",
+  "power_hp_rated": 120,
+  "power_hp_max": 125.2,
+  "power_kw_rated": 88.3,
+  "power_kw_max": 92.1,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 4045 PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 500,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrQuad / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 117,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4261,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2350,
+  "fuel_l": 139,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 360/70R20 (standard axle)",
+   "rear": "max 480/65R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "AutoTrac Ready (optional)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.20 (printed pp.38-39)",
+  "notes": "Narrow-cab (1240 mm) 5M variant for orchard/vineyard. Rated 120 hp; max 125.2 hp (92.1 kW). Rear lift std 4261 kg (opt 4942). Weight = min shipping; GVW 7500 kg; wheelbase 2350 (standard front axle)/2300 (narrow axle)."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5130ML",
+  "category": "tractor",
+  "series": "5M L (narrow cab, specialty)",
+  "power_hp_rated": 130,
+  "power_hp_max": 135.8,
+  "power_kw_rated": 95.6,
+  "power_kw_max": 99.9,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 4045 PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 541,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powerquad",
+   "model": "PowrQuad / Powr8",
+   "speeds": "12/12 to 32/16; 40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 117,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4261,
+   "front_lift_kg": 2875,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2350,
+  "fuel_l": 139,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 360/70R20 (standard axle)",
+   "rear": "max 480/65R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "AutoTrac Ready (optional)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.20 (printed pp.38-39)",
+  "notes": "Narrow-cab (1240 mm) 5M variant for orchard/vineyard. Rated 130 hp; max 135.8 hp (99.9 kW). Rear lift std 4261 kg (opt 4942). Weight = min shipping; GVW 7500 kg; wheelbase 2350 (standard front axle)/2300 (narrow axle)."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5075E",
+  "category": "tractor",
+  "series": "5E",
+  "power_hp_rated": 75,
+  "power_hp_max": 75,
+  "power_kw_rated": 55,
+  "power_kw_max": 55,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech E",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "turbo": true,
+   "max_torque_nm": 304,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "PowrReverser 12A/12R or 24A/12R (Hi-Lo)",
+   "speeds": "12/12 or 24/12; 1.46-39.75 km/h",
+   "max_speed_kmh": 39.75,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 43.5,
+   "max_pressure_bar": 197,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2400,
+   "front_lift_kg": null,
+   "category": "II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 3320,
+  "wheelbase_mm": 2050,
+  "fuel_l": 82,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_5E_folleto.pdf p.5 + spec table (last pages)",
+  "notes": "Rated 75 hp (55 kW) 97/68/EC. Main pump 43.5 l/min (+22.7 l/min steering/transmission pump). Rear lift 2400 kg at hooks (1750 kg at 610 mm). Weight with cab (OOS 2950 kg); GVW 5100 kg. Engine cooling 2100 rpm rated."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5075EN",
+  "category": "tractor",
+  "series": "5EN (narrow, orchard/vineyard specialty)",
+  "power_hp_rated": 75,
+  "power_hp_max": 75,
+  "power_kw_rated": 55,
+  "power_kw_max": 55,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech EWX",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "turbo": true,
+   "max_torque_nm": 304,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical/PowrReverser (see brochure)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 66.2,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2400,
+   "front_lift_kg": null,
+   "category": "I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 3000,
+  "wheelbase_mm": 1950,
+  "fuel_l": 72,
+  "adblue_l": null,
+  "tires": {
+   "front": "max 320/65R18",
+   "rear": "max 420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.21 (printed pp.40-41)",
+  "notes": "Narrow specialty tractor. Rated 75 hp (55 kW); max 75 hp (55 kW). Flow = sum of two pumps. Rated rpm for 5075EN vs 5090/5105EN read from merged '2100 2400' cells (assumed in order). Weight 5075EN cab 3000 kg (OOS 2800); 5090/5105EN 3550 kg; GVW 4800 kg. Fuel 70(OOS)/72(cab) for 5075EN."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5090EN",
+  "category": "tractor",
+  "series": "5EN (narrow, orchard/vineyard specialty)",
+  "power_hp_rated": 90,
+  "power_hp_max": 92.4,
+  "power_kw_rated": 67.4,
+  "power_kw_max": 68.9,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 4045 PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 350,
+   "max_torque_rpm": null,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical/PowrReverser (see brochure)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 94.0,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2400,
+   "front_lift_kg": null,
+   "category": "I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 3550,
+  "wheelbase_mm": 2250,
+  "fuel_l": 108,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 320/65R18",
+   "rear": "max 420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": "Optional: AutoTrac™ Universal Ready"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.21 (printed pp.40-41) | https://www.deere.co.uk/en-gb/products-solutions/tractors/high-value-crop-tractors/5090en-tractor-mdzxtva",
+  "notes": "Narrow specialty tractor. Rated 90 hp (67.4 kW); max 92.4 hp (68.9 kW). Flow = sum of two pumps. Rated rpm for 5075EN vs 5090/5105EN read from merged '2100 2400' cells (assumed in order). Weight 5075EN cab 3000 kg (OOS 2800); 5090/5105EN 3550 kg; GVW 4800 kg. Fuel 70(OOS)/72(cab) for 5075EN. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/06WMP/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/high-value-crop-tractors/5090en-tractor-mdzxtva); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5105EN",
+  "category": "tractor",
+  "series": "5EN (narrow, orchard/vineyard specialty)",
+  "power_hp_rated": 105,
+  "power_hp_max": 106.2,
+  "power_kw_rated": 77.4,
+  "power_kw_max": 79.2,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 4045 PWS",
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "EGR+DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 397,
+   "max_torque_rpm": null,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical/PowrReverser (see brochure)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 94.0,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2400,
+   "front_lift_kg": null,
+   "category": "I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 3550,
+  "wheelbase_mm": 2250,
+  "fuel_l": 108,
+  "adblue_l": 12,
+  "tires": {
+   "front": "max 320/65R18",
+   "rear": "max 420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": "Optional: AutoTrac™ Universal Ready"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.21 (printed pp.40-41) | https://www.deere.co.uk/en-gb/products-solutions/tractors/high-value-crop-tractors/5105en-tractor-mdzbu1a",
+  "notes": "Narrow specialty tractor. Rated 105 hp (77.4 kW); max 106.2 hp (79.2 kW). Flow = sum of two pumps. Rated rpm for 5075EN vs 5090/5105EN read from merged '2100 2400' cells (assumed in order). Weight 5075EN cab 3000 kg (OOS 2800); 5090/5105EN 3550 kg; GVW 4800 kg. Fuel 70(OOS)/72(cab) for 5075EN. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/06ASP/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/high-value-crop-tractors/5105en-tractor-mdzbu1a); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5075G",
+  "category": "tractor",
+  "series": "5G (vineyard/orchard specialty: V/N/F/L variants)",
+  "power_hp_rated": 74.7,
+  "power_hp_max": 74.7,
+  "power_kw_rated": 55,
+  "power_kw_max": 55,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "turbo": true,
+   "max_torque_nm": 309,
+   "max_torque_rpm": null,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical reverser or PowrReverser, Hi-Lo",
+   "speeds": "12/12 to 30/30; 30-40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "I or I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.22 (printed pp.42-43)",
+  "notes": "Specialty tractor, versions V/N/F/L (open platform or narrow cabs). Rated 74.7 hp (55 kW) 97/68/EC. Rear lift 25.4-26 kN at hitch points (kg not stated; kN given), front lift 1680-1700 kg. Weight, fuel and wheelbase vary by version (e.g. 5075G 4WD cab 2915-3125 kg; wheelbase ~2075-2148 mm) so left null. Hydraulic flow = 27 + 60 l/min pumps. Engine FPT F34 3.4 L, rated 2300 rpm."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5090G",
+  "category": "tractor",
+  "series": "5G (vineyard/orchard specialty: V/N/F/L variants)",
+  "power_hp_rated": 91,
+  "power_hp_max": 91,
+  "power_kw_rated": 67.1,
+  "power_kw_max": 67.1,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "turbo": true,
+   "max_torque_nm": 366,
+   "max_torque_rpm": null,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical reverser or PowrReverser, Hi-Lo",
+   "speeds": "12/12 to 30/30; 30-40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "I or I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.22 (printed pp.42-43)",
+  "notes": "Specialty tractor, versions V/N/F/L (open platform or narrow cabs). Rated 91 hp (67.1 kW) 97/68/EC. Rear lift 25.4-26 kN at hitch points (kg not stated; kN given), front lift 1680-1700 kg. Weight, fuel and wheelbase vary by version (e.g. 5075G 4WD cab 2915-3125 kg; wheelbase ~2075-2148 mm) so left null. Hydraulic flow = 27 + 60 l/min pumps. Engine FPT F34 3.4 L, rated 2300 rpm."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5105G",
+  "category": "tractor",
+  "series": "5G (vineyard/orchard specialty: V/N/F/L variants)",
+  "power_hp_rated": 105,
+  "power_hp_max": 105,
+  "power_kw_rated": 77,
+  "power_kw_max": 77,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 403,
+   "max_torque_rpm": null,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical reverser or PowrReverser, Hi-Lo",
+   "speeds": "12/12 to 30/30; 30-40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "I or I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 10.8,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.22 (printed pp.42-43)",
+  "notes": "Specialty tractor, versions V/N/F/L (open platform or narrow cabs). Rated 105 hp (77 kW) 97/68/EC. Rear lift 25.4-26 kN at hitch points (kg not stated; kN given), front lift 1680-1700 kg. Weight, fuel and wheelbase vary by version (e.g. 5075G 4WD cab 2915-3125 kg; wheelbase ~2075-2148 mm) so left null. Hydraulic flow = 27 + 60 l/min pumps. Engine FPT F36 3.6 L, rated 2300 rpm."
+ },
+ {
+  "brand": "John Deere",
+  "model": "5115G",
+  "category": "tractor",
+  "series": "5G (vineyard/orchard specialty: V/N/F/L variants)",
+  "power_hp_rated": 115,
+  "power_hp_max": 120,
+  "power_kw_rated": 85,
+  "power_kw_max": 88,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": "FPT F36",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 466,
+   "max_torque_rpm": null,
+   "rated_rpm": 2300
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical reverser or PowrReverser, Hi-Lo",
+   "speeds": "12/12 to 30/30; 30-40 km/h",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "I or I/II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 10.8,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie5_5E-5EN-5G_folleto.pdf p.22 (printed pp.42-43)",
+  "notes": "Specialty tractor, versions V/N/F/L (open platform or narrow cabs). Rated 115 hp (85 kW) 97/68/EC. Rear lift 25.4-26 kN at hitch points (kg not stated; kN given), front lift 1680-1700 kg. Weight, fuel and wheelbase vary by version (e.g. 5075G 4WD cab 2915-3125 kg; wheelbase ~2075-2148 mm) so left null. Hydraulic flow = 27 + 60 l/min pumps. Engine FPT F36 3.6 L, rated 2300 rpm."
+ },
+ {
+  "brand": "John Deere",
+  "model": "7R 270",
+  "category": "tractor",
+  "series": "7R",
+  "power_hp_rated": 270,
+  "power_hp_max": 305,
+  "power_kw_rated": 199,
+  "power_kw_max": 224,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 6.8 L twin-stage turbo",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1245,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift, 7R 270 only) / AutoPowr (CVT)",
+   "speeds": "e23 23F/11R or AutoPowr 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 162,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 3150,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options: 540/1000; 540E/1000/1000E)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 11400,
+  "wheelbase_mm": 2925,
+  "fuel_l": 463,
+  "adblue_l": 26.2,
+  "tires": {
+   "front": "max VF 710/55R34",
+   "rear": "max VF 900/60R42 or VF 750/70R44"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac (see brochure)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_7R_folleto.pdf p.25-26 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-270-tractor-odazmfjx",
+  "notes": "Rated 270 hp (199 kW) ECE R120; engine max 297 hp (218 kW) at 1900 rpm without IPM, 305 hp (224 kW) with IPM. Torque 1245 Nm at 1600 rpm. Engine assignment (6.8 L for 7R 270 only; 9.0 L for 290-350) read from merged-cell layout. Rear lift full range 6900 std/7850 opt (OECD 610 mm); front lift 3150/3500. Flow 162 l/min (63 cc pump), 223 (85 cc opt). Fuel 463 (e23) / 513 (AutoPowr). Average shipping weight 11400 kg, GVW 18000. Rear valves 4/5/6 selectable. Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8030RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-270-tractor-odazmfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "7R 290",
+  "category": "tractor",
+  "series": "7R",
+  "power_hp_rated": 290,
+  "power_hp_max": 332,
+  "power_kw_rated": 213,
+  "power_kw_max": 244,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1358,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift, 7R 270 only) / AutoPowr (CVT)",
+   "speeds": "e23 23F/11R or AutoPowr 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 162,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 3150,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options: 540/1000; 540E/1000/1000E)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 11400,
+  "wheelbase_mm": 2925,
+  "fuel_l": 513,
+  "adblue_l": 26.2,
+  "tires": {
+   "front": "max VF 710/55R34",
+   "rear": "max VF 900/60R42 or VF 750/70R44"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac (see brochure)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_7R_folleto.pdf p.25-26 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-290-tractor-oda0mfjx",
+  "notes": "Rated 290 hp (213 kW) ECE R120; engine max 319 hp (235 kW) at 1900 rpm without IPM, 332 hp (244 kW) with IPM. Torque 1358 Nm at 1600 rpm. Engine assignment (6.8 L for 7R 270 only; 9.0 L for 290-350) read from merged-cell layout. Rear lift full range 6900 std/7850 opt (OECD 610 mm); front lift 3150/3500. Flow 162 l/min (63 cc pump), 223 (85 cc opt). Fuel 463 (e23) / 513 (AutoPowr). Average shipping weight 11400 kg, GVW 18000. Rear valves 4/5/6 selectable. Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8040RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-290-tractor-oda0mfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "7R 310",
+  "category": "tractor",
+  "series": "7R",
+  "power_hp_rated": 310,
+  "power_hp_max": 352,
+  "power_kw_rated": 228,
+  "power_kw_max": 259,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1452,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift, 7R 270 only) / AutoPowr (CVT)",
+   "speeds": "e23 23F/11R or AutoPowr 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 162,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 3150,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options: 540/1000; 540E/1000/1000E)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 11400,
+  "wheelbase_mm": 2925,
+  "fuel_l": 513,
+  "adblue_l": 26.2,
+  "tires": {
+   "front": "max VF 710/55R34",
+   "rear": "max VF 900/60R42 or VF 750/70R44"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac (see brochure)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_7R_folleto.pdf p.25-26 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-310-tractor-oda1mfjx",
+  "notes": "Rated 310 hp (228 kW) ECE R120; engine max 341 hp (251 kW) at 1900 rpm without IPM, 352 hp (259 kW) with IPM. Torque 1452 Nm at 1600 rpm. Engine assignment (6.8 L for 7R 270 only; 9.0 L for 290-350) read from merged-cell layout. Rear lift full range 6900 std/7850 opt (OECD 610 mm); front lift 3150/3500. Flow 162 l/min (63 cc pump), 223 (85 cc opt). Fuel 463 (e23) / 513 (AutoPowr). Average shipping weight 11400 kg, GVW 18000. Rear valves 4/5/6 selectable. Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8050RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-310-tractor-oda1mfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "7R 330",
+  "category": "tractor",
+  "series": "7R",
+  "power_hp_rated": 330,
+  "power_hp_max": 373,
+  "power_kw_rated": 243,
+  "power_kw_max": 274,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1545,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift, 7R 270 only) / AutoPowr (CVT)",
+   "speeds": "e23 23F/11R or AutoPowr 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 162,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 3150,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options: 540/1000; 540E/1000/1000E)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 11400,
+  "wheelbase_mm": 2925,
+  "fuel_l": 513,
+  "adblue_l": 26.2,
+  "tires": {
+   "front": "max VF 710/55R34",
+   "rear": "max VF 900/60R42 or VF 750/70R44"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac (see brochure)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_7R_folleto.pdf p.25-26 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-330-tractor-oda2mfjx",
+  "notes": "Rated 330 hp (243 kW) ECE R120; engine max 363 hp (267 kW) at 1900 rpm without IPM, 373 hp (274 kW) with IPM. Torque 1545 Nm at 1600 rpm. Engine assignment (6.8 L for 7R 270 only; 9.0 L for 290-350) read from merged-cell layout. Rear lift full range 6900 std/7850 opt (OECD 610 mm); front lift 3150/3500. Flow 162 l/min (63 cc pump), 223 (85 cc opt). Fuel 463 (e23) / 513 (AutoPowr). Average shipping weight 11400 kg, GVW 18000. Rear valves 4/5/6 selectable. Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8060RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-330-tractor-oda2mfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "7R 350",
+  "category": "tractor",
+  "series": "7R",
+  "power_hp_rated": 350,
+  "power_hp_max": 388,
+  "power_kw_rated": 257,
+  "power_kw_max": 285,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 1580,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift, 7R 270 only) / AutoPowr (CVT)",
+   "speeds": "e23 23F/11R or AutoPowr 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 162,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 3150,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (options: 540/1000; 540E/1000/1000E)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 11400,
+  "wheelbase_mm": 2925,
+  "fuel_l": 513,
+  "adblue_l": 26.2,
+  "tires": {
+   "front": "max VF 710/55R34",
+   "rear": "max VF 900/60R42 or VF 750/70R44"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "AutoTrac (see brochure)"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_7R_folleto.pdf p.25-26 (spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-350-tractor-oda3mfjx",
+  "notes": "Rated 350 hp (257 kW) ECE R120; engine max 385 hp (283 kW) at 1900 rpm without IPM, 388 hp (285 kW) with IPM. Torque 1580 Nm at 1600 rpm. Engine assignment (6.8 L for 7R 270 only; 9.0 L for 290-350) read from merged-cell layout. Rear lift full range 6900 std/7850 opt (OECD 610 mm); front lift 3150/3500. Flow 162 l/min (63 cc pump), 223 (85 cc opt). Fuel 463 (e23) / 513 (AutoPowr). Average shipping weight 11400 kg, GVW 18000. Rear valves 4/5/6 selectable. Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8070RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/7r-350-tractor-oda3mfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8R 280",
+  "category": "tractor",
+  "series": "8R",
+  "power_hp_rated": 280,
+  "power_hp_max": 326,
+  "power_kw_rated": 206,
+  "power_kw_max": 240,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1311,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift) / AutoPowr (CVT) / eAutoPowr (410; availability by model per brochure)",
+   "speeds": "e23 23F/11R or continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 6520,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E; 540/1000 options)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 13400,
+  "wheelbase_mm": 3050,
+  "fuel_l": 727,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": "900/60R42 (as equipped for weight)"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "see brochure"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.42-45 (8R 280-410 spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-280-tractor-odeymvjx",
+  "notes": "Rated 280 hp (206 kW) ECE R120; engine max 308 hp (227 kW) at 1900 rpm, 326 hp (240 kW) with IPM (+35 hp). Torque 1311 Nm at 1600 rpm. Rear lift full range base 6900 kg; 8165/9000 kg options. Front lift 6520 kg (cat 3N). Flow 227 l/min std (318 with 85+35 cc pump). Fuel 727 l (651 with CTIS/eAutoPowr). Avg shipping weight 13400 kg, GVW 20000. 8R 410 eAutoPowr can deliver 100 kW electric power as an option (not a hybrid drive). Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8121RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-280-tractor-odeymvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8R 310",
+  "category": "tractor",
+  "series": "8R",
+  "power_hp_rated": 310,
+  "power_hp_max": 357,
+  "power_kw_rated": 228,
+  "power_kw_max": 263,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1452,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift) / AutoPowr (CVT) / eAutoPowr (410; availability by model per brochure)",
+   "speeds": "e23 23F/11R or continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 6520,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E; 540/1000 options)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 13400,
+  "wheelbase_mm": 3050,
+  "fuel_l": 727,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": "900/60R42 (as equipped for weight)"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "see brochure"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.42-45 (8R 280-410 spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-310-tractor-odezmvjx",
+  "notes": "Rated 310 hp (228 kW) ECE R120; engine max 341 hp (251 kW) at 1900 rpm, 357 hp (263 kW) with IPM (+35 hp). Torque 1452 Nm at 1600 rpm. Rear lift full range base 6900 kg; 8165/9000 kg options. Front lift 6520 kg (cat 3N). Flow 227 l/min std (318 with 85+35 cc pump). Fuel 727 l (651 with CTIS/eAutoPowr). Avg shipping weight 13400 kg, GVW 20000. 8R 410 eAutoPowr can deliver 100 kW electric power as an option (not a hybrid drive). Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8131RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-310-tractor-odezmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8R 340",
+  "category": "tractor",
+  "series": "8R",
+  "power_hp_rated": 340,
+  "power_hp_max": 388,
+  "power_kw_rated": 250,
+  "power_kw_max": 285,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1592,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift) / AutoPowr (CVT) / eAutoPowr (410; availability by model per brochure)",
+   "speeds": "e23 23F/11R or continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 6520,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E; 540/1000 options)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 13400,
+  "wheelbase_mm": 3050,
+  "fuel_l": 727,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": "900/60R42 (as equipped for weight)"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "see brochure"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.42-45 (8R 280-410 spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-340-tractor-ode0mvjx",
+  "notes": "Rated 340 hp (250 kW) ECE R120; engine max 374 hp (275 kW) at 1900 rpm, 388 hp (285 kW) with IPM (+35 hp). Torque 1592 Nm at 1600 rpm. Rear lift full range base 6900 kg; 8165/9000 kg options. Front lift 6520 kg (cat 3N). Flow 227 l/min std (318 with 85+35 cc pump). Fuel 727 l (651 with CTIS/eAutoPowr). Avg shipping weight 13400 kg, GVW 20000. 8R 410 eAutoPowr can deliver 100 kW electric power as an option (not a hybrid drive). Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8141RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-340-tractor-ode0mvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8R 370",
+  "category": "tractor",
+  "series": "8R",
+  "power_hp_rated": 370,
+  "power_hp_max": 420,
+  "power_kw_rated": 272,
+  "power_kw_max": 309,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1732,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift) / AutoPowr (CVT) / eAutoPowr (410; availability by model per brochure)",
+   "speeds": "e23 23F/11R or continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 6520,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E; 540/1000 options)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 13400,
+  "wheelbase_mm": 3050,
+  "fuel_l": 727,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": "900/60R42 (as equipped for weight)"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "see brochure"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.42-45 (8R 280-410 spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-370-tractor-ode1mvjx",
+  "notes": "Rated 370 hp (272 kW) ECE R120; engine max 407 hp (299 kW) at 1900 rpm, 420 hp (309 kW) with IPM (+35 hp). Torque 1732 Nm at 1600 rpm. Rear lift full range base 6900 kg; 8165/9000 kg options. Front lift 6520 kg (cat 3N). Flow 227 l/min std (318 with 85+35 cc pump). Fuel 727 l (651 with CTIS/eAutoPowr). Avg shipping weight 13400 kg, GVW 20000. 8R 410 eAutoPowr can deliver 100 kW electric power as an option (not a hybrid drive). Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8151RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-370-tractor-ode1mvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8R 410",
+  "category": "tractor",
+  "series": "8R",
+  "power_hp_rated": 410,
+  "power_hp_max": 458,
+  "power_kw_rated": 302,
+  "power_kw_max": 337,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1851,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 (23/11 powershift) / AutoPowr (CVT) / eAutoPowr (410; availability by model per brochure)",
+   "speeds": "e23 23F/11R or continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 6900,
+   "front_lift_kg": 6520,
+   "category": "3/3N or 4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E; 540/1000 options)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 13400,
+  "wheelbase_mm": 3050,
+  "fuel_l": 727,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": "900/60R42 (as equipped for weight)"
+  },
+  "cab": {
+   "suspension": "Optional: electrical Adjustable Cab Suspension (eCS)",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "see brochure"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.42-45 (8R 280-410 spec table) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-410-tractor-ode2mvjx",
+  "notes": "Rated 410 hp (302 kW) ECE R120; engine max 443 hp (326 kW) at 1900 rpm, 458 hp (337 kW) with IPM (+35 hp). Torque 1851 Nm at 1600 rpm. Rear lift full range base 6900 kg; 8165/9000 kg options. Front lift 6520 kg (cat 3N). Flow 227 l/min std (318 with 85+35 cc pump). Fuel 727 l (651 with CTIS/eAutoPowr). Avg shipping weight 13400 kg, GVW 20000. 8R 410 eAutoPowr can deliver 100 kW electric power as an option (not a hybrid drive). Null fields filled from official UK spec table (cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8161RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-410-tractor-ode2mvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RX 310",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 310,
+  "power_hp_max": 357,
+  "power_kw_rated": 228,
+  "power_kw_max": 263,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1452,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 19400,
+  "wheelbase_mm": 3235,
+  "fuel_l": 924,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-310-tractor-odmwmvjx",
+  "notes": "Four-track (rubber) articulated tractor. Rated 310 hp (228 kW) ECE R120; max 341 hp (251 kW) at 1900 rpm, 357 hp (263 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 24000 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8301RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-310-tractor-odmwmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RX 340",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 340,
+  "power_hp_max": 388,
+  "power_kw_rated": 250,
+  "power_kw_max": 285,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1592,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 19400,
+  "wheelbase_mm": 3235,
+  "fuel_l": 924,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-340-tractor-odmxmvjx",
+  "notes": "Four-track (rubber) articulated tractor. Rated 340 hp (250 kW) ECE R120; max 374 hp (275 kW) at 1900 rpm, 388 hp (285 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 24000 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8311RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-340-tractor-odmxmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RX 370",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 370,
+  "power_hp_max": 420,
+  "power_kw_rated": 272,
+  "power_kw_max": 309,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1732,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 19400,
+  "wheelbase_mm": 3235,
+  "fuel_l": 924,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-370-tractor-odmymvjx",
+  "notes": "Four-track (rubber) articulated tractor. Rated 370 hp (272 kW) ECE R120; max 407 hp (299 kW) at 1900 rpm, 420 hp (309 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 24000 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8321RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-370-tractor-odmymvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RX 410",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 410,
+  "power_hp_max": 458,
+  "power_kw_rated": 302,
+  "power_kw_max": 337,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1851,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 19400,
+  "wheelbase_mm": 3235,
+  "fuel_l": 924,
+  "adblue_l": 37.2,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-410-tractor-odmzmvjx",
+  "notes": "Four-track (rubber) articulated tractor. Rated 410 hp (302 kW) ECE R120; max 443 hp (326 kW) at 1900 rpm, 458 hp (337 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 24000 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8331RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-410-tractor-odmzmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RT 310",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 310,
+  "power_hp_max": 357,
+  "power_kw_rated": 228,
+  "power_kw_max": 263,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1452,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 16225,
+  "wheelbase_mm": 2477,
+  "fuel_l": 764,
+  "adblue_l": 31.3,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-310-tractor-odiwmvjx",
+  "notes": "Two-track tractor. Rated 310 hp (228 kW) ECE R120; max 341 hp (251 kW) at 1900 rpm, 357 hp (263 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 18200 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8201RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-310-tractor-odiwmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RT 340",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 340,
+  "power_hp_max": 388,
+  "power_kw_rated": 250,
+  "power_kw_max": 285,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1592,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 16225,
+  "wheelbase_mm": 2477,
+  "fuel_l": 764,
+  "adblue_l": 31.3,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-340-tractor-odixmvjx",
+  "notes": "Two-track tractor. Rated 340 hp (250 kW) ECE R120; max 374 hp (275 kW) at 1900 rpm, 388 hp (285 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 18200 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8211RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-340-tractor-odixmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RT 370",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 370,
+  "power_hp_max": 420,
+  "power_kw_rated": 272,
+  "power_kw_max": 309,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1732,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 16225,
+  "wheelbase_mm": 2477,
+  "fuel_l": 764,
+  "adblue_l": 31.3,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-370-tractor-odiymvjx",
+  "notes": "Two-track tractor. Rated 370 hp (272 kW) ECE R120; max 407 hp (299 kW) at 1900 rpm, 420 hp (309 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 18200 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8221RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-370-tractor-odiymvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RT 410",
+  "category": "tractor",
+  "series": "8RX/8RT tracked",
+  "power_hp_rated": 410,
+  "power_hp_max": 458,
+  "power_kw_rated": 302,
+  "power_kw_max": 337,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD9 9.0 L",
+   "cylinders": 6,
+   "displacement_l": 9.0,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 1851,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "e23 / AutoPowr / eAutoPowr",
+   "speeds": "continuous 0.05-50",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 227,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "4N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 16225,
+  "wheelbase_mm": 2477,
+  "fuel_l": 764,
+  "adblue_l": 31.3,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Standard: four-post cab suspension",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_8R_folleto.pdf p.46-52 (8RX/8RT spec tables) | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-410-tractor-odizmvjx",
+  "notes": "Two-track tractor. Rated 410 hp (302 kW) ECE R120; max 443 hp (326 kW) at 1900 rpm, 458 hp (337 kW) with IPM. Torque not read from table (null). Weight = average shipping weight; GVW 18200 kg. Wheelbase = track/ground contact length as printed. Lift capacity not extracted. Null fields filled from official UK spec table (max_torque_nm, cab.suspension): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8231RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rt-410-tractor-odizmvjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8R 440",
+  "category": "tractor",
+  "series": "8R (large)",
+  "power_hp_rated": 440,
+  "power_hp_max": 524,
+  "power_kw_rated": 324,
+  "power_kw_max": 385,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD14 13.6 L",
+   "cylinders": 6,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 2196,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "eAutoPowr (EVT)",
+   "speeds": "continuous 0.05-60",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 209,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9072,
+   "front_lift_kg": 4860,
+   "category": "4N/3 (cat 5 drawbar options)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (1000/1000E option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 16950,
+  "wheelbase_mm": 3350,
+  "fuel_l": 936,
+  "adblue_l": 69,
+  "tires": {
+   "front": "VF650/65R38 (as equipped)",
+   "rear": "VF750/75R46 (as equipped)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "SF-RTK"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie8_8R-8RX_grandes.pdf p.37-39 | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-440-tractor-odqwmfjx",
+  "notes": "Rated 440 hp (324 kW) at 1900 rpm ECE R120; max 484 hp (356 kW) at 1700 rpm; 496 hp (365 kW) with IPM; 524 hp (385 kW) with IPM peak. Displacement 13.6 L not stated in the extracted text (JD14 engine) -> check. Rear lift full range base 9072/10886 kg opt. Flow 209 l/min (320/418 with dual pumps). Avg shipping weight 16950 kg, max 24000 kg. 8R 490/540 are above the requested power range and excluded. Null fields filled from official UK spec table (cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8400RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8r-440-tractor-odqwmfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "model": "8RX 440",
+  "category": "tractor",
+  "series": "8RX (tracked)",
+  "power_hp_rated": 440,
+  "power_hp_max": 524,
+  "power_kw_rated": 324,
+  "power_kw_max": 385,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "JD14",
+   "cylinders": 6,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR (EGR)",
+   "turbo": true,
+   "max_torque_nm": 2196,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "eAutoPowr (EVT)",
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": 204,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": 7690,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 22700,
+  "wheelbase_mm": 3465,
+  "fuel_l": 1123,
+  "adblue_l": 69,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "SF-RTK"
+  },
+  "source": "Local: Catalegs/Zoomlion Agricola/_Competencia i preus/John Deere tractors folletos/JD_Serie8_8R-8RX_grandes.pdf p.41 | https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-440-tractor-oduwmfjx",
+  "notes": "Rated 440 hp (324 kW) at 1900 rpm ECE R120; max 484 hp (356 kW); 496 hp (365 kW) with IPM; 524 hp (385 kW) with IPM peak. Only power rows extracted; other values null. 8RX 490/540 excluded (>450 hp). Null fields filled from official UK spec table (weight_kg, wheelbase_mm, fuel_l, adblue_l, max_torque_nm, max_pressure_bar, front_lift_kg, cab.gps_guidance): deere.co.uk spec table (https://www.deere.co.uk/service/data/specifications/8500RW/125628 ; page https://www.deere.co.uk/en-gb/products-solutions/tractors/large-tractors/8rx-440-tractor-oduwmfjx); lift values = max lift at coupling points as published there."
+ },
+ {
+  "brand": "John Deere",
+  "category": "tractor",
+  "power_standard": null,
+  "model": "6R 175",
+  "series": "6R",
+  "power_hp_rated": 177,
+  "power_hp_max": 193,
+  "power_kw_rated": 129,
+  "power_kw_max": 142,
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "Final Tier 4 (as stated on page; EU Stage V not stated)",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": null,
+   "max_torque_nm": 817,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "IVT (standard 0.05-42 km/h; optional 0.05-50 km/h) / 24-speed AutoQuad PLUS ECO / 24-speed Direct Drive (40K/50K)",
+   "speeds": "IVT continuous or 24-speed",
+   "max_speed_kmh": 50,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9550,
+   "front_lift_kg": 4000,
+   "category": "Cat. 3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000E (as listed on page)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 8300,
+  "wheelbase_mm": 2800,
+  "fuel_l": 324,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Optional HCS Plus adaptive hydraulic cab suspension",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-175-tractor-mdhmquw (spec table: https://www.deere.co.uk/service/data/specifications/08LAL/125628)",
+  "notes": "Rated 177 hp (129 kW), max 193 hp (142 kW); no IPM figures on page. Torque 817 Nm at 1600 rpm (page also prints 533 lb-ft, inconsistent). Flow: only the optional 60 cc pump (155 l/min) is listed. Rear lift 9550 kg and front 4000 kg as printed (rear value looks high vs smaller 6R; verify). Remote valves: 3 std, up to 5 optional. Front tire size on page appears to be a rear size, not used. Figures as published on the deere.co.uk spec table (PS shown on page, taken as hp metric); power standard not stated on page. Models also listed on deere.de and deere.es mid-size tractor pages. Some page fields look inconsistent/NA-sourced, so unclear values were left null."
+ },
+ {
+  "brand": "John Deere",
+  "category": "tractor",
+  "power_standard": null,
+  "model": "6R 195",
+  "series": "6R",
+  "power_hp_rated": 195,
+  "power_hp_max": 215,
+  "power_kw_rated": 143,
+  "power_kw_max": 158,
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "Final Tier 4 (as stated on page; EU Stage V not stated)",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": null,
+   "max_torque_nm": 910,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "IVT (standard 0.05-42 km/h; optional 0.05-50 km/h) / 24-speed AutoQuad PLUS ECO / 24-speed Direct Drive (40K/50K)",
+   "speeds": "IVT continuous or 24-speed",
+   "max_speed_kmh": 50,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9550,
+   "front_lift_kg": null,
+   "category": "Cat. 3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000/1000E (as listed on page)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 8400,
+  "wheelbase_mm": 2800,
+  "fuel_l": 421,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": "480/80R42 (as listed on page)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-195-tractor-mdhoquw (spec table: https://www.deere.co.uk/service/data/specifications/08NAL/125628)",
+  "notes": "Rated 195 hp (143 kW), max 215 hp (158 kW); no IPM figures. Torque 910 Nm at 1600 rpm. Standard 60 cc pump 155 l/min. Rear lift 9550 kg as printed (verify). Remote valves: 3 std, up to 6 optional. Cab suspension field on page is mis-filled, left null. Figures as published on the deere.co.uk spec table (PS shown on page, taken as hp metric); power standard not stated on page. Models also listed on deere.de and deere.es mid-size tractor pages. Some page fields look inconsistent/NA-sourced, so unclear values were left null."
+ },
+ {
+  "brand": "John Deere",
+  "category": "tractor",
+  "power_standard": null,
+  "model": "6R 215",
+  "series": "6R",
+  "power_hp_rated": 215,
+  "power_hp_max": 237,
+  "power_kw_rated": 158,
+  "power_kw_max": 174,
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "Final Tier 4 (as stated on page; EU Stage V not stated)",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": null,
+   "max_torque_nm": 1004,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "IVT (standard 0.05-42 km/h; optional 0.05-50 km/h) / 24-speed AutoQuad PLUS ECO / 24-speed Direct Drive (40K/50K)",
+   "speeds": "IVT continuous or 24-speed",
+   "max_speed_kmh": 50,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 155,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9550,
+   "front_lift_kg": null,
+   "category": "Cat. 3/3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000/1000E (as listed on page)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 8500,
+  "wheelbase_mm": 2800,
+  "fuel_l": 324,
+  "adblue_l": 20,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "Optional HCS Plus adaptive hydraulic cab suspension",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-215-tractor-mdhqquw (spec table: https://www.deere.co.uk/service/data/specifications/08PAL/125628)",
+  "notes": "Rated 215 hp (158 kW), max 237 hp (174 kW) without IPM; page IPM kW values (188/190 kW) have no PS counterpart and look inconsistent, so not used. Torque 1004 Nm at 1600 rpm. Standard 60 cc pump 155 l/min. Rear lift 9550 kg as printed (verify). Remote valves: 3 std, up to 5 optional. Figures as published on the deere.co.uk spec table (PS shown on page, taken as hp metric); power standard not stated on page. Models also listed on deere.de and deere.es mid-size tractor pages. Some page fields look inconsistent/NA-sourced, so unclear values were left null."
+ },
+ {
+  "brand": "John Deere",
+  "category": "tractor",
+  "power_standard": null,
+  "model": "6R 250",
+  "series": "6R",
+  "power_hp_rated": 253,
+  "power_hp_max": 275,
+  "power_kw_rated": 184,
+  "power_kw_max": 202,
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PSS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (DEF)",
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "AutoPowr",
+   "speeds": "continuous",
+   "max_speed_kmh": 42,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 195,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 10400,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3N"
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": "1000"
+  },
+  "weight_kg": 9300,
+  "wheelbase_mm": 2900,
+  "fuel_l": 470,
+  "adblue_l": 25,
+  "tires": {
+   "front": null,
+   "rear": "520/85R42 (as listed on page)"
+  },
+  "cab": {
+   "suspension": "Mechanical cab suspension (MCS); HCS Plus optional",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/6r-250-tractor-mejqnew (spec table: https://www.deere.co.uk/service/data/specifications/0BP4L/125628)",
+  "notes": "Rated 253 hp (184 kW), max 275 hp (202 kW); page IPM kW values without PS not used. Torque left null: page prints 1732 Nm / 1277 lb-ft, identical to the 8R 370, so considered mis-filled. Pump 195 l/min; 6 remote valves. Max speed 42 km/h as listed on page. Figures as published on the deere.co.uk spec table (PS shown on page, taken as hp metric); power standard not stated on page. Models also listed on deere.de and deere.es mid-size tractor pages. Some page fields look inconsistent/NA-sourced, so unclear values were left null."
+ },
+ {
+  "brand": "John Deere",
+  "category": "tractor",
+  "power_standard": null,
+  "model": "6MH 155",
+  "series": "6MH (hillside)",
+  "power_hp_rated": 155,
+  "power_hp_max": 182,
+  "power_kw_rated": 114,
+  "power_kw_max": 134,
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech PVS",
+   "cylinders": 6,
+   "displacement_l": 6.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC+SCR (DEF)",
+   "turbo": null,
+   "max_torque_nm": 726,
+   "max_torque_rpm": null,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "AutoQuad Plus 20-speed (std) / PowrQuad Plus 16-speed / AutoPowr (IVT) optional",
+   "speeds": "20 or 16 speeds, or CVT",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6800,
+   "front_lift_kg": 4400,
+   "category": "Cat. 3N/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 (as listed on page)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 8000,
+  "wheelbase_mm": 2765,
+  "fuel_l": 285,
+  "adblue_l": 16,
+  "tires": {
+   "front": null,
+   "rear": "320/90R50 (as listed on page)"
+  },
+  "cab": {
+   "suspension": "Optional Mechanical Cab Suspension (MCS)",
+   "air_conditioning": null,
+   "isobus": true,
+   "gps_guidance": "Optional AutoTrac with Universal Display"
+  },
+  "source": "https://www.deere.co.uk/en-gb/products-solutions/tractors/high-value-crop-tractors/6mh-155-tractor-nja5muw (spec table: https://www.deere.co.uk/service/data/specifications/6091L/125628)",
+  "notes": "Hillside version of 6M 155. Rated 155 hp (114 kW), max 171 hp (125 kW) without IPM, 182 hp (134 kW) with IPM. Torque 726 Nm. Flow 114 l/min std (45 cc pump), 155 optional (60 cc). Rear lift 6800 kg std / 7650 optional. Remote valves: 2 std, up to 4. Page lists 30 km/h for 20-speed AutoQuad in transmission text and 50 km/h as max speed. Figures as published on the deere.co.uk spec table (PS shown on page, taken as hp metric); power standard not stated on page. Models also listed on deere.de and deere.es mid-size tractor pages. Some page fields look inconsistent/NA-sourced, so unclear values were left null."
+ },
+ {
+  "brand": "John Deere",
+  "category": "tractor",
+  "power_standard": null,
+  "model": "5067E",
+  "series": "5E",
+  "power_hp_rated": 68,
+  "power_hp_max": 68,
+  "power_kw_rated": 50,
+  "power_kw_max": 50,
+  "engine": {
+   "make": "John Deere Power Systems",
+   "model": "PowerTech E",
+   "cylinders": 3,
+   "displacement_l": 2.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "turbo": null,
+   "max_torque_nm": 280,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "12F/12R PowrReverser (std, 35 km/h) / 24F/12R PowrReverser Hi-Lo (opt, 40 km/h)",
+   "speeds": "12/12 or 24/12",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 43.5,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 2
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "Cat. 2"
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 2950,
+  "wheelbase_mm": 2050,
+  "fuel_l": 82,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deere.co.uk/en-gb/products-solutions/tractors/mid-size-tractors/5067e-tractor-mdy3qlbz (spec table: https://www.deere.co.uk/service/data/specifications/067BPY/125628)",
+  "notes": "Rated and max 68 hp (50 kW). Torque 280 Nm at 1500 rpm. Main pump 43.5 l/min plus 22.7 l/min steering/transmission pump. Weight 2950 kg and wheelbase 2050 mm as printed for the 5E page (shared by 5E models). Remote valves: 1 open station, 2 cab. Rear lift not published for this model on page. 68 hp is just under the ~70 hp threshold, included for completeness. Figures as published on the deere.co.uk spec table (PS shown on page, taken as hp metric); power standard not stated on page. Models also listed on deere.de and deere.es mid-size tractor pages. Some page fields look inconsistent/NA-sourced, so unclear values were left null."
+ }
+]

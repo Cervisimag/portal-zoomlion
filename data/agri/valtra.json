@@ -1,0 +1,2018 @@
+[
+ {
+  "brand": "Valtra",
+  "model": "F75",
+  "category": "tractor",
+  "series": "F Series (specialty: orchard/vineyard)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": 2.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 350,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical shuttle 12+12R/24+24R or Powershuttle 24+12R",
+   "speeds": "12+12R / 24+24R / 24+12R",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "2-3 pumps",
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 1800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 or 540/540E",
+   "front_pto": "1000 (option, with front lift)"
+  },
+  "weight_kg": 3050,
+  "wheelbase_mm": 2154,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/f-series.html",
+  "notes": "Specialty orchard/vineyard series (narrow 1.3 m cab, 1.5 m std cab/ROPS, low versions). Power page https://www.valtra.com/int/en/products/tractors/f-series.html; data from official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2024/Valtra_F_Series-Brochure-2023-en-screen.pdf (also on https://www.valtra.co.uk/products/fseries.html). Output max (ISO, rpm not stated). Engine FPT F28 2.8 L. Transmission mechanical shuttle 12+12R / 24+24R with splitter or power shuttle 24+12R. Hydraulics 60+27 l/min (2 pumps) or 60+27+27 (3 pumps), 2-4 valves. Lift 2.6 or 3.0 t, front lift 1.8 t. Weight std cab model 3,050 kg (narrow 2,940); wheelbase std 2,154 mm (narrow 2,178). PTO 540/1000 or 540/540E."
+ },
+ {
+  "brand": "Valtra",
+  "model": "F95",
+  "category": "tractor",
+  "series": "F Series (specialty: orchard/vineyard)",
+  "power_hp_rated": 90,
+  "power_hp_max": null,
+  "power_kw_rated": 67,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": 2.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 370,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical shuttle 12+12R/24+24R or Powershuttle 24+12R",
+   "speeds": "12+12R / 24+24R / 24+12R",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "2-3 pumps",
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 1800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 or 540/540E",
+   "front_pto": "1000 (option, with front lift)"
+  },
+  "weight_kg": 3050,
+  "wheelbase_mm": 2154,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/f-series.html",
+  "notes": "Specialty orchard/vineyard series (narrow 1.3 m cab, 1.5 m std cab/ROPS, low versions). Power page https://www.valtra.com/int/en/products/tractors/f-series.html; data from official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2024/Valtra_F_Series-Brochure-2023-en-screen.pdf (also on https://www.valtra.co.uk/products/fseries.html). Output max (ISO, rpm not stated). Engine FPT F28 2.8 L. Transmission mechanical shuttle 12+12R / 24+24R with splitter or power shuttle 24+12R. Hydraulics 60+27 l/min (2 pumps) or 60+27+27 (3 pumps), 2-4 valves. Lift 2.6 or 3.0 t, front lift 1.8 t. Weight std cab model 3,050 kg (narrow 2,940); wheelbase std 2,154 mm (narrow 2,178). PTO 540/1000 or 540/540E."
+ },
+ {
+  "brand": "Valtra",
+  "model": "F105",
+  "category": "tractor",
+  "series": "F Series (specialty: orchard/vineyard)",
+  "power_hp_rated": 101,
+  "power_hp_max": null,
+  "power_kw_rated": 75,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": 2.8,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 415,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical shuttle 12+12R/24+24R or Powershuttle 24+12R",
+   "speeds": "12+12R / 24+24R / 24+12R",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "2-3 pumps",
+   "flow_lpm": 87,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 1800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 or 540/540E",
+   "front_pto": "1000 (option, with front lift)"
+  },
+  "weight_kg": 3050,
+  "wheelbase_mm": 2154,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/f-series.html",
+  "notes": "Specialty orchard/vineyard series (narrow 1.3 m cab, 1.5 m std cab/ROPS, low versions). Power page https://www.valtra.com/int/en/products/tractors/f-series.html; data from official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2024/Valtra_F_Series-Brochure-2023-en-screen.pdf (also on https://www.valtra.co.uk/products/fseries.html). Output max (ISO, rpm not stated). Engine FPT F28 2.8 L. Transmission mechanical shuttle 12+12R / 24+24R with splitter or power shuttle 24+12R. Hydraulics 60+27 l/min (2 pumps) or 60+27+27 (3 pumps), 2-4 valves. Lift 2.6 or 3.0 t, front lift 1.8 t. Weight std cab model 3,050 kg (narrow 2,940); wheelbase std 2,154 mm (narrow 2,178). PTO 540/1000 or 540/540E."
+ },
+ {
+  "brand": "Valtra",
+  "model": "A75",
+  "category": "tractor",
+  "series": "A Series",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 56,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "33 MBTN-D5",
+   "cylinders": 3,
+   "displacement_l": 3.3,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 315,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Gear lever 12+12R / HT2 24+24R",
+   "speeds": "12+12R / 24+24R",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 65,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3700,
+  "wheelbase_mm": 2250,
+  "fuel_l": 147,
+  "adblue_l": 13,
+  "tires": {
+   "front": "420/85R30 min (rear) + 320/85R24",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/a-series.html",
+  "notes": "Power: https://www.valtra.com/int/en/products/tractors/a-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-a5-series-brochure-2025-en-screen.pdf (also https://www.valtra.co.uk/products/aseries.html). Max power at 2000 rpm, nominal speed 2200 rpm. Transmission: gear lever 12+12R, HT2 24+24R or HT4 16+16R, creeper optional; 2-40 km/h. Open-centre hydraulics. Rear lift stated as 3000 / 4300 (brochure label 'kN', matches 3.0 t / 4.3 t on product page). Weight empty tanks 3,700 (A75-A95) / 4,305 kg (A105-A115); front lift up to 2.5 t on A105/A115 (product page). Tyres: min size 420/85R30 + 320/85R24 (A75-95) / 420/85R34 + 340/85R24 (A105-115)."
+ },
+ {
+  "brand": "Valtra",
+  "model": "A85",
+  "category": "tractor",
+  "series": "A Series",
+  "power_hp_rated": 85,
+  "power_hp_max": null,
+  "power_kw_rated": 63,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "33 MBTN-D5",
+   "cylinders": 3,
+   "displacement_l": 3.3,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 350,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Gear lever 12+12R / HT2 24+24R",
+   "speeds": "12+12R / 24+24R",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 65,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3700,
+  "wheelbase_mm": 2250,
+  "fuel_l": 147,
+  "adblue_l": 13,
+  "tires": {
+   "front": "420/85R30 min (rear) + 320/85R24",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/a-series.html",
+  "notes": "Power: https://www.valtra.com/int/en/products/tractors/a-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-a5-series-brochure-2025-en-screen.pdf (also https://www.valtra.co.uk/products/aseries.html). Max power at 2000 rpm, nominal speed 2200 rpm. Transmission: gear lever 12+12R, HT2 24+24R or HT4 16+16R, creeper optional; 2-40 km/h. Open-centre hydraulics. Rear lift stated as 3000 / 4300 (brochure label 'kN', matches 3.0 t / 4.3 t on product page). Weight empty tanks 3,700 (A75-A95) / 4,305 kg (A105-A115); front lift up to 2.5 t on A105/A115 (product page). Tyres: min size 420/85R30 + 320/85R24 (A75-95) / 420/85R34 + 340/85R24 (A105-115)."
+ },
+ {
+  "brand": "Valtra",
+  "model": "A95",
+  "category": "tractor",
+  "series": "A Series",
+  "power_hp_rated": 95,
+  "power_hp_max": null,
+  "power_kw_rated": 70,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "33 MBTN-D5",
+   "cylinders": 3,
+   "displacement_l": 3.3,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 355,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Gear lever 12+12R / HT2 24+24R",
+   "speeds": "12+12R / 24+24R",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 65,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3700,
+  "wheelbase_mm": 2250,
+  "fuel_l": 147,
+  "adblue_l": 13,
+  "tires": {
+   "front": "420/85R30 min (rear) + 320/85R24",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/a-series.html",
+  "notes": "Power: https://www.valtra.com/int/en/products/tractors/a-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-a5-series-brochure-2025-en-screen.pdf (also https://www.valtra.co.uk/products/aseries.html). Max power at 2000 rpm, nominal speed 2200 rpm. Transmission: gear lever 12+12R, HT2 24+24R or HT4 16+16R, creeper optional; 2-40 km/h. Open-centre hydraulics. Rear lift stated as 3000 / 4300 (brochure label 'kN', matches 3.0 t / 4.3 t on product page). Weight empty tanks 3,700 (A75-A95) / 4,305 kg (A105-A115); front lift up to 2.5 t on A105/A115 (product page). Tyres: min size 420/85R30 + 320/85R24 (A75-95) / 420/85R34 + 340/85R24 (A105-115)."
+ },
+ {
+  "brand": "Valtra",
+  "model": "A105",
+  "category": "tractor",
+  "series": "A Series",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": 78,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 MBTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 435,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "HiTech 4 (HT4) 16+16R / gear lever / HT2",
+   "speeds": "16+16R / 12+12R / 24+24R",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 98,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": 2500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4305,
+  "wheelbase_mm": 2430,
+  "fuel_l": 200,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/a-series.html",
+  "notes": "Power: https://www.valtra.com/int/en/products/tractors/a-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-a5-series-brochure-2025-en-screen.pdf (also https://www.valtra.co.uk/products/aseries.html). Max power at 2000 rpm, nominal speed 2200 rpm. Transmission: gear lever 12+12R, HT2 24+24R or HT4 16+16R, creeper optional; 2-40 km/h. Open-centre hydraulics. Rear lift stated as 3000 / 4300 (brochure label 'kN', matches 3.0 t / 4.3 t on product page). Weight empty tanks 3,700 (A75-A95) / 4,305 kg (A105-A115); front lift up to 2.5 t on A105/A115 (product page). Tyres: min size 420/85R30 + 320/85R24 (A75-95) / 420/85R34 + 340/85R24 (A105-115)."
+ },
+ {
+  "brand": "Valtra",
+  "model": "A115",
+  "category": "tractor",
+  "series": "A Series",
+  "power_hp_rated": 115,
+  "power_hp_max": null,
+  "power_kw_rated": 86,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 MBTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 455,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "HiTech 4 (HT4) 16+16R / gear lever / HT2",
+   "speeds": "16+16R / 12+12R / 24+24R",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 98,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": 2500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4305,
+  "wheelbase_mm": 2430,
+  "fuel_l": 200,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/a-series.html",
+  "notes": "Power: https://www.valtra.com/int/en/products/tractors/a-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-a5-series-brochure-2025-en-screen.pdf (also https://www.valtra.co.uk/products/aseries.html). Max power at 2000 rpm, nominal speed 2200 rpm. Transmission: gear lever 12+12R, HT2 24+24R or HT4 16+16R, creeper optional; 2-40 km/h. Open-centre hydraulics. Rear lift stated as 3000 / 4300 (brochure label 'kN', matches 3.0 t / 4.3 t on product page). Weight empty tanks 3,700 (A75-A95) / 4,305 kg (A105-A115); front lift up to 2.5 t on A105/A115 (product page). Tyres: min size 420/85R30 + 320/85R24 (A75-95) / 420/85R34 + 340/85R24 (A105-115)."
+ },
+ {
+  "brand": "Valtra",
+  "model": "G105",
+  "category": "tractor",
+  "series": "G Series",
+  "power_hp_rated": 105,
+  "power_hp_max": 110,
+  "power_kw_rated": 78,
+  "power_kw_max": 82,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 MBTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 470,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift 24+24R / CVT",
+   "speeds": "24+24R (48+48R creeper) / continuous",
+   "max_speed_kmh": 43,
+   "creeper": "optional 48+48R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 5140,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 21,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/g-series.html",
+  "notes": "Power and torque: https://www.valtra.com/int/en/products/tractors/g-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-g5-series-brochure-en-screen.pdf. Max power at 2000 rpm (boost power in power_hp_max); torque std/boost: G105 440/470, G115 460/510, G125 520/540, G135 550/560 (max_torque_nm = boost). G125 also ECO-mode (115/125 hp, 518/555 Nm). Engine speed nominal 2200. Powershift 24+24R (48+48R creeper) 43 km/h, or CVT. Hydraulics open centre 100 l/min (Powershift) / load sensing 110 l/min (CVT). Rear lift 60 kN (max), front 30 kN option - not converted. Weight full tanks + driver 5,140 kg (powershift) / 5,180 (CVT), fuel 200 L basic, AdBlue 21 L. PTO 540@1920 + 1000@1964 (powershift). Tyres min 420/85R34 + 340/85R24."
+ },
+ {
+  "brand": "Valtra",
+  "model": "G115",
+  "category": "tractor",
+  "series": "G Series",
+  "power_hp_rated": 115,
+  "power_hp_max": 120,
+  "power_kw_rated": 85,
+  "power_kw_max": 90,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 MBTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 510,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift 24+24R / CVT",
+   "speeds": "24+24R (48+48R creeper) / continuous",
+   "max_speed_kmh": 43,
+   "creeper": "optional 48+48R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 5140,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 21,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/g-series.html",
+  "notes": "Power and torque: https://www.valtra.com/int/en/products/tractors/g-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-g5-series-brochure-en-screen.pdf. Max power at 2000 rpm (boost power in power_hp_max); torque std/boost: G105 440/470, G115 460/510, G125 520/540, G135 550/560 (max_torque_nm = boost). G125 also ECO-mode (115/125 hp, 518/555 Nm). Engine speed nominal 2200. Powershift 24+24R (48+48R creeper) 43 km/h, or CVT. Hydraulics open centre 100 l/min (Powershift) / load sensing 110 l/min (CVT). Rear lift 60 kN (max), front 30 kN option - not converted. Weight full tanks + driver 5,140 kg (powershift) / 5,180 (CVT), fuel 200 L basic, AdBlue 21 L. PTO 540@1920 + 1000@1964 (powershift). Tyres min 420/85R34 + 340/85R24."
+ },
+ {
+  "brand": "Valtra",
+  "model": "G125",
+  "category": "tractor",
+  "series": "G Series",
+  "power_hp_rated": 125,
+  "power_hp_max": 130,
+  "power_kw_rated": 93,
+  "power_kw_max": 97,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 MBTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 540,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift 24+24R / CVT",
+   "speeds": "24+24R (48+48R creeper) / continuous",
+   "max_speed_kmh": 43,
+   "creeper": "optional 48+48R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 5140,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 21,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/g-series.html",
+  "notes": "Power and torque: https://www.valtra.com/int/en/products/tractors/g-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-g5-series-brochure-en-screen.pdf. Max power at 2000 rpm (boost power in power_hp_max); torque std/boost: G105 440/470, G115 460/510, G125 520/540, G135 550/560 (max_torque_nm = boost). G125 also ECO-mode (115/125 hp, 518/555 Nm). Engine speed nominal 2200. Powershift 24+24R (48+48R creeper) 43 km/h, or CVT. Hydraulics open centre 100 l/min (Powershift) / load sensing 110 l/min (CVT). Rear lift 60 kN (max), front 30 kN option - not converted. Weight full tanks + driver 5,140 kg (powershift) / 5,180 (CVT), fuel 200 L basic, AdBlue 21 L. PTO 540@1920 + 1000@1964 (powershift). Tyres min 420/85R34 + 340/85R24."
+ },
+ {
+  "brand": "Valtra",
+  "model": "G135",
+  "category": "tractor",
+  "series": "G Series",
+  "power_hp_rated": 135,
+  "power_hp_max": 145,
+  "power_kw_rated": 100,
+  "power_kw_max": 107,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 MBTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 560,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift 24+24R / CVT",
+   "speeds": "24+24R (48+48R creeper) / continuous",
+   "max_speed_kmh": 43,
+   "creeper": "optional 48+48R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 5140,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 21,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/g-series.html",
+  "notes": "Power and torque: https://www.valtra.com/int/en/products/tractors/g-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2025/Valtra-g5-series-brochure-en-screen.pdf. Max power at 2000 rpm (boost power in power_hp_max); torque std/boost: G105 440/470, G115 460/510, G125 520/540, G135 550/560 (max_torque_nm = boost). G125 also ECO-mode (115/125 hp, 518/555 Nm). Engine speed nominal 2200. Powershift 24+24R (48+48R creeper) 43 km/h, or CVT. Hydraulics open centre 100 l/min (Powershift) / load sensing 110 l/min (CVT). Rear lift 60 kN (max), front 30 kN option - not converted. Weight full tanks + driver 5,140 kg (powershift) / 5,180 (CVT), fuel 200 L basic, AdBlue 21 L. PTO 540@1920 + 1000@1964 (powershift). Tyres min 420/85R34 + 340/85R24."
+ },
+ {
+  "brand": "Valtra",
+  "model": "N135",
+  "category": "tractor",
+  "series": "N Series",
+  "power_hp_rated": 135,
+  "power_hp_max": 145,
+  "power_kw_rated": 99,
+  "power_kw_max": 107,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "49 LFTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 620,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "HiTech 20+20R / CVT",
+   "speeds": "20+20R (30+30R creeper) / continuous",
+   "max_speed_kmh": 50,
+   "creeper": "optional 30+30R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2665,
+  "fuel_l": 235,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/n-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/n-series.html (N135 135/145 hp 620 Nm; N155e 155/165 hp 700 Nm; N175 165/201 hp 800 Nm); details: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2021/Valtra-n5-series-tractor-brochure-en-screen-2021.pdf (2021, ISO 14396; std/boost torque N135 570/620, N155e Eco 660/700 & std 610/660, N175 680/800; N175 Sigma Power boost 175 hp for field traction). max_torque_nm = boost. Engine AGCO Power 49 LFTN-D5 4.9 L, 4 cyl, max power 2000 rpm, nominal 2200. HiTech 20+20R powershift (30+30R creeper) or CVT (40/50/57 km/h options). Hydraulics open centre 73 (90) or load sensing 115 (160, 200) l/min. Lift 78 kN, not converted. Weight 6,500 kg full tanks+driver; fuel 235 L (315 L option); AdBlue 45 L; wheelbase 2,665 mm. PTO 540@1890 + 1000@1897 (540E option). Tyres min 460/85R38 + 380/85R28."
+ },
+ {
+  "brand": "Valtra",
+  "model": "N155e",
+  "category": "tractor",
+  "series": "N Series",
+  "power_hp_rated": 155,
+  "power_hp_max": 165,
+  "power_kw_rated": 114,
+  "power_kw_max": 121,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "49 LFTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "HiTech 20+20R / CVT",
+   "speeds": "20+20R (30+30R creeper) / continuous",
+   "max_speed_kmh": 50,
+   "creeper": "optional 30+30R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2665,
+  "fuel_l": 235,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/n-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/n-series.html (N135 135/145 hp 620 Nm; N155e 155/165 hp 700 Nm; N175 165/201 hp 800 Nm); details: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2021/Valtra-n5-series-tractor-brochure-en-screen-2021.pdf (2021, ISO 14396; std/boost torque N135 570/620, N155e Eco 660/700 & std 610/660, N175 680/800; N175 Sigma Power boost 175 hp for field traction). max_torque_nm = boost. Engine AGCO Power 49 LFTN-D5 4.9 L, 4 cyl, max power 2000 rpm, nominal 2200. HiTech 20+20R powershift (30+30R creeper) or CVT (40/50/57 km/h options). Hydraulics open centre 73 (90) or load sensing 115 (160, 200) l/min. Lift 78 kN, not converted. Weight 6,500 kg full tanks+driver; fuel 235 L (315 L option); AdBlue 45 L; wheelbase 2,665 mm. PTO 540@1890 + 1000@1897 (540E option). Tyres min 460/85R38 + 380/85R28."
+ },
+ {
+  "brand": "Valtra",
+  "model": "N175",
+  "category": "tractor",
+  "series": "N Series",
+  "power_hp_rated": 165,
+  "power_hp_max": 201,
+  "power_kw_rated": 121,
+  "power_kw_max": 148,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "49 LFTN-D5",
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 800,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "HiTech 20+20R / CVT",
+   "speeds": "20+20R (30+30R creeper) / continuous",
+   "max_speed_kmh": 50,
+   "creeper": "optional 30+30R"
+  },
+  "hydraulics": {
+   "pump_type": "open centre / load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540E option)",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2665,
+  "fuel_l": 235,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/n-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/n-series.html (N135 135/145 hp 620 Nm; N155e 155/165 hp 700 Nm; N175 165/201 hp 800 Nm); details: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2021/Valtra-n5-series-tractor-brochure-en-screen-2021.pdf (2021, ISO 14396; std/boost torque N135 570/620, N155e Eco 660/700 & std 610/660, N175 680/800; N175 Sigma Power boost 175 hp for field traction). max_torque_nm = boost. Engine AGCO Power 49 LFTN-D5 4.9 L, 4 cyl, max power 2000 rpm, nominal 2200. HiTech 20+20R powershift (30+30R creeper) or CVT (40/50/57 km/h options). Hydraulics open centre 73 (90) or load sensing 115 (160, 200) l/min. Lift 78 kN, not converted. Weight 6,500 kg full tanks+driver; fuel 235 L (315 L option); AdBlue 45 L; wheelbase 2,665 mm. PTO 540@1890 + 1000@1897 (540E option). Tyres min 460/85R38 + 380/85R28."
+ },
+ {
+  "brand": "Valtra",
+  "model": "Q225",
+  "category": "tractor",
+  "series": "Q Series",
+  "power_hp_rated": 230,
+  "power_hp_max": 250,
+  "power_kw_rated": 169,
+  "power_kw_max": 184,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "74 LFTN-D5",
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1100,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 9200,
+  "wheelbase_mm": 3050,
+  "fuel_l": 430,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/q-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/q-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2022/Valtra-q5-series-brochure-uk.pdf (2022, max power at 1850 rpm, rated speed 1950). Torque std/boost: Q225 1000/1100, Q245 1100/1200, Q265 1200/1280, Q285 1280/1280, Q305 1280/1280 (max_torque_nm = boost). Engine AGCO Power 74 LFTN-D5 7.4 L 6-cyl. CVT area A 0-28, area B 0-53 km/h (std top speed 43 km/h, 53 km/h option). Closed centre load sensing 200 l/min, 4 (5 with decompression) rear valves. Lift 100 kN (not converted). Weight 9,200 kg full tanks+driver; fuel 430 L, AdBlue 45 L; wheelbase 3,050 mm. PTO 540E@1577 + 1000@1882; front PTO 1000@1900. Tyres min 650/65R42 + 540/65R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "Q245",
+  "category": "tractor",
+  "series": "Q Series",
+  "power_hp_rated": 245,
+  "power_hp_max": 265,
+  "power_kw_rated": 180,
+  "power_kw_max": 195,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "74 LFTN-D5",
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1200,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 9200,
+  "wheelbase_mm": 3050,
+  "fuel_l": 430,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/q-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/q-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2022/Valtra-q5-series-brochure-uk.pdf (2022, max power at 1850 rpm, rated speed 1950). Torque std/boost: Q225 1000/1100, Q245 1100/1200, Q265 1200/1280, Q285 1280/1280, Q305 1280/1280 (max_torque_nm = boost). Engine AGCO Power 74 LFTN-D5 7.4 L 6-cyl. CVT area A 0-28, area B 0-53 km/h (std top speed 43 km/h, 53 km/h option). Closed centre load sensing 200 l/min, 4 (5 with decompression) rear valves. Lift 100 kN (not converted). Weight 9,200 kg full tanks+driver; fuel 430 L, AdBlue 45 L; wheelbase 3,050 mm. PTO 540E@1577 + 1000@1882; front PTO 1000@1900. Tyres min 650/65R42 + 540/65R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "Q265",
+  "category": "tractor",
+  "series": "Q Series",
+  "power_hp_rated": 265,
+  "power_hp_max": 290,
+  "power_kw_rated": 195,
+  "power_kw_max": 213,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "74 LFTN-D5",
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1280,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 9200,
+  "wheelbase_mm": 3050,
+  "fuel_l": 430,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/q-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/q-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2022/Valtra-q5-series-brochure-uk.pdf (2022, max power at 1850 rpm, rated speed 1950). Torque std/boost: Q225 1000/1100, Q245 1100/1200, Q265 1200/1280, Q285 1280/1280, Q305 1280/1280 (max_torque_nm = boost). Engine AGCO Power 74 LFTN-D5 7.4 L 6-cyl. CVT area A 0-28, area B 0-53 km/h (std top speed 43 km/h, 53 km/h option). Closed centre load sensing 200 l/min, 4 (5 with decompression) rear valves. Lift 100 kN (not converted). Weight 9,200 kg full tanks+driver; fuel 430 L, AdBlue 45 L; wheelbase 3,050 mm. PTO 540E@1577 + 1000@1882; front PTO 1000@1900. Tyres min 650/65R42 + 540/65R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "Q285",
+  "category": "tractor",
+  "series": "Q Series",
+  "power_hp_rated": 285,
+  "power_hp_max": 305,
+  "power_kw_rated": 210,
+  "power_kw_max": 224,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "74 LFTN-D5",
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1280,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 9200,
+  "wheelbase_mm": 3050,
+  "fuel_l": 430,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/q-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/q-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2022/Valtra-q5-series-brochure-uk.pdf (2022, max power at 1850 rpm, rated speed 1950). Torque std/boost: Q225 1000/1100, Q245 1100/1200, Q265 1200/1280, Q285 1280/1280, Q305 1280/1280 (max_torque_nm = boost). Engine AGCO Power 74 LFTN-D5 7.4 L 6-cyl. CVT area A 0-28, area B 0-53 km/h (std top speed 43 km/h, 53 km/h option). Closed centre load sensing 200 l/min, 4 (5 with decompression) rear valves. Lift 100 kN (not converted). Weight 9,200 kg full tanks+driver; fuel 430 L, AdBlue 45 L; wheelbase 3,050 mm. PTO 540E@1577 + 1000@1882; front PTO 1000@1900. Tyres min 650/65R42 + 540/65R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "Q305",
+  "category": "tractor",
+  "series": "Q Series",
+  "power_hp_rated": 305,
+  "power_hp_max": 305,
+  "power_kw_rated": 224,
+  "power_kw_max": 224,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "74 LFTN-D5",
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1280,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 9200,
+  "wheelbase_mm": 3050,
+  "fuel_l": 430,
+  "adblue_l": 45,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/q-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/q-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2022/Valtra-q5-series-brochure-uk.pdf (2022, max power at 1850 rpm, rated speed 1950). Torque std/boost: Q225 1000/1100, Q245 1100/1200, Q265 1200/1280, Q285 1280/1280, Q305 1280/1280 (max_torque_nm = boost). Engine AGCO Power 74 LFTN-D5 7.4 L 6-cyl. CVT area A 0-28, area B 0-53 km/h (std top speed 43 km/h, 53 km/h option). Closed centre load sensing 200 l/min, 4 (5 with decompression) rear valves. Lift 100 kN (not converted). Weight 9,200 kg full tanks+driver; fuel 430 L, AdBlue 45 L; wheelbase 3,050 mm. PTO 540E@1577 + 1000@1882; front PTO 1000@1900. Tyres min 650/65R42 + 540/65R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "S286",
+  "category": "tractor",
+  "series": "S Series",
+  "power_hp_rated": 280,
+  "power_hp_max": 310,
+  "power_kw_rated": 206,
+  "power_kw_max": 228,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "84 LXTN-D5",
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1400,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3092,
+  "fuel_l": 610,
+  "adblue_l": 70,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/s-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/s-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2023/Valtra-S6-brochure-en-2023-screen.pdf (max power at 1850 rpm, rated 1950). Std/boost torque: S286 1250/1400, S316 1350/1500, S346 1500/1600, S376 1550/1700, S396 1700/1750, S416 1750/1750 (max_torque_nm = boost). Engine AGCO Power 84 LXTN-D5 8.4 L 6-cyl. CVT 0-28 / 0-53 km/h area B (std 43, 53 option). Closed centre LS 205 l/min ECO or 200+200; 4-6 rear valves. Rear lift 12,000 kg, front 5,800 kg. Weight 12,000 kg full tanks+driver; fuel 610 L, AdBlue 70 L; wheelbase 3,092 mm. PTO 540E@1577 + 1000@1882. Tyres min 710/70R42 + 600/70R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "S316",
+  "category": "tractor",
+  "series": "S Series",
+  "power_hp_rated": 310,
+  "power_hp_max": 340,
+  "power_kw_rated": 228,
+  "power_kw_max": 250,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "84 LXTN-D5",
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1500,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3092,
+  "fuel_l": 610,
+  "adblue_l": 70,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/s-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/s-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2023/Valtra-S6-brochure-en-2023-screen.pdf (max power at 1850 rpm, rated 1950). Std/boost torque: S286 1250/1400, S316 1350/1500, S346 1500/1600, S376 1550/1700, S396 1700/1750, S416 1750/1750 (max_torque_nm = boost). Engine AGCO Power 84 LXTN-D5 8.4 L 6-cyl. CVT 0-28 / 0-53 km/h area B (std 43, 53 option). Closed centre LS 205 l/min ECO or 200+200; 4-6 rear valves. Rear lift 12,000 kg, front 5,800 kg. Weight 12,000 kg full tanks+driver; fuel 610 L, AdBlue 70 L; wheelbase 3,092 mm. PTO 540E@1577 + 1000@1882. Tyres min 710/70R42 + 600/70R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "S346",
+  "category": "tractor",
+  "series": "S Series",
+  "power_hp_rated": 340,
+  "power_hp_max": 370,
+  "power_kw_rated": 250,
+  "power_kw_max": 272,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "84 LXTN-D5",
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1600,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3092,
+  "fuel_l": 610,
+  "adblue_l": 70,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/s-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/s-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2023/Valtra-S6-brochure-en-2023-screen.pdf (max power at 1850 rpm, rated 1950). Std/boost torque: S286 1250/1400, S316 1350/1500, S346 1500/1600, S376 1550/1700, S396 1700/1750, S416 1750/1750 (max_torque_nm = boost). Engine AGCO Power 84 LXTN-D5 8.4 L 6-cyl. CVT 0-28 / 0-53 km/h area B (std 43, 53 option). Closed centre LS 205 l/min ECO or 200+200; 4-6 rear valves. Rear lift 12,000 kg, front 5,800 kg. Weight 12,000 kg full tanks+driver; fuel 610 L, AdBlue 70 L; wheelbase 3,092 mm. PTO 540E@1577 + 1000@1882. Tyres min 710/70R42 + 600/70R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "S376",
+  "category": "tractor",
+  "series": "S Series",
+  "power_hp_rated": 370,
+  "power_hp_max": 400,
+  "power_kw_rated": 272,
+  "power_kw_max": 294,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "84 LXTN-D5",
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3092,
+  "fuel_l": 610,
+  "adblue_l": 70,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/s-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/s-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2023/Valtra-S6-brochure-en-2023-screen.pdf (max power at 1850 rpm, rated 1950). Std/boost torque: S286 1250/1400, S316 1350/1500, S346 1500/1600, S376 1550/1700, S396 1700/1750, S416 1750/1750 (max_torque_nm = boost). Engine AGCO Power 84 LXTN-D5 8.4 L 6-cyl. CVT 0-28 / 0-53 km/h area B (std 43, 53 option). Closed centre LS 205 l/min ECO or 200+200; 4-6 rear valves. Rear lift 12,000 kg, front 5,800 kg. Weight 12,000 kg full tanks+driver; fuel 610 L, AdBlue 70 L; wheelbase 3,092 mm. PTO 540E@1577 + 1000@1882. Tyres min 710/70R42 + 600/70R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "S396",
+  "category": "tractor",
+  "series": "S Series",
+  "power_hp_rated": 400,
+  "power_hp_max": 420,
+  "power_kw_rated": 294,
+  "power_kw_max": 309,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "84 LXTN-D5",
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3092,
+  "fuel_l": 610,
+  "adblue_l": 70,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/s-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/s-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2023/Valtra-S6-brochure-en-2023-screen.pdf (max power at 1850 rpm, rated 1950). Std/boost torque: S286 1250/1400, S316 1350/1500, S346 1500/1600, S376 1550/1700, S396 1700/1750, S416 1750/1750 (max_torque_nm = boost). Engine AGCO Power 84 LXTN-D5 8.4 L 6-cyl. CVT 0-28 / 0-53 km/h area B (std 43, 53 option). Closed centre LS 205 l/min ECO or 200+200; 4-6 rear valves. Rear lift 12,000 kg, front 5,800 kg. Weight 12,000 kg full tanks+driver; fuel 610 L, AdBlue 70 L; wheelbase 3,092 mm. PTO 540E@1577 + 1000@1882. Tyres min 710/70R42 + 600/70R30."
+ },
+ {
+  "brand": "Valtra",
+  "model": "S416",
+  "category": "tractor",
+  "series": "S Series",
+  "power_hp_rated": 425,
+  "power_hp_max": 425,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "84 LXTN-D5",
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR",
+   "turbo": true,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 43,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 option"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3092,
+  "fuel_l": 610,
+  "adblue_l": 70,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/s-series.html",
+  "notes": "Power/torque: https://www.valtra.com/int/en/products/tractors/s-series.html; data: official brochure https://www.valtra.co.uk/content/dam/Brands/Valtra/en/Products/Brochures/2023/Valtra-S6-brochure-en-2023-screen.pdf (max power at 1850 rpm, rated 1950). Std/boost torque: S286 1250/1400, S316 1350/1500, S346 1500/1600, S376 1550/1700, S396 1700/1750, S416 1750/1750 (max_torque_nm = boost). Engine AGCO Power 84 LXTN-D5 8.4 L 6-cyl. CVT 0-28 / 0-53 km/h area B (std 43, 53 option). Closed centre LS 205 l/min ECO or 200+200; 4-6 rear valves. Rear lift 12,000 kg, front 5,800 kg. Weight 12,000 kg full tanks+driver; fuel 610 L, AdBlue 70 L; wheelbase 3,092 mm. PTO 540E@1577 + 1000@1882. Tyres min 710/70R42 + 600/70R30. S416: product page gives 425 hp (425 boost); 2023 brochure gives 420 hp / 309 kW - kW left null."
+ },
+ {
+  "brand": "Valtra",
+  "model": "T146",
+  "category": "tractor",
+  "series": "T Series (6th gen)",
+  "power_hp_rated": 170,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 815,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "AGCO ML 180 CVT / PowerShift 5 or 10 steps",
+   "speeds": "continuous / 5 or 10 PS",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/t-series.html",
+  "notes": "https://www.valtra.com/int/en/products/tractors/t-series.html (6th generation T Series, six-cylinder, AGCO Power CORE75; page gives 'up to' power and torque only: max power at 1900 rpm shown for T236 only: 183 kW / 245 hp). Transmission 5- or 10-step PowerShift or AGCO ML 180 CVT, up to 57 km/h. Max rear lift 95 kN (not converted), up to 6 rear valves, up to 75 L exportable oil, 200 l/min. Cylinders/displacement/weight/wheelbase/tank sizes not published on the page."
+ },
+ {
+  "brand": "Valtra",
+  "model": "T156",
+  "category": "tractor",
+  "series": "T Series (6th gen)",
+  "power_hp_rated": 185,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 879,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "AGCO ML 180 CVT / PowerShift 5 or 10 steps",
+   "speeds": "continuous / 5 or 10 PS",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/t-series.html",
+  "notes": "https://www.valtra.com/int/en/products/tractors/t-series.html (6th generation T Series, six-cylinder, AGCO Power CORE75; page gives 'up to' power and torque only: max power at 1900 rpm shown for T236 only: 183 kW / 245 hp). Transmission 5- or 10-step PowerShift or AGCO ML 180 CVT, up to 57 km/h. Max rear lift 95 kN (not converted), up to 6 rear valves, up to 75 L exportable oil, 200 l/min. Cylinders/displacement/weight/wheelbase/tank sizes not published on the page."
+ },
+ {
+  "brand": "Valtra",
+  "model": "T176",
+  "category": "tractor",
+  "series": "T Series (6th gen)",
+  "power_hp_rated": 200,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 949,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "AGCO ML 180 CVT / PowerShift 5 or 10 steps",
+   "speeds": "continuous / 5 or 10 PS",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/t-series.html",
+  "notes": "https://www.valtra.com/int/en/products/tractors/t-series.html (6th generation T Series, six-cylinder, AGCO Power CORE75; page gives 'up to' power and torque only: max power at 1900 rpm shown for T236 only: 183 kW / 245 hp). Transmission 5- or 10-step PowerShift or AGCO ML 180 CVT, up to 57 km/h. Max rear lift 95 kN (not converted), up to 6 rear valves, up to 75 L exportable oil, 200 l/min. Cylinders/displacement/weight/wheelbase/tank sizes not published on the page."
+ },
+ {
+  "brand": "Valtra",
+  "model": "T196",
+  "category": "tractor",
+  "series": "T Series (6th gen)",
+  "power_hp_rated": 230,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1019,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "AGCO ML 180 CVT / PowerShift 5 or 10 steps",
+   "speeds": "continuous / 5 or 10 PS",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/t-series.html",
+  "notes": "https://www.valtra.com/int/en/products/tractors/t-series.html (6th generation T Series, six-cylinder, AGCO Power CORE75; page gives 'up to' power and torque only: max power at 1900 rpm shown for T236 only: 183 kW / 245 hp). Transmission 5- or 10-step PowerShift or AGCO ML 180 CVT, up to 57 km/h. Max rear lift 95 kN (not converted), up to 6 rear valves, up to 75 L exportable oil, 200 l/min. Cylinders/displacement/weight/wheelbase/tank sizes not published on the page."
+ },
+ {
+  "brand": "Valtra",
+  "model": "T216",
+  "category": "tractor",
+  "series": "T Series (6th gen)",
+  "power_hp_rated": 245,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1095,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "AGCO ML 180 CVT / PowerShift 5 or 10 steps",
+   "speeds": "continuous / 5 or 10 PS",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/t-series.html",
+  "notes": "https://www.valtra.com/int/en/products/tractors/t-series.html (6th generation T Series, six-cylinder, AGCO Power CORE75; page gives 'up to' power and torque only: max power at 1900 rpm shown for T236 only: 183 kW / 245 hp). Transmission 5- or 10-step PowerShift or AGCO ML 180 CVT, up to 57 km/h. Max rear lift 95 kN (not converted), up to 6 rear valves, up to 75 L exportable oil, 200 l/min. Cylinders/displacement/weight/wheelbase/tank sizes not published on the page."
+ },
+ {
+  "brand": "Valtra",
+  "model": "T236",
+  "category": "tractor",
+  "series": "T Series (6th gen)",
+  "power_hp_rated": 245,
+  "power_hp_max": null,
+  "power_kw_rated": 183,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1184,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "AGCO ML 180 CVT / PowerShift 5 or 10 steps",
+   "speeds": "continuous / 5 or 10 PS",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 200,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.valtra.com/int/en/products/tractors/t-series.html",
+  "notes": "https://www.valtra.com/int/en/products/tractors/t-series.html (6th generation T Series, six-cylinder, AGCO Power CORE75; page gives 'up to' power and torque only: max power at 1900 rpm shown for T236 only: 183 kW / 245 hp). Transmission 5- or 10-step PowerShift or AGCO ML 180 CVT, up to 57 km/h. Max rear lift 95 kN (not converted), up to 6 rear valves, up to 75 L exportable oil, 200 l/min. Cylinders/displacement/weight/wheelbase/tank sizes not published on the page."
+ }
+]

@@ -1,0 +1,2470 @@
+[
+ {
+  "brand": "JCB",
+  "model": "19C-1E",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G",
+   "ZE20GE"
+  ],
+  "weight_kg": 1862,
+  "engine": {
+   "make": "JCB (electric)",
+   "model": "3-phase AC permanent magnet motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 7,
+   "power_kw_gross": 20,
+   "rpm": null,
+   "emission_stage": "Zero emissions at point of use",
+   "egr": false,
+   "aftertreatment": "None (battery electric)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": 42,
+   "pump_flow_total_lpm": 42,
+   "system_pressure_bar": 235,
+   "aux_flow_lpm": 32
+  },
+  "performance": {
+   "bucket_dig_force_kn": 18,
+   "arm_dig_force_kn": 10.1,
+   "swing_speed_rpm": 7.9,
+   "travel_speed_kmh": "2.4 / 4.1",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 15
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_19C-1E_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). US-market sheet in imperial units; values converted to metric. ELECTRIC model: 48 V Li-ion 14.8 kWh (3-pack; 19.8 kWh 4-pack option), motor 7 kW continuous / 20 kW peak (power_kw_net holds continuous, power_kw_gross holds peak). Operating weight 1862 kg (canopy, 3'1\" dipper) / 1902 kg (3'7\" dipper). Bucket tearout 18 kN (power position); dipper tearout 10.1 kN (950 mm dipper, first of three). Pump 11 gpm=42 L/min at max rpm. Tractive effort 13.2 kN. Closest JCB match to ZE20GE (electric) and ZE18GU/ZE20G (1.8-2.0 t)."
+ },
+ {
+  "brand": "JCB",
+  "model": "25Z-1",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2550,
+  "engine": {
+   "make": "Kohler",
+   "model": "JCB Diesel by Kohler (model not stated)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 18.4,
+   "rpm": null,
+   "emission_stage": "EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2997,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_25Z-1_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). US leaflet with very few figures. Front page prints 'Operating Weight 5,622 lbs' (=2550 kg; back page prints '5622 kg' which is a unit typo). Engine quoted as 24.7 hp (=18.4 kW, gross assumed; sheet does not say gross/net) Tier 4 final. Dig depth 9'10\" converted. No pump/force data in this document."
+ },
+ {
+  "brand": "JCB",
+  "model": "35Z-1",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3556,
+  "engine": {
+   "make": "Perkins",
+   "model": "403J-17",
+   "displacement_l": 1.662,
+   "cylinders": null,
+   "power_kw_net": 15.9,
+   "power_kw_gross": 18.4,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / EPA Tier 4 Final",
+   "egr": false,
+   "aftertreatment": "None (sheet: no electronic control, aftertreatment or EGR)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement piston (per US version of sheet)",
+   "pump_flow_lpm": 76,
+   "pump_flow_total_lpm": 76,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": "30 low / 70 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32.4,
+   "arm_dig_force_kn": 22.5,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": "2.8 / 4.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3194,
+   "max_reach_mm": 5165,
+   "max_dump_height_mm": 3378,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 50,
+   "hydraulic_tank_l": 20.3
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.terra-world.com/content/download/48068/file/35Z-1%2036C-1%20E-SPEC%20SHEET.PDF",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). Metric (UK/EU) sheet for 35Z-1/36C-1. 35Z-1 zero tailswing, operating weight 3556 kg ISO 6016 (cab, 1300 dipper, 2-way dozer). Net power at 2000 rpm, gross ISO 14396 at 2200 rpm. Dig depth 3194 mm = dozer down, std dipper; reach 5165 mm and dump height 3378 mm std dipper; dipper tearout 22.5 kN (std dipper; 19.7 for long). Gradeability 30 deg (not mapped to %). Slew relief 216 bar."
+ },
+ {
+  "brand": "JCB",
+  "model": "55Z-1",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 5366,
+  "engine": {
+   "make": "Kohler (JCB Diesel by Kohler)",
+   "model": "KDI 1903",
+   "displacement_l": 1.903,
+   "cylinders": null,
+   "power_kw_net": 33.4,
+   "power_kw_gross": 36,
+   "rpm": 2200,
+   "emission_stage": "EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Piston",
+   "pump_flow_lpm": 126,
+   "pump_flow_total_lpm": 126,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": "40 low / 90 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": 42,
+   "arm_dig_force_kn": 29,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.0 / 4.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3606,
+   "max_reach_mm": 6119,
+   "max_dump_height_mm": 4274,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 76,
+   "hydraulic_tank_l": 62
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_55Z-1_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). US-market sheet in imperial units; values converted to metric. 55Z-1 operating weight 5366 kg (ISO 6016, cab, rubber tracks, 600 mm bucket; 50Z-1 is 4473 kg). Dig depth 3606 mm = dozer up (3843 dozer down). Relief 265 bar excavator/track (216 slew). Swing speed not in sheet. Engine stage EU not stated (US sheet). EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "85Z-2",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8300,
+  "engine": {
+   "make": "Kohler (JCB Diesel by Kohler)",
+   "model": "KDI 2504 TCR",
+   "displacement_l": 2.5,
+   "cylinders": null,
+   "power_kw_net": 45.4,
+   "power_kw_gross": 48,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (sheet mentions automatic DPF regeneration)"
+  },
+  "hydraulics": {
+   "pump_type": "Closed centre pump",
+   "pump_flow_lpm": 158.4,
+   "pump_flow_total_lpm": 158.4,
+   "system_pressure_bar": 300,
+   "aux_flow_lpm": "40 low / 100 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": 57.1,
+   "arm_dig_force_kn": 49.9,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": "2.5 / 5.0",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 112,
+   "hydraulic_tank_l": 66
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_85Z-2_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). Metric sheet for 85Z-2/86C-2/90Z-2/100C-2. 85Z-2 operating weight 8300 kg (ISO 6016, 450 mm rubber tracks). Pump nominal output 158.4 L/min at 2200 rpm (first model column). Arm tearout 49.9 kN with shortest/standard dipper. Dig depth/reach table columns ambiguous, left null. Hydraulic system 118 L."
+ },
+ {
+  "brand": "JCB",
+  "model": "JS145 LC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14511,
+  "engine": {
+   "make": "JCB",
+   "model": "EcoMAX 444 TCA",
+   "displacement_l": 4.4,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage IV / EPA Tier 4F",
+   "egr": null,
+   "aftertreatment": "SCR (DEF tank 54 L listed)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston",
+   "pump_flow_lpm": "2x124",
+   "pump_flow_total_lpm": 248,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 91.9,
+   "arm_dig_force_kn": 72.5,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4809,
+   "max_reach_mm": 7517,
+   "max_dump_height_mm": 6115,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 220,
+   "hydraulic_tank_l": 73
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_JS145LC_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). US-market sheet in imperial units; values converted to metric. Operating weight range 14511-16084 kg across LC/HD (min used). Sheet states 'Engine power 109 hp (81 kW)' without gross/net so power left null. Relief 314 bar (343 bar power boost). Tearouts and ranges: monoboom, shortest dipper (8'2\"): bucket 20660 lbf, dipper 16299 lbf. Travel high 5.6 km/h (LC). Swing speed not given. EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "220X LC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 23461,
+  "engine": {
+   "make": "JCB",
+   "model": "EcoMAX Tier 4 Final / Stage IV",
+   "displacement_l": 4.8,
+   "cylinders": 4,
+   "power_kw_net": 129,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage IV / EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": "SCR (DEF tank 47.7 L listed)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston",
+   "pump_flow_lpm": "2x228",
+   "pump_flow_total_lpm": 456,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 150,
+   "arm_dig_force_kn": 126.6,
+   "swing_speed_rpm": 11.0,
+   "travel_speed_kmh": "3.2 / 5.7",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6096,
+   "max_reach_mm": 9361,
+   "max_dump_height_mm": 6408,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 387,
+   "hydraulic_tank_l": 120
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_220X_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). Machine weight 23461 kg: LC monoboom, 700 mm shoes, 1.1 m3 bucket, 2.4 m dipper (24177 kg for T.A.B.). Net power 129 kW (ISO 3046). Relief 343 bar (373 with power boost). Ranges/forces for monoboom 5.7 m with 2.4 m dipper (bucket tearout 150 kN, dipper 126.6 kN). Bucket options 0.38-1.25 m3 (not set). EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "370X LC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G",
+   "ZE375G"
+  ],
+  "weight_kg": 38168,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9 Tier 4 Final / Stage IV",
+   "displacement_l": 8.9,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 232,
+   "rpm": 2100,
+   "emission_stage": "EU Stage IV / EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": "SCR (DEF tank 19 US gal listed)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston",
+   "pump_flow_lpm": "2x302",
+   "pump_flow_total_lpm": 604,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 249.4,
+   "arm_dig_force_kn": 222.1,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6960,
+   "max_reach_mm": 10770,
+   "max_dump_height_mm": 6706,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 590,
+   "hydraulic_tank_l": 174
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_370X_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). US-market sheet in imperial units; values converted to metric. Lowest listed machine weight 84146 lb (38168 kg; 2.7 yd3 bucket, 2.63 m dipper) used. Rated gross 232 kW at 2100 rpm (max gross 240 kW at 1700). Tearouts (XHD bucket, 2.63 m dipper): bucket 56067 lbf, dipper 49930 lbf. Ranges converted from inches for the 2.63 m dipper (column mapping assumed). Fuel 156 gal, hydraulic tank 46 gal converted. EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "457",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 19999,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 191,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V / EPA Tier 4F",
+   "egr": null,
+   "aftertreatment": "SCR (DEF tank listed)"
+  },
+  "hydraulics": {
+   "pump_type": "Twin variable displacement piston, load sensing",
+   "pump_flow_lpm": "2x153",
+   "pump_flow_total_lpm": 306,
+   "system_pressure_bar": 220,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.5,
+   "breakout_force_kn": 176,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13470
+  },
+  "capacities": {
+   "fuel_l": 300,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_457_SPECS.pdf",
+  "notes": "Source is a JCB-issued spec sheet (JCB-branded PDF mirrored at the URL given). Conventional diesel loader, compared with electric ZWL55GE by class. Operating weight 19999 kg, full-turn tipping load 13470 kg, standard bucket 3.5 m3 per cover (weight/tipping vary by arm/tyre/bucket configuration, 19.8-21.2 t). Breakout max 176 kN (ZX Z-bar config; 130-176 across configs). Gross 210 kW at 1900 rpm; net ISO 9249 191 kW at 2200 rpm. Pump 1: 153 L/min at 220 bar; pump 2: 153 L/min at 170 bar. Rated gross 194 kW at 2200. No JCB loader found in the 25 t class for ZWL75GE (sheet set had only 457 at ~20 t)."
+ },
+ {
+  "brand": "JCB",
+  "model": "215",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 3290,
+  "engine": {
+   "make": "Kohler (JCB Diesel by Kohler)",
+   "model": "KDI 2504 TCR/26A",
+   "displacement_l": 2.474,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 55,
+   "rpm": null,
+   "emission_stage": "EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": 70,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": "70 standard / 115 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.36,
+   "breakout_force_kn": 21.8,
+   "rated_operating_capacity_kg": 958,
+   "tipping_load_kg": 1915
+  },
+  "capacities": {
+   "fuel_l": 98,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_215T_SPECS.pdf",
+  "notes": "Source is a JCB spec sheet (US, lb converted to kg). Weight = SAE cab operating weight, no counterweight. ROC = 50% of tipping load (35% value: 670 kg). Tipping load without counterweight. Breakout = bucket tilt breakout force (2222 kgf converted to kN). Gross power SAE J1995 55 kW (74 hp); pump flow at rated rpm; main relief 230 bar. Hydraulic tank/travel speeds not mapped. EU stage and EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "270",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 3937,
+  "engine": {
+   "make": "JCB",
+   "model": "EcoMAX TCAE-55",
+   "displacement_l": 4.399,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 55,
+   "rpm": null,
+   "emission_stage": "EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": 90,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": "90 standard / 120 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.43,
+   "breakout_force_kn": 29.1,
+   "rated_operating_capacity_kg": 1235,
+   "tipping_load_kg": 2471
+  },
+  "capacities": {
+   "fuel_l": 103.3,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_215T_SPECS.pdf",
+  "notes": "Source is a JCB spec sheet (US, lb converted to kg). Weight = SAE cab operating weight, no counterweight. ROC = 50% of tipping load (35% value: 865 kg). Tipping load without counterweight. Breakout = bucket tilt breakout force (2968 kgf converted to kN). Gross power SAE J1995 55 kW (74 hp); pump flow at rated rpm; main relief 230 bar. Hydraulic tank/travel speeds not mapped. EU stage and EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "215T",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT090V"
+  ],
+  "weight_kg": 4127,
+  "engine": {
+   "make": "Kohler (JCB Diesel by Kohler)",
+   "model": "KDI 2504 TCR/26A",
+   "displacement_l": 2.474,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 55,
+   "rpm": null,
+   "emission_stage": "EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": 70,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": "70 standard / 115 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.36,
+   "breakout_force_kn": 22.0,
+   "rated_operating_capacity_kg": 1365,
+   "tipping_load_kg": 2729
+  },
+  "capacities": {
+   "fuel_l": 98,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_215T_SPECS.pdf",
+  "notes": "Source is a JCB spec sheet (US, lb converted to kg). Weight = SAE cab operating weight, no counterweight. ROC = 50% of tipping load (35% value: 955 kg). Tipping load without counterweight. Breakout = bucket tilt breakout force (2243 kgf converted to kN). Gross power SAE J1995 55 kW (74 hp); pump flow at rated rpm; main relief 230 bar. Hydraulic tank/travel speeds not mapped. EU stage and EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "270T",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4991,
+  "engine": {
+   "make": "JCB",
+   "model": "EcoMAX TCAE-55",
+   "displacement_l": 4.399,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 55,
+   "rpm": null,
+   "emission_stage": "EPA Tier 4 Final",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": 90,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": "90 standard / 120 high"
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.43,
+   "breakout_force_kn": 29.1,
+   "rated_operating_capacity_kg": 1812,
+   "tipping_load_kg": 3624
+  },
+  "capacities": {
+   "fuel_l": 103.3,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_215T_SPECS.pdf",
+  "notes": "Source is a JCB spec sheet (US, lb converted to kg). Weight = SAE cab operating weight, no counterweight. ROC = 50% of tipping load (35% value: 1235 kg). Tipping load without counterweight. Breakout = bucket tilt breakout force (2968 kgf converted to kN). Gross power SAE J1995 55 kW (74 hp); pump flow at rated rpm; main relief 230 bar. Hydraulic tank/travel speeds not mapped. EU stage and EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "JS160",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 19485,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 97
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6110,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.99,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/js160/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "JS180",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 20480,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 97
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6090,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.99,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/js180/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "131X",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14819,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6060,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.89,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/131x/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "140X",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 15275,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 81
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6060,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.89,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/140x/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "145XR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 18372,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 81
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6070,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.89,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/145xr/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Reduced tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "150X",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17861,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 81
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6060,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.89,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/150x/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "245XR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 28009,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 129
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6620,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.27,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/245xr/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Reduced tailswing. "
+ },
+ {
+  "brand": "JCB",
+  "model": "420X",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 42390,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": 8.9,
+   "cylinders": 6,
+   "power_kw_net": 240,
+   "power_kw_gross": null,
+   "rpm": 1750,
+   "emission_stage": "EU Stage V (Tier 4 Final)",
+   "egr": null,
+   "aftertreatment": "DEF/AdBlue tank 73.6 L listed (SCR); DPF not stated"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston",
+   "pump_flow_lpm": "2x311",
+   "pump_flow_total_lpm": 622,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 253.5,
+   "arm_dig_force_kn": 236.8,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": "2.95 / 5.34",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7508,
+   "max_reach_mm": 11263,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 590,
+   "hydraulic_tank_l": 175
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.companywrench.com/PDF/JCB_420X_SPECS.pdf",
+  "notes": "JCB-issued metric spec sheet (mirrored PDF; official JCB EU page https://www.jcb.com/en-GB/products/machines/tracked-excavators/420x/ gives 42390 kg operating weight, 7.6 m dig depth, 240 kW, 2.6 m3). Engine rated net 240 kW machine @1750 rpm (governed 232 kW @2100). Pump 2x311 L/min; 350 bar (380 with power boost). Dig depth/reach shown for 3.23 m HD arm (2.63 m arm: 6911 / 10693); dipper tearout 236.8 kN (2.63 m arm) / 197.8 (3.23 m), bucket tearout 253.5 kN. Travel 2.95 low / 5.34 high. Hydraulic system 400 L. Mono boom 6.45 m. EGR not stated."
+ },
+ {
+  "brand": "JCB",
+  "model": "520X",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52000,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 298
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7800,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/tracked-excavators/520x/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. Largest JCB tracked excavator in the EU range. "
+ },
+ {
+  "brand": "JCB",
+  "model": "8008 CTS",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 950,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 9
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 1690,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1980,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/8008/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "8008E CTS",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1006,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 1690,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1980,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/8008e/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing. Electric model (kW field blank on card)."
+ },
+ {
+  "brand": "JCB",
+  "model": "8010 CTS",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1110,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 13.8
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2150,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1890,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/8010/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "16C-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1749,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 11.7
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2570,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2630,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/16c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "18Z-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1749,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 11.7
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2570,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2630,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/18z/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Zero tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "19C-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1910,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 11.7
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2810,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2810,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/19c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "26C-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2675,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.4
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3030,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3000,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/26c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "36C-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3759,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.4
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3480,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3530,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/36c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "50Z-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5030,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 36
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3650,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4080,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/50z/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Zero tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "56Z-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5542,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 36
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2840,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4270,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/56z/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Zero tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "60C-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5680,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 36
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4450,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4450,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/60c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "86C-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8600,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 48
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4520,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5390,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/86c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "90Z-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8900,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4810,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5410,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/90z/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Zero tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "100C-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 9750,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5090,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5660,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/mini-excavators/100c/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Conventional tailswing."
+ },
+ {
+  "brand": "JCB",
+  "model": "413S",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 9086,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 112
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 5410
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/413s/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 2705 kg (as published on the model card). Below 10 t, borderline. "
+ },
+ {
+  "brand": "JCB",
+  "model": "417",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 9602,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 97
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 6042
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/417/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 3021 kg (as published on the model card). Below 10 t, borderline. Agri/Wastemaster variants not listed separately. "
+ },
+ {
+  "brand": "JCB",
+  "model": "419S",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 10403,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 136
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 6970
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/419s/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 3485 kg (as published on the model card). "
+ },
+ {
+  "brand": "JCB",
+  "model": "427",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14307,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 165
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 9124
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/427/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 4562 kg (as published on the model card). Agri (13943 kg) and Wastemaster variants not listed separately. "
+ },
+ {
+  "brand": "JCB",
+  "model": "435S",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15272,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 210
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11264
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/435s/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 5632 kg (as published on the model card). "
+ },
+ {
+  "brand": "JCB",
+  "model": "437",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15171,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 145
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 9405
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/437/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 4702 kg (as published on the model card). Agri and Wastemaster variants not listed separately. "
+ },
+ {
+  "brand": "JCB",
+  "model": "457S",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 19214,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 210
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11179
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/wheel-loaders/457s/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). Payload 5589 kg (as published on the model card). "
+ },
+ {
+  "brand": "JCB",
+  "model": "155",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3121,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 42
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "12 - 18.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2260,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 1914
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/skid-steer-loaders/skid-steer-loader-range/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). SAE operating weight (no counterweight) from the official model-range table. Radial lift path. Tipping load published as 1,914 kgf."
+ },
+ {
+  "brand": "JCB",
+  "model": "290",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3852,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "10.9 - 20",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2300,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 2594
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/skid-steer-loaders/skid-steer-loader-range/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). SAE operating weight (no counterweight) from the official model-range table. Vertical lift path. Tipping 2,594 kgf."
+ },
+ {
+  "brand": "JCB",
+  "model": "3TS-8W",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 4248,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "10.9 - 20",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2300,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 2966
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/skid-steer-loaders/skid-steer-loader-range/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). SAE operating weight (no counterweight) from the official model-range table. Teleskid (telescopic radial). Tipping 2,966 kgf retracted, 1,246 kgf extended."
+ },
+ {
+  "brand": "JCB",
+  "model": "290T",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5106,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "10/9 - 12.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2280,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 3711
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/compact-track-loaders/range/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). SAE operating weight (no counterweight) from the official model-range table. Slightly above 5 t. Tipping 3,711 kgf."
+ },
+ {
+  "brand": "JCB",
+  "model": "3TS-8T",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5678,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "10/9 - 12.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2280,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 4871
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.jcb.com/en-GB/products/machines/compact-track-loaders/range/",
+  "notes": "Official JCB Europe (en-GB) model-card data only (operating weight, max engine power, dig depth, bucket/dump figures as published); no full spec sheet found on the official site, other fields null. 'power_kw_rated' = 'Max. Engine Power' as published (net/gross not stated). SAE operating weight (no counterweight) from the official model-range table. Teleskid tracked, above 5 t. Tipping 4,871 kgf retracted, 2,132 kgf extended."
+ }
+]

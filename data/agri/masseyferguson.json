@@ -1,0 +1,3215 @@
+[
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 3xx.75",
+  "category": "tractor",
+  "series": "MF 3 (specialty: vineyard/orchard/narrow)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Powershuttle / Speedshift / Dyna-VT",
+   "speeds": "see notes",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 2500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 74,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-3.html",
+  "notes": "Specialty (vineyard/orchard/narrow/low-profile) series. Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-3/MF_3_EN.pdf (spec table). Power ISO 14396 @2000 rpm; fuel tank 74-75 L standard (up to 100-104 L optional); lift 2,500-3,000 (75 hp) / 3,100 kg; optional front linkage 1,650 kg. Model name is 'MF 3xx.NN' where xx = version (VI, SP, FR, WF, GE, AL); .115 label gives 120 hp, cab version only. Transmission: mechanical (optional splitter/Speedshift/Powershuttle) or Dyna-VT."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 3xx.85",
+  "category": "tractor",
+  "series": "MF 3 (specialty: vineyard/orchard/narrow)",
+  "power_hp_rated": 85,
+  "power_hp_max": null,
+  "power_kw_rated": 66,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 370,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Powershuttle / Speedshift / Dyna-VT",
+   "speeds": "see notes",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3100,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 75,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-3.html",
+  "notes": "Specialty (vineyard/orchard/narrow/low-profile) series. Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-3/MF_3_EN.pdf (spec table). Power ISO 14396 @2000 rpm; fuel tank 74-75 L standard (up to 100-104 L optional); lift 2,500-3,000 (75 hp) / 3,100 kg; optional front linkage 1,650 kg. Model name is 'MF 3xx.NN' where xx = version (VI, SP, FR, WF, GE, AL); .115 label gives 120 hp, cab version only. Transmission: mechanical (optional splitter/Speedshift/Powershuttle) or Dyna-VT."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 3xx.95",
+  "category": "tractor",
+  "series": "MF 3 (specialty: vineyard/orchard/narrow)",
+  "power_hp_rated": 95,
+  "power_hp_max": null,
+  "power_kw_rated": 71,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 395,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Powershuttle / Speedshift / Dyna-VT",
+   "speeds": "see notes",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3100,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 75,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-3.html",
+  "notes": "Specialty (vineyard/orchard/narrow/low-profile) series. Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-3/MF_3_EN.pdf (spec table). Power ISO 14396 @2000 rpm; fuel tank 74-75 L standard (up to 100-104 L optional); lift 2,500-3,000 (75 hp) / 3,100 kg; optional front linkage 1,650 kg. Model name is 'MF 3xx.NN' where xx = version (VI, SP, FR, WF, GE, AL); .115 label gives 120 hp, cab version only. Transmission: mechanical (optional splitter/Speedshift/Powershuttle) or Dyna-VT."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 3xx.105",
+  "category": "tractor",
+  "series": "MF 3 (specialty: vineyard/orchard/narrow)",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 405,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Powershuttle / Speedshift / Dyna-VT",
+   "speeds": "see notes",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3100,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 75,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-3.html",
+  "notes": "Specialty (vineyard/orchard/narrow/low-profile) series. Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-3/MF_3_EN.pdf (spec table). Power ISO 14396 @2000 rpm; fuel tank 74-75 L standard (up to 100-104 L optional); lift 2,500-3,000 (75 hp) / 3,100 kg; optional front linkage 1,650 kg. Model name is 'MF 3xx.NN' where xx = version (VI, SP, FR, WF, GE, AL); .115 label gives 120 hp, cab version only. Transmission: mechanical (optional splitter/Speedshift/Powershuttle) or Dyna-VT."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 3xx.115",
+  "category": "tractor",
+  "series": "MF 3 (specialty: vineyard/orchard/narrow)",
+  "power_hp_rated": 120,
+  "power_hp_max": null,
+  "power_kw_rated": 88,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 466,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Powershuttle / Speedshift / Dyna-VT",
+   "speeds": "see notes",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3100,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 75,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-3.html",
+  "notes": "Specialty (vineyard/orchard/narrow/low-profile) series. Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-3/MF_3_EN.pdf (spec table). Power ISO 14396 @2000 rpm; fuel tank 74-75 L standard (up to 100-104 L optional); lift 2,500-3,000 (75 hp) / 3,100 kg; optional front linkage 1,650 kg. Model name is 'MF 3xx.NN' where xx = version (VI, SP, FR, WF, GE, AL); .115 label gives 120 hp, cab version only. Transmission: mechanical (optional splitter/Speedshift/Powershuttle) or Dyna-VT."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 4708 M",
+  "category": "tractor",
+  "series": "MF 4700 M",
+  "power_hp_rated": null,
+  "power_hp_max": 82,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 3.3,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 350,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 / Dyna-2",
+   "speeds": "12x12 (48x48 Dyna-2 w/ creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 65,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2250,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-4700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-4700m/MF_4700M_EN.pdf. Max power ISO 14396 @2000 rpm; torque @1500 rpm (product page lists 347 Nm for 4708 M, brochure 350). AGCO Power 3.3 L 3-cyl. Transmission mechanical synchronised 12x12 or Dyna-2 (48x48 with creeper); max speed 40 km/h. Auxiliary oil flow 65 l/min. Rear lift 3,000 kg. Standard PTO 540/540E, 1000 optional. Fuel 105 or 125 L and AdBlue 13 or 14.5 L depending on version (not assigned per model in source)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 4709 M",
+  "category": "tractor",
+  "series": "MF 4700 M",
+  "power_hp_rated": null,
+  "power_hp_max": 92,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 3.3,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 355,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 / Dyna-2",
+   "speeds": "12x12 (48x48 Dyna-2 w/ creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 65,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2250,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-4700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-4700m/MF_4700M_EN.pdf. Max power ISO 14396 @2000 rpm; torque @1500 rpm (product page lists 347 Nm for 4708 M, brochure 350). AGCO Power 3.3 L 3-cyl. Transmission mechanical synchronised 12x12 or Dyna-2 (48x48 with creeper); max speed 40 km/h. Auxiliary oil flow 65 l/min. Rear lift 3,000 kg. Standard PTO 540/540E, 1000 optional. Fuel 105 or 125 L and AdBlue 13 or 14.5 L depending on version (not assigned per model in source)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 4710 M",
+  "category": "tractor",
+  "series": "MF 4700 M",
+  "power_hp_rated": null,
+  "power_hp_max": 100,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 3.3,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 365,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 / Dyna-2",
+   "speeds": "12x12 (48x48 Dyna-2 w/ creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 65,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2250,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-4700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-4700m/MF_4700M_EN.pdf. Max power ISO 14396 @2000 rpm; torque @1500 rpm (product page lists 347 Nm for 4708 M, brochure 350). AGCO Power 3.3 L 3-cyl. Transmission mechanical synchronised 12x12 or Dyna-2 (48x48 with creeper); max speed 40 km/h. Auxiliary oil flow 65 l/min. Rear lift 3,000 kg. Standard PTO 540/540E, 1000 optional. Fuel 105 or 125 L and AdBlue 13 or 14.5 L depending on version (not assigned per model in source)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5709 M",
+  "category": "tractor",
+  "series": "MF 5700 M",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 68,
+  "power_kw_max": 71,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 406,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 (Dyna-4 per brochure table)",
+   "speeds": "12x12",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": null,
+   "category": "Cat. 2/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34 / R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/assets/product-brochures/tractors/mf-5700-m/A-A-17337_MF_5700_M_Bro_Eng_V15_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. AGCO Power 4.4 L 4-cyl (DOC+SCR). Mechanical synchronised 12x12; brochure table also lists Dyna 4. Hydraulics 58 l/min std, 100 l/min option (2 pumps), 2 std / 3 optional spool valves. Std PTO 540/540Eco (540/1000 optional). Fuel 153-160 L, AdBlue 18 L (not assigned per model). Std rear tyres 420/85 R34 or R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5710 M",
+  "category": "tractor",
+  "series": "MF 5700 M",
+  "power_hp_rated": 100,
+  "power_hp_max": 105,
+  "power_kw_rated": 77,
+  "power_kw_max": 80,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 435,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 (Dyna-4 per brochure table)",
+   "speeds": "12x12",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": null,
+   "category": "Cat. 2/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34 / R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/assets/product-brochures/tractors/mf-5700-m/A-A-17337_MF_5700_M_Bro_Eng_V15_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. AGCO Power 4.4 L 4-cyl (DOC+SCR). Mechanical synchronised 12x12; brochure table also lists Dyna 4. Hydraulics 58 l/min std, 100 l/min option (2 pumps), 2 std / 3 optional spool valves. Std PTO 540/540Eco (540/1000 optional). Fuel 153-160 L, AdBlue 18 L (not assigned per model). Std rear tyres 420/85 R34 or R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5711 M",
+  "category": "tractor",
+  "series": "MF 5700 M",
+  "power_hp_rated": 110,
+  "power_hp_max": 115,
+  "power_kw_rated": 82,
+  "power_kw_max": 86,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 455,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 (Dyna-4 per brochure table)",
+   "speeds": "12x12",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": null,
+   "category": "Cat. 2/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34 / R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/assets/product-brochures/tractors/mf-5700-m/A-A-17337_MF_5700_M_Bro_Eng_V15_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. AGCO Power 4.4 L 4-cyl (DOC+SCR). Mechanical synchronised 12x12; brochure table also lists Dyna 4. Hydraulics 58 l/min std, 100 l/min option (2 pumps), 2 std / 3 optional spool valves. Std PTO 540/540Eco (540/1000 optional). Fuel 153-160 L, AdBlue 18 L (not assigned per model). Std rear tyres 420/85 R34 or R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5712 M",
+  "category": "tractor",
+  "series": "MF 5700 M",
+  "power_hp_rated": 120,
+  "power_hp_max": 125,
+  "power_kw_rated": 90,
+  "power_kw_max": 93,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 520,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 (Dyna-4 per brochure table)",
+   "speeds": "12x12",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": "Cat. 2/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34 / R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/assets/product-brochures/tractors/mf-5700-m/A-A-17337_MF_5700_M_Bro_Eng_V15_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. AGCO Power 4.4 L 4-cyl (DOC+SCR). Mechanical synchronised 12x12; brochure table also lists Dyna 4. Hydraulics 58 l/min std, 100 l/min option (2 pumps), 2 std / 3 optional spool valves. Std PTO 540/540Eco (540/1000 optional). Fuel 153-160 L, AdBlue 18 L (not assigned per model). Std rear tyres 420/85 R34 or R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5713 M",
+  "category": "tractor",
+  "series": "MF 5700 M",
+  "power_hp_rated": 130,
+  "power_hp_max": 135,
+  "power_kw_rated": 97,
+  "power_kw_max": 101,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR",
+   "turbo": true,
+   "max_torque_nm": 540,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical 12x12 (Dyna-4 per brochure table)",
+   "speeds": "12x12",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": "Cat. 2/3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E (540/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34 / R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5700-m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/assets/product-brochures/tractors/mf-5700-m/A-A-17337_MF_5700_M_Bro_Eng_V15_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. AGCO Power 4.4 L 4-cyl (DOC+SCR). Mechanical synchronised 12x12; brochure table also lists Dyna 4. Hydraulics 58 l/min std, 100 l/min option (2 pumps), 2 std / 3 optional spool valves. Std PTO 540/540Eco (540/1000 optional). Fuel 153-160 L, AdBlue 18 L (not assigned per model). Std rear tyres 420/85 R34 or R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5M.95",
+  "category": "tractor",
+  "series": "MF 5M",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 68,
+  "power_kw_max": 71,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One (DOC+SCR+SC)",
+   "turbo": true,
+   "max_torque_nm": 405,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre, dual gear pump",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": null,
+   "category": "Cat. 2"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2430,
+  "fuel_l": 198,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en_gb/assets/product-brochures/tractors/mf-5m/A-A-18152_MF_5_M_Bro_Eng_V6_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. Transmission Dyna-4 semi-powershift 16x16 (32x32 creeper) or mechanical 12x12 (not .95); 40 km/h. Hydraulics 58 l/min std, 100 l/min with dual pump option; 2 std / 3 opt spool valves. Std PTO 540/540Eco/1000. Weight min/avg/max 4,225/4,500/5,450 (.95-.115) and 4,475/4,750/5,700 (.125-.145). Wheelbase 2,430 (.95-.115) / 2,620 mm (.125-.145)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5M.105",
+  "category": "tractor",
+  "series": "MF 5M",
+  "power_hp_rated": 100,
+  "power_hp_max": 105,
+  "power_kw_rated": 75,
+  "power_kw_max": 78,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One (DOC+SCR+SC)",
+   "turbo": true,
+   "max_torque_nm": 440,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre, dual gear pump",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": null,
+   "category": "Cat. 2"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2430,
+  "fuel_l": 198,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en_gb/assets/product-brochures/tractors/mf-5m/A-A-18152_MF_5_M_Bro_Eng_V6_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. Transmission Dyna-4 semi-powershift 16x16 (32x32 creeper) or mechanical 12x12 (not .95); 40 km/h. Hydraulics 58 l/min std, 100 l/min with dual pump option; 2 std / 3 opt spool valves. Std PTO 540/540Eco/1000. Weight min/avg/max 4,225/4,500/5,450 (.95-.115) and 4,475/4,750/5,700 (.125-.145). Wheelbase 2,430 (.95-.115) / 2,620 mm (.125-.145)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5M.115",
+  "category": "tractor",
+  "series": "MF 5M",
+  "power_hp_rated": 110,
+  "power_hp_max": 115,
+  "power_kw_rated": 82,
+  "power_kw_max": 86,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One (DOC+SCR+SC)",
+   "turbo": true,
+   "max_torque_nm": 460,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre, dual gear pump",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4300,
+   "front_lift_kg": null,
+   "category": "Cat. 2"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2430,
+  "fuel_l": 198,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en_gb/assets/product-brochures/tractors/mf-5m/A-A-18152_MF_5_M_Bro_Eng_V6_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. Transmission Dyna-4 semi-powershift 16x16 (32x32 creeper) or mechanical 12x12 (not .95); 40 km/h. Hydraulics 58 l/min std, 100 l/min with dual pump option; 2 std / 3 opt spool valves. Std PTO 540/540Eco/1000. Weight min/avg/max 4,225/4,500/5,450 (.95-.115) and 4,475/4,750/5,700 (.125-.145). Wheelbase 2,430 (.95-.115) / 2,620 mm (.125-.145)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5M.125",
+  "category": "tractor",
+  "series": "MF 5M",
+  "power_hp_rated": 120,
+  "power_hp_max": 125,
+  "power_kw_rated": 90,
+  "power_kw_max": 93,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One (DOC+SCR+SC)",
+   "turbo": true,
+   "max_torque_nm": 520,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre, dual gear pump",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2620,
+  "fuel_l": 198,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en_gb/assets/product-brochures/tractors/mf-5m/A-A-18152_MF_5_M_Bro_Eng_V6_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. Transmission Dyna-4 semi-powershift 16x16 (32x32 creeper) or mechanical 12x12 (not .95); 40 km/h. Hydraulics 58 l/min std, 100 l/min with dual pump option; 2 std / 3 opt spool valves. Std PTO 540/540Eco/1000. Weight min/avg/max 4,225/4,500/5,450 (.95-.115) and 4,475/4,750/5,700 (.125-.145). Wheelbase 2,430 (.95-.115) / 2,620 mm (.125-.145)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5M.135",
+  "category": "tractor",
+  "series": "MF 5M",
+  "power_hp_rated": 130,
+  "power_hp_max": 135,
+  "power_kw_rated": 97,
+  "power_kw_max": 101,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One (DOC+SCR+SC)",
+   "turbo": true,
+   "max_torque_nm": 545,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre, dual gear pump",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2620,
+  "fuel_l": 198,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en_gb/assets/product-brochures/tractors/mf-5m/A-A-18152_MF_5_M_Bro_Eng_V6_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. Transmission Dyna-4 semi-powershift 16x16 (32x32 creeper) or mechanical 12x12 (not .95); 40 km/h. Hydraulics 58 l/min std, 100 l/min with dual pump option; 2 std / 3 opt spool valves. Std PTO 540/540Eco/1000. Weight min/avg/max 4,225/4,500/5,450 (.95-.115) and 4,475/4,750/5,700 (.125-.145). Wheelbase 2,430 (.95-.115) / 2,620 mm (.125-.145)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5M.145",
+  "category": "tractor",
+  "series": "MF 5M",
+  "power_hp_rated": 140,
+  "power_hp_max": 145,
+  "power_kw_rated": 105,
+  "power_kw_max": 107,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One (DOC+SCR+SC)",
+   "turbo": true,
+   "max_torque_nm": 560,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre, dual gear pump",
+   "flow_lpm": 58,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2620,
+  "fuel_l": 198,
+  "adblue_l": 18,
+  "tires": {
+   "front": null,
+   "rear": "420/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5m.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en_gb/assets/product-brochures/tractors/mf-5m/A-A-18152_MF_5_M_Bro_Eng_V6_UB.pdf. Rated = nominal ISO hp @2200 rpm; max = ISO hp @2000 rpm; torque @1500 rpm. Transmission Dyna-4 semi-powershift 16x16 (32x32 creeper) or mechanical 12x12 (not .95); 40 km/h. Hydraulics 58 l/min std, 100 l/min with dual pump option; 2 std / 3 opt spool valves. Std PTO 540/540Eco/1000. Weight min/avg/max 4,225/4,500/5,450 (.95-.115) and 4,475/4,750/5,700 (.125-.145). Wheelbase 2,430 (.95-.115) / 2,620 mm (.125-.145)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5S.105",
+  "category": "tractor",
+  "series": "MF 5S",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+Soot catalyst",
+   "turbo": true,
+   "max_torque_nm": 470,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4 / Dyna-6 / Dyna-VT",
+   "speeds": "16x16 / 24x24 / continuous",
+   "max_speed_kmh": 40,
+   "creeper": "supercreeper optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre or closed centre LS",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6000,
+   "front_lift_kg": 3000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco (1000 optional)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 20,
+  "tires": {
+   "front": "420/70 R28",
+   "rear": "520/70 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-5s/MF_5S_EN.pdf. Max ISO hp @2000 rpm (kW not given for all models in the spec table); torque @1500 rpm. Transmissions Dyna-4 16x16, Dyna-6 24x24, Dyna-VT (stepless 0.1-40 km/h); weight 5,300 (Dyna-4/6) / 5,800 kg (Dyna-VT). Hydraulics: open centre 58/100 l/min or closed centre load sensing 110 l/min; max 4 aux valves. Front linkage 3,000 kg, front PTO 1000 rpm. Std tyres 420/70 R28 / 520/70 R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5S.115",
+  "category": "tractor",
+  "series": "MF 5S",
+  "power_hp_rated": 115,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+Soot catalyst",
+   "turbo": true,
+   "max_torque_nm": 510,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4 / Dyna-6 / Dyna-VT",
+   "speeds": "16x16 / 24x24 / continuous",
+   "max_speed_kmh": 40,
+   "creeper": "supercreeper optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre or closed centre LS",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6000,
+   "front_lift_kg": 3000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco (1000 optional)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 20,
+  "tires": {
+   "front": "420/70 R28",
+   "rear": "520/70 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-5s/MF_5S_EN.pdf. Max ISO hp @2000 rpm (kW not given for all models in the spec table); torque @1500 rpm. Transmissions Dyna-4 16x16, Dyna-6 24x24, Dyna-VT (stepless 0.1-40 km/h); weight 5,300 (Dyna-4/6) / 5,800 kg (Dyna-VT). Hydraulics: open centre 58/100 l/min or closed centre load sensing 110 l/min; max 4 aux valves. Front linkage 3,000 kg, front PTO 1000 rpm. Std tyres 420/70 R28 / 520/70 R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5S.125",
+  "category": "tractor",
+  "series": "MF 5S",
+  "power_hp_rated": 125,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+Soot catalyst",
+   "turbo": true,
+   "max_torque_nm": 540,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4 / Dyna-6 / Dyna-VT",
+   "speeds": "16x16 / 24x24 / continuous",
+   "max_speed_kmh": 40,
+   "creeper": "supercreeper optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre or closed centre LS",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6000,
+   "front_lift_kg": 3000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco (1000 optional)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 20,
+  "tires": {
+   "front": "420/70 R28",
+   "rear": "520/70 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-5s/MF_5S_EN.pdf. Max ISO hp @2000 rpm (kW not given for all models in the spec table); torque @1500 rpm. Transmissions Dyna-4 16x16, Dyna-6 24x24, Dyna-VT (stepless 0.1-40 km/h); weight 5,300 (Dyna-4/6) / 5,800 kg (Dyna-VT). Hydraulics: open centre 58/100 l/min or closed centre load sensing 110 l/min; max 4 aux valves. Front linkage 3,000 kg, front PTO 1000 rpm. Std tyres 420/70 R28 / 520/70 R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5S.135",
+  "category": "tractor",
+  "series": "MF 5S",
+  "power_hp_rated": 135,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+Soot catalyst",
+   "turbo": true,
+   "max_torque_nm": 545,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4 / Dyna-6 / Dyna-VT",
+   "speeds": "16x16 / 24x24 / continuous",
+   "max_speed_kmh": 40,
+   "creeper": "supercreeper optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre or closed centre LS",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6000,
+   "front_lift_kg": 3000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco (1000 optional)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 20,
+  "tires": {
+   "front": "420/70 R28",
+   "rear": "520/70 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-5s/MF_5S_EN.pdf. Max ISO hp @2000 rpm (kW not given for all models in the spec table); torque @1500 rpm. Transmissions Dyna-4 16x16, Dyna-6 24x24, Dyna-VT (stepless 0.1-40 km/h); weight 5,300 (Dyna-4/6) / 5,800 kg (Dyna-VT). Hydraulics: open centre 58/100 l/min or closed centre load sensing 110 l/min; max 4 aux valves. Front linkage 3,000 kg, front PTO 1000 rpm. Std tyres 420/70 R28 / 520/70 R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 5S.145",
+  "category": "tractor",
+  "series": "MF 5S",
+  "power_hp_rated": 145,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+Soot catalyst",
+   "turbo": true,
+   "max_torque_nm": 560,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Dyna-4 / Dyna-6 / Dyna-VT",
+   "speeds": "16x16 / 24x24 / continuous",
+   "max_speed_kmh": 40,
+   "creeper": "supercreeper optional"
+  },
+  "hydraulics": {
+   "pump_type": "open centre or closed centre LS",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6000,
+   "front_lift_kg": 3000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco (1000 optional)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2550,
+  "fuel_l": 200,
+  "adblue_l": 20,
+  "tires": {
+   "front": "420/70 R28",
+   "rear": "520/70 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-5s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-5s/MF_5S_EN.pdf. Max ISO hp @2000 rpm (kW not given for all models in the spec table); torque @1500 rpm. Transmissions Dyna-4 16x16, Dyna-6 24x24, Dyna-VT (stepless 0.1-40 km/h); weight 5,300 (Dyna-4/6) / 5,800 kg (Dyna-VT). Hydraulics: open centre 58/100 l/min or closed centre load sensing 110 l/min; max 4 aux valves. Front linkage 3,000 kg, front PTO 1000 rpm. Std tyres 420/70 R28 / 520/70 R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 6S.135",
+  "category": "tractor",
+  "series": "MF 6S",
+  "power_hp_rated": 135,
+  "power_hp_max": 150,
+  "power_kw_rated": 100,
+  "power_kw_max": 111,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 650,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": "optional super creeper 48x48"
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2670,
+  "fuel_l": 280,
+  "adblue_l": 35,
+  "tires": {
+   "front": "380/85R28",
+   "rear": "460/85R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-6s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-6s/MF_6S_EN.pdf (A-A-17302_2026). Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM (Engine Power Management); torque value = with EPM @1500 rpm (without EPM 648/691/745/790/800 Nm). 4-cyl 4.9 L. Dyna-6 24x24 (48x48 creeper) or Dyna-VT 40/50 km/h. Hydraulics std closed centre 110 l/min, option 150 (Dyna-6) / 190 l/min (Dyna-VT); 4 (Dyna-6) / 5 (Dyna-VT) rear valves. Rear lift 7,100/8,100 (Dyna-6), 9,600 kg (Dyna-VT). Front lift 3,200 kg. Weight min/avg/max 5,300/6,500/8,000 and 5,500/6,700/8,200 kg; GVW up to 12,500. Std tyres front 380/85R28, rear 460/85R38. max_speed 50 km/h where legislation allows (40 km/h standard)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 6S.145",
+  "category": "tractor",
+  "series": "MF 6S",
+  "power_hp_rated": 145,
+  "power_hp_max": 160,
+  "power_kw_rated": 107,
+  "power_kw_max": 117,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": "optional super creeper 48x48"
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2670,
+  "fuel_l": 280,
+  "adblue_l": 35,
+  "tires": {
+   "front": "380/85R28",
+   "rear": "460/85R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-6s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-6s/MF_6S_EN.pdf (A-A-17302_2026). Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM (Engine Power Management); torque value = with EPM @1500 rpm (without EPM 648/691/745/790/800 Nm). 4-cyl 4.9 L. Dyna-6 24x24 (48x48 creeper) or Dyna-VT 40/50 km/h. Hydraulics std closed centre 110 l/min, option 150 (Dyna-6) / 190 l/min (Dyna-VT); 4 (Dyna-6) / 5 (Dyna-VT) rear valves. Rear lift 7,100/8,100 (Dyna-6), 9,600 kg (Dyna-VT). Front lift 3,200 kg. Weight min/avg/max 5,300/6,500/8,000 and 5,500/6,700/8,200 kg; GVW up to 12,500. Std tyres front 380/85R28, rear 460/85R38. max_speed 50 km/h where legislation allows (40 km/h standard)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 6S.155",
+  "category": "tractor",
+  "series": "MF 6S",
+  "power_hp_rated": 155,
+  "power_hp_max": 175,
+  "power_kw_rated": 114,
+  "power_kw_max": 129,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": "optional super creeper 48x48"
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2670,
+  "fuel_l": 280,
+  "adblue_l": 35,
+  "tires": {
+   "front": "380/85R28",
+   "rear": "460/85R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-6s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-6s/MF_6S_EN.pdf (A-A-17302_2026). Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM (Engine Power Management); torque value = with EPM @1500 rpm (without EPM 648/691/745/790/800 Nm). 4-cyl 4.9 L. Dyna-6 24x24 (48x48 creeper) or Dyna-VT 40/50 km/h. Hydraulics std closed centre 110 l/min, option 150 (Dyna-6) / 190 l/min (Dyna-VT); 4 (Dyna-6) / 5 (Dyna-VT) rear valves. Rear lift 7,100/8,100 (Dyna-6), 9,600 kg (Dyna-VT). Front lift 3,200 kg. Weight min/avg/max 5,300/6,500/8,000 and 5,500/6,700/8,200 kg; GVW up to 12,500. Std tyres front 380/85R28, rear 460/85R38. max_speed 50 km/h where legislation allows (40 km/h standard)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 6S.165",
+  "category": "tractor",
+  "series": "MF 6S",
+  "power_hp_rated": 165,
+  "power_hp_max": 185,
+  "power_kw_rated": 121,
+  "power_kw_max": 136,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 800,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": "optional super creeper 48x48"
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2670,
+  "fuel_l": 280,
+  "adblue_l": 35,
+  "tires": {
+   "front": "380/85R28",
+   "rear": "460/85R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-6s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-6s/MF_6S_EN.pdf (A-A-17302_2026). Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM (Engine Power Management); torque value = with EPM @1500 rpm (without EPM 648/691/745/790/800 Nm). 4-cyl 4.9 L. Dyna-6 24x24 (48x48 creeper) or Dyna-VT 40/50 km/h. Hydraulics std closed centre 110 l/min, option 150 (Dyna-6) / 190 l/min (Dyna-VT); 4 (Dyna-6) / 5 (Dyna-VT) rear valves. Rear lift 7,100/8,100 (Dyna-6), 9,600 kg (Dyna-VT). Front lift 3,200 kg. Weight min/avg/max 5,300/6,500/8,000 and 5,500/6,700/8,200 kg; GVW up to 12,500. Std tyres front 380/85R28, rear 460/85R38. max_speed 50 km/h where legislation allows (40 km/h standard)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 6S.180",
+  "category": "tractor",
+  "series": "MF 6S",
+  "power_hp_rated": 180,
+  "power_hp_max": 200,
+  "power_kw_rated": 132,
+  "power_kw_max": 148,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.9,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 840,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": "optional super creeper 48x48"
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2670,
+  "fuel_l": 280,
+  "adblue_l": 35,
+  "tires": {
+   "front": "380/85R28",
+   "rear": "460/85R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-6s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-6s/MF_6S_EN.pdf (A-A-17302_2026). Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM (Engine Power Management); torque value = with EPM @1500 rpm (without EPM 648/691/745/790/800 Nm). 4-cyl 4.9 L. Dyna-6 24x24 (48x48 creeper) or Dyna-VT 40/50 km/h. Hydraulics std closed centre 110 l/min, option 150 (Dyna-6) / 190 l/min (Dyna-VT); 4 (Dyna-6) / 5 (Dyna-VT) rear valves. Rear lift 7,100/8,100 (Dyna-6), 9,600 kg (Dyna-VT). Front lift 3,200 kg. Weight min/avg/max 5,300/6,500/8,000 and 5,500/6,700/8,200 kg; GVW up to 12,500. Std tyres front 380/85R28, rear 460/85R38. max_speed 50 km/h where legislation allows (40 km/h standard)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.155",
+  "category": "tractor",
+  "series": "MF 7S",
+  "power_hp_rated": 155,
+  "power_hp_max": 175,
+  "power_kw_rated": 114,
+  "power_kw_max": 129,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2880,
+  "fuel_l": 305,
+  "adblue_l": 30,
+  "tires": {
+   "front": "420/85 R28",
+   "rear": "520/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-7s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-7s/MF_7S_EN.pdf. Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM; torque = with EPM @1500 rpm (without EPM 700/725/750/850/860). 6-cyl 6.6 L. Dyna-6 24x24 or Dyna-VT (Dyna-VT only for .190/.210); 40 km/h (50 where permitted). Hydraulics std LS 110 l/min, optional 150/190; 4/5 (Dyna-VT) rear valves. Front lift 3,200 kg (4,000 on upper models). Weight min/avg/max 5,800/7,000/8,150 and 6,300/7,500/8,400 kg (variant columns not assigned); GVW 12,500-14,000."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.165",
+  "category": "tractor",
+  "series": "MF 7S",
+  "power_hp_rated": 165,
+  "power_hp_max": 185,
+  "power_kw_rated": 121,
+  "power_kw_max": 136,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 800,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2880,
+  "fuel_l": 305,
+  "adblue_l": 30,
+  "tires": {
+   "front": "420/85 R28",
+   "rear": "520/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-7s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-7s/MF_7S_EN.pdf. Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM; torque = with EPM @1500 rpm (without EPM 700/725/750/850/860). 6-cyl 6.6 L. Dyna-6 24x24 or Dyna-VT (Dyna-VT only for .190/.210); 40 km/h (50 where permitted). Hydraulics std LS 110 l/min, optional 150/190; 4/5 (Dyna-VT) rear valves. Front lift 3,200 kg (4,000 on upper models). Weight min/avg/max 5,800/7,000/8,150 and 6,300/7,500/8,400 kg (variant columns not assigned); GVW 12,500-14,000."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.180",
+  "category": "tractor",
+  "series": "MF 7S",
+  "power_hp_rated": 180,
+  "power_hp_max": 210,
+  "power_kw_rated": 132,
+  "power_kw_max": 154,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 860,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-6 / Dyna-VT",
+   "speeds": "24x24 (Dyna-6) / continuous (Dyna-VT)",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 3200,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2880,
+  "fuel_l": 305,
+  "adblue_l": 30,
+  "tires": {
+   "front": "420/85 R28",
+   "rear": "520/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-7s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-7s/MF_7S_EN.pdf. Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM; torque = with EPM @1500 rpm (without EPM 700/725/750/850/860). 6-cyl 6.6 L. Dyna-6 24x24 or Dyna-VT (Dyna-VT only for .190/.210); 40 km/h (50 where permitted). Hydraulics std LS 110 l/min, optional 150/190; 4/5 (Dyna-VT) rear valves. Front lift 3,200 kg (4,000 on upper models). Weight min/avg/max 5,800/7,000/8,150 and 6,300/7,500/8,400 kg (variant columns not assigned); GVW 12,500-14,000."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.190",
+  "category": "tractor",
+  "series": "MF 7S",
+  "power_hp_rated": 190,
+  "power_hp_max": 220,
+  "power_kw_rated": 140,
+  "power_kw_max": 162,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 925,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 4000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2880,
+  "fuel_l": 305,
+  "adblue_l": 30,
+  "tires": {
+   "front": "420/85 R28",
+   "rear": "520/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-7s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-7s/MF_7S_EN.pdf. Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM; torque = with EPM @1500 rpm (without EPM 700/725/750/850/860). 6-cyl 6.6 L. Dyna-6 24x24 or Dyna-VT (Dyna-VT only for .190/.210); 40 km/h (50 where permitted). Hydraulics std LS 110 l/min, optional 150/190; 4/5 (Dyna-VT) rear valves. Front lift 3,200 kg (4,000 on upper models). Weight min/avg/max 5,800/7,000/8,150 and 6,300/7,500/8,400 kg (variant columns not assigned); GVW 12,500-14,000."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.210",
+  "category": "tractor",
+  "series": "MF 7S",
+  "power_hp_rated": 210,
+  "power_hp_max": 220,
+  "power_kw_rated": 154,
+  "power_kw_max": 162,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 925,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1950
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 190,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": 4000,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2880,
+  "fuel_l": 305,
+  "adblue_l": 30,
+  "tires": {
+   "front": "420/85 R28",
+   "rear": "520/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-7s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-7s/MF_7S_EN.pdf. Rated = max ISO 14396 hp @1950 rpm without EPM; max = with EPM; torque = with EPM @1500 rpm (without EPM 700/725/750/850/860). 6-cyl 6.6 L. Dyna-6 24x24 or Dyna-VT (Dyna-VT only for .190/.210); 40 km/h (50 where permitted). Hydraulics std LS 110 l/min, optional 150/190; 4/5 (Dyna-VT) rear valves. Front lift 3,200 kg (4,000 on upper models). Weight min/avg/max 5,800/7,000/8,150 and 6,300/7,500/8,400 kg (variant columns not assigned); GVW 12,500-14,000."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.170 (Mark 2)",
+  "category": "tractor",
+  "series": "MF 7S Mark 2",
+  "power_hp_rated": 170,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE 75",
+   "cylinders": 6,
+   "displacement_l": 7.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 815,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre",
+   "flow_lpm": 190,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "4-speed",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/MF-7S-MARK-2.html",
+  "notes": "Product page only (no brochure found). Page table 'Max Power (hp)' @1,900 rpm; EPM status not stated. AGCO Power CORE 75, 7.5 L 6-cyl; Dyna-VT only (max speed 57 km/h per page); 4-speed PTO; max hydraulic flow 190 l/min, up to 5 rear and 6 mid-mounted valves; lift capacity 9,600 kg. Series announced, production from early 2027 per trade press (not verified on official page)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.185 (Mark 2)",
+  "category": "tractor",
+  "series": "MF 7S Mark 2",
+  "power_hp_rated": 185,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE 75",
+   "cylinders": 6,
+   "displacement_l": 7.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 879,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre",
+   "flow_lpm": 190,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "4-speed",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/MF-7S-MARK-2.html",
+  "notes": "Product page only (no brochure found). Page table 'Max Power (hp)' @1,900 rpm; EPM status not stated. AGCO Power CORE 75, 7.5 L 6-cyl; Dyna-VT only (max speed 57 km/h per page); 4-speed PTO; max hydraulic flow 190 l/min, up to 5 rear and 6 mid-mounted valves; lift capacity 9,600 kg. Series announced, production from early 2027 per trade press (not verified on official page)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.200 (Mark 2)",
+  "category": "tractor",
+  "series": "MF 7S Mark 2",
+  "power_hp_rated": 200,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE 75",
+   "cylinders": 6,
+   "displacement_l": 7.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 949,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre",
+   "flow_lpm": 190,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "4-speed",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/MF-7S-MARK-2.html",
+  "notes": "Product page only (no brochure found). Page table 'Max Power (hp)' @1,900 rpm; EPM status not stated. AGCO Power CORE 75, 7.5 L 6-cyl; Dyna-VT only (max speed 57 km/h per page); 4-speed PTO; max hydraulic flow 190 l/min, up to 5 rear and 6 mid-mounted valves; lift capacity 9,600 kg. Series announced, production from early 2027 per trade press (not verified on official page)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.215 (Mark 2)",
+  "category": "tractor",
+  "series": "MF 7S Mark 2",
+  "power_hp_rated": 215,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE 75",
+   "cylinders": 6,
+   "displacement_l": 7.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1019,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre",
+   "flow_lpm": 190,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "4-speed",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/MF-7S-MARK-2.html",
+  "notes": "Product page only (no brochure found). Page table 'Max Power (hp)' @1,900 rpm; EPM status not stated. AGCO Power CORE 75, 7.5 L 6-cyl; Dyna-VT only (max speed 57 km/h per page); 4-speed PTO; max hydraulic flow 190 l/min, up to 5 rear and 6 mid-mounted valves; lift capacity 9,600 kg. Series announced, production from early 2027 per trade press (not verified on official page)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.230 (Mark 2)",
+  "category": "tractor",
+  "series": "MF 7S Mark 2",
+  "power_hp_rated": 230,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE 75",
+   "cylinders": 6,
+   "displacement_l": 7.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1096,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre",
+   "flow_lpm": 190,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "4-speed",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/MF-7S-MARK-2.html",
+  "notes": "Product page only (no brochure found). Page table 'Max Power (hp)' @1,900 rpm; EPM status not stated. AGCO Power CORE 75, 7.5 L 6-cyl; Dyna-VT only (max speed 57 km/h per page); 4-speed PTO; max hydraulic flow 190 l/min, up to 5 rear and 6 mid-mounted valves; lift capacity 9,600 kg. Series announced, production from early 2027 per trade press (not verified on official page)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 7S.245 (Mark 2)",
+  "category": "tractor",
+  "series": "MF 7S Mark 2",
+  "power_hp_rated": 245,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE 75",
+   "cylinders": 6,
+   "displacement_l": 7.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1184,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 57,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre",
+   "flow_lpm": 190,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 9600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "4-speed",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/MF-7S-MARK-2.html",
+  "notes": "Product page only (no brochure found). Page table 'Max Power (hp)' @1,900 rpm; EPM status not stated. AGCO Power CORE 75, 7.5 L 6-cyl; Dyna-VT only (max speed 57 km/h per page); 4-speed PTO; max hydraulic flow 190 l/min, up to 5 rear and 6 mid-mounted valves; lift capacity 9,600 kg. Series announced, production from early 2027 per trade press (not verified on official page)."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 8S.225 Xtra",
+  "category": "tractor",
+  "series": "MF 8S Xtra",
+  "power_hp_rated": 225,
+  "power_hp_max": 245,
+  "power_kw_rated": 165,
+  "power_kw_max": 180,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1100,
+   "max_torque_rpm": null,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna E-Power / Dyna-VT",
+   "speeds": "28x28 Autodrive / continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 4800,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000 (Dyna-VT); 540/540Eco/1000/1000Eco (Dyna E-Power)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3050,
+  "fuel_l": 460,
+  "adblue_l": 43,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-8S-Xtra.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-8s-xtra/MF_8S_XTRA_EN.pdf. Rated = max ISO 14396 hp @1850 rpm without EPM; max = with EPM (none for .305); torque 1000-1500 rpm = with EPM where available. 6-cyl 7.4 L. Transmissions Dyna E-Power (28x28 Autodrive, 43/53 km/h) for .225-.265 or Dyna-VT (50 km/h where permitted). Hydraulics closed centre LS 110/150/205 (205 std on Dyna-VT)/270 l/min; 5 rear valves; front lift 4,800 kg. Weight min/avg/max 8,700/10,000/13,700; GVW 16,000. Fuel 460 L (500 with Dyna-VT). Std tyres rear 650/85 R38, front 600/70 R30. Torque at 1000-1500 rpm. Note: Dyna E-Power listed for .285/.305 not available per table."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 8S.245 Xtra",
+  "category": "tractor",
+  "series": "MF 8S Xtra",
+  "power_hp_rated": 245,
+  "power_hp_max": 265,
+  "power_kw_rated": 180,
+  "power_kw_max": 195,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1200,
+   "max_torque_rpm": null,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna E-Power / Dyna-VT",
+   "speeds": "28x28 Autodrive / continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 4800,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000 (Dyna-VT); 540/540Eco/1000/1000Eco (Dyna E-Power)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3050,
+  "fuel_l": 460,
+  "adblue_l": 43,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-8S-Xtra.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-8s-xtra/MF_8S_XTRA_EN.pdf. Rated = max ISO 14396 hp @1850 rpm without EPM; max = with EPM (none for .305); torque 1000-1500 rpm = with EPM where available. 6-cyl 7.4 L. Transmissions Dyna E-Power (28x28 Autodrive, 43/53 km/h) for .225-.265 or Dyna-VT (50 km/h where permitted). Hydraulics closed centre LS 110/150/205 (205 std on Dyna-VT)/270 l/min; 5 rear valves; front lift 4,800 kg. Weight min/avg/max 8,700/10,000/13,700; GVW 16,000. Fuel 460 L (500 with Dyna-VT). Std tyres rear 650/85 R38, front 600/70 R30. Torque at 1000-1500 rpm. Note: Dyna E-Power listed for .285/.305 not available per table."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 8S.265 Xtra",
+  "category": "tractor",
+  "series": "MF 8S Xtra",
+  "power_hp_rated": 265,
+  "power_hp_max": 285,
+  "power_kw_rated": 195,
+  "power_kw_max": 210,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1260,
+   "max_torque_rpm": null,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna E-Power / Dyna-VT",
+   "speeds": "28x28 Autodrive / continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 4800,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000 (Dyna-VT); 540/540Eco/1000/1000Eco (Dyna E-Power)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3050,
+  "fuel_l": 460,
+  "adblue_l": 43,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-8S-Xtra.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-8s-xtra/MF_8S_XTRA_EN.pdf. Rated = max ISO 14396 hp @1850 rpm without EPM; max = with EPM (none for .305); torque 1000-1500 rpm = with EPM where available. 6-cyl 7.4 L. Transmissions Dyna E-Power (28x28 Autodrive, 43/53 km/h) for .225-.265 or Dyna-VT (50 km/h where permitted). Hydraulics closed centre LS 110/150/205 (205 std on Dyna-VT)/270 l/min; 5 rear valves; front lift 4,800 kg. Weight min/avg/max 8,700/10,000/13,700; GVW 16,000. Fuel 460 L (500 with Dyna-VT). Std tyres rear 650/85 R38, front 600/70 R30. Torque at 1000-1500 rpm. Note: Dyna E-Power listed for .285/.305 not available per table."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 8S.285 Xtra",
+  "category": "tractor",
+  "series": "MF 8S Xtra",
+  "power_hp_rated": 285,
+  "power_hp_max": 305,
+  "power_kw_rated": 210,
+  "power_kw_max": 225,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1280,
+   "max_torque_rpm": null,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 4800,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000 (Dyna-VT); 540/540Eco/1000/1000Eco (Dyna E-Power)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3050,
+  "fuel_l": 460,
+  "adblue_l": 43,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-8S-Xtra.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-8s-xtra/MF_8S_XTRA_EN.pdf. Rated = max ISO 14396 hp @1850 rpm without EPM; max = with EPM (none for .305); torque 1000-1500 rpm = with EPM where available. 6-cyl 7.4 L. Transmissions Dyna E-Power (28x28 Autodrive, 43/53 km/h) for .225-.265 or Dyna-VT (50 km/h where permitted). Hydraulics closed centre LS 110/150/205 (205 std on Dyna-VT)/270 l/min; 5 rear valves; front lift 4,800 kg. Weight min/avg/max 8,700/10,000/13,700; GVW 16,000. Fuel 460 L (500 with Dyna-VT). Std tyres rear 650/85 R38, front 600/70 R30. Torque at 1000-1500 rpm. Note: Dyna E-Power listed for .285/.305 not available per table."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 8S.305 Xtra",
+  "category": "tractor",
+  "series": "MF 8S Xtra",
+  "power_hp_rated": 305,
+  "power_hp_max": null,
+  "power_kw_rated": 225,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 7.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1280,
+   "max_torque_rpm": null,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 4800,
+   "category": "Cat. 3"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000 (Dyna-VT); 540/540Eco/1000/1000Eco (Dyna E-Power)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3050,
+  "fuel_l": 460,
+  "adblue_l": 43,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-8S-Xtra.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-8s-xtra/MF_8S_XTRA_EN.pdf. Rated = max ISO 14396 hp @1850 rpm without EPM; max = with EPM (none for .305); torque 1000-1500 rpm = with EPM where available. 6-cyl 7.4 L. Transmissions Dyna E-Power (28x28 Autodrive, 43/53 km/h) for .225-.265 or Dyna-VT (50 km/h where permitted). Hydraulics closed centre LS 110/150/205 (205 std on Dyna-VT)/270 l/min; 5 rear valves; front lift 4,800 kg. Weight min/avg/max 8,700/10,000/13,700; GVW 16,000. Fuel 460 L (500 with Dyna-VT). Std tyres rear 650/85 R38, front 600/70 R30. Torque at 1000-1500 rpm. Note: Dyna E-Power listed for .285/.305 not available per table."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 9S.285",
+  "category": "tractor",
+  "series": "MF 9S",
+  "power_hp_rated": 285,
+  "power_hp_max": 315,
+  "power_kw_rated": 210,
+  "power_kw_max": 232,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1400,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 270,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3100,
+  "fuel_l": 660,
+  "adblue_l": 68,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-9s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-9s/MF_9S_EN.pdf. Rated = max ISO hp @1850 rpm without EPM; max = with EPM (none for .425); torque @1500 rpm = with EPM 1000-1500 where available (without EPM 1250/1300/1450/1600/1650/1750). 6-cyl 8.4 L; Dyna-VT 40 km/h (50 where permitted). Hydraulics closed centre LS 205 Eco @1650 / 270 l/min @1850; dual 340/400 l/min option; 6 rear valves. Front lift 5,000 kg. PTO power (OECD) 240/260/290/320/350/370 hp. Weight min/avg/max 10,900/12,000/18,500; GVW 18,000. Std tyres front 600/70R30, rear 650/85R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 9S.310",
+  "category": "tractor",
+  "series": "MF 9S",
+  "power_hp_rated": 310,
+  "power_hp_max": 340,
+  "power_kw_rated": 228,
+  "power_kw_max": 250,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1500,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 270,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3100,
+  "fuel_l": 660,
+  "adblue_l": 68,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-9s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-9s/MF_9S_EN.pdf. Rated = max ISO hp @1850 rpm without EPM; max = with EPM (none for .425); torque @1500 rpm = with EPM 1000-1500 where available (without EPM 1250/1300/1450/1600/1650/1750). 6-cyl 8.4 L; Dyna-VT 40 km/h (50 where permitted). Hydraulics closed centre LS 205 Eco @1650 / 270 l/min @1850; dual 340/400 l/min option; 6 rear valves. Front lift 5,000 kg. PTO power (OECD) 240/260/290/320/350/370 hp. Weight min/avg/max 10,900/12,000/18,500; GVW 18,000. Std tyres front 600/70R30, rear 650/85R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 9S.340",
+  "category": "tractor",
+  "series": "MF 9S",
+  "power_hp_rated": 340,
+  "power_hp_max": 370,
+  "power_kw_rated": 250,
+  "power_kw_max": 272,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1600,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 270,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3100,
+  "fuel_l": 660,
+  "adblue_l": 68,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-9s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-9s/MF_9S_EN.pdf. Rated = max ISO hp @1850 rpm without EPM; max = with EPM (none for .425); torque @1500 rpm = with EPM 1000-1500 where available (without EPM 1250/1300/1450/1600/1650/1750). 6-cyl 8.4 L; Dyna-VT 40 km/h (50 where permitted). Hydraulics closed centre LS 205 Eco @1650 / 270 l/min @1850; dual 340/400 l/min option; 6 rear valves. Front lift 5,000 kg. PTO power (OECD) 240/260/290/320/350/370 hp. Weight min/avg/max 10,900/12,000/18,500; GVW 18,000. Std tyres front 600/70R30, rear 650/85R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 9S.370",
+  "category": "tractor",
+  "series": "MF 9S",
+  "power_hp_rated": 370,
+  "power_hp_max": 400,
+  "power_kw_rated": 272,
+  "power_kw_max": 294,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 270,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3100,
+  "fuel_l": 660,
+  "adblue_l": 68,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-9s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-9s/MF_9S_EN.pdf. Rated = max ISO hp @1850 rpm without EPM; max = with EPM (none for .425); torque @1500 rpm = with EPM 1000-1500 where available (without EPM 1250/1300/1450/1600/1650/1750). 6-cyl 8.4 L; Dyna-VT 40 km/h (50 where permitted). Hydraulics closed centre LS 205 Eco @1650 / 270 l/min @1850; dual 340/400 l/min option; 6 rear valves. Front lift 5,000 kg. PTO power (OECD) 240/260/290/320/350/370 hp. Weight min/avg/max 10,900/12,000/18,500; GVW 18,000. Std tyres front 600/70R30, rear 650/85R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 9S.400",
+  "category": "tractor",
+  "series": "MF 9S",
+  "power_hp_rated": 400,
+  "power_hp_max": 420,
+  "power_kw_rated": 294,
+  "power_kw_max": 309,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 270,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3100,
+  "fuel_l": 660,
+  "adblue_l": 68,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-9s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-9s/MF_9S_EN.pdf. Rated = max ISO hp @1850 rpm without EPM; max = with EPM (none for .425); torque @1500 rpm = with EPM 1000-1500 where available (without EPM 1250/1300/1450/1600/1650/1750). 6-cyl 8.4 L; Dyna-VT 40 km/h (50 where permitted). Hydraulics closed centre LS 205 Eco @1650 / 270 l/min @1850; dual 340/400 l/min option; 6 rear valves. Front lift 5,000 kg. PTO power (OECD) 240/260/290/320/350/370 hp. Weight min/avg/max 10,900/12,000/18,500; GVW 18,000. Std tyres front 600/70R30, rear 650/85R38."
+ },
+ {
+  "brand": "Massey Ferguson",
+  "model": "MF 9S.425",
+  "category": "tractor",
+  "series": "MF 9S",
+  "power_hp_rated": 425,
+  "power_hp_max": null,
+  "power_kw_rated": 313,
+  "power_kw_max": null,
+  "power_standard": "ISO 14396",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "All-in-One",
+   "turbo": true,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1850
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "Dyna-VT",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed centre load sensing",
+   "flow_lpm": 270,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5000,
+   "category": "Cat. 3/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540Eco/1000/1000Eco",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3100,
+  "fuel_l": 660,
+  "adblue_l": 68,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.masseyferguson.com/en_gb/product/tractors/mf-9s.html",
+  "notes": "Brochure https://www.masseyferguson.com/content/dam/public/masseyfergusonglobal/markets/en/brochures/tractors/mf-9s/MF_9S_EN.pdf. Rated = max ISO hp @1850 rpm without EPM; max = with EPM (none for .425); torque @1500 rpm = with EPM 1000-1500 where available (without EPM 1250/1300/1450/1600/1650/1750). 6-cyl 8.4 L; Dyna-VT 40 km/h (50 where permitted). Hydraulics closed centre LS 205 Eco @1650 / 270 l/min @1850; dual 340/400 l/min option; 6 rear valves. Front lift 5,000 kg. PTO power (OECD) 240/260/290/320/350/370 hp. Weight min/avg/max 10,900/12,000/18,500; GVW 18,000. Std tyres front 600/70R30, rear 650/85R38."
+ }
+]

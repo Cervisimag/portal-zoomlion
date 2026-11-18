@@ -1,0 +1,3187 @@
+[
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX17D",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1800,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Caudal variable (3 secciones 8+8+6,6 cm3)",
+   "pump_flow_lpm": "16 + 16 + 13,1",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 220,
+   "aux_flow_lpm": 29.1
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.0,
+   "arm_dig_force_kn": 9.9,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.1,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2020,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2340,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 25,
+   "hydraulic_tank_l": 20
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx17d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/35382d8fce3d41abbc75c56649cbdd7a?v=effea8b5",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Brazo estandar 1.070 mm (fuerza de brazo 990 daN; brazo opcional 880 daN). Velocidades 2,2/4,1 km/h. Peso 1.800 kg version cabina (1.690 kg cobertizo). Pendiente maxima 60%. AUX1 29,1 L/min a 205 bar."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX19D",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20G"
+  ],
+  "weight_kg": 1990,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV76",
+   "displacement_l": 1.116,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Caudal variable (3 secciones 9+9+6,6 cm3)",
+   "pump_flow_lpm": "18 + 18 + 13,1",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 31.1
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.0,
+   "arm_dig_force_kn": 9.9,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2280,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2580,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 25,
+   "hydraulic_tank_l": 20
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx19d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/ee50853665274e5fab6cede098eb13d1?v=1eb6052c",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Brazo estandar (fuerza 990 daN; opcional 880 daN). Velocidades 2,3/4,4 km/h. Peso 1.990 kg cabina (1.880 kg cobertizo). Pendiente 60%. AUX1 31,1 L/min a 205 bar."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX25EV",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20GE"
+  ],
+  "weight_kg": 2470,
+  "engine": {
+   "make": null,
+   "model": "Motor electrico IPM (iones de litio 32,3 kWh)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 25.0,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable",
+   "pump_flow_lpm": "46",
+   "pump_flow_total_lpm": 46,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 40
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14.5,
+   "arm_dig_force_kn": 8.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2550,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2660,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 15
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx25ev ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/093e8ccef6f8499496bbaf7770eb88aa?v=15301f8e",
+  "notes": "Electrica. power_kw_net = potencia nominal continua del motor electrico (25 kW; pico 32 kW), no es una potencia neta/bruta de motor termico. Bateria Li-ion 32,3 kWh bruta, autonomia 4-8 h, carga a bordo 220 V 9 h. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Peso 2.470 kg cabina (2.340 kg cobertizo). Brazo estandar (880 daN; opcional 800 daN). Velocidades 2,3/4,0 km/h. Equivalente electrica mas cercana a ZE20GE (2,1 t); Case tambien ofrece CX15EV (1,4 t)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX25D",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2710,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV76",
+   "displacement_l": 1.116,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de cilindrada variable (25 cm3)",
+   "pump_flow_lpm": "50",
+   "pump_flow_total_lpm": 50,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": 50
+  },
+  "performance": {
+   "bucket_dig_force_kn": 25.7,
+   "arm_dig_force_kn": 13.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2700,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3190,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 26,
+   "hydraulic_tank_l": 29
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx25d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2b984a5d45d74ef8a0a3b02061a719b7?v=760eb84b",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Brazo estandar 1.350 mm (fuerza 1.380 daN; opcional 1.250 daN). Altura de descarga 3.190 mm cabina (3.330 cobertizo). Peso 2.710 kg cabina (2.580 kg cobertizo). AUX1 50-200 L/min a 250 bar. Velocidades 2,6/4,3 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX38D",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3910,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703-M",
+   "displacement_l": 1.647,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable (48 cm3)",
+   "pump_flow_lpm": "101",
+   "pump_flow_total_lpm": 101,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": 40
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.25,
+   "arm_dig_force_kn": 15.8,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3070,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3230,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 49,
+   "hydraulic_tank_l": 33.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx38d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/255037bf174b483291317ac0bc7c4623?v=7220aa7d",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Brazo estandar (fuerza 1.580 daN; opcional 1.408 daN). AUX1 40 (50 max) L/min. Velocidades 2,7/4,3 km/h. Solo version cabina."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX58D",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU"
+  ],
+  "weight_kg": 5670,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-T",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS variable con control electronico + 1 bomba de engranajes",
+   "pump_flow_lpm": "129 + 28,8",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": 70
+  },
+  "performance": {
+   "bucket_dig_force_kn": 53.0,
+   "arm_dig_force_kn": 26.0,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3400,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3950,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 85,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx58d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4363f28507944231bede08a1739ce907?v=2a25e16c",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Brazo estandar (fuerza 2.600 daN; opcional 3.000 daN). AUX1 70 (80 max) L/min. Velocidades 2,5/4,5 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX60D",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE60G"
+  ],
+  "weight_kg": 5970,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-T",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS variable con control electronico + 1 bomba de engranajes",
+   "pump_flow_lpm": "141 + 27,8",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": 85
+  },
+  "performance": {
+   "bucket_dig_force_kn": 53.0,
+   "arm_dig_force_kn": 28.0,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3730,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4090,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 85,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx60d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a1f8f705b54841289368505fa65328ab?v=49eb249f",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Brazo estandar (fuerza 2.800 daN; opcional 3.300 daN). AUX1 85 L/min a 200 bar. Velocidades 2,3/4,5 km/h. La ficha de modelo de la web da 3.850 mm de profundidad (brazo opcional); aqui se usa la hoja tecnica (3.730 mm estandar)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX75E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 7580,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-T",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS variable con control electronico + 1 bomba de engranajes",
+   "pump_flow_lpm": "141 + 27,8",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": 85
+  },
+  "performance": {
+   "bucket_dig_force_kn": 48.5,
+   "arm_dig_force_kn": 29.0,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 4120,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5490,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 85,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-midi-excavators/cx75e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7aa64e20ad024a7590d42abf7485c4ee?v=2d416c84",
+  "notes": "Potencia 'Max. Power' publicada por Case SIN indicar norma (bruta/neta) -> campos de potencia a null. Fuerzas publicadas en daN, convertidas a kN (/100). Peso ISO 6016 con orugas de goma y cabina. EGR y postratamiento no indicados. Alcance maximo no publicado. Peso 7.580 kg con orugas de goma y cabina. Brazo estandar 1.900 mm (fuerza 2.900 daN; opcional 2.700 daN). AUX1 85 L/min a 200 bar. Velocidades 2,1/4,2 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX130E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G"
+  ],
+  "weight_kg": 13300,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF4 (F4HGE413A*V)",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 76.4,
+   "power_kw_gross": 78.8,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "SCRoF (SCR sobre filtro); motor 'EGR free'"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de cilindrada variable",
+   "pump_flow_lpm": "2x129",
+   "pump_flow_total_lpm": 258,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 90,
+   "arm_dig_force_kn": 62,
+   "swing_speed_rpm": 14.3,
+   "travel_speed_kmh": 5.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5550,
+   "max_reach_mm": 8310,
+   "max_dump_height_mm": 6390,
+   "bucket_capacity_m3": 0.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 250,
+   "hydraulic_tank_l": 82
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx130e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/adb096dcd691401299d82f0558c47a3b?v=ad7c43c4",
+  "notes": "Version LC: 13.300 kg (Blade 13.900 kg) con brazo 2,50 m, cazo 0,5 m3, zapata 600 mm. Fuerzas ISO 6015 sin auto power up (cazo 90 kN, brazo 62 kN con brazo 2,50 m; con power up 95/66 kN). Potencia ISO 9249 (neta) 76,4 kW y ISO 14396 (bruta) 78,8 kW. Presion 34,3 MPa (36,3 con power boost). Velocidad alta 5,7 / baja 3,4 km/h. AdBlue 60 L. Nota: 13,3-13,9 t vs ZE135G 14,4 t."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX160E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE145GU"
+  ],
+  "weight_kg": 17300,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF4 (F4HGE413B*V)",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 90.4,
+   "power_kw_gross": 96.5,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "SCRoF (SCR sobre filtro); motor 'EGR free'"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de cilindrada variable",
+   "pump_flow_lpm": "2x159",
+   "pump_flow_total_lpm": 318,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 112,
+   "arm_dig_force_kn": 79,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6060,
+   "max_reach_mm": 9040,
+   "max_dump_height_mm": 6610,
+   "bucket_capacity_m3": 0.62,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 300,
+   "hydraulic_tank_l": 82
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx160e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/adb096dcd691401299d82f0558c47a3b?v=ad7c43c4",
+  "notes": "Version LC: 17.300 kg con brazo 2,62 m, cazo 0,62 m3, zapata 600 mm. Fuerzas ISO 6015 sin auto power up (cazo 112 kN, brazo 79 kN; con power up 118/84 kN). Potencia ISO 9249 (neta) / ISO 14396 (bruta) a 2.200 rpm. Presion 34,3 MPa (36,3 con power boost). AdBlue 60 L. 17,3 t vs ZE145GU 15,8 t; Case CX130E (13,3 t) queda mas lejos."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX210E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 21600,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF6 (F4HGE613Z*V)",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 120.4,
+   "power_kw_gross": 124.0,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "SCRoF (SCR sobre filtro); motor 'EGR free'"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de cilindrada variable",
+   "pump_flow_lpm": "2x211",
+   "pump_flow_total_lpm": 422,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 142,
+   "arm_dig_force_kn": 123,
+   "swing_speed_rpm": 7.8,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6110,
+   "max_reach_mm": 9420,
+   "max_dump_height_mm": 6590,
+   "bucket_capacity_m3": 1.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 410,
+   "hydraulic_tank_l": 162
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx210e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/67984b63e8cc431b9cfa0c6f72bab033?v=bda92a20",
+  "notes": "Version LC pluma monobloque, brazo 2,40 m, cazo 1,0 m3, zapata 600 mm: 21.600 kg (NLC 22.300 kg). Fuerzas ISO 6015 sin auto power boost (cazo 142 kN, brazo 123 kN; con boost 154/133 kN). Potencia ISO 9249 (neta) / ISO 14396 (bruta). Presion 34,3 MPa (37,3 con boost). AdBlue 84 L (LC). Equivalente a ZE210GLC (22,7 t) y ZE225GN (23 t); CX250E (hoja separada) es mas pesada."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX350D",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 36150,
+  "engine": {
+   "make": "Isuzu",
+   "model": "VE-6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 200,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR + DPD"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de cilindrada variable",
+   "pump_flow_lpm": "2x300",
+   "pump_flow_total_lpm": 600,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 229.7,
+   "arm_dig_force_kn": 164.5,
+   "swing_speed_rpm": 7.1,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7340,
+   "max_reach_mm": 11170,
+   "max_dump_height_mm": 7240,
+   "bucket_capacity_m3": 1.54,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 580,
+   "hydraulic_tank_l": 175
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-crawler-excavators/cx350d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7e805f1589ef4ea89706de9314dd7067?v=1e391021",
+  "notes": "Version LC: 36.150 kg (NLC 36.050 kg) con brazo 3,25 m, cazo HD 1,54 m3, zapata 600 mm. Fuerzas ISO 6015 sin auto power boost (cazo 229,7 kN, brazo 164,5 kN; con boost 249,8/178,8 kN). Potencia SAE J1349/ISO 9249 (neta) 200 kW, ISO 14396 (bruta) 210 kW. Presion 34,3 MPa (37,3 con boost). EGR no mencionado -> null. 36,2 t vs ZE335G 33,5 t."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX370D",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE375G"
+  ],
+  "weight_kg": 38200,
+  "engine": {
+   "make": "Isuzu",
+   "model": "VE-6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 200,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR + DPD"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de cilindrada variable",
+   "pump_flow_lpm": "2x300",
+   "pump_flow_total_lpm": 600,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 229.7,
+   "arm_dig_force_kn": 164.5,
+   "swing_speed_rpm": 7.1,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7340,
+   "max_reach_mm": 11170,
+   "max_dump_height_mm": 7240,
+   "bucket_capacity_m3": 1.75,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 580,
+   "hydraulic_tank_l": 175
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-crawler-excavators/cx370d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7e805f1589ef4ea89706de9314dd7067?v=1e391021",
+  "notes": "Version LC: 38.200 kg (NLC 38.100 kg) con brazo HD 3,25 m, cazo HD 1,75 m3, zapata 600 mm. Motor, hidraulica y fuerzas ISO 6015 de la hoja comun CX350D/CX370D (cazo 229,7 kN, brazo 164,5 kN con brazo 3,25 m; con boost 249,8/178,8 kN); dimensiones de la tabla de rendimiento CX350D/CX370D con pluma 6,45 m. Presion 34,3 MPa (37,3 con boost). EGR no mencionado -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX750D",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 72000,
+  "engine": {
+   "make": "Isuzu",
+   "model": "VE-6WG1X",
+   "displacement_l": 15.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 382,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR + DPD"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de cilindrada variable",
+   "pump_flow_lpm": "2x472",
+   "pump_flow_total_lpm": 944,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 306,
+   "arm_dig_force_kn": 259,
+   "swing_speed_rpm": 6.1,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8400,
+   "max_reach_mm": 13070,
+   "max_dump_height_mm": 7810,
+   "bucket_capacity_m3": 3.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 900,
+   "hydraulic_tank_l": 310
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-crawler-excavators/cx750d ; Brochure PDF Crawler Excavators - CX750D (casece.com, pag. 14-16)",
+  "notes": "Pluma 7,70 m, brazo 3,55 m, cazo HD 3,3 m3, zapata 650 mm: 72.000 kg. Fuerzas ISO 6015 sin auto power up (cazo 306 kN, brazo 259 kN; con power up 334/283 kN). Potencia ISO 14396 (bruta) 382 kW; 343 kW con bomba de ventilador; neta no publicada. Presion 31,4 MPa (34,3 con boost). Velocidad alta 4,3 / baja 3,0 km/h. EGR no mencionado -> null. 72 t vs ZE750G 76,5 t."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "SV185B",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 2980,
+  "engine": {
+   "make": "Perkins",
+   "model": "404J-E22TA",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "78 (alto caudal opcional 116)",
+   "pump_flow_total_lpm": 78,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 78
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2214,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 24.7,
+   "rated_operating_capacity_kg": 840,
+   "tipping_load_kg": 1678
+  },
+  "capacities": {
+   "fuel_l": 73.8,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-skid-steer-loaders/sv185b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> campos de potencia a null; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque 'Bucket cylinder breakout force' (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion vertical. Potencia 60 hp (45 kW) @2800 rpm. Velocidad baja 11,9 km/h (alta opcional 17,4). Lift cylinder breakout 15,3 kN. Peso operativo 2.980 kg."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "SV280B",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 3630,
+  "engine": {
+   "make": "FPT",
+   "model": "F5HGL463E*X",
+   "displacement_l": 3.4,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 143)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2465,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 33.7,
+   "rated_operating_capacity_kg": 1270,
+   "tipping_load_kg": 2540
+  },
+  "capacities": {
+   "fuel_l": 96.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-skid-steer-loaders/sv280b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> campos de potencia a null; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque 'Bucket cylinder breakout force' (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion vertical. Potencia 74 hp (55 kW) @2500 rpm. Velocidad baja 11,3 km/h (alta opcional 16,9). Lift cylinder breakout 25,0 kN. Peso operativo 3.630 kg (SV340B 4.045 kg es la siguiente)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "TR270B",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT090V"
+  ],
+  "weight_kg": 3750,
+  "engine": {
+   "make": "FPT",
+   "model": "F5H",
+   "displacement_l": 3.4,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 123)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 8.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2410,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 32.3,
+   "rated_operating_capacity_kg": 1225,
+   "tipping_load_kg": 2450
+  },
+  "capacities": {
+   "fuel_l": 73.8,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-compact-track-loaders/tr270b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6383d9fcf15a48549c366a984615dc2c?v=d8d637d7 (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> campos de potencia a null; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque 'Bucket cylinder breakout force' (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion radial, cargadora de cadenas. Potencia 74 hp (55 kW) @2500 rpm; el brochure solo da 'FPT F5H' como modelo. Velocidad baja 8,9 km/h (alta opcional 12,9). Lift cylinder breakout 27,8 kN. Peso operativo 3.750 kg (el modelo mas ligero de la gama B CTL)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "TV370B",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4370,
+  "engine": {
+   "make": "FPT",
+   "model": "F5H",
+   "displacement_l": 3.4,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 143)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 8.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 33.4,
+   "rated_operating_capacity_kg": 1682,
+   "tipping_load_kg": 3364
+  },
+  "capacities": {
+   "fuel_l": 96.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-compact-track-loaders/tv370b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6383d9fcf15a48549c366a984615dc2c?v=d8d637d7 (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> campos de potencia a null; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque 'Bucket cylinder breakout force' (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Elevacion vertical, cargadora de cadenas. Potencia 74 hp (55 kW) @2500 rpm; brochure da 'FPT F5H'. Velocidad baja 8,9 km/h (alta opcional 12,9). Lift cylinder breakout 26,8 kN. Peso operativo 4.370 kg."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "821G+",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 18329,
+  "engine": {
+   "make": "FPT",
+   "model": "N67",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 172,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": "Tandem de cilindrada variable",
+   "pump_flow_lpm": "236 @2000 rpm",
+   "pump_flow_total_lpm": 236,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 236
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 37,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2932,
+   "bucket_capacity_m3": 3.4,
+   "breakout_force_kn": 147.5,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 14880
+  },
+  "capacities": {
+   "fuel_l": 288,
+   "hydraulic_tank_l": 91
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/821g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d4795ee3e2db4774b92e175aa1de1402?v=21061bc3 (G+ Series 521G+-921G+, tablas de especificaciones)",
+  "notes": "Cargadora convencional (diesel) comparada con la ZWL55GE electrica (19,2 t). Configuracion: Z-Bar, cazo pin-on 3,4 m3 con cuchilla atornillada (B.O.E.), neumaticos L3: peso 18.329 kg; carga de vuelco recta 14.880 kg (giro completo 12.472 kg); fuerza de arranque 14.752 daN. Potencia 172 kW pico a 1.800 rpm (ISO 14396 = bruta, columna unica sin desglose neto). Presion: aux 249-255 bar (se toma 255). Velocidad max. 37 km/h con transmision 4 marchas (40 km/h con 5 marchas opcional). El brochure indica 'No EGR valve is used'. rated_operating_capacity null (carga util maxima 6.236 kg)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "1021G+",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 25271,
+  "engine": {
+   "make": "FPT",
+   "model": "Cursor 9",
+   "displacement_l": 8.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 239,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": "Tandem de cilindrada variable",
+   "pump_flow_lpm": "348 @2000 rpm",
+   "pump_flow_total_lpm": 348,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 414
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 4.4,
+   "breakout_force_kn": 187.1,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 21675
+  },
+  "capacities": {
+   "fuel_l": 459,
+   "hydraulic_tank_l": 134
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/1021g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a24e05fd11894a19946e36cf1fdd3309?v=97e9ef04 (G+ Series 1021G+/1121G+, tablas de especificaciones)",
+  "notes": "Cargadora convencional (diesel) comparada con la ZWL75GE electrica (25,5 t). Version powershift (no X-Drive), Z-Bar, cazo pin-on 4,4 m3 con cuchilla atornillada, neumaticos L3: peso 25.271 kg; carga de vuelco recta 21.675 kg; fuerza de arranque 18.707 daN. Potencia 239 kW a 1.800 rpm indicada con ISO 14396 (bruta); sin dato neto. Presion aux 249-255 bar (se toma 255). Velocidad max. marcha 4 = 38 km/h. 'No EGR valve is used' segun brochure. Altura de descarga de la version powershift no leida -> null. CORRECCION (pasada de completitud): aux_flow_lpm estaba en 348 (caudal de bomba); el brochure indica 414 l/min para el circuito auxiliar maximo (348 l/min es el caudal de la bomba)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX12D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1305,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722",
+   "displacement_l": 0.719,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 8.8,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de engranajes",
+   "pump_flow_lpm": "12 + 12",
+   "pump_flow_total_lpm": 24,
+   "system_pressure_bar": 170,
+   "aux_flow_lpm": 26
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.95,
+   "arm_dig_force_kn": 5.9,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 3.8,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 1860,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2130,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 14.5,
+   "hydraulic_tank_l": 9.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx12d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/766e39c354384add84b58fb586cb6a72?v=76161bae",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 1.305 kg ISO 6016 con roll-bar y orugas de goma (1.330 kg con techo FOPS 1). Brazo estandar 900 mm (opc. 1.020 mm). AUX1 26 l/min a 165 bar. Deposito hidraulico 9,5 l."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX14D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1360,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722",
+   "displacement_l": 0.719,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 8.8,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Caudal variable",
+   "pump_flow_lpm": "13 + 13",
+   "pump_flow_total_lpm": 26,
+   "system_pressure_bar": 190,
+   "aux_flow_lpm": 28
+  },
+  "performance": {
+   "bucket_dig_force_kn": 11.1,
+   "arm_dig_force_kn": 6.6,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 3.8,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2045,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2290,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 14.5,
+   "hydraulic_tank_l": 9.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx14d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/ccd7dba102554bdbbdcdfaabc5cead9c?v=661598a1",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 1.360 kg ISO 6016 con roll-bar y orugas de goma (1.385 kg con techo FOPS 1). Brazo estandar 1.020 mm (opc. 1.150 mm). AUX1 28 l/min a 200 bar."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX18D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1940,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 12.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Caudal variable (3 secciones 8+8+6,6 cm3)",
+   "pump_flow_lpm": "16 + 16 + 13,1",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 220,
+   "aux_flow_lpm": 29.1
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.0,
+   "arm_dig_force_kn": 9.9,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.1,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2280,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2580,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 25,
+   "hydraulic_tank_l": 20
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx18d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/0a41a1c448f648e9b19d24988dbbb30e?v=9d117852",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 1.940 kg ISO 6016 con cabina (1.830 kg con cobertizo). Brazo estandar 1.150 mm (opc. 1.350 mm). AUX1 29,1 l/min a 205 bar. Velocidades 2,2/4,1 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX20D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2120,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV76",
+   "displacement_l": 1.116,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 13.7,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Caudal variable (3 secciones 9+9+6,6 cm3)",
+   "pump_flow_lpm": "18 + 18 + 13,1",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 31.1
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.0,
+   "arm_dig_force_kn": 9.9,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2380,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3370,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 25,
+   "hydraulic_tank_l": 20
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx20d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/38ccf188b6c247a3bc23258ee284b602?v=d1a293d8",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 2.120 kg ISO 6016 con cabina (2.010 kg con cobertizo). Pluma de 2 piezas; altura de descarga 3.370 mm tal como se publica. Brazo estandar 1.150 mm (opc. 1.350 mm). AUX1 31,1 l/min a 205 bar. Velocidades 2,3/4,4 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX22D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2320,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": 1.105,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 15.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable + 1 bomba de engranajes",
+   "pump_flow_lpm": "48 + 9,5",
+   "pump_flow_total_lpm": 57.5,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 50
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.7,
+   "arm_dig_force_kn": 10.1,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2560,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2650,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 16
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx22d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/fabdcf94cf394709b4033c2089927169?v=d33bfcfb",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 2.320 kg ISO 6016 con cabina (2.220 kg con cobertizo). Brazo estandar 1.250 mm (opc. 1.450 mm). AUX1 50 l/min a 200 bar (con prioridad). Velocidades 2,6/4,0 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX30D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3240,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703-M",
+   "displacement_l": 1.647,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable",
+   "pump_flow_lpm": "101",
+   "pump_flow_total_lpm": 101,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": 40
+  },
+  "performance": {
+   "bucket_dig_force_kn": 35.0,
+   "arm_dig_force_kn": 18.31,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2640,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3110,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 49,
+   "hydraulic_tank_l": 33.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx30d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/053185e53dd34ebcac9be9dcb9ee9926?v=e2ebb9f3",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 3.240 kg ISO 6016 con cabina (3.110 kg con cobertizo). Altura de descarga 3.110 mm con cobertizo (3.240 mm con cabina) segun tabla. Brazo estandar 1.200 mm (opc. 1.400 mm). AUX1 40 l/min (50 max) a 200 bar izq./250 dcha. Velocidades 2,7/4,3 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX35D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3480,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703-M",
+   "displacement_l": 1.647,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable",
+   "pump_flow_lpm": "101",
+   "pump_flow_total_lpm": 101,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.25,
+   "arm_dig_force_kn": 17.51,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2870,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3110,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 49,
+   "hydraulic_tank_l": 33.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx35d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/97b822f3024442bb88c29cf3ddfb848d?v=43a2c2f5",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 3.480 kg ISO 6016 con cabina. Altura de descarga 3.110 mm (3.230 mm con brazo opc.). Brazo estandar y opcional segun hoja de especificaciones. Velocidades 2,7/4,3 km/h. Caudal AUX no legible en la hoja -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX42D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4350,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1803-CR-T",
+   "displacement_l": 1.826,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 32.3,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable (2 secciones 53,7 + 11,2 cm3)",
+   "pump_flow_lpm": "107 + 22,3",
+   "pump_flow_total_lpm": 129.3,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 43.0,
+   "arm_dig_force_kn": 22.0,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3085,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3660,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 60,
+   "hydraulic_tank_l": 50
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx42d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d1df5e74f2d3481aadfa90e5bb3bbd36?v=f6b30938",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 4.350 kg ISO 6016 (hoja: \"Operating weight\", cabina). Caudal AUX1 no legible -> null (AUX2 60/43 l/min, AUX3 40/32 l/min a 280 bar). Velocidades 2,6/4,5 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX45D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4750,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1803-CR-T",
+   "displacement_l": 1.826,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 32.3,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable (2 secciones 53,7 + 11,2 cm3)",
+   "pump_flow_lpm": "107 + 22,3",
+   "pump_flow_total_lpm": 129.3,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 43.0,
+   "arm_dig_force_kn": 22.0,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3230,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4620,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 60,
+   "hydraulic_tank_l": 50
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx45d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/01a149875a6b4536a85db775e4cb2925?v=52dec51a",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 4.750 kg ISO 6016 (hoja: \"Operating weight\", cabina). Caudal AUX1 no legible -> null. Velocidades 2,6/4,5 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX50D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4950,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403-CR-T",
+   "displacement_l": 2.434,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 42.6,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable (2 secciones 65 + 14,5 cm3)",
+   "pump_flow_lpm": "129 + 28,8",
+   "pump_flow_total_lpm": 157.8,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 43.0,
+   "arm_dig_force_kn": 23.5,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3330,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3920,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 75,
+   "hydraulic_tank_l": 65
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx50d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/b0003b5aad374d7a920b9a93384fb77a?v=3c56f3a7",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 4.950 kg ISO 6016 (hoja: \"Operating weight\", cabina). Caudal AUX1 no legible -> null. Velocidades 2,6/4,5 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX55D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5400,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403-CR-T",
+   "displacement_l": 2.434,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 42.6,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable (2 secciones 65 + 14,5 cm3)",
+   "pump_flow_lpm": "129 + 28,8",
+   "pump_flow_total_lpm": 157.8,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 43.0,
+   "arm_dig_force_kn": 23.5,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3490,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5030,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 75,
+   "hydraulic_tank_l": 65
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx55d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/450e6d856cef4494b7a1f1d0ba1470ac?v=0b6b7f4e",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 5.400 kg ISO 6016 (hoja: \"Operating weight\", cabina). Caudal AUX1 no legible -> null. Velocidades 2,6/4,5 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX65D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 6520,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-T",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 44.3,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable (2 secciones 71 + 14 cm3)",
+   "pump_flow_lpm": "141 + 27,8",
+   "pump_flow_total_lpm": 168.8,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 53.0,
+   "arm_dig_force_kn": 28.0,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3850,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5280,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 85,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx65d ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/f1650ad463294dc0886f9fd65fe0fd88?v=f0dcaa7b",
+  "notes": "Potencia \"Max. Power\" publicada sin indicar norma -> en power_kw_rated. Fuerzas publicadas en daN, convertidas a kN (/100); fuerza de brazo ISO 6015 con brazo estandar. Velocidad de traslado = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pendiente maxima 60% (30 grados). Peso 6.520 kg ISO 6016. Caudal AUX1 no legible -> null. Velocidades 2,3/4,5 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX15EV",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1420,
+  "engine": {
+   "make": null,
+   "model": "Motor electrico IPM (iones de litio 21,5 kWh brutos, 102 V)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 11.0,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba de engranajes helicoidales de bajo ruido (10,1 cm3), LS flow sharing",
+   "pump_flow_lpm": "26",
+   "pump_flow_total_lpm": 26,
+   "system_pressure_bar": 180,
+   "aux_flow_lpm": 28
+  },
+  "performance": {
+   "bucket_dig_force_kn": 10.5,
+   "arm_dig_force_kn": 5.7,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 3.8,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 2045,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2290,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx15ev ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/fcabfe65177a46cc987b5d766988764e?v=7c0b1f8d",
+  "notes": "Electrica. power_kw_rated = potencia nominal 11 kW del motor electrico (pico 16 kW), no es potencia de motor termico. Bateria Li-ion 21,5 kWh, autonomia 4-8 h, carga a bordo 220 V 10 h. Peso 1.420 kg ISO 6016 con roll-bar y techo FOPS 1. Fuerzas en daN convertidas a kN; brazo estandar 1.020 mm (opc. 1.150 mm). AUX1 28 l/min a 180 bar. Velocidades 1,8/3,8 km/h. Alcance, depositos y capacidad de cazo no publicados."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX24D",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2530,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": 1.105,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 15.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable + 1 bomba de engranajes (25 + 5 cm3)",
+   "pump_flow_lpm": "48 + 9,5",
+   "pump_flow_total_lpm": 57.5,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 50
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 16
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-mini-excavators/cx24d ; Brochure D-Series Mini-Excavators PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6c240c1447214e0eb61bf72abfcb487f?v=04e90881 (tabla de especificaciones)",
+  "notes": "Pluma de 2 piezas (gemelo del CX22D). La pagina de producto no ofrece hoja de especificaciones propia: datos de la tabla comparativa del folleto D-Series Mini. Peso operativo ISO 6016 con cabina 2,53 t (2,43 t con cobertizo). Potencia \"Max. Power\" sin norma indicada -> power_kw_rated. AUX1 50 l/min. Velocidades 2,6/4,0 km/h. Fuerzas de excavacion, profundidad y alturas no legibles en el folleto -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX70E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 7290,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-T",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 44.3,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba LS de caudal variable con control electronico (71 cm3) + 1 bomba de engranajes (14 cm3)",
+   "pump_flow_lpm": "141 + 27,8",
+   "pump_flow_total_lpm": 168.8,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": 85
+  },
+  "performance": {
+   "bucket_dig_force_kn": 48.5,
+   "arm_dig_force_kn": 29.0,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 4070,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4450,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 85,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-midi-excavators/cx70e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/13cac132da734926b244d6614b75dad9?v=0fcb481f",
+  "notes": "Potencia \"Max. Power\" a 2.300 rpm publicada sin indicar norma -> power_kw_rated. Fuerzas ISO 6015 en daN convertidas a kN (/100), brazo estandar. Peso operativo ISO 6016 con cabina y orugas de goma. Velocidad = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Cero cola (zero tail swing). Brazo estandar 1.900 mm (opc. 2.100 mm). AUX1 85 l/min a 200 bar. Velocidades 2,1/4,2 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX85E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8830,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": 3.319,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 53.7,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba electronica (EOC) de caudal variable (100 cm3) + 1 bomba de engranajes en PTO (ventilador)",
+   "pump_flow_lpm": "192",
+   "pump_flow_total_lpm": 192,
+   "system_pressure_bar": 290,
+   "aux_flow_lpm": 160
+  },
+  "performance": {
+   "bucket_dig_force_kn": 63.0,
+   "arm_dig_force_kn": 43.5,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 3670,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5180,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 105,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-midi-excavators/cx85e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/0597379f75364af38f659a1f1f7fadc0?v=98c54da2",
+  "notes": "Potencia \"Max. Power\" a 2.300 rpm publicada sin indicar norma -> power_kw_rated. Fuerzas ISO 6015 en daN convertidas a kN (/100), brazo estandar. Peso operativo ISO 6016 con cabina y orugas de goma. Velocidad = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Cero cola. Brazo estandar 1.760 mm (opc. 2.110 mm). AUX1 160 l/min a 200 bar. Velocidades 2,6/5,2 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX90E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 9210,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": 3.319,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 53.7,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba electronica (EOC) de caudal variable (100 cm3) + 1 bomba de engranajes en PTO (ventilador)",
+   "pump_flow_lpm": "192",
+   "pump_flow_total_lpm": 192,
+   "system_pressure_bar": 290,
+   "aux_flow_lpm": 160
+  },
+  "performance": {
+   "bucket_dig_force_kn": 63.0,
+   "arm_dig_force_kn": 43.5,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 4130,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4660,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 105,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-midi-excavators/cx90e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/aaee0c19363a4b8bab55477d00838f77?v=fb200bed",
+  "notes": "Potencia \"Max. Power\" a 2.300 rpm publicada sin indicar norma -> power_kw_rated. Fuerzas ISO 6015 en daN convertidas a kN (/100), brazo estandar. Peso operativo ISO 6016 con cabina y orugas de goma. Velocidad = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Pluma con giro (boom swing). Brazo estandar 1.760 mm (opc. 2.110 mm). AUX1 160 l/min a 200 bar. Velocidades 2,6/5,2 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX100E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 10080,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": 3.319,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 53.7,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 bomba electronica (EOC) de caudal variable (100 cm3) + 1 bomba de engranajes en PTO (ventilador)",
+   "pump_flow_lpm": "192",
+   "pump_flow_total_lpm": 192,
+   "system_pressure_bar": 290,
+   "aux_flow_lpm": 160
+  },
+  "performance": {
+   "bucket_dig_force_kn": 63.0,
+   "arm_dig_force_kn": 43.5,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 60,
+   "max_dig_depth_mm": 4320,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 5960,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 105,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-midi-excavators/cx100e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2189fa1808c24334a444df8f8fe0da1c?v=c3c4cb9a",
+  "notes": "Potencia \"Max. Power\" a 2.300 rpm publicada sin indicar norma -> power_kw_rated. Fuerzas ISO 6015 en daN convertidas a kN (/100), brazo estandar. Peso operativo ISO 6016 con cabina y orugas de goma. Velocidad = 2a marcha. EGR/postratamiento no indicados. Alcance maximo y capacidad de cazo no publicados. Cero cola, pluma de 2 piezas. Brazo estandar 1.760 mm (opc. 2.110 mm). AUX1 160 l/min a 200 bar. Velocidades 2,6/5,2 km/h."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX180E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 18400,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF4 (F4HGE413B*V)",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 90.4,
+   "power_kw_gross": 96.5,
+   "power_kw_rated": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "SCRoF (DOC + SCR on filter), EGR-free"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x159",
+   "pump_flow_total_lpm": 318,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 112,
+   "arm_dig_force_kn": 79,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6040,
+   "max_reach_mm": 9040,
+   "max_dump_height_mm": 6630,
+   "bucket_capacity_m3": 0.68,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 300,
+   "hydraulic_tank_l": 82
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx180e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/adb096dcd691401299d82f0558c47a3b?v=ad7c43c4",
+  "notes": "Potencia ISO 9249 (neta) / ISO 14396 (bruta). Presion de trabajo base (con auto power boost mayor); fuerzas ISO 6015 sin power boost (con boost: ver hoja). Velocidad = alta. Tabla web de especificaciones: https://www.casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx180e . Version LC 18.400 kg con brazo 2,62 m, cazo 0,68 m3, zapata 600 mm. Con power boost: cazo 118 kN, brazo 84 kN, presion 363 bar. Brazo 3,05 m: profundidad 6.470 mm, alcance 9.380 mm."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX210E-S",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22240,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF6 (F4HGE613Z*V)",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 120.4,
+   "power_kw_gross": 124.0,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "SCRoF (DOC + SCR on filter), EGR-free"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x211",
+   "pump_flow_total_lpm": 422,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 142,
+   "arm_dig_force_kn": 103,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6640,
+   "max_reach_mm": 9900,
+   "max_dump_height_mm": 6810,
+   "bucket_capacity_m3": 1.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 410,
+   "hydraulic_tank_l": 162
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx210e-s ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/df7c547e941840e98108e34e931c2625?v=94026010",
+  "notes": "Potencia ISO 9249 (neta) / ISO 14396 (bruta). Presion de trabajo base (con auto power boost mayor); fuerzas ISO 6015 sin power boost (con boost: ver hoja). Velocidad = alta. Tabla web de especificaciones: https://www.casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx180e . Version monobloque LC con brazo 2,94 m, cazo HD 1,08 m3, zapata HD 600 mm: 22.240 kg (22.540 kg con zapata 700 mm). Con power boost: cazo 154 kN, brazo 112 kN, presion 373 bar. Emision \"Stage V\" y ruido marcados como preliminares en la hoja."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX250E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25300,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF6 (F4HGE613P*V)",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 133.4,
+   "power_kw_gross": 138.0,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "SCRoF (DOC + SCR on filter), EGR-free"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x234",
+   "pump_flow_total_lpm": 468,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 162,
+   "arm_dig_force_kn": 120,
+   "swing_speed_rpm": 7.6,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6900,
+   "max_reach_mm": 10280,
+   "max_dump_height_mm": 6760,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 410,
+   "hydraulic_tank_l": 162
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx250e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/e946049a28fb4bb9b78e4abdc977091c?v=ac48a5a7",
+  "notes": "Potencia ISO 9249 (neta) / ISO 14396 (bruta). Presion de trabajo base (con auto power boost mayor); fuerzas ISO 6015 sin power boost (con boost: ver hoja). Velocidad = alta. Tabla web de especificaciones: https://www.casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx180e . Version LC 25.300 kg (NLC 25.200 kg) con brazo 3,00 m, cazo 1,1 m3, zapata 600 mm. Con power boost: cazo 176 kN, brazo 130 kN, presion 373 bar. Existe tambien version LR (no incluida)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX300E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 29700,
+  "engine": {
+   "make": "FPT",
+   "model": "NEF6 (F4HGE6138*V)",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 193.4,
+   "power_kw_gross": 204,
+   "power_kw_rated": null,
+   "rpm": 1900,
+   "emission_stage": null,
+   "egr": false,
+   "aftertreatment": "SCRoF (DOC + SCR on filter), EGR-free"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x256",
+   "pump_flow_total_lpm": 512,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 175.0,
+   "arm_dig_force_kn": 128.4,
+   "swing_speed_rpm": 7.5,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7100,
+   "max_reach_mm": 10670,
+   "max_dump_height_mm": 7080,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 478,
+   "hydraulic_tank_l": 173
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx300e ; Specsheet PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/e946049a28fb4bb9b78e4abdc977091c?v=ac48a5a7",
+  "notes": "Potencia ISO 9249 (neta) / ISO 14396 (bruta). Presion de trabajo base (con auto power boost mayor); fuerzas ISO 6015 sin power boost (con boost: ver hoja). Velocidad = alta. Tabla web de especificaciones: https://www.casece.com/en/europe/products/excavators/e-series-crawler-excavators/cx180e . Version LC 29.700 kg (NLC 29.600 kg) con brazo 3,18 m, cazo 1,1 m3, zapata 600 mm. Con power boost: cazo 190,3 kN, brazo 139,6 kN, presion 373 bar. Nivel de emision no indicado en la tabla web (campo \"-\") -> null; el motor se describe como SCRoF y EGR free."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX490D",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 49400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6UZ1X (6UZ1XDEV A01)",
+   "displacement_l": 9.84,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 270,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V (Reg. 2016/1628)",
+   "egr": null,
+   "aftertreatment": "SCR + DPD"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x364",
+   "pump_flow_total_lpm": 728,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 247,
+   "arm_dig_force_kn": 201,
+   "swing_speed_rpm": 6.6,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7720,
+   "max_reach_mm": 11970,
+   "max_dump_height_mm": 7690,
+   "bucket_capacity_m3": 2.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 650,
+   "hydraulic_tank_l": 230
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-crawler-excavators/cx490d ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a2a7cf715a1f4e7f91585062b74dd84d?v=94e78e11 (CX490D / CX500D ME, tabla de especificaciones)",
+  "notes": "Peso 49.400 kg (50.900 kg con tren de rodaje retractil) con brazo 3,38 m, cazo HD 2,0 m3, zapata 600 mm. Potencia ISO 14396 bruta 270 kW (245 kW con ventilador-bomba); sin dato neto. Presion de trabajo 31,4 MPa (34,3 con auto power up). Fuerzas con brazo 3,40 m (con brazo 2,50 m: brazo 246 kN). Dimensiones con brazo 3,40 m, tren fijo. EGR no indicado. AdBlue 152 l. Pendiente no indicada. El folleto incluye tambien CX500D ME (mass excavation), que la pagina europea de gama no lista."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX145DSR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14500,
+  "engine": {
+   "make": "Isuzu",
+   "model": "VD-4JJ1X",
+   "displacement_l": 2.99,
+   "cylinders": 4,
+   "power_kw_net": 76.4,
+   "power_kw_gross": 78.5,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V (Reg. 2016/1628)",
+   "egr": true,
+   "aftertreatment": "DOC + DPD + SCR, EGR refrigerado (CEGR)"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x129",
+   "pump_flow_total_lpm": 258,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 90,
+   "arm_dig_force_kn": 62,
+   "swing_speed_rpm": 12.5,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5510,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 6940,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 200,
+   "hydraulic_tank_l": 75
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-short-radius/cx145dsr ; Brochure D-Series Short Radius PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/e9bfff40f3e74236a776f044cf0922bd?v=b7b50a11",
+  "notes": "Radio corto. Version LC monobloque 14.500 kg (14.700 kg con contrapeso pesado), brazo 2,5 m (cifras de profundidad/altura/fuerzas con brazo 2,5 m); existen versiones con pala, 2 piezas y offset. Potencia SAE J1349/ISO 9249 neta y ISO 14396 bruta. Presion 34,3 MPa (36,3 con auto power boost; cazo 95 kN). Alcance maximo en el suelo 8.140 mm (no se toma como alcance maximo). Pendiente no legible."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "CX245DSR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "VD-4HK1X",
+   "displacement_l": 5.2,
+   "cylinders": 4,
+   "power_kw_net": 119.3,
+   "power_kw_gross": 124,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V (Reg. 2016/1628)",
+   "egr": true,
+   "aftertreatment": "DOC + DPD + SCR, EGR refrigerado (CEGR)"
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable con sistema regulador",
+   "pump_flow_lpm": "2x211",
+   "pump_flow_total_lpm": 422,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.8,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 320,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/excavators/d-series-short-radius/cx245dsr ; Brochure D-Series Short Radius PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/e9bfff40f3e74236a776f044cf0922bd?v=b7b50a11",
+  "notes": "Radio corto. Peso \"max operating weight\" LC monobloque 24.400 kg (25.300 kg con contrapeso pesado); 26.100/27.000 kg segun segunda columna (version con pala, no confirmado). Fuerzas y dimensiones de la version monobloque no legibles de forma inequivoca en el folleto -> null (solo se publican de forma legible las de 2 piezas: profundidad 5.310 mm con brazo 2,5 m). Presion 34,3 MPa (37,3 con boost)."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "SR175B",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 2842,
+  "engine": {
+   "make": "Perkins",
+   "model": "404J-E22TA",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 50,
+   "rpm": 2800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "78 (alto caudal opcional 116)",
+   "pump_flow_total_lpm": 78,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 78
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2322,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 32.3,
+   "rated_operating_capacity_kg": 790,
+   "tipping_load_kg": 1588
+  },
+  "capacities": {
+   "fuel_l": 73.8,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-skid-steer-loaders/sr175b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> power_kw_rated; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque = \"Bucket cylinder breakout force\" (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion radial; el modelo mas pequeno de la gama. Velocidad baja 11.9 km/h (alta opcional 17.4). Lift cylinder breakout 16.9 kN. Peso operativo 2842 kg. Dimensiones/capacidad de cazo no tabuladas en el folleto."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "SR210B",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3160,
+  "engine": {
+   "make": "FPT",
+   "model": "F5HGL463E*X",
+   "displacement_l": 3.4,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 55,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 126)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2347,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 32.3,
+   "rated_operating_capacity_kg": 955,
+   "tipping_load_kg": 1909
+  },
+  "capacities": {
+   "fuel_l": 73.8,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-skid-steer-loaders/sr210b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> power_kw_rated; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque = \"Bucket cylinder breakout force\" (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion radial. Velocidad baja 11.4 km/h (alta opcional 16.9). Lift cylinder breakout 20.3 kN. Peso operativo 3160 kg. Dimensiones/capacidad de cazo no tabuladas en el folleto."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "SR240B",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3350,
+  "engine": {
+   "make": "FPT",
+   "model": "F5H",
+   "displacement_l": 3.4,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 55,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 143)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2419,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 39.4,
+   "rated_operating_capacity_kg": 1088,
+   "tipping_load_kg": 2177
+  },
+  "capacities": {
+   "fuel_l": 96.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-skid-steer-loaders/sr240b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> power_kw_rated; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque = \"Bucket cylinder breakout force\" (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion radial; bastidor grande. Velocidad baja 11.3 km/h (alta opcional 16.9). Lift cylinder breakout 25.0 kN. Peso operativo 3350 kg. Dimensiones/capacidad de cazo no tabuladas en el folleto."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "SV340B",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 4045,
+  "engine": {
+   "make": "FPT",
+   "model": "F5MGL413G*V",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 67,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 149)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 238,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2507,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 36.3,
+   "rated_operating_capacity_kg": 1545,
+   "tipping_load_kg": 3091
+  },
+  "capacities": {
+   "fuel_l": 96.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-skid-steer-loaders/sv340b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> power_kw_rated; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque = \"Bucket cylinder breakout force\" (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion vertical; bastidor grande. Presion de alivio 238 bar (276 bar con alto caudal mejorado opcional). Velocidad baja 12.4 km/h (alta opcional 18.5). Lift cylinder breakout 28.1 kN. Peso operativo 4045 kg. Dimensiones/capacidad de cazo no tabuladas en el folleto."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "TR310B",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 4027,
+  "engine": {
+   "make": "FPT",
+   "model": "F5H",
+   "displacement_l": 3.4,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 55,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 123)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 8.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2410,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 38.6,
+   "rated_operating_capacity_kg": 1406,
+   "tipping_load_kg": 2810
+  },
+  "capacities": {
+   "fuel_l": 73.8,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-compact-track-loaders/tr310b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> power_kw_rated; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque = \"Bucket cylinder breakout force\" (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion radial, cargadora de cadenas. ROC 50%: 1.406 kg (35%: 984 kg). Velocidad baja 8.9 km/h (alta opcional 12.9). Lift cylinder breakout 29.0 kN. Peso operativo 4027 kg. Dimensiones/capacidad de cazo no tabuladas en el folleto."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "TV450B",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 4823,
+  "engine": {
+   "make": "FPT",
+   "model": "F5M",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 67,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "92 (alto caudal opcional 149)",
+   "pump_flow_total_lpm": 92,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 8.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2481,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 41.8,
+   "rated_operating_capacity_kg": 2045,
+   "tipping_load_kg": 4091
+  },
+  "capacities": {
+   "fuel_l": 96.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/b-series-compact-track-loaders/tv450b ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/29da7dd9853343ffaa95259387b6065f?v=83c6a92a (tabla de especificaciones)",
+  "notes": "Potencia hp(kW) publicada sin indicar norma -> power_kw_rated; numero de cilindros y EGR/postratamiento no indicados. Fuerza de arranque = \"Bucket cylinder breakout force\" (estimada considerando limites de vuelco e hidraulico). ROC al 50% de la carga de vuelco. Altura de descarga con cazo LPE (estandar de fabrica). Elevacion vertical, cargadora de cadenas, la mas grande de la gama. ROC 50%: 2.045 kg (35%: 1.432 kg). Alto caudal mejorado opcional 276 bar. Velocidad baja 8.9 km/h (alta opcional 12.9). Lift cylinder breakout 33.9 kN. Peso operativo 4823 kg. Dimensiones/capacidad de cazo no tabuladas en el folleto."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "521G+",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 11098,
+  "engine": {
+   "make": "FPT",
+   "model": "N45",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 99,
+   "power_kw_gross": 106,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "134 @2000 rpm",
+   "pump_flow_total_lpm": 134,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 134
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 36,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2612,
+   "bucket_capacity_m3": 2.1,
+   "breakout_force_kn": 74.55,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 8758
+  },
+  "capacities": {
+   "fuel_l": 189,
+   "hydraulic_tank_l": 57
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/521g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d4795ee3e2db4774b92e175aa1de1402?v=21061bc3 (G+ Series 521G+-921G+, tablas de especificaciones)",
+  "notes": "Cargadora diesel convencional. Configuracion: Z-Bar, cazo pin-on con cuchilla atornillada (B.O.E.), neumaticos L3, transmision powershift 4 velocidades ZF (la de 5 velocidades ProShift es opcional); peso 11.098 kg con neumaticos 17.5R25 L3; carga de vuelco recta 8.758 kg (giro completo 7.673 kg); fuerza de arranque 7.455 daN; carga util maxima 3.837 kg. Potencia 106 kW bruta / 99 kW neta (142/133 hp). Velocidad max. 36 km/h (marcha 4). Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "621G+",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 12878,
+  "engine": {
+   "make": "FPT",
+   "model": "N67",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 121,
+   "power_kw_gross": 128,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "169 @2000 rpm",
+   "pump_flow_total_lpm": 169,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 169
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2745,
+   "bucket_capacity_m3": 2.3,
+   "breakout_force_kn": 99.07,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 10662
+  },
+  "capacities": {
+   "fuel_l": 248,
+   "hydraulic_tank_l": 91
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/621g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d4795ee3e2db4774b92e175aa1de1402?v=21061bc3 (G+ Series 521G+-921G+, tablas de especificaciones)",
+  "notes": "Cargadora diesel convencional. Configuracion: Z-Bar, cazo pin-on con cuchilla atornillada (B.O.E.), neumaticos L3, transmision powershift 4 velocidades ZF (la de 5 velocidades ProShift es opcional); peso 12.878 kg con neumaticos 20.5R25 L3; carga de vuelco recta 10.662 kg (giro completo 9.248 kg); fuerza de arranque 9.907 daN; carga util maxima 4.724 kg. Potencia 128 kW bruta / 121 kW neta (172/162 hp). Velocidad max. 39 km/h (marcha 4). Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "651G+",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14062,
+  "engine": {
+   "make": "FPT",
+   "model": "N67",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 121,
+   "power_kw_gross": 128,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "190 @2000 rpm",
+   "pump_flow_total_lpm": 190,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 188
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2850,
+   "bucket_capacity_m3": 2.3,
+   "breakout_force_kn": 99.09,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11943
+  },
+  "capacities": {
+   "fuel_l": 248,
+   "hydraulic_tank_l": 91
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/651g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d4795ee3e2db4774b92e175aa1de1402?v=21061bc3 (G+ Series 521G+-921G+, tablas de especificaciones)",
+  "notes": "Cargadora diesel convencional. Configuracion: Z-Bar, cazo pin-on con cuchilla atornillada (B.O.E.), neumaticos L3, transmision powershift 4 velocidades ZF (la de 5 velocidades ProShift es opcional); cargadora de manipulacion/rehandling; cifras de la configuracion Z-Bar con cazo 2,3 m3 (existe cazo de rehandling 2,6 m3: 14.225 kg); peso 14.062 kg; carga de vuelco recta 11.943 kg (giro completo 10.340 kg); fuerza de arranque 9.909 daN; carga util maxima 5.170 kg. Potencia 128 kW bruta / 121 kW neta. Velocidad max. 39 km/h. Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "721G+",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15642,
+  "engine": {
+   "make": "FPT",
+   "model": "N67",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 145,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "206 @2000 rpm",
+   "pump_flow_total_lpm": 206,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 206
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 37,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3031,
+   "bucket_capacity_m3": 2.7,
+   "breakout_force_kn": 143.21,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13686
+  },
+  "capacities": {
+   "fuel_l": 246,
+   "hydraulic_tank_l": 91
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/721g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d4795ee3e2db4774b92e175aa1de1402?v=21061bc3 (G+ Series 521G+-921G+, tablas de especificaciones)",
+  "notes": "Cargadora diesel convencional. Configuracion: Z-Bar, cazo pin-on con cuchilla atornillada (B.O.E.), neumaticos L3, transmision powershift 4 velocidades ZF (la de 5 velocidades ProShift es opcional); peso 15.642 kg; carga de vuelco recta 13.686 kg (giro completo 11.467 kg); fuerza de arranque 14.321 daN; carga util maxima 5.734 kg. Linkage multiple; potencia 145 kW pico (columna unica, sin desglose neto). Velocidad max. 37 km/h. Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "921G+",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 20425,
+  "engine": {
+   "make": "FPT",
+   "model": "N67",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 190,
+   "power_kw_rated": null,
+   "rpm": 1600,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "278 @2000 rpm",
+   "pump_flow_total_lpm": 278,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 278
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 36,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2949,
+   "bucket_capacity_m3": 4.0,
+   "breakout_force_kn": 173.86,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 17720
+  },
+  "capacities": {
+   "fuel_l": 288,
+   "hydraulic_tank_l": 91
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/921g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d4795ee3e2db4774b92e175aa1de1402?v=21061bc3 (G+ Series 521G+-921G+, tablas de especificaciones)",
+  "notes": "Cargadora diesel convencional. Configuracion: Z-Bar, cazo pin-on con cuchilla atornillada (B.O.E.), neumaticos L3, transmision powershift 4 velocidades ZF (la de 5 velocidades ProShift es opcional); peso 20.425 kg; carga de vuelco recta 17.720 kg (giro completo 14.277 kg); fuerza de arranque 17.386 daN; carga util maxima 7.139 kg. Potencia 190 kW pico (columna unica, sin desglose neto). Velocidad max. 36 km/h. Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "1121G+",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 28171,
+  "engine": {
+   "make": "FPT",
+   "model": "Cursor 9",
+   "displacement_l": 8.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 250,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "376 @2000 rpm",
+   "pump_flow_total_lpm": 376,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 456
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3117,
+   "bucket_capacity_m3": 5.0,
+   "breakout_force_kn": 219.02,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 23355
+  },
+  "capacities": {
+   "fuel_l": 459,
+   "hydraulic_tank_l": 134
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/1121g ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a24e05fd11894a19946e36cf1fdd3309?v=97e9ef04 (G+ Series 1021G+/1121G+, tablas de especificaciones)",
+  "notes": "Cargadora diesel convencional (powershift, no X-Drive). Z-Bar, cazo pin-on 5,0 m3 con cuchilla atornillada, neumaticos L3 26.5R25: peso 28.171 kg; carga de vuelco recta 23.355 kg (giro completo 18.886 kg); fuerza de arranque 21.902 daN; carga util maxima 9.443 kg. Potencia 250 kW (345 hp) a 1.800 rpm ISO 14396 bruta; sin dato neto. Caudal bomba 376 l/min (circuito auxiliar max. 456 l/min). Velocidad max. 38 km/h (marcha 4). Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "1021G+ X-Drive",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 26256,
+  "engine": {
+   "make": "FPT",
+   "model": "Cursor 9",
+   "displacement_l": 8.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 239,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "348 @2000 rpm",
+   "pump_flow_total_lpm": 348,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 414
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2943,
+   "bucket_capacity_m3": 4.4,
+   "breakout_force_kn": 186.96,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 22034
+  },
+  "capacities": {
+   "fuel_l": 459,
+   "hydraulic_tank_l": 134
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/1021g-x-drive ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a24e05fd11894a19946e36cf1fdd3309?v=97e9ef04 (G+ Series 1021G+/1121G+, tablas de especificaciones)",
+  "notes": "Version X-Drive con transmision continua (CVT) ZF cPower CP290. Z-Bar, cazo pin-on 4,4 m3, neumaticos L3 26.5R25: peso 26.256 kg; carga de vuelco recta 22.034 kg (giro completo 19.515 kg, 37 grados); fuerza de arranque 18.696 daN; carga util maxima 9.757 kg. Potencia 239 kW ISO 14396 bruta. Velocidad max. de la CVT no indicada en el brochure -> null. Caudal bomba 348 l/min (circuito auxiliar max. 414 l/min). Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "1121G+ X-Drive",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 28405,
+  "engine": {
+   "make": "FPT",
+   "model": "Cursor 9",
+   "displacement_l": 8.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 250,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "376 @2000 rpm",
+   "pump_flow_total_lpm": 376,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 456
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3117,
+   "bucket_capacity_m3": 5.0,
+   "breakout_force_kn": 218.93,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 23432
+  },
+  "capacities": {
+   "fuel_l": 459,
+   "hydraulic_tank_l": 134
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/1121g-x-drive ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a24e05fd11894a19946e36cf1fdd3309?v=97e9ef04 (G+ Series 1021G+/1121G+, tablas de especificaciones)",
+  "notes": "Version X-Drive con transmision continua (CVT) ZF cPower CP310. Z-Bar, cazo pin-on 5,0 m3, neumaticos L3 26.5R25: peso 28.405 kg; carga de vuelco recta 23.432 kg (giro completo 20.643 kg, 37 grados); fuerza de arranque 21.893 daN; carga util maxima 10.322 kg. Potencia 250 kW ISO 14396 bruta. Velocidad max. de la CVT no indicada -> null. Caudal bomba 376 l/min (circuito auxiliar max. 456 l/min). Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "721G+ X-Agri",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 16269,
+  "engine": {
+   "make": "FPT",
+   "model": "N67",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 180,
+   "power_kw_gross": 190,
+   "power_kw_rated": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "HI-eSCR 2 (DOC+SCRoF)"
+  },
+  "hydraulics": {
+   "pump_type": "Simple, de cilindrada variable",
+   "pump_flow_lpm": "206 @2000 rpm",
+   "pump_flow_total_lpm": 206,
+   "system_pressure_bar": 255,
+   "aux_flow_lpm": 206
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 49.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2902,
+   "bucket_capacity_m3": 2.7,
+   "breakout_force_kn": 118.32,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 12418
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 91
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/loaders/g-series-plus-wheel-loaders/721g-x-agri ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/1b049801e9ec4bbb9bf784170df64e97?v=56e1d07d (G+ Series 721G+ X-AGRI, tablas de especificaciones)",
+  "notes": "Version agricola con ProShift 6 velocidades con lock-up y neumaticos Michelin MegaXBib 750/65R26. Z-Bar, cazo G.P. 2,7 m3 con cuchilla atornillada: peso 16.269 kg; carga de vuelco recta 12.418 kg (giro completo 10.606 kg); fuerza de arranque 11.832 daN; carga util maxima 4.568 kg. Potencia 190 kW bruta / 180 kW neta (255/242 hp), par 1.300/1.261 Nm. Velocidad marcha 6 = 49,8 km/h. Presion aux 249-255 bar (se toma 255). \"No EGR valve is used\" segun brochure. Potencia ISO 14396 (pico bruta/neta segun columna). rated_operating_capacity null. Tipo de bomba no asignable con certeza (el brochure indica \"Single\" y \"Tandem\" variable sin columna clara) -> null."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "TL100",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 1604,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1305-E4B",
+   "displacement_l": 1.2,
+   "cylinders": 3,
+   "power_kw_net": 18,
+   "power_kw_gross": 18.5,
+   "power_kw_rated": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Bomba de engranajes fija, valvula de centro abierto",
+   "pump_flow_lpm": "50",
+   "pump_flow_total_lpm": 50,
+   "system_pressure_bar": 190,
+   "aux_flow_lpm": 50
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 7.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1549,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 450,
+   "tipping_load_kg": 1285
+  },
+  "capacities": {
+   "fuel_l": 30,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/mini-track-loaders/tl100 ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/b6f97f4b868745608d48a76f543f3cb5?v=280e6a55 (hoja de especificaciones TL100/TL100EV)",
+  "notes": "Mini cargadora de cadenas, elevacion radial. Peso 1.604 kg con oruga estrecha y 2 contrapesos laterales (1.716 kg oruga ancha). ROC al 35% de la carga de vuelco 450 kg (50%: 643 kg; oruga ancha 500/714 kg). Carga de vuelco 1.285 kg (oruga estrecha; 1.428 kg ancha). Potencia 24,8 hp/18,5 kW bruta y 24/18 kW neta, par 80,1 Nm a 1.700 rpm. Velocidad max. 7,5 km/h. Capacidad sistema hidraulico 17 l. EGR/postratamiento no indicados. Capacidad de cazo y fuerza de arranque no publicadas."
+ },
+ {
+  "brand": "Case Construction Equipment",
+  "model": "TL100EV",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 1862,
+  "engine": {
+   "make": null,
+   "model": "Motores electricos IPM (traccion 2 x 8,4 kW; implemento 25,0 kW), bateria LiFePO4 sin cobalto",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 23.5,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Bomba de engranajes fija, valvula de centro abierto",
+   "pump_flow_lpm": "52",
+   "pump_flow_total_lpm": 52,
+   "system_pressure_bar": 190,
+   "aux_flow_lpm": 52
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1549,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 449,
+   "tipping_load_kg": 1275
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://casece.com/en/europe/products/mini-track-loaders/tl100-ev ; Brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/b6f97f4b868745608d48a76f543f3cb5?v=280e6a55 (hoja de especificaciones TL100/TL100EV)",
+  "notes": "Electrica, elevacion radial. Peso 1.862 kg con oruga estrecha y 2 contrapesos laterales (1.875 kg oruga ancha). ROC al 35% de la carga de vuelco 449 kg (50%: 637 kg; ancha 469/667 kg). Carga de vuelco 1.275 kg (ancha 1.336 kg). power_kw_rated = potencia de la bateria/motor 23,5 kW indicada en la fila \"Gross\" de la hoja (no es una potencia termica neta). Capacidad sistema hidraulico 25,3 l. Fuerza de arranque y capacidad de cazo no publicadas."
+ }
+]

@@ -1,0 +1,46 @@
+{
+ "t": [
+  {
+   "title": "Presentación para clientes",
+   "description": "Zoomlion y la fabricación inteligente (PDF, 12 páginas).",
+   "file": "presentaciones/presentacion-clientes.pdf"
+  },
+  {
+   "title": "Presentación corporativa Zoomlion & Cervisimag",
+   "description": "Se abre directamente en el navegador.",
+   "file": "presentaciones/presentacion-corporativa.html"
+  },
+  {
+   "title": "Presentación Zoomlion (castellano)",
+   "description": "Empresa, posición global y gama (PDF).",
+   "file": "presentaciones/presentacion-zoomlion-es.pdf"
+  },
+  {
+   "title": "Presentació Zoomlion (català)",
+   "description": "Empresa, posició global i gamma (PDF).",
+   "file": "presentaciones/presentacion-zoomlion-ca.pdf"
+  }
+ ],
+ "a": [
+  {
+   "title": "Soluciones agrícolas para Europa 2026",
+   "description": "Gama y argumentos de producto (PDF, 23 páginas).",
+   "file": "presentaciones/agricola/europa-es.pdf"
+  },
+  {
+   "title": "Zoomlion Agriculture Europe 2026 (English)",
+   "description": "Range and product arguments (PowerPoint).",
+   "file": "presentaciones/agricola/europa-en.pptx"
+  },
+  {
+   "title": "Gama de tractores Zoomlion-Cervisimag",
+   "description": "Gama de tractores (PowerPoint).",
+   "file": "presentaciones/agricola/gamma-tractores.pptx"
+  },
+  {
+   "title": "Yuchai y Zoomlion: confianza",
+   "description": "Motores Yuchai en los tractores Zoomlion (PowerPoint).",
+   "file": "presentaciones/agricola/yuchai-zoomlion.pptx"
+  }
+ ]
+}

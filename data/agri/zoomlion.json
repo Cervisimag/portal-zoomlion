@@ -1,0 +1,1491 @@
+[
+ {
+  "brand": "Zoomlion",
+  "model": "RK754-1",
+  "category": "tractor",
+  "series": "RK (compact)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55.8,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCF3675-S580",
+   "cylinders": 4,
+   "displacement_l": 3.62,
+   "emission_stage": "EU Stage V",
+   "egr": "EGR/DOC/DPF (Poznan leaflet 'EGR/DOC/DPF')",
+   "aftertreatment": "EGR/DOC/DPF",
+   "turbo": true,
+   "max_torque_nm": 330,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (11in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 38.47,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open-center, external split-type",
+   "flow_lpm": 47,
+   "max_pressure_bar": 175,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2070,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 3375,
+  "wheelbase_mm": 2140,
+  "fuel_l": 110,
+  "adblue_l": null,
+  "tires": {
+   "front": "280/85R24",
+   "rear": "420/85R30"
+  },
+  "cab": {
+   "suspension": "mechanical suspension seat",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Catalegs Poznan/RK754-1.pdf p.2-3; Zoomlion Agricola/RK754-1英文单张.pdf p.2; Zoomlion Agricola/_Fitxes tècniques/RK754-1 76CV.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.12",
+  "notes": "Primary: Poznan leaflet (75 hp = 55.8 kW at 2200 rpm; Stage V; EGR/DOC/DPF; torque peak 1500 rpm). Root leaflet ZLTRK-GBR-20260310 prints 'Rated power hp 55.8' (kW figure under hp unit; conflict), Euro 5, torque range 1400-1600 rpm. Cervisimag ficha/Gamma deck show 76 CV (55.8 kW = 75.9 PS conversion). Lift 20.3 kN at 610 mm (2070 kg per Poznan p.3 and 0228 p.12; 4800 kg at hitch points). Weight = min operating 3375, max 3715 kg. Rear PTO 6-spline 35 mm. Max safety valve 17.5 MPa. Cab: 4.3in display, no digital agriculture package listed. Tires: root leaflet prints '420/R85R30' (typo).",
+  "doc": "docs/agri/rk754-1.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "RM804-1",
+  "category": "tractor",
+  "series": "RM",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCF3685-S500",
+   "cylinders": 4,
+   "displacement_l": 3.621,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 340,
+   "max_torque_rpm": "1400-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (12in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Split configuration",
+   "flow_lpm": 51,
+   "max_pressure_bar": 180,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 4400,
+  "wheelbase_mm": 2245,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/RM804-1 RM904-1 RM1104-1.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.12; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slides 8-10",
+  "notes": "Leaflet ZLTRM-GBR-20260310 gives one table for RM804-1/RM904-1/RM1104-1. Power NOT stated reliably: leaflet prints 'hp' 62 (this model) but unit is doubtful and Gamma deck states the leaflet and price list conflict in figure and unit; 0228 only gives the family range 80-110 HP; left null. Lift 30 kN at 610 mm (3000 kg per 0228 p.12). Weight = min operating 4400, max 4960 kg. Euro 5 as printed. PTO 6-spline 35 mm (8-spline 38 mm option). Speed 2-40 km/h. Safety valve 18 MPa.",
+  "doc": "docs/agri/rm804-1104.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "RM904-1",
+  "category": "tractor",
+  "series": "RM",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCF3690-S500",
+   "cylinders": 4,
+   "displacement_l": 3.621,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 380,
+   "max_torque_rpm": "1400-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (12in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Split configuration",
+   "flow_lpm": 51,
+   "max_pressure_bar": 180,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 4400,
+  "wheelbase_mm": 2245,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/RM804-1 RM904-1 RM1104-1.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.12; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slides 8-10",
+  "notes": "Leaflet ZLTRM-GBR-20260310 gives one table for RM804-1/RM904-1/RM1104-1. Power NOT stated reliably: leaflet prints 'hp' 67 (this model) but unit is doubtful and Gamma deck states the leaflet and price list conflict in figure and unit; 0228 only gives the family range 80-110 HP; left null. Lift 30 kN at 610 mm (3000 kg per 0228 p.12). Weight = min operating 4400, max 4960 kg. Euro 5 as printed. PTO 6-spline 35 mm (8-spline 38 mm option). Speed 2-40 km/h. Safety valve 18 MPa.",
+  "doc": "docs/agri/rm804-1104.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "RM1104-1",
+  "category": "tractor",
+  "series": "RM",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCF36110-S500",
+   "cylinders": 4,
+   "displacement_l": 3.621,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 460,
+   "max_torque_rpm": "1400-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (12in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Split configuration",
+   "flow_lpm": 51,
+   "max_pressure_bar": 180,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 4400,
+  "wheelbase_mm": 2245,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/RM804-1 RM904-1 RM1104-1.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.12; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slides 8-10",
+  "notes": "Leaflet ZLTRM-GBR-20260310 gives one table for RM804-1/RM904-1/RM1104-1. Power NOT stated reliably: leaflet prints 'hp' 81 (this model) but unit is doubtful and Gamma deck states the leaflet and price list conflict in figure and unit; 0228 only gives the family range 80-110 HP; left null. Lift 30 kN at 610 mm (3000 kg per 0228 p.12). Weight = min operating 4400, max 4960 kg. Euro 5 as printed. PTO 6-spline 35 mm (8-spline 38 mm option). Speed 2-40 km/h. Safety valve 18 MPa.",
+  "doc": "docs/agri/rm804-1104.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "RN904-1",
+  "category": "tractor",
+  "series": "RN",
+  "power_hp_rated": 95,
+  "power_hp_max": null,
+  "power_kw_rated": 70,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Shanghai Diesel",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.544,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 395,
+   "max_torque_rpm": "1300-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (12in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 39.9,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Split configuration",
+   "flow_lpm": 60,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 5100,
+  "wheelbase_mm": 2380,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/RN904-1 RN1104-1 RN1304-1英文单张.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.11; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slides 11-13",
+  "notes": "Engine code printed in the leaflet for RN904-1 (SC4H135.9G5E) duplicates the RN1304-1 code; not reproduced as confirmed, left null. Power hp as printed in leaflet ZLTRN-GBR-20260310 (95 hp; standard not stated); kW from Gamma deck slides (kW of the European presentation; not printed in the leaflet). Gamma deck shows 96 CV rounded. Torque peak 1300-1600 rpm. Speed forward 3.23-39.9, reverse 2.92-36.2 km/h. Lift 30 kN at 610 mm (3000 kg per 0228 p.11). Weight = min operating 5100, max 5680 kg. Safety valve 19 MPa. Gamma deck states SDEC engine. 0228 p.11 lists RN904/1104 family with other chassis data (5000 kg, 16F+16R etc.) that do not match the leaflet.",
+  "doc": "docs/agri/rn904-1304.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "RN1104-1",
+  "category": "tractor",
+  "series": "RN",
+  "power_hp_rated": 115,
+  "power_hp_max": null,
+  "power_kw_rated": 85,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Shanghai Diesel",
+   "model": "SC4H115.9G5E",
+   "cylinders": 4,
+   "displacement_l": 4.544,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 495,
+   "max_torque_rpm": "1300-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (13in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 39.9,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Split configuration",
+   "flow_lpm": 60,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 5100,
+  "wheelbase_mm": 2380,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/RN904-1 RN1104-1 RN1304-1英文单张.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.11; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slides 11-13",
+  "notes": "Power hp as printed in leaflet ZLTRN-GBR-20260310 (115 hp; standard not stated); kW from Gamma deck slides (kW of the European presentation; not printed in the leaflet). Gamma deck shows 117 CV rounded. Torque peak 1300-1600 rpm. Speed forward 3.23-39.9, reverse 2.92-36.2 km/h. Lift 30 kN at 610 mm (3000 kg per 0228 p.11). Weight = min operating 5100, max 5680 kg. Safety valve 19 MPa. Gamma deck states SDEC engine. 0228 p.11 lists RN904/1104 family with other chassis data (5000 kg, 16F+16R etc.) that do not match the leaflet.",
+  "doc": "docs/agri/rn904-1304.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "RN1304-1",
+  "category": "tractor",
+  "series": "RN",
+  "power_hp_rated": 135,
+  "power_hp_max": null,
+  "power_kw_rated": 100,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Shanghai Diesel",
+   "model": "SC4H135.9G5E",
+   "cylinders": 4,
+   "displacement_l": 4.544,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 560,
+   "max_torque_rpm": "1300-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchronizer shuttle shift (13in dual-acting clutch)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 39.9,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Split configuration",
+   "flow_lpm": 60,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 5100,
+  "wheelbase_mm": 2380,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/RN904-1 RN1104-1 RN1304-1英文单张.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.11; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slides 11-13",
+  "notes": "Power hp as printed in leaflet ZLTRN-GBR-20260310 (135 hp; standard not stated); kW from Gamma deck slides (kW of the European presentation; not printed in the leaflet). Gamma deck shows 137 CV rounded. Torque peak 1300-1600 rpm. Speed forward 3.23-39.9, reverse 2.92-36.2 km/h. Lift 30 kN at 610 mm (3000 kg per 0228 p.11). Weight = min operating 5100, max 5680 kg. Safety valve 19 MPa. Gamma deck states SDEC engine. 0228 p.11 lists RN904/1104 family with other chassis data (5000 kg, 16F+16R etc.) that do not match the leaflet.",
+  "doc": "docs/agri/rn904-1304.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "CN1304",
+  "category": "tractor",
+  "series": "CN (Power Shuttle)",
+  "power_hp_rated": 135,
+  "power_hp_max": 149,
+  "power_kw_rated": 100,
+  "power_kw_max": 110,
+  "power_standard": null,
+  "engine": {
+   "make": "Shanghai New Power Automotive Technology Co., Ltd. (Shanghai Diesel)",
+   "model": "SC4H135.9G5E",
+   "cylinders": 4,
+   "displacement_l": 4.544,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC/DPF/SCR",
+   "turbo": true,
+   "max_torque_nm": 560,
+   "max_torque_rpm": "1300-1600",
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Power Shuttle (synchronized main transmission, electrohydraulic wet clutch, auxiliary engagement sleeve)",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 39.98,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open-center, external (split-type)",
+   "flow_lpm": 80,
+   "max_pressure_bar": 195,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 1260,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": "Optional front PTO 1000 rpm, 49 kW (optional); rear PTO output 85 kW"
+  },
+  "weight_kg": 5300,
+  "wheelbase_mm": 2380,
+  "fuel_l": 200,
+  "adblue_l": 23,
+  "tires": {
+   "front": "340/85R24",
+   "rear": "420/85R34"
+  },
+  "cab": {
+   "suspension": "mechanical suspension seat",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Catalegs Poznan/CN1304.pdf p.2-3; Zoomlion Agricola/_Fitxes tècniques/CN1304 150CV.pdf p.2-3; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 18",
+  "notes": "Poznan leaflet ZLTCN-POL-20260805: 135 hp (100 kW) rated, 149 hp (110 kW) max, rated speed 2200 rpm, 560 Nm at 1300-1600, torque reserve 29%. Cervisimag ficha shows 136 CV (100 kW = 136 PS) and 150 CV max. Rear lift 3000 kg at 610 mm, 4020 kg at hitch points (Cat. II); front lift optional 1480 kg at hitch / 1260 kg at 610 mm (front_lift_kg = value at 610 mm). Weight = min operating 5300, max permissible gross 6680 kg (tire set 1; 6040 mm length is with front loader). Speed 2.9-39.98 km/h. Tire set 2: 340/85R24 + 480/70R34. Steering pump 38.5 L/min. 7in LCD; no ISOBUS or guidance listed. Safety valve 19.5 MPa. Noise 84.1 dB(A). Optional TZ10D front loader.",
+  "doc": "docs/agri/cn1304.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "PL1604",
+  "category": "tractor",
+  "series": "PL (Powershift)",
+  "power_hp_rated": 165,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCA07165-E500",
+   "cylinders": 6,
+   "displacement_l": 6.871,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Range power shift (mechanical main gears, powershift secondary, power reverse)",
+   "speeds": "48F+24R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open load-sensing",
+   "flow_lpm": 114,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000",
+   "front_pto": null
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2860,
+  "fuel_l": 375,
+  "adblue_l": null,
+  "tires": {
+   "front": "420/85R28",
+   "rear": "520/85R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/PL1604英文单张.pdf p.2; Zoomlion Agricola/_Fitxes tècniques/PL1604.pdf p.2; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 20; Zoomlion Agricola/0228-最新EN.pdf p.8",
+  "notes": "Leaflet ZLTPL-GBR-20260310: 165 hp (standard not stated), 700 Nm at 1500 rpm, torque reserve 20%. Gamma deck shows 160 CV (118 kW) from the European presentation and flags the discrepancy (leaflet 165 hp; manual distinguishes net and 12 h power); kW not taken. Lift 57.5 kN at 610 mm (kg not published). Weight = min operating 7600 kg (with front working device), max 8580. Speed forward 0.36-40, reverse 0.4-40 km/h. Safety valve 20+-0.5 MPa; 6-spline 35 mm PTO. Rear axle ZF, Carraro front axle, Rexroth valves; 10.1in touchscreen cluster; 4 electrohydraulic outputs. Cab with positive-pressure A/C.",
+  "doc": "docs/agri/pl1604.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "PG2004",
+  "category": "tractor",
+  "series": "PG (Powershift)",
+  "power_hp_rated": 220,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCA07220-S500",
+   "cylinders": 6,
+   "displacement_l": 6.871,
+   "emission_stage": "Euro 5",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 950,
+   "max_torque_rpm": "1300-1600",
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Range power shift, ZF TPT20 rear axle (mechanical planar composite and partial power shift)",
+   "speeds": "48F+24R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed core, split type",
+   "flow_lpm": 160,
+   "max_pressure_bar": 205,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5867,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000",
+   "front_pto": null
+  },
+  "weight_kg": 7870,
+  "wheelbase_mm": 2858,
+  "fuel_l": 375,
+  "adblue_l": null,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/PG2004英文单张.pdf p.2; Zoomlion Agricola/0228-最新EN.pdf p.11; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 21",
+  "notes": "Leaflet ZLTPG-GBR-20260310: 220 hp, 950 Nm at 1300-1600 rpm, torque reserve 35%. Gamma deck shows 200 CV (147 kW) from the European presentation/12 h manual power and flags the conflict; confirm homologated power. Lift 57.5 kN at 610 mm (5867 kg per 0228 p.11). Weight = min operating 7870 kg, max 9150. Speed 0.41-40 km/h. Safety valve 20.5 MPa. Cab with A/C (positive-pressure cab optional). 10.1in touchscreen cluster; no ISOBUS or guidance listed ('/' under digital agriculture package).",
+  "doc": "docs/agri/pg2004.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "DL1604",
+  "category": "hybrid_tractor",
+  "series": "DL (hybrid)",
+  "power_hp_rated": 150,
+  "power_hp_max": null,
+  "power_kw_rated": 110,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.87,
+   "emission_stage": "Euro 5 (regional model per presentation)",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 800,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": "Hybrid CVT, two-range. Electric motor and battery data not given in the sources; 800 Nm is the thermal-engine figure, not the traction motor."
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Hybrid CVT, two ranges",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 112,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2580,
+  "fuel_l": 322,
+  "adblue_l": null,
+  "tires": {
+   "front": "540/65R24",
+   "rear": "600/65R38"
+  },
+  "cab": {
+   "suspension": "cab, front axle and seat suspension (described configuration)",
+   "air_conditioning": true,
+   "isobus": "standard (per Cervisimag ficha)",
+   "gps_guidance": "assisted steering standard; receiver, RTK and accuracy not specified"
+  },
+  "source": "Zoomlion Agricola/_Fitxes tècniques/DL1604 - 6D160 Hibrid.pdf p.2,p.4-5; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 22",
+  "notes": "Commercial equivalence DL1604 = 6D160 (confirmed per AGENTS.md). Only source is the Cervisimag ficha built from the European presentation (slides 24-26); no manufacturer leaflet in the folder. Power 150 CV approx (110 kW = 149.6 PS at 2200 rpm, cover figure rounded); thermal engine only, not summed with electric. Speed 0-40 / 0-50 km/h depending on configuration (max_speed 50). Hydraulics 112 L/min standard, 155 L/min optional; 2 front + 5 rear electrohydraulic valves. Lift 56.5 kN at 610 mm (presentation slide 26 says 57.65 kN: unresolved). Ballast 900 front/410 rear kg. Optional tires 540/65R28 front, 650/65R38 rear. Engine make/model not stated.",
+  "doc": "docs/agri/dl1604.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "DL2004",
+  "category": "hybrid_tractor",
+  "series": "DL (hybrid)",
+  "power_hp_rated": 200,
+  "power_hp_max": null,
+  "power_kw_rated": 147,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCA07200-S500",
+   "cylinders": 6,
+   "displacement_l": 6.871,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 803,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": 6.23,
+   "description": "MIDD dual-motor (planetary-coupled) hybrid, 4WD, frameless. Traction battery NMC lithium-ion 6.23 kWh, 10.44 Ah, 599.4 V, 10C high-discharge (Hunan Zoomlion New Energy, Ln2503). Electric motor power not stated. Thermal engine 147 kW is not summed with electric power."
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "2-speed CVT, AMT electronic shift",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "flow_lpm": 155,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 6000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "Independent front PTO, 1000 rpm, 80 kW; front hitch Cat. II 27 kN at 610 mm"
+  },
+  "weight_kg": 9130,
+  "wheelbase_mm": 2850,
+  "fuel_l": 320,
+  "adblue_l": 30,
+  "tires": {
+   "front": "600/65R28",
+   "rear": "710/70R38"
+  },
+  "cab": {
+   "suspension": "seat air suspension (swivel seat); positive-pressure A/C cab",
+   "air_conditioning": true,
+   "isobus": "standard (per Cervisimag ficha / European presentation; not in leaflet tables)",
+   "gps_guidance": "RTK-based assisted guidance, centimetre-level (leaflet p.2); receiver and correction service not specified"
+  },
+  "source": "Zoomlion Agricola/_Catalegs Poznan/Hybrid 6D200.pdf p.2-3; Zoomlion Agricola/_Fitxes tècniques/DL2004 - 6D200 Hibrid.pdf p.2-3; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 23; Zoomlion Agricola/0228-最新EN.pdf p.9-10",
+  "notes": "Equivalence DL2004 = 6D200 verified on leaflet cover (AGENTS.md). Leaflet ZLTDL-POL-20260805 prints power only in kW (147 kW); 200 HP is the commercial class (0228 p.8/10 'DL 200HP'; 147 kW = 199.9 PS). Thermal-engine torque 803 Nm at 1600 rpm taken from Cervisimag ficha (European presentation slide 28), not in leaflet. Speed 0-40 km/h in leaflet table; text and general presentation also mention 0-50 (confirm). Weight 9130 kg is with front loader (9280 kg with front hitch + implement); max operating 9690, permissible 12000; general presentation gives 8600 kg, wheelbase 2800, tank 300/322 L, lift 56.75/57.65 kN (conflict). Lift 6000 kg at 610 mm (60 kN) rear; hydraulics front 120 / rear 155 L/min, max 120 per circuit, 2 front + 5 rear valves, safety valve 20+-0.5 MPa. Optional tires 540/65R30 front, 650/65R42 rear. Rear ballast 410 kg. 16 work lights, noise <79 dB(A). Aftertreatment/EGR not stated (DEF tank 30 L).",
+  "doc": "docs/agri/dl2004.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "DQ2604",
+  "category": "hybrid_tractor",
+  "series": "DQ (hybrid)",
+  "power_hp_rated": 260,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCA08260-S500",
+   "cylinders": 6,
+   "displacement_l": 7.525,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": 191.5,
+   "battery_kwh": 11.55,
+   "description": "MIDD dual-motor coupled drive with 2-speed AMT; motor rated output 191.5 kW, max 4000 rpm, 592 V; 10C high-discharge battery 11.55 kWh. Motor power is a component rating, not added to thermal power."
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Hybrid CVT (range infinitely variable, 2-speed AMT electronic shift)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "flow_lpm": 180,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/760/1000",
+   "front_pto": null
+  },
+  "weight_kg": 11600,
+  "wheelbase_mm": 2950,
+  "fuel_l": 510,
+  "adblue_l": null,
+  "tires": {
+   "front": "600/70R30",
+   "rear": "710/70R42"
+  },
+  "cab": {
+   "suspension": "seat air suspension (rotating); A/C cab",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "RTK-based assisted driving, centimetre-level (leaflet p.2)"
+  },
+  "source": "Zoomlion Agricola/_Catalegs Poznan/Hybrid 7D260.pdf p.2-3; Zoomlion Agricola/_Fitxes tècniques/DQ2604 - 7D260 Hibrid.pdf p.2; Zoomlion Agricola/DQ2604英文单张.pdf p.2; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 25",
+  "notes": "Equivalence DQ2604 = 7D260 (confirmed per AGENTS.md). Primary: Poznan leaflet 7D260 (DQ2604) ZLTDQ-POL: 260 HP (standard not stated; engine kW not given), 191.5 kW electric motor. SOURCES CONFLICT. Root leaflet DQ2604英文单张.pdf (ZLTDQ-GBR-20260310) differs: 235 hp rated; engine YCA08320-S300/S500; 600 V; min operating weight 11000 kg, front ballast 1100 kg; speed 0-40 (50); 4 valves at 120 L/min; tires 600/70R38 / 710/70R42; turning radius 7.5 m; Euro 5. Lift 7000 kg (70 kN) at 610 mm, drawbar pull >90 kN, Cat. III. Hydraulics 180 L/min total, max 120 per circuit, 5 valves, 20 MPa. Weight = min operating 11600 kg, max operating 12510, permissible 15000. Dimensions 6000x2610x3490 mm, track 1890/1900, clearance 510. Ballast 500 front/410 rear. PTO 21-spline std (20 optional), dual-circuit air brake optional. 16 work lights, noise <79 dB(A). Turning radius 7.5+-0.5 m. ISOBUS not stated in the manufacturer documents (Cervisimag ficha mentions it from an unavailable sheet).",
+  "doc": "docs/agri/dq2604.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "DV3504",
+  "category": "hybrid_tractor",
+  "series": "DV (hybrid)",
+  "power_hp_rated": 350,
+  "power_hp_max": null,
+  "power_kw_rated": 257,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCK09350-S500",
+   "cylinders": 6,
+   "displacement_l": 9.41,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": 240,
+   "battery_kwh": 11.553,
+   "description": "MIDD dual-motor coupled drive, 2-speed AMT. Traction motor 240 kW, 1205 Nm at 1900 rpm, 592 V; alternator 285 kW; NMC lithium-ion battery 11.553 kWh, 19.5 Ah, 592.48 V, 10C. Component ratings, not summed."
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Hybrid CVT (range infinitely variable, 2-speed AMT, 4WD)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "flow_lpm": 227,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8800,
+   "front_lift_kg": null,
+   "category": "Cat. 4N/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/760/1000 + 0-1000 stepless",
+   "front_pto": "Independent front PTO, 1000 rpm, 110 kW; front hitch Cat. 3N 45 kN at 610 mm"
+  },
+  "weight_kg": 14000,
+  "wheelbase_mm": 3175,
+  "fuel_l": 650,
+  "adblue_l": 58,
+  "tires": {
+   "front": "600/70R30",
+   "rear": "710/70R42"
+  },
+  "cab": {
+   "suspension": "seat air suspension (rotating); positive-pressure A/C cab",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "RTK-based assisted driving, centimetre-level (leaflet p.2)"
+  },
+  "source": "Zoomlion Agricola/_Catalegs Poznan/Hybrid 8D350-8D410.pdf p.2-3; Zoomlion Agricola/_Fitxes tècniques/DV3504 - 8D350 Hibrid.pdf p.2-3; Zoomlion Agricola/DV3504英文单张.pdf p.2; Zoomlion Agricola/_Info tecnica/Hybrid Tractor ES.pdf p.15-16; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 26",
+  "notes": "Pairing DV3504 = 8D350 comes from the Cervisimag ficha/Gamma deck (the leaflet itself is titled 8D350/8D410); not user-confirmed. Primary: Poznan leaflet ZLTDV-POL-20260805: engine rated 257 kW (350 HP = commercial class per 0228 p.8-9 'DV 350HP'; 257 kW = 349.4 PS); engine torque not published. SOURCES CONFLICT: root leaflet DV3504英文单张.pdf and Hybrid Tractor ES p.15-16 print 400 hp, engine YCK09 400-S500, Euro 5, 9410 ml, motor 257.5 kW, 600 V, 4 valves, speed 0-40 (50), min operating weight 13000 kg, front ballast 1100 / rear 908 kg, 6450x3050x3450, tires 600/70R38 front, turning 6.5 m. Lift 8800 kg (88 kN) at 610 mm; drawbar pull >119 kN. Hydraulics front 120 / rear 227 L/min, max 170 per circuit, 2 front + 5 rear valves, 20+-0.5 MPa. Weight = min operating 14000 kg with front hitch and implement; max operating 15320; permissible 18000. Dimensions 7190x2705x3480, track 1890/1830, turning 6.7+-0.3 m. 14 work lights, noise <79 dB(A). Hybrid ES p.22 cites steering accuracy <=2.5 cm.",
+  "doc": "docs/agri/dv3504.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "DV4104",
+  "category": "hybrid_tractor",
+  "series": "DV (hybrid)",
+  "power_hp_rated": 410,
+  "power_hp_max": null,
+  "power_kw_rated": 301,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Yuchai",
+   "model": "YCK11410-S500",
+   "cylinders": 6,
+   "displacement_l": 10.98,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": 240,
+   "battery_kwh": 11.553,
+   "description": "MIDD dual-motor coupled drive, 2-speed AMT. Traction motor 240 kW, 1205 Nm at 1900 rpm, 592 V; alternator 311 kW; NMC lithium-ion battery 11.553 kWh, 19.5 Ah, 592.48 V, 10C. Component ratings, not summed."
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Hybrid CVT (range infinitely variable, 2-speed AMT, 4WD)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "flow_lpm": 227,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": "Cat. 4N/4"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/760/1000 + 0-1000 stepless",
+   "front_pto": "Independent front PTO, 1000 rpm, 110 kW; front hitch Cat. 3N 45 kN at 610 mm"
+  },
+  "weight_kg": 15000,
+  "wheelbase_mm": 3175,
+  "fuel_l": 650,
+  "adblue_l": 58,
+  "tires": {
+   "front": "VF650/60R34",
+   "rear": "VF900/60R42"
+  },
+  "cab": {
+   "suspension": "seat air suspension (rotating); positive-pressure A/C cab",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": "RTK-based assisted driving, centimetre-level (leaflet p.2)"
+  },
+  "source": "Zoomlion Agricola/_Catalegs Poznan/Hybrid 8D350-8D410.pdf p.2-3; Zoomlion Agricola/_Fitxes tècniques/DV3504 - 8D350 Hibrid.pdf p.2-3; Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 27",
+  "notes": "Pairing DV4104 = 8D410 comes from the Cervisimag ficha/Gamma deck; not user-confirmed. Leaflet gives engine rated 301 kW (410 HP = commercial class per 0228 p.8-9; 301 kW = 409.3 PS). Lift 90 kN at 610 mm (kg not published; the 8800 kg text is for the 8D350). Weight = min operating 15000 kg with front hitch and implement; max operating 16320; permissible 20000. Dimensions 7190x3270x3530, track 2184/2020. No separate DV4104 leaflet in the folder (price list only lists the model). Remaining data common with 8D350: hydraulics 120 front/227 rear L/min, turning 6.7+-0.3 m, 14 work lights.",
+  "doc": "docs/agri/dv4104.pdf"
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "DG2204",
+  "category": "hybrid_tractor",
+  "series": "DG (hybrid)",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.87,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": "Hybrid CVT, 2-speed AMT; dual-motor MIDD system. No motor/battery data in sources."
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "Hybrid CVT, 2-speed AMT",
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/760/1000 (0228 p.9); variable-speed PTO (Gamma deck)",
+   "front_pto": null
+  },
+  "weight_kg": 9000,
+  "wheelbase_mm": null,
+  "fuel_l": 330,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "cab and front axle suspended (Gamma deck); dynamic air-suspension swivel seat (0228)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": "automatic navigation, straight-line tracking deviation <2.5 cm (0228 p.9)"
+  },
+  "source": "Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 24, slide 6; Zoomlion Agricola/0228-最新EN.pdf p.9; Zoomlion Agricola/_Info tecnica/Tecnologia Hibrida.pdf p.12",
+  "notes": "No technical sheet or leaflet for this model. Power NOT stated reliably: documents mention 200 hp (0228 p.9), 220 hp/220 CV (Tecnologia Hibrida p.12) and 191 kW (Gamma deck); left null. Lift 59.55 kN at 610 mm, 160 L/min, 9000 kg min weight declared, traction >=85 kN (0228). Tank 330 L in the Gamma table, versions of 320 and 330 L exist. Hydraulics with Power Beyond option. Equivalence not verified."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "CM804",
+  "category": "tractor",
+  "series": "CM (Power Shuttle)",
+  "power_hp_rated": 91,
+  "power_hp_max": null,
+  "power_kw_rated": 67,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Power Shuttle",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 60,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 14 (+ slide 6 table)",
+  "notes": "NO manufacturer leaflet or technical sheet in the folder; figures come only from the Cervisimag Gamma deck (European programme summary, power rounded 'de referencia'). Deck notes power, weight and transmission show discrepancies between documents; confirm the offered version. Max speed declared 40 km/h. Lift 30 kN at 610 mm (kg not published)."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "CM904",
+  "category": "tractor",
+  "series": "CM (Power Shuttle)",
+  "power_hp_rated": 101,
+  "power_hp_max": null,
+  "power_kw_rated": 74,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Power Shuttle",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 60,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 15 (+ slide 6 table)",
+  "notes": "NO manufacturer leaflet or technical sheet in the folder; figures come only from the Cervisimag Gamma deck (European programme summary, power rounded 'de referencia'). Deck notes power, weight and transmission show discrepancies between documents; confirm the offered version. Max speed declared 40 km/h. Price list lists this model. Lift 30 kN at 610 mm (kg not published)."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "CM1104",
+  "category": "tractor",
+  "series": "CM (Power Shuttle)",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "(none) model appears only in the Cervisimag price list",
+  "notes": "Model listed in the price list but NO technical source in the folder (not in leaflets, ficha, Gamma deck or Poznan catalogues). All fields null."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "CN904",
+  "category": "tractor",
+  "series": "CN (Power Shuttle)",
+  "power_hp_rated": 95,
+  "power_hp_max": null,
+  "power_kw_rated": 70,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "SDEC",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.544,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 395,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Power Shuttle",
+   "speeds": "12F+12R",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 16 (+ slide 6 table)",
+  "notes": "NO manufacturer leaflet or technical sheet in the folder; figures come only from the Cervisimag Gamma deck (European programme summary, power rounded 'de referencia'). Engine code and final equipment depend on offered version. Not in the price list reviewed for models. Lift 30 kN at 610 mm (kg not published)."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "CN1104",
+  "category": "tractor",
+  "series": "CN (Power Shuttle)",
+  "power_hp_rated": 116,
+  "power_hp_max": null,
+  "power_kw_rated": 85,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "SDEC",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.544,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 495,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Power Shuttle",
+   "speeds": "12F+12R",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 200,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 17 (+ slide 6 table)",
+  "notes": "NO manufacturer leaflet or technical sheet in the folder; figures come only from the Cervisimag Gamma deck (European programme summary, power rounded 'de referencia'). Engine code and final equipment depend on offered version. Lift 30 kN at 610 mm (kg not published)."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "PL1504",
+  "category": "tractor",
+  "series": "PL (Powershift)",
+  "power_hp_rated": 150,
+  "power_hp_max": null,
+  "power_kw_rated": 110,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.8,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 650,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift",
+   "speeds": "48F+24R",
+   "max_speed_kmh": null,
+   "creeper": "super-slow speed group (per Gamma deck)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 114,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 400,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Zoomlion Agricola/_Info tecnica/Gamma_Tractors_Zoomlion_Cervisimag.pptx slide 19 (+ slide 6 table)",
+  "notes": "NO manufacturer leaflet or technical sheet in the folder; figures come only from the Cervisimag Gamma deck (European programme summary, power rounded 'de referencia'). Commercial availability to be confirmed (deck). PTO 540/1000; creeper group. Suspensions, ISOBUS and guidance depend on option. Lift 57.5 kN at 610 mm (kg not published)."
+ }
+]

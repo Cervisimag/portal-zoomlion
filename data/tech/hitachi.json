@@ -1,0 +1,2137 @@
+[
+ {
+  "brand": "Hitachi",
+  "model": "ZX210LC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 22600,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4HK1",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 128.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC + CSF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps + 1 gear pump",
+   "pump_flow_lpm": "1x184 + 2x212 (gear pump 33.7)",
+   "pump_flow_total_lpm": 608,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 158,
+   "arm_dig_force_kn": 114,
+   "swing_speed_rpm": 11.4,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6670,
+   "max_reach_mm": 9920,
+   "max_dump_height_mm": 7180,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 135
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/content/dam/hitachicm/nl/nl/docs/ZX210_225US_225USR-7.pdf",
+  "notes": "Official Hitachi EU brochure (Dutch), ZX210LC-7: monoboom, 2.91 m arm, 600 mm triple grouser, 0.80 m3 bucket (ISO 7451): 22600 kg (ZX210LCN-7 21900-22700 kg). Max working pressure implement 34.3 MPa, power boost 38.0 MPa (forces quoted at power boost, ISO 6015). Pump total = sum of listed 184+2x212 (3 main pumps as listed). Travel 5.5 high / 3.5 low km/h. Dig range monoboom 2.91 m arm. Bucket cap = standard 0.80 m3. Gross ISO 14396 128.4 kW, net ISO 9249 122 kW at 2000 rpm. Cooled EGR + DOC+CSF+SCR. AdBlue tank 57 L. Newer ZX210-7G (EGR removed) exists in Australia; EU brochure is the -7."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX19-6",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G"
+  ],
+  "weight_kg": 1920,
+  "engine": {
+   "make": null,
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": 10.6,
+   "power_kw_gross": 11.5,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + 1 gear pump",
+   "pump_flow_lpm": "2x19.2 + 1x10.8",
+   "pump_flow_total_lpm": 49.2,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.0,
+   "arm_dig_force_kn": 8.4,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 47,
+   "max_dig_depth_mm": 2380,
+   "max_reach_mm": 3900,
+   "max_dump_height_mm": 2380,
+   "bucket_capacity_m3": 0.044,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 22.0,
+   "hydraulic_tank_l": 14.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://used.hitachicm.co.uk/wp-content/uploads/2023/05/ZX19-6-Product-Brochure.pdf",
+  "notes": "Hitachi UK-hosted official product brochure ZX19-6. 1920 kg: rubber shoes 230 mm, 1.08 m arm, 1.70 m boom, 0.044 m3 bucket ISO heaped. Bucket force ISO 16.0 kN (SAE 12.6), arm ISO 8.4 kN. Implement relief 20.6 MPa. Travel 4.2/2.4 km/h. Net ISO 9249, gross ISO 14396 at 2400 rpm. Engine make and emission stage not stated in this brochure (null). Hydraulic system refill 26 L."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX33U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3500,
+  "engine": {
+   "make": null,
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 18.0,
+   "power_kw_gross": 18.8,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "None required (brochure: no after-treatment device)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + 1 gear pilot pump",
+   "pump_flow_lpm": "2x38.4 (pilot 10.8)",
+   "pump_flow_total_lpm": 76.8,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 27.2,
+   "arm_dig_force_kn": 16.9,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 2790,
+   "max_reach_mm": 4890,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.13,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42.0,
+   "hydraulic_tank_l": 32.0
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://used.hitachicm.co.uk/wp-content/uploads/2023/05/ZX33U-6-Product-Brochure.pdf",
+  "notes": "Hitachi UK-hosted official product brochure ZX33U-6. Operating weight: cab version 3500-3720 kg (min shown). Dig range for the shorter arm (1.17 m; arm force 16.9 kN, 1.52 m arm: 14.6 kN), column order inferred from arm-force order; dump height not extractable. Bucket cap = largest listed (0.04-0.13 m3 ISO heaped). Implement relief 24.5 MPa. Travel 4.3/2.8 km/h. Net ISO 9249, gross ISO 14396. Hydraulic system refill 56 L."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX65USB-6",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 6140,
+  "engine": {
+   "make": null,
+   "model": "4TNV98C",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 41.2,
+   "power_kw_gross": 42.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "Muffler filter"
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement axial piston pump + 1 gear pilot pump",
+   "pump_flow_lpm": "1x144 (pilot 10.4)",
+   "pump_flow_total_lpm": 144,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 41.1,
+   "arm_dig_force_kn": 31.1,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.8,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 3770,
+   "max_reach_mm": 6230,
+   "max_dump_height_mm": 4170,
+   "bucket_capacity_m3": 0.24,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 120.0,
+   "hydraulic_tank_l": 60.0
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://used.hitachicm.co.uk/wp-content/uploads/2023/05/ZX65USB-6-Product-Brochure.pdf",
+  "notes": "Hitachi UK-hosted official product brochure ZX65USB-6. Operating weight 6140-6290 kg (min shown); dig range/arm force for the shorter arm (31.1 kN; longer arm 27.0 kN), column order inferred. Bucket cap = max 0.24 m3 (0.22-0.24). Implement relief 24.5 MPa. Travel 4.8/2.9 km/h. Cooled EGR + muffler filter per brochure. Nearest Hitachi to the 5.8-5.95 t class (ZX55U-6 not checked). Hydraulic system refill 108 L."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX135US-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14300,
+  "engine": {
+   "make": "Toyota Industries Corporation",
+   "model": "1KDE",
+   "displacement_l": 2.982,
+   "cylinders": 4,
+   "power_kw_net": 73,
+   "power_kw_gross": 74,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC + CSF"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + gear pilot pump",
+   "pump_flow_lpm": "2x117 (pilot 33.6)",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 104,
+   "arm_dig_force_kn": 69,
+   "swing_speed_rpm": 13.3,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5490,
+   "max_reach_mm": 8380,
+   "max_dump_height_mm": 6830,
+   "bucket_capacity_m3": 0.52,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 200,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://hitachicm.com.au/wp-content/uploads/2022/01/KS-EN474AU-ZX135-7US-Product-Brochure-WEB.pdf",
+  "notes": "Hitachi Australia brochure of the Stage V ZX135US-7 (EU Stage V stated). Monoblock boom, 2.52 m arm, 500 mm triple grouser: 14300 kg (blade version 15400 kg; range 14100-16300 kg). Forces at power boost (ISO): bucket 104 kN, arm 69 kN (3.01 m arm: 61 kN). Implement relief 34.3 MPa, power boost 36.3 MPa. Travel high 5.5/low 3.3. Dig range 2.52 m arm. Bucket cap = std 0.52 m3 ISO 7451 (range 0.19-0.66). Short tail swing. Not an EU-hosted PDF."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX350LC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G",
+   "ZE375G"
+  ],
+  "weight_kg": 35400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 202,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC + CSF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps + 1 gear pilot pump",
+   "pump_flow_lpm": "2x288 + 1x260 (pilot 36.8)",
+   "pump_flow_total_lpm": 836,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 246,
+   "arm_dig_force_kn": 185,
+   "swing_speed_rpm": 9.7,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7380,
+   "max_reach_mm": 11100,
+   "max_dump_height_mm": 7240,
+   "bucket_capacity_m3": 1.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 630,
+   "hydraulic_tank_l": 198
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/content/dam/hitachicm/eu/de/docs/172aefd75a8fc3eb4dd76eebd57fe6e1-Hitachi_ZX250-300-350-7_Bagger_KS-DE461EU.pdf",
+  "notes": "Official Hitachi EU brochure (German) ZX250/300/350LC-7. ZX350LC-7 monoblock boom, 3.20 m arm, 600 mm triple grouser, 1.40 m3 bucket (ISO heaped): 35400 kg (range 35200-37500 kg). Forces ISO (power boost): bucket 246 kN, arm 185 kN (2.67 m arm: 222 kN). Implement relief 34.3 MPa, power boost 38.0 MPa. Pump total = sum of listed 2x288+260. Travel 5.0/3.2 km/h. Dig range monoblock 3.20 m arm. Cooled EGR. AdBlue tank 70 L. 35.4 t sits between ZE335G and ZE375G."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZW220-7",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 18190,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 152,
+   "power_kw_gross": 157,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement axial piston pump (also steering pump) + fixed gear fan pump",
+   "pump_flow_lpm": "275 (fan pump 65.8)",
+   "pump_flow_total_lpm": 275,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 36.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2800,
+   "bucket_capacity_m3": 3.3,
+   "breakout_force_kn": 156,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13490
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/content/dam/hitachicm/eu/fr/docs/Hitachi_ZW220-7_wheel-loader_KL-FR166EU-1.pdf",
+  "notes": "Official Hitachi EU brochure (French). General-purpose bucket 3.3 m3 ISO heaped, tyres 23.5R25 L3: operating weight 18190 kg (range 18190-19450 kg), static tipping load at full 37 deg turn 13490 kg, breakout 156 kN, dump clearance at 45 deg 2800 mm. Max power 157 kW gross ISO 14396 / 152 kW net ISO 9249 at 1900 rpm (rated power at 2200 rpm: 149/144 kW). Pump 275 L/min at 27.4 MPa. Max speed 5th gear 36.3 km/h. Fuel/hydraulic capacities unreadable in text (null). EGR not stated. ZWL55GE is electric; compared against a conventional loader of similar weight."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZW310-7",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 24390,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": 8.9,
+   "cylinders": 6,
+   "power_kw_net": 204,
+   "power_kw_gross": 213,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (also steering pump) + gear fan pump",
+   "pump_flow_lpm": "300 (fan pump 85)",
+   "pump_flow_total_lpm": 300,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 36.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3090,
+   "bucket_capacity_m3": 4.3,
+   "breakout_force_kn": 189,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16040
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/content/dam/hitachicm/eu/de/docs/ZW310-7_spec.pdf",
+  "notes": "Official Hitachi EU technical data (marked 'Preliminary specifications - subject to change'). General-purpose round-bottom bucket 4.3 m3 heaped ISO 7546, tyres 26.5R25 L3: operating weight 24390 kg, static tipping load ISO 14397-1 full 37 deg turn 16040 kg (straight 18830 kg), breakout 189 kN, dump clearance 45 deg 3090 mm. Power at rated 2000 rpm: 213 kW gross ISO 14396 / 204 kW net ISO 9249 (max power 233 kW ECE R120 gross / 226 kW net at 1700 rpm). Pump 300 L/min at 31.4 MPa. 4th gear 36 km/h. Fuel/hydraulic capacities unreadable in text (null). EGR not stated. ZWL75GE is electric; compared against a conventional loader of similar weight."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX26U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2720,
+  "engine": {
+   "make": null,
+   "model": "3TNV76",
+   "displacement_l": 1.115,
+   "cylinders": 3,
+   "power_kw_net": 14.5,
+   "power_kw_gross": 15.6,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + gear pilot pump",
+   "pump_flow_lpm": "2x30.0 (pilot 6.8)",
+   "pump_flow_total_lpm": 60.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 22.3,
+   "arm_dig_force_kn": 14.5,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 47,
+   "max_dig_depth_mm": 2730,
+   "max_reach_mm": 4710,
+   "max_dump_height_mm": 3030,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 31.3,
+   "hydraulic_tank_l": 24.1
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://used.hitachicm.co.uk/wp-content/uploads/2023/05/ZX26U-6-Product-Brochure.pdf",
+  "notes": "Hitachi UK-hosted official product brochure ZX26U-6. Cab version 2720 kg (canopy 2570 kg), rubber shoes 300 mm, 1.30 m arm. Forces ISO 6015. Bucket cap = max of 0.07-0.08 m3 ISO heaped. Implement relief 24.5 MPa. Travel 4.5/2.9 km/h. Dump height cab version. Net ISO 9249, gross ISO 14396 at 2500 rpm. EGR/aftertreatment not stated. Hydraulic system refill 39 L."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX75US-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8340,
+  "engine": {
+   "make": null,
+   "model": "4TNV98CT",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 49.8,
+   "power_kw_gross": 50.4,
+   "rpm": 2000,
+   "emission_stage": "EPA Final Tier 4 / EU Stage V",
+   "egr": true,
+   "aftertreatment": "Muffler filter (diesel particulate filter)"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps + gear pilot pump",
+   "pump_flow_lpm": "2x72 + 1x56 (pilot 20.0)",
+   "pump_flow_total_lpm": 200,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 57.5,
+   "arm_dig_force_kn": 40.2,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 4150,
+   "max_reach_mm": 6380,
+   "max_dump_height_mm": 5080,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 125.0,
+   "hydraulic_tank_l": 52.0
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://hitachicm.com.au/wp-content/uploads/2024/03/KS-EN541_ZX75US-7-Product-Brochure-JAN-2026-WEB.pdf",
+  "notes": "Hitachi Australia brochure (not EU-hosted; no EU/UK ZX75US-7 PDF found). 1.62 m arm, 450 mm grouser shoes, 0.28 m3 bucket ISO 7451: 8340 kg (range 8340-8880 kg). Forces at power boost ISO 6015 (arm 1.62 m: 40.2 kN; 2.12 m: 34.5 kN). Implement relief 28.0 MPa. Short tail swing. Brochure states EPA Final Tier 4 / EU Stage V with DPF, EGR and common rail. Closest Hitachi to the 7.5 t class."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX690LCH-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 70000,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6WG1",
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": 347,
+   "power_kw_gross": 348,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC + CSF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps (+ pilot pump 50 L/min)",
+   "pump_flow_lpm": "2x489",
+   "pump_flow_total_lpm": 978,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 369,
+   "arm_dig_force_kn": 306,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7120,
+   "max_reach_mm": 11800,
+   "max_dump_height_mm": 7330,
+   "bucket_capacity_m3": 4.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 900.0,
+   "hydraulic_tank_l": 380.0
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://hitachicm.com.au/wp-content/uploads/2022/11/ZX690LCH-7-Product-Brochure-WEB.pdf",
+  "notes": "Hitachi Australia brochure (Stage V stated; not EU-hosted). Boom 6.8 m BE, arm 2.9 m BE, 4.0 m3 rock bucket, 650 mm double grouser: 70000 kg (range 69400-71400 kg). Forces ISO 6015 at power boost. Implement relief 31.9 MPa; travel/power boost 34.3 MPa (343 bar used). Travel high 5 km/h (low 3.4). Bucket cap 4.0 m3 (range 2.9-4.0). ZX890LC-7 (84.6-87.5 t) is heavier than ZE750G (76.5 t); ZX690LCH-7 is the lighter neighbour."
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX10U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1210,
+  "engine": {
+   "make": null,
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": null,
+   "power_kw_net": 9.5,
+   "power_kw_gross": 9.9,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 gear pumps",
+   "pump_flow_lpm": "2 x 10.6 L/min",
+   "pump_flow_total_lpm": 21.2,
+   "system_pressure_bar": 177,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 11.7,
+   "arm_dig_force_kn": 5.9,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 4,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 1780,
+   "max_reach_mm": 3220,
+   "max_dump_height_mm": 2220,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 16,
+   "hydraulic_tank_l": 12
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx10u-6/",
+  "notes": "Fixed-single data from brochure (dig forces first config); no pump-pressure limit other than main circuit relief 17.7 MPa. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX17U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1780,
+  "engine": {
+   "make": null,
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": 10.6,
+   "power_kw_gross": 11.5,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + 1 gear pump",
+   "pump_flow_lpm": "2 x 19.2 L/min",
+   "pump_flow_total_lpm": 38.4,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.0,
+   "arm_dig_force_kn": 8.6,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 47,
+   "max_dig_depth_mm": 2190,
+   "max_reach_mm": 3810,
+   "max_dump_height_mm": 2510,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 14
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx17u-6%20zx19u-6/",
+  "notes": "Brochure covers ZX17U-6 and ZX19U-6; ZX17U figures with 0.93 m arm, canopy; 230 mm rubber shoes. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX19U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1900,
+  "engine": {
+   "make": null,
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": 10.6,
+   "power_kw_gross": 11.5,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + 1 gear pump",
+   "pump_flow_lpm": "2 x 19.2 L/min",
+   "pump_flow_total_lpm": 38.4,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 47,
+   "max_dig_depth_mm": 2390,
+   "max_reach_mm": 3990,
+   "max_dump_height_mm": 2610,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 14
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx17u-6%20zx19u-6/",
+  "notes": "Same brochure as ZX17U-6; ZX19U-6 dig envelope from its working-range table; arm force not extracted. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX38U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3620,
+  "engine": {
+   "make": null,
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 18,
+   "power_kw_gross": 18.8,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps + 1 gear pump",
+   "pump_flow_lpm": "2 x 38.4 (variable) + 1 x 22.8 (gear)",
+   "pump_flow_total_lpm": 76.8,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 27.1,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42,
+   "hydraulic_tank_l": 32
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx38u-6/",
+  "notes": "Web spec table weight range 3 620-4 250 kg (canopy/cab, min used); two arm options so reach/depth null. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX48U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4850,
+  "engine": {
+   "make": null,
+   "model": "4TNV88C",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": 27.1,
+   "power_kw_gross": 29.1,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement axial piston pump",
+   "pump_flow_lpm": "1 x 120 L/min",
+   "pump_flow_total_lpm": 120,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32.1,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70,
+   "hydraulic_tank_l": 42
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx48u-6/",
+  "notes": "Brochure/web: 4 850-5 180 kg cab (min used); two arm options so reach/depth null. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX55U-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5140,
+  "engine": {
+   "make": null,
+   "model": "4TNV88C",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": 27.1,
+   "power_kw_gross": 29.1,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement axial piston pump",
+   "pump_flow_lpm": "1 x 120 L/min",
+   "pump_flow_total_lpm": 120,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70,
+   "hydraulic_tank_l": 42
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx55u-6/",
+  "notes": "Web 5 140-5 480 kg (min used); two arm options so reach/depth null. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX95US-7",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8320,
+  "engine": {
+   "make": null,
+   "model": "4TNV98CT",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 49.8,
+   "power_kw_gross": 50.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Muffler filter"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 72 L/min, 1 x 56 L/min",
+   "pump_flow_total_lpm": 200,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 57.5,
+   "arm_dig_force_kn": 34.5,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 125,
+   "hydraulic_tank_l": 52
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx95us-usb-7/",
+  "notes": "Mono boom 8 320-9 370 kg (min); brochure also lists ZX95US-7 SLF; 2-piece boom variants heavier; reach/depth ranges by arm (1.62/2.12 m) so null; arm force 34.5 (short arm) / 40.2 (long arm) -> short arm. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX95USB-7",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8760,
+  "engine": {
+   "make": null,
+   "model": "4TNV98CT",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 49.8,
+   "power_kw_gross": 50.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Muffler filter"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 72 L/min, 1 x 56 L/min",
+   "pump_flow_total_lpm": 200,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 57.5,
+   "arm_dig_force_kn": 34.5,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 125,
+   "hydraulic_tank_l": 52
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/mini-excavators/product.zx95us-usb-7/",
+  "notes": "ZX95USB-7 (blade) mono boom 8 760-9 810 kg (min); reach/depth ranges by arm so null. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX130-7B",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 13700,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 74.9,
+   "power_kw_gross": 78.5,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 117 L/min",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 104,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 13.3,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 285,
+   "hydraulic_tank_l": 69
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx130-7b/",
+  "notes": "Brochure covers ZX130-7B/ZX130LCN-7B/ZX135US-7B; weight range 13 700-16 100 kg (min); reach/depth ranges by boom/arm so null; fuel 285 L, hydraulic tank 69 L for ZX130-7B. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX135US-7B",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14300,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 74,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 117 L/min",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 104,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 13.3,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 220,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx135us-7b/",
+  "notes": "Ultra-short-swing; web gross 74 kW ISO 14396; fuel 220 L, hyd tank 60 L from shared brochure; swing speed 13.3 rpm is quoted once in shared brochure. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX160-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17700,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 98.6,
+   "power_kw_gross": 101.3,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 190 L/min",
+   "pump_flow_total_lpm": 380,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 112,
+   "arm_dig_force_kn": 91,
+   "swing_speed_rpm": 13.3,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5980,
+   "max_reach_mm": 8870,
+   "max_dump_height_mm": 6170,
+   "bucket_capacity_m3": 0.63,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 285,
+   "hydraulic_tank_l": 125
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx160-7/",
+  "notes": "Brochure ZX160LC-7 data (swing 13.3 rpm); weights 17 700-19 800 kg by shoe/boom (min); bucket 0.63 m3 from weight footnote; web also lists ZX160LC-7. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX180-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 18900,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 98.6,
+   "power_kw_gross": 101.3,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 190 L/min",
+   "pump_flow_total_lpm": 380,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 127,
+   "arm_dig_force_kn": 95,
+   "swing_speed_rpm": 14.1,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6570,
+   "max_reach_mm": 9430,
+   "max_dump_height_mm": 6570,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 285,
+   "hydraulic_tank_l": 125
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx180-7/",
+  "notes": "ZX180LC-7/ZX180LCN-7 share the ZX160/180 brochure; swing speed 14.1 rpm; weight 18 900-20 500 kg (min). Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX220LC-GI",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 21200,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": 6.494,
+   "cylinders": 6,
+   "power_kw_net": 125,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 125
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 13.3,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 135
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx220lc-gi/",
+  "notes": "Older ZAXIS-GI series still on the EU range page; brochure says complies with EU Stage II (not Stage V); engine 6.494 L 6-cyl, 125 kW rated; weight 21 200-21 400 kg (min); bucket 0.90-1.00 m3 range. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX225US-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24800,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4HK1",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 128.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 212 L/min",
+   "pump_flow_total_lpm": 424,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 158,
+   "arm_dig_force_kn": 140,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 380,
+   "hydraulic_tank_l": 130
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx225us-7/",
+  "notes": "Ultra-short-swing; brochure shared with ZX210-7; fuel 380 L / hyd tank 130 L (USLC); weight 24 800-29 100 kg incl. variants (min); swing/travel speed not separated per model so null. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX225USR-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24800,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4HK1",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 128.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 212 L/min",
+   "pump_flow_total_lpm": 424,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 158,
+   "arm_dig_force_kn": 140,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 380,
+   "hydraulic_tank_l": 130
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx225usr-7/",
+  "notes": "Ultra-short-swing rear (USR); brochure shared with ZX210-7; fuel 380 L / hyd tank 130 L; weight 24 800-25 800 kg (min); web also lists ZX225USRLC-7. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX250LC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4HK1X",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": 132,
+   "power_kw_gross": 140,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 224 L/min 1 x 194 L/min",
+   "pump_flow_total_lpm": 642,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 188,
+   "arm_dig_force_kn": 131,
+   "swing_speed_rpm": 10.7,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 510,
+   "hydraulic_tank_l": 156
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx250lc-7%20zx250lcn-7/",
+  "notes": "Brochure ZX250/300/350-7; ZX250LC data (Isuzu 4HK1X, 3 pumps 2x224+1x194); weight 26 400-28 300 kg (min); web also lists ZX250-7 and ZX250LCN-7. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX300LC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 30400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 186,
+   "power_kw_gross": 197,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+CSF+SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 236 L/min 1 x 210 L/min",
+   "pump_flow_total_lpm": 682,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 202,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.3,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 510,
+   "hydraulic_tank_l": 163
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx300lc-7%20zx300lcn-7/",
+  "notes": "Isuzu 6HK1X 7.79 L; 3 pumps 2x236+1x210; weight 30 400-32 200 kg (min); web also lists ZX300-7 and ZX300LCN-7. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX350-7G",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 31900,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 200
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 246,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.7,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 630,
+   "hydraulic_tank_l": 180
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx350-7g/",
+  "notes": "7G series (web page) ; engine rated power quoted without standard (200 kW); weight 31 900-34 100 kg (min) for ZX350/LC/H/LCH-7G; brochure KS-EN524P swing/travel/fuel/hyd tank first values. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX375USLC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 35600,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 186,
+   "power_kw_gross": 197,
+   "rpm": 1900,
+   "emission_stage": "Stage V (stated as stage-V compliant engine)",
+   "egr": true,
+   "aftertreatment": "DOC + CSF + SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "3 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 236 + 1 x 211",
+   "pump_flow_total_lpm": 683,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 202,
+   "arm_dig_force_kn": 144,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6920,
+   "max_reach_mm": 10900,
+   "max_dump_height_mm": 8380,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx375us-7/",
+  "notes": "Data sheet ZX375USLC-7 (monoblock boom, 3.11 m arm, 600 mm triple grouser): 3 pumps 2x236 + 1x211 L/min; forces at power boost; Isuzu 6HK1X; bucket range 1.00-1.62 m3. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX490-7G",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 46500,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 296
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 675,
+   "hydraulic_tank_l": 290
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.zx490-7g/",
+  "notes": "7G series; rated power 296 kW (no standard stated); weight 46 500-49 700 kg (min) over variants; forces quoted 285/295 kN for two configs. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX490LCH-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 50400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6WG1",
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": 295,
+   "power_kw_gross": 296,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC, CSF and SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 385 L/min",
+   "pump_flow_total_lpm": 770,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 675,
+   "hydraulic_tank_l": 310
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.zx490lch-7/",
+  "notes": "Brochure ZX490/530-7; Stage V Isuzu 6WG1; weight 50 400-52 200 kg (min). Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX530LCH-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 53200,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6WG1",
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": 295,
+   "power_kw_gross": 296,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC, CSF and SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 385 L/min",
+   "pump_flow_total_lpm": 770,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 675,
+   "hydraulic_tank_l": 310
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.zx530lch-7/",
+  "notes": "Brochure ZX490/530-7; Stage V Isuzu 6WG1; travel 4.3 km/h high; weight 53 200-54 400 kg (min). Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX690-7G",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 67800,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 345
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 920,
+   "hydraulic_tank_l": 380
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.zx690-7g/",
+  "notes": "7G series; rated power 345 kW (no standard stated); weight 67 800-69 900 kg (min). Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX890-7G",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 81700,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 377
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.4,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 500
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.zx890-7g/",
+  "notes": "7G series; rated power 377 kW (no standard stated); weight 81 700-85 300 kg (min). Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX890LCH-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 85100,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6WG1",
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": 380,
+   "power_kw_gross": 382,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC, CSF and SCR system"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 556 L/min",
+   "pump_flow_total_lpm": 1112,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.8,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1110,
+   "hydraulic_tank_l": 500
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.zx890lch-7%20zx890lcr-7/",
+  "notes": "Brochure ZX690/890-7; Stage V Isuzu 6WG1; 2 pumps 2x556; weight 85 100-87 500 kg (min); also sold as ZX890LCR-7; this is the largest Hitachi ZX excavator in the EU range. Hitachi EU product page spec table + brochure (see notes); values from the standard/first configuration, ranges nulled; forces ISO 6015 at power boost where applicable"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "EX1200-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 118000,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSK23-C (FCO, T4F / EU Stage V)",
+   "displacement_l": 23.2,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 567,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "3 variable-displacement, swash plate type axial piston pumps",
+   "pump_flow_lpm": "3 x 520",
+   "pump_flow_total_lpm": 1560,
+   "system_pressure_bar": 319,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 5.2,
+   "travel_speed_kmh": 3.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 5.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1700,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/large-excavators/product.ex1200-7/",
+  "notes": "Hitachi EU brochure KS-EN408R (loading-shovel config 118 000 kg / backhoe config 120 000 kg listed; 118 000 used); bucket 5.2 m3 ISO 7451 backhoe (loading shovel 6.5 m3 heaped 2:1); mining-class machine; Cummins QSK23-C 567 kW gross ISO 14396 at 1800 rpm; pressure setting 31.9 MPa. Larger mining excavators EX2000-7..EX8000-7 (200-800 t) exist but were not added"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZX135-7EB",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14600,
+  "engine": {
+   "make": null,
+   "model": "Electric main motor (nominal 74 kW at 2000 rpm)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 74,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 117",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 13.3,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 67
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/excavators/medium-excavators/product.zx135-7eb/",
+  "notes": "Electric 13 t excavator (data sheet January 2026): 660 V Li-ion battery 198 kWh, zero exhaust emissions, runtime 7-8 h, DC charge 1 h; operating weight 14 600-16 900 kg (min); bucket 0.19-0.66 m3 (range); relief 34.3 MPa implement, 36.3 MPa boost"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZW140",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 10240,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSB4.5",
+   "displacement_l": 4.46,
+   "cylinders": 4,
+   "power_kw_net": 96,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "EPA Tier 3 / EU Stage IIIA (per brochure text)",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "HST (hydrostatic) drive",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 92,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 7990
+  },
+  "capacities": {
+   "fuel_l": 180,
+   "hydraulic_tank_l": 80
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/wheel-loaders/product.zw140/",
+  "notes": "Older HST wheel loader still on the EU range page; brochure KL_EN014: Cummins QSB4.5 96 kW net (without fan) at 2000 rpm; weight 10 240-10 540 kg (min); bucket 1.5-2.3 m3 range so null; breakout 92 kN and tipping load straight 7 990 kg (min of range) from web page"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZW160-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 12910,
+  "engine": {
+   "make": "Cummins",
+   "model": "B4.5",
+   "displacement_l": 4.46,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 123,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Gear type",
+   "pump_flow_lpm": 194,
+   "pump_flow_total_lpm": 194,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 105,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 10610
+  },
+  "capacities": {
+   "fuel_l": 205,
+   "hydraulic_tank_l": 80
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/wheel-loaders/product.zw160-7/",
+  "notes": "Standard arm figures (high-lift arm: 13 080 kg, 103 kN, 9 780 kg); gross 123 kW ISO 14396 (165 hp) at 2200 rpm; bucket range 2.0-3.6 m3 so null; DEF tank 18 L. Brochure net figure inconsistent so null"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZW180-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14950,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 125,
+   "power_kw_gross": 129,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement axial plunger pump",
+   "pump_flow_lpm": 224,
+   "pump_flow_total_lpm": 224,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 128,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 12570
+  },
+  "capacities": {
+   "fuel_l": 230,
+   "hydraulic_tank_l": 100
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/wheel-loaders/product.zw180-7/",
+  "notes": "Standard arm, ROPS/FOPS cab, 20.5R25 tires: 14 950 kg; net 125 kW ISO 9249 / gross 129 kW ISO 14396; fan pump separate (54.8 L/min, 18.2 MPa); bucket range 2.5-5.2 m3 so null; also ZW180PL-7 variant in brochure"
+ },
+ {
+  "brand": "Hitachi",
+  "model": "ZW250-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 20400,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 168,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement axial plunger pump",
+   "pump_flow_lpm": 275,
+   "pump_flow_total_lpm": 275,
+   "system_pressure_bar": 294,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.4,
+   "breakout_force_kn": 170,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16450
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hitachicm.com/eu/en/machinery/wheel-loaders/product.zw250-7/",
+  "notes": "Brochure KL-EN199EU first column: general purpose 3.4 m3 heaped bucket, weld-on teeth, standard arm, 23.5R25 tires; gross 168 kW ISO 14396 at 2200 rpm (brochure net figure 183 kW is higher than gross and was not used); web weight 20 400-20 830 kg (min)"
+ }
+]

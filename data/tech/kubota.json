@@ -1,0 +1,1171 @@
+[
+ {
+  "brand": "Kubota",
+  "model": "U17-3α",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1650,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902-E4",
+   "displacement_l": 0.898,
+   "cylinders": 3,
+   "power_kw_net": 11.3,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pump (P1,P2) + gear pump (P3)",
+   "pump_flow_lpm": "2x17.3 (P1,P2) + 10.4 (P3)",
+   "pump_flow_total_lpm": 44.6,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": 27.7
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": 8.5,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": "2.2 / 4.1",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 19,
+   "hydraulic_tank_l": 13
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2015/03/Kubota-U17-3α-Luxe-EN-1.pdf",
+  "notes": "Operating weight 1650 kg (first column of two versions; 1650/1700, version not named in extracted text; machine weight 1575/1625). Engine power is ISO9249 net. Arm dig force 8.5 kN for one arm length (second arm 7.3 kN); bucket force not in text. Pressure 21.6 MPa; travel speed low/high km/h. Emission stage/EGR not stated in brochure."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX019-4",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20G"
+  ],
+  "weight_kg": 1855,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902-E4",
+   "displacement_l": 0.898,
+   "cylinders": 3,
+   "power_kw_net": 11.6,
+   "power_kw_gross": 11.8,
+   "rpm": 2300,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pump (P1,P2) + gear pump (P3)",
+   "pump_flow_lpm": "17.3 (P1,P2 as published) + 10.4 (P3)",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": 27.7
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.9,
+   "arm_dig_force_kn": 7.8,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": "2.2 / 4.0",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.041,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 21,
+   "hydraulic_tank_l": 28
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2015/03/Kubota-KX019-4-EN_2026.pdf",
+  "notes": "Operating weight with cabin 1855 kg (canopy 1755). Gross = ISO14396 11.8 kW, net = ISO9249 11.6 kW. Bucket SAE/CECE 0.041/0.035 m3. Hydraulic tank 28 L (full). Pump flow listed as a single 17.3 L/min figure for P1,P2. Emission stage/EGR not stated."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U27-4",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2665,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105-E4-BH-2",
+   "displacement_l": 1.123,
+   "cylinders": 3,
+   "power_kw_net": 14.9,
+   "power_kw_gross": 15.4,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pump (P1,P2) + gear pump (P3)",
+   "pump_flow_lpm": "2x28.8 (P1,P2) + 19.2 (P3)",
+   "pump_flow_total_lpm": 76.8,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": 48
+  },
+  "performance": {
+   "bucket_dig_force_kn": 21.0,
+   "arm_dig_force_kn": 12.3,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": "2.5 / 4.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.062,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 33,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/06/Kubota-U27-4-Luxe-EN_2025.pdf",
+  "notes": "Operating weight with cabin 2665 kg (canopy 2565). Dig forces as printed (daN) for arm 1300 mm. Gross ISO14396, net ISO9249. Stage/EGR not stated in brochure."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U36-4",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3900,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703-M-DI-E4",
+   "displacement_l": 1.647,
+   "cylinders": 3,
+   "power_kw_net": 17.8,
+   "power_kw_gross": 18.2,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pump (P1,P2) + gear pump (P3)",
+   "pump_flow_lpm": "81.4 (P1,P2 as published)",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 61.6
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.0,
+   "arm_dig_force_kn": 17.1,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": "3.0 / 4.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.11,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 45.1,
+   "hydraulic_tank_l": 35.7
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2017/11/Kubota-U36-4-EN_2025.pdf",
+  "notes": "Operating weight with cabin 3900 kg (canopy 3730). Gross ISO14396, net ISO9249. Hydraulic tank 35.7 L (total 61). Bucket SAE/CECE 0.11/0.096. Stage/EGR not stated."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U55-4",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU"
+  ],
+  "weight_kg": 5400,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-DI",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": 33.8,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pump (P1,P2) + gear pump (P3)",
+   "pump_flow_lpm": "2x56.1 (P1,P2) + 37.0 (P3)",
+   "pump_flow_total_lpm": 149.2,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 42.3,
+   "arm_dig_force_kn": 27.2,
+   "swing_speed_rpm": 9.3,
+   "travel_speed_kmh": "2.8 / 4.9",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.16,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 68,
+   "hydraulic_tank_l": 45
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2015/03/Kubota-U55-4-EN.pdf",
+  "notes": "Operating weight with cabin and 120 kg bucket 5400 kg. Net ISO9249 46.0 PS. Bucket SAE/CECE 0.16/0.13. Stage/EGR not stated."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX060-5",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE60G"
+  ],
+  "weight_kg": 5635,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-E5",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 35.0,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (common rail injection)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pump (P1,P2) + gear pump (P3)",
+   "pump_flow_lpm": "2x56.1 (P1,P2) + 37 (P3)",
+   "pump_flow_total_lpm": 149.2,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": 75
+  },
+  "performance": {
+   "bucket_dig_force_kn": 42.3,
+   "arm_dig_force_kn": 24.5,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": "2.8 / 4.8",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.14,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 73,
+   "hydraulic_tank_l": 41.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2020/03/Kubota-U50-5_U56-5_KX060-5_FR.pdf",
+  "notes": "Operating weight 5635 kg (cabin, standard bucket, 75 kg operator; brochure in French). Power is ISO14396 gross; net not given. EGR not stated. Bucket SAE/CECE 0.14 m3. Aux2 37 L/min."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX080-4α2",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8425,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-TE5-BH-1",
+   "displacement_l": 3.331,
+   "cylinders": 4,
+   "power_kw_net": 46.5,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF muffler (CRS common rail)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement pumps (load sensing)",
+   "pump_flow_lpm": "2x84.6",
+   "pump_flow_total_lpm": 169.2,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": 100
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": 38.1,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": "2.7 / 4.8",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.25,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 115,
+   "hydraulic_tank_l": 75
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2016/11/Kubota-KX080-4alpha2-EN.pdf",
+  "notes": "Standard boom version, operating weight 8425 kg (machine weight 8350; 2-piece boom version 9065). Net ISO9249 63.2 PS/46.5 kW. Bucket dig force printed only for the 2-piece boom variant (65.2 kN) so left null. EGR not stated. Aux1 100 L/min."
+ },
+ {
+  "brand": "Kubota",
+  "model": "SVL75-3",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT090V",
+   "ZT120V"
+  ],
+  "weight_kg": 4346,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-T-EW09M",
+   "displacement_l": 3.331,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 54.6,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 220,
+   "aux_flow_lpm": "72.7 standard / 112.8 high flow"
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "9 / 13.7",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.44,
+   "breakout_force_kn": 26.6,
+   "rated_operating_capacity_kg": 1661,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/06/Kubota-SVL75-3_EN.pdf",
+  "notes": "Operating weight 4346 kg incl. 75 kg operator. Power ISO14396 gross 74.2 PS. ROC 1661 kg at 50% tipping load (1163 kg at 35%). Bucket breakout 2710 kgf (converted 26.6 kN); lift arm breakout 2113 kgf. Aux pressure 22.0 MPa. Bucket 0.44/0.48 m3. Tipping load not stated directly (ROC 35%/50% given). Closest Kubota CTL to both ZT090V and ZT120V."
+ },
+ {
+  "brand": "Kubota",
+  "model": "K008-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1050,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722-E4-BH-4",
+   "displacement_l": 0.719,
+   "cylinders": 3,
+   "power_kw_net": 7.5,
+   "power_kw_gross": 7.6,
+   "rpm": 2050,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Gear pumps (P1,P2)",
+   "pump_flow_lpm": "2x10.5",
+   "pump_flow_total_lpm": 21,
+   "system_pressure_bar": 162,
+   "aux_flow_lpm": 21
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.8,
+   "arm_dig_force_kn": 4.5,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": "2",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.018,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 12,
+   "hydraulic_tank_l": 13.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2021/05/Kubota-K008-5_U10-5-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Canopy micro excavator. Gear pumps P1+P2 10.5+10.5 L/min @16.2 MPa; aux 21 L/min. Bucket 0.018 CECE (0.022 SAE)."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U10-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1200,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722-E4-BH-5",
+   "displacement_l": 0.719,
+   "cylinders": 3,
+   "power_kw_net": 7.5,
+   "power_kw_gross": 7.6,
+   "rpm": 2050,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Gear pumps (P1,P2,P3)",
+   "pump_flow_lpm": "2x10.5 + 3.1",
+   "pump_flow_total_lpm": 24.1,
+   "system_pressure_bar": 172,
+   "aux_flow_lpm": 21
+  },
+  "performance": {
+   "bucket_dig_force_kn": 10.4,
+   "arm_dig_force_kn": 5.4,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": "2 / 4",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.02,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 12,
+   "hydraulic_tank_l": 12.6
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2021/05/Kubota-K008-5_U10-5-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Canopy micro excavator. Gear pumps P1+P2 10.5+10.5 L/min @17.2 MPa, P3 3.1 L/min @3.9 MPa; aux 21 L/min. Bucket 0.020 CECE (0.024 SAE)."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX016-4",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1615,
+  "engine": {
+   "make": "Kubota",
+   "model": "D782-E3-BH",
+   "displacement_l": 0.778,
+   "cylinders": 3,
+   "power_kw_net": 9.6,
+   "power_kw_gross": 9.8,
+   "rpm": 2300,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + gear (P3)",
+   "pump_flow_lpm": "2x16.6 + 10.4",
+   "pump_flow_total_lpm": 43.6,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": 27.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 12.7,
+   "arm_dig_force_kn": 7.3,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": "2.1 / 3.8",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.03,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 21.0,
+   "hydraulic_tank_l": 28
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2015/03/Kubota-KX016-4-EN_2026.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Operating weight 1615 kg cabin / 1565 canopy. Bucket 0.03 CECE (0.035 SAE). Pump P1,P2 variable 16.6x2 L/min @20.6 MPa, P3 gear 10.4 @20.1 MPa; aux 27.0 L/min @20.6 MPa."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U17-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1780,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902-E4-BH-6EU",
+   "displacement_l": 0.898,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": 11.8,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + gear (P3)",
+   "pump_flow_lpm": "2x17.3 + 10.4",
+   "pump_flow_total_lpm": 45,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": 27.7
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14.7,
+   "arm_dig_force_kn": 8.4,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": "2.3 / 4.4",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.035,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 13
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/03/Kubota-U17_U18-5-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Shared brochure U17-5/U18-5 (). Canopy ROPS. Engine output ISO 14396 only (net not given). Pump P1,P2 variable 17.3x2 L/min @21.6 MPa, P3 10.4 L/min @18.6 MPa; aux 27.7 L/min. Bucket 0.035 CECE."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U18-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1835,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902-E4-BH-6EU",
+   "displacement_l": 0.898,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": 11.8,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + gear (P3)",
+   "pump_flow_lpm": "2x17.3 + 10.4",
+   "pump_flow_total_lpm": 45,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": 27.7
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14.7,
+   "arm_dig_force_kn": 7.7,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": "2.3 / 4.4",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.035,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 13
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/03/Kubota-U17_U18-5-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Shared brochure U17-5/U18-5 (). Canopy ROPS. Engine output ISO 14396 only (net not given). Pump P1,P2 variable 17.3x2 L/min @21.6 MPa, P3 10.4 L/min @18.6 MPa; aux 27.7 L/min. Bucket 0.035 CECE."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX027-4",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2665,
+  "engine": {
+   "make": "Kubota",
+   "model": "V1505-E4",
+   "displacement_l": 1.498,
+   "cylinders": 4,
+   "power_kw_net": 17.5,
+   "power_kw_gross": 17.9,
+   "rpm": 2250,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + gear (P3)",
+   "pump_flow_lpm": "2x29.3 + 18.0",
+   "pump_flow_total_lpm": 76.6,
+   "system_pressure_bar": 225,
+   "aux_flow_lpm": 47.3
+  },
+  "performance": {
+   "bucket_dig_force_kn": 22.1,
+   "arm_dig_force_kn": 12.9,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": "2.7 / 4.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 48,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2017/03/Kubota-KX027-4-EN-3.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Operating weight 2665 kg cabin / 2595 canopy. 1300 mm arm. P1,P2 variable 29.3x2 @22.5 MPa; P3 gear 18.0 @17.2 MPa; aux max 47.3 L/min."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX030-4",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2865,
+  "engine": {
+   "make": "Kubota",
+   "model": "V1505-E4",
+   "displacement_l": 1.498,
+   "cylinders": 4,
+   "power_kw_net": 17.7,
+   "power_kw_gross": 18.1,
+   "rpm": 2250,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + gear (P3)",
+   "pump_flow_lpm": "2x31.5 + 18.0",
+   "pump_flow_total_lpm": 81,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 49.5
+  },
+  "performance": {
+   "bucket_dig_force_kn": 25.4,
+   "arm_dig_force_kn": 16.2,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": "2.9 / 4.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 48,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2017/10/Kubota-KX030-4-EN.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Operating weight 2865 kg cabin / 2795 canopy. 1300 mm arm. P1,P2 variable 31.5x2; P3 gear 18.0 @19.6 MPa; aux max 49.5 L/min @23.5 MPa. P1/P2 pressure not legible in extract."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX037-4",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3720,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703-M-DI-E4",
+   "displacement_l": 1.647,
+   "cylinders": 3,
+   "power_kw_net": 17.8,
+   "power_kw_gross": 18.2,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + gear (P3)",
+   "pump_flow_lpm": "81.4 (P1,P2) + 20.9 (P3)",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 61.6
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.0,
+   "arm_dig_force_kn": 17.1,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": "3.0 / 4.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.096,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 45.1,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2019/02/Kubota-KX037-4-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Operating weight 3720 kg cabin / 3560 canopy. 1525 mm arm. Brochure gives P1,P2 flow as single value 81.4 L/min @24.5 MPa (taken as printed), P3 gear 20.9 @19.6 MPa; aux max 61.6 L/min @20.6 MPa. Bucket 0.096 CECE (0.11 SAE)."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX042-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4270,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1803-CR-TE5-BH5/BH6",
+   "displacement_l": 1.826,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": 29.7,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF muffler (common rail)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2)",
+   "pump_flow_lpm": "110.0",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": "65.0 (AUX1) / 37.0 (AUX2)"
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.5,
+   "arm_dig_force_kn": 17.8,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.7 / 5.0",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 66,
+   "hydraulic_tank_l": 37
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/12/Kubota-KX042-5-EN.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Cabin version. Engine D1803-CR-TE5-BH5 (Type S & M) / BH6 (Type L), common rail + DPF muffler. P1,P2 variable flow 110.0 L/min printed as single value @24.5 MPa; aux1 65.0 / aux2 37.0 L/min @20.6 MPa. Bucket 0.10 CECE (0.12 SAE). Power ISO 14396 only (net not given)."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U50-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4965,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1803-CR-T-E5",
+   "displacement_l": 1.826,
+   "cylinders": 3,
+   "power_kw_net": 29.0,
+   "power_kw_gross": 29.7,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF muffler (common rail)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2), load sensing",
+   "pump_flow_lpm": "118.8",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 65
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32.8,
+   "arm_dig_force_kn": 22.6,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": "2.8 / 4.8",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.13,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 66,
+   "hydraulic_tank_l": 40
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/02/Kubota-U50-5_U56-5_KX060-5-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Shared brochure U50-5/U56-5/KX060-5, 1450 mm arm. D1803-CR-T-E5 with DPF. P1,P2 variable flow 118.8 L/min printed as single value @24.5 MPa; aux 65 L/min @20.6 MPa. Bucket 0.13 CECE."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U56-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5595,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-E5",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": 34.5,
+   "power_kw_gross": 35.0,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF muffler (common rail)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement (P1,P2) + P3, load sensing",
+   "pump_flow_lpm": "2x56.1 + 37",
+   "pump_flow_total_lpm": 149.2,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": 75
+  },
+  "performance": {
+   "bucket_dig_force_kn": 42.3,
+   "arm_dig_force_kn": 26.4,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": "2.8 / 4.8",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.14,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 66,
+   "hydraulic_tank_l": 41.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2025/02/Kubota-U50-5_U56-5_KX060-5-EN_2025.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. Shared brochure U50-5/U56-5/KX060-5, 1635 mm arm. V2607-CR-E5 with DPF. P1,P2 variable 56.1x2 @27.4 MPa, P3 37 @19.1 MPa; aux 75 L/min @20.6 MPa. Bucket 0.14 CECE."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX085-5",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8467,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-TE5-BH-1",
+   "displacement_l": 3.331,
+   "cylinders": 4,
+   "power_kw_net": 46.5,
+   "power_kw_gross": 49.0,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF muffler (common rail)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement pumps (load sensing)",
+   "pump_flow_lpm": "2x84.6",
+   "pump_flow_total_lpm": 169.2,
+   "system_pressure_bar": 274,
+   "aux_flow_lpm": 100
+  },
+  "performance": {
+   "bucket_dig_force_kn": 65.2,
+   "arm_dig_force_kn": 38.1,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": "2.7 / 4.8",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.21,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 115,
+   "hydraulic_tank_l": 75
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2023/05/Kubota-KX085-5-EN.pdf",
+  "notes": "Figures from official Kubota EU brochure. Operating weight incl. 75 kg operator, standard bucket, rubber tracks. Power: ISO 14396 = gross, ISO 9249 = net. EGR not stated. Max dig depth/reach/dump height are only in dimension drawings (not extracted) -> null. Pressure converted from MPa. MONO-boom version 8467 kg (2-piece boom 9172 kg). Successor of KX080-4a2 (kept as separate entry). V3307 with CRS + DPF muffler. Aux 100 and 55.8 L/min @20.6 MPa. Bucket 0.21 CECE. Dig force 38.1 arm / 65.2 bucket (printed for MONO and 2PB)."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U145",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14715,
+  "engine": {
+   "make": "Isuzu",
+   "model": "VD-4JJ1X",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 78.5,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement pumps",
+   "pump_flow_lpm": "2x129",
+   "pump_flow_total_lpm": 258,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": "126 / 60.5"
+  },
+  "performance": {
+   "bucket_dig_force_kn": 90,
+   "arm_dig_force_kn": 62,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.4 / 5.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5510,
+   "max_reach_mm": 9340,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 200,
+   "hydraulic_tank_l": 75
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/wp-content/uploads/sites/4/2026/07/Kubota-U145-EN.pdf",
+  "notes": "Largest Kubota crawler excavator in the EU range (only one above ~8.5 t). Brochure operating weight 14715 kg mono boom with dozer blade (14575 without dozer; 2-piece boom 15696). Dig depth 5510 and reach 9340 mm (mono boom) from product page https://ke.kubota-eu.com/constructionmachinery/products/u145/ (page states power 78.5 kW at 2000 rpm in table, 76.4 kW in engine section; brochure ISO 14396 78.5 kW taken as gross). Isuzu VD-4JJ1X. Aux 126 L/min and 60.5 L/min; brochure lists system pressure 34.3 MPa for P1,P2 and aux1. Bucket 0.5 m3 SAE. Aftertreatment, EGR not stated. Cab ROPS cab/FOPS level 2 with air conditioner."
+ },
+ {
+  "brand": "Kubota",
+  "model": "KX019-4e",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1943,
+  "engine": {
+   "make": "Kubota (electric)",
+   "model": "Electric motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 12,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emissions at point of use",
+   "egr": false,
+   "aftertreatment": "None (battery electric)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "17.3",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": 27.7
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.9,
+   "arm_dig_force_kn": 7.8,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": "2.2 / 4.0",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/products/kx019-4e/",
+  "notes": "ELECTRIC. Operating weight 1943 kg cabin / 1843 canopy (brochure PDF fetched via product page). 48 V / 420 Ah, 18 kWh battery; 12 kW electric motor; 2x3 kW chargers. Hydraulic flow 17.3 L/min printed (P1/P2 per-pump presumed, not stated); aux 27.7 L/min @21.6 MPa; system 20.6 MPa. Arm 1190 mm. Bucket force 15.9 kN, arm 7.8 kN."
+ },
+ {
+  "brand": "Kubota",
+  "model": "U27-4e",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2528,
+  "engine": {
+   "make": "Kubota (electric)",
+   "model": "Electric motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 12,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emissions at point of use",
+   "egr": false,
+   "aftertreatment": "None (battery electric)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://ke.kubota-eu.com/constructionmachinery/products/u27-4e/",
+  "notes": "ELECTRIC. Only partial data legible: machine weight 2528 kg (canopy), 48 V / 420 Ah 20 kWh battery, 12 kW motor, 2x3 kW chargers. Operating weight and hydraulics not extracted -> null (weight_kg holds MACHINE weight 2528 kg canopy, not operating weight)."
+ }
+]

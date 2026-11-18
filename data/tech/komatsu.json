@@ -1,0 +1,2444 @@
+[
+ {
+  "brand": "Komatsu",
+  "model": "PC138US-11",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14080,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA4D95LE-7",
+   "displacement_l": 3.26,
+   "cylinders": 4,
+   "power_kw_net": 72.5,
+   "power_kw_gross": 72.6,
+   "rpm": 2050,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement piston pump (HydrauMind closed-centre load-sensing)",
+   "pump_flow_lpm": "242",
+   "pump_flow_total_lpm": 242,
+   "system_pressure_bar": 348,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 93.2,
+   "arm_dig_force_kn": 61.8,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5480,
+   "max_reach_mm": 8300,
+   "max_dump_height_mm": 6840,
+   "bucket_capacity_m3": 0.72,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 200,
+   "hydraulic_tank_l": 69
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC138US-11&langID=en",
+  "notes": "Mono boom, 2.5 m arm, 500 mm triple grouser: 14080 kg (two-piece boom 15180-15800 kg). Implement relief 355 kg/cm2 (=348 bar). Bucket/arm force ISO 9316/6178 daN converted to kN. Travel 2.9/5.1 km/h Lo/Hi. Power net ISO 9249, gross ISO 14396 at 2050 rpm. Bucket cap = max 0.72 m3 per brochure. Short tail swing 14t class; nearest to ZE135G/ZE145GU (no 14-16t conventional-tail model checked). AdBlue tank 21.1 L."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC16R-3",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G"
+  ],
+  "weight_kg": 1740,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D67E-2A",
+   "displacement_l": 0.778,
+   "cylinders": 3,
+   "power_kw_net": 11.2,
+   "power_kw_gross": 11.6,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement pump (CLSS)",
+   "pump_flow_lpm": "40.8",
+   "pump_flow_total_lpm": 40.8,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 11.3,
+   "arm_dig_force_kn": 8.8,
+   "swing_speed_rpm": 8.9,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 19,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC16R-3&langID=en",
+  "notes": "Operating weight 1740 kg with rubber shoes, standard bucket, variable undercarriage (steel shoes 1810 kg). Bucket force 1150 kg and arm force (965 mm arm) 900 daN converted to kN (arm 1215 mm: 715 daN). Travel 2.2-4.2 km/h. Net ISO 9249, gross ISO 14396. Digging depth/reach only in drawing: null. Canopy ROPS standard."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC20E-6",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20GE"
+  ],
+  "weight_kg": 2185,
+  "engine": {
+   "make": "Komatsu",
+   "model": "Permanent magnet electric motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 11.8,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emissions (electric)",
+   "egr": false,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement pump + 1 gear pump (CLSS)",
+   "pump_flow_lpm": "36",
+   "pump_flow_total_lpm": 36,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.9,
+   "arm_dig_force_kn": 6.3,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC20E-6&langID=en",
+  "notes": "Electric: 76.8 V Li-ion LFP battery 23.2 kWh, 11.8 kW motor rated (power value in power_kw_net field is rated motor power, not ISO 9249). Operating weight 2185 kg with cab, rubber shoes. Hydraulic system refill 23.8 L (tank not separately stated). Bucket/arm force ISO 6015. Travel 2.2/4.2 km/h."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC18MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G"
+  ],
+  "weight_kg": 1900,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D67E-2",
+   "displacement_l": 0.778,
+   "cylinders": 3,
+   "power_kw_net": 11.4,
+   "power_kw_gross": 11.8,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement pump + 1 gear pump (CLSS)",
+   "pump_flow_lpm": "41.2 + 12.7",
+   "pump_flow_total_lpm": 53.9,
+   "system_pressure_bar": 234,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.9,
+   "arm_dig_force_kn": 9.9,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 19,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC18MR-5&langID=en",
+  "notes": "Operating weight 1900 kg rubber shoes with canopy (steel 1990 kg). Bucket force ISO 6015 1620 kgf, arm force 1010 mm arm 1010 kgf (1215 mm: 7.85 kN) converted to kN. Travel 2.2/4.1 km/h. Total pump flow = sum of 41.2 + 12.7. Hydraulic oil system refill 23.8 L (tank not separate). Aftertreatment/EGR not stated. Reduced-tail-swing; 1.8-2.0 t class equivalent."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC26MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2850,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D76E-6",
+   "displacement_l": 1.115,
+   "cylinders": 3,
+   "power_kw_net": 15.4,
+   "power_kw_gross": 15.8,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement pump + 2 gear pumps (CLSS)",
+   "pump_flow_lpm": "51.0 + 16.0 + 11.3",
+   "pump_flow_total_lpm": 78.3,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 22.0,
+   "arm_dig_force_kn": 14.0,
+   "swing_speed_rpm": 8.9,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 28,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC24MR-5&langID=en",
+  "notes": "PC26MR-5 values from the combined PC24/26MR-5 brochure (the same PDF is returned for ids PC24MR-5 and PC26MR-5). Operating weight 2850 kg rubber shoes with cab (steel 2930 kg; canopy -150 kg). Arm force 1115 mm arm (1370 mm: 12.1 kN). Travel 2.4/4.0 km/h. Total flow = sum of pumps. Hydraulic system refill 30 L (not tank). Cab version."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC38MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3820,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D88E-7",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 17.4,
+   "power_kw_gross": 18.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement pumps + gear pumps (CLSS)",
+   "pump_flow_lpm": "35.7x2 + 18.7 + 9.9",
+   "pump_flow_total_lpm": 100,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 29.9,
+   "arm_dig_force_kn": 20.6,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 41,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC38MR-5&langID=en",
+  "notes": "From combined PC33/38MR-5 brochure. PC38MR-5: 3820 kg rubber shoes with cab (steel 3920 kg; canopy -150 kg). Arm force 1370 mm arm (1720 mm: 16.4 kN). Swing 9.0 rpm (6.6 with optional A/C). Travel 2.6/4.6 km/h. Total flow = 2x35.7 + 18.7 + 9.9. Hydraulic system refill 39 L."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC58MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 5620,
+  "engine": {
+   "make": "Komatsu",
+   "model": "4D88E-7",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": 28.3,
+   "power_kw_gross": 29.1,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement pumps + gear pumps (CLSS)",
+   "pump_flow_lpm": "53.5x2 + 33.8 + 12",
+   "pump_flow_total_lpm": 152.8,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 39.0,
+   "arm_dig_force_kn": 23.9,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 65,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC58MR-5&langID=en",
+  "notes": "Operating weight 5620 kg rubber shoes with cab (steel 5700 kg). Bucket force 3900 daN, arm force 1640 mm arm 2392 daN (2000 mm: 22.3 kN) converted to kN. Travel 2.6/4.6 km/h. Total flow = sum of pumps. Hydraulic system refill 55 L. PC55MR-5 (5280 kg) also exists; PC58MR-5 chosen for 5.8-5.95 t class."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC78US-11",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 7910,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA3D95E-1",
+   "displacement_l": 3.26,
+   "cylinders": 3,
+   "power_kw_net": 50.6,
+   "power_kw_gross": 50.7,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF (diesel oxidation catalyst + soot filter)"
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement axial piston pump + 1 fixed gear pump",
+   "pump_flow_lpm": "168 + 63",
+   "pump_flow_total_lpm": 231,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 61.3,
+   "arm_dig_force_kn": 34.5,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 4660,
+   "max_reach_mm": 6920,
+   "max_dump_height_mm": 5550,
+   "bucket_capacity_m3": 0.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 125,
+   "hydraulic_tank_l": 56
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC78US-11&langID=en",
+  "notes": "Short tail swing, with blade; weight 7910 kg with 450 mm shoes, 2.25 m arm, 0.20 m3 bucket (8080 kg with 600 mm). Implement relief 26.5 MPa (270 kgf/cm2). Forces ISO 6015 (SAE J1179: 53.3/33.1 kN); 2.25 m arm. Bucket cap = largest listed (ISO 7451). Pump flows: variable pump 168 L/min + gear pump 63 L/min (sum 231). Net ISO 9249, gross ISO 14396. SCR/AdBlue not stated in brochure text."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC210LC-11",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 22450,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 123,
+   "power_kw_gross": 123,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (HydrauMind closed-centre load sensing)",
+   "pump_flow_lpm": "475 (max total)",
+   "pump_flow_total_lpm": 475,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 138.3,
+   "arm_dig_force_kn": 101.0,
+   "swing_speed_rpm": 12.4,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6620,
+   "max_reach_mm": 9875,
+   "max_dump_height_mm": 7110,
+   "bucket_capacity_m3": 1.69,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 132
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC210LC-11&langID=en",
+  "notes": "PC210LC-11 mono boom, 2.9 m arm, 650 kg bucket, 600 mm triple grouser: 22450 kg (the weight table headers are lost in text; second column is LC). Forces: standard 14100/10300 kgf (bucket/arm, 2.9 m arm) = 138.3/101.0 kN; PowerMax 149.1/107.9 kN. Implement relief 380 kg/cm2 (=373 bar). Travel Lo/Mi/Hi 3.0/4.1/5.5 km/h. Dig range 2.9 m arm. Bucket cap = max 1.69 m3 (family max per brochure cover). Net and gross both 123 kW (ISO 9249/14396). AdBlue tank 23.1 L."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC360LC-11",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G",
+   "ZE375G"
+  ],
+  "weight_kg": 35900,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D114E-6",
+   "displacement_l": 8.85,
+   "cylinders": 6,
+   "power_kw_net": 192,
+   "power_kw_gross": 202,
+   "rpm": 1950,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (HydrauMind closed-centre load sensing)",
+   "pump_flow_lpm": "2x267.5",
+   "pump_flow_total_lpm": 535,
+   "system_pressure_bar": 382,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 211.8,
+   "arm_dig_force_kn": 159.8,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7380,
+   "max_reach_mm": 11100,
+   "max_dump_height_mm": 7110,
+   "bucket_capacity_m3": 2.66,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 605,
+   "hydraulic_tank_l": 188
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC360LC-11&langID=en",
+  "notes": "PC360LC-11, 3.2 m arm, 1700 kg bucket, 600 mm triple grouser: 35900 kg. Forces ISO 21600/16300 kgf = 211.8/159.8 kN (PowerMax 227.5/170.6 kN). Implement relief 390 kg/cm2 (=382 bar). Travel Lo/Mi/Hi 3.2/4.5/5.5. Dig range 3.2 m arm (mono boom). Bucket cap = max 2.66 m3. AdBlue tank 39 L. 35.9 t sits between ZE335G (33.5 t) and ZE375G (37.5 t)."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC700LC-11",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 67500,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D140E-7",
+   "displacement_l": 15.24,
+   "cylinders": 6,
+   "power_kw_net": 325,
+   "power_kw_gross": 327,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (electronic open-centre load sensing, E-OLSS)",
+   "pump_flow_lpm": "2x410",
+   "pump_flow_total_lpm": 820,
+   "system_pressure_bar": 324,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 311.8,
+   "arm_dig_force_kn": 279.5,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6910,
+   "max_reach_mm": 11585,
+   "max_dump_height_mm": 7360,
+   "bucket_capacity_m3": 5.58,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 880,
+   "hydraulic_tank_l": 360
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC700LC-11&langID=en",
+  "notes": "Mono boom 6.6 m, arm 2.9 m, 3425 kg bucket, 610 mm double grouser: 67500 kg (range 66110-69540 kg). Forces ISO 31800/28500 kgf = 311.8/279.5 kN (PowerMax 36900/29900 kgf = 361.9/293.2 kN). Implement relief 330 kg/cm2 (=324 bar). Travel Lo/Hi 2.8/4.6. Bucket cap = max 5.58 m3. AdBlue 62.2 L. Largest current Stage V Komatsu crawler found; PC800-8 (78.8-84.7 t, Dash 8 series) is closer in weight but older generation."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "SK820-8",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 2958,
+  "engine": {
+   "make": "Komatsu",
+   "model": "S4D86E-7MFD",
+   "displacement_l": 2.09,
+   "cylinders": 4,
+   "power_kw_net": 36.0,
+   "power_kw_gross": 37.9,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (integrated)"
+  },
+  "hydraulics": {
+   "pump_type": "Gear pump (CLSS) with 2 variable displacement travel pumps",
+   "pump_flow_lpm": "62 (Super Flow option: 100)",
+   "pump_flow_total_lpm": 62,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": 62
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 16,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.4,
+   "breakout_force_kn": 14.5,
+   "rated_operating_capacity_kg": 950,
+   "tipping_load_kg": 1900
+  },
+  "capacities": {
+   "fuel_l": 67,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=SK820-8&langID=en",
+  "notes": "Operating weight 2958 kg with open cab, operator 75 kg, without bucket (+182 kg standard 1730 mm bucket). Operating capacity 950 kg (1030 kg with add. counterweight), tipping load 1900 kg, standard bucket 0.40 m3 ISO 7546, breakout ISO 14397 1450 daN. Aux flow 62 L/min (100 L/min Super Flow option). Net ISO 9249/gross ISO 14396. Largest wheeled SSL in Komatsu EU range with vertical lift; SK715-8 (2675 kg) and SK815-8 (2780 kg) are smaller. Nearest to ZS090V (3.0 t); no 1.3 t Komatsu SSL."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "SK40-8",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 4050,
+  "engine": {
+   "make": "Komatsu",
+   "model": "S4D98E-6N1FE",
+   "displacement_l": 3.32,
+   "cylinders": 4,
+   "power_kw_net": 52.3,
+   "power_kw_gross": 53.7,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (no SCR)"
+  },
+  "hydraulics": {
+   "pump_type": "Axial piston pump (CLSS) with 2 variable displacement travel pumps",
+   "pump_flow_lpm": "80 (Super Flow: 140)",
+   "pump_flow_total_lpm": 80,
+   "system_pressure_bar": 270,
+   "aux_flow_lpm": 80
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 16,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.42,
+   "breakout_force_kn": 37.8,
+   "rated_operating_capacity_kg": 1685,
+   "tipping_load_kg": 3370
+  },
+  "capacities": {
+   "fuel_l": 84,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=SK40-8&langID=en",
+  "notes": "Operating weight 4050 kg with cab and A/C, without bucket (+200 kg standard 2030 mm bucket = 4250 kg on brochure cover). Standard bucket 0.42 m3, operating capacity 1685 kg, tipping load 3370 kg, breakout ISO 14397 3777 daN (deep-profile bucket 0.47 m3: 3443 daN, tipping 2950 kg). Hydraulic system refill 60 L. Net ISO 9249/gross ISO 14396. Aux flow max (Super Flow) 140 L/min. Closest Komatsu EU skid steer to ZS120V (3.75 t)."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "CK50-8",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT090V",
+   "ZT120V"
+  ],
+  "weight_kg": 5070,
+  "engine": {
+   "make": "Komatsu",
+   "model": "S4D98E-6N1FE",
+   "displacement_l": 3.32,
+   "cylinders": 4,
+   "power_kw_net": 52.3,
+   "power_kw_gross": 53.7,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (no SCR)"
+  },
+  "hydraulics": {
+   "pump_type": "Axial piston pump (CLSS) + 2 variable displacement HST pumps",
+   "pump_flow_lpm": "80 (Super Flow: 140)",
+   "pump_flow_total_lpm": 80,
+   "system_pressure_bar": 270,
+   "aux_flow_lpm": 80
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.45,
+   "breakout_force_kn": 37.8,
+   "rated_operating_capacity_kg": 1630,
+   "tipping_load_kg": 4650
+  },
+  "capacities": {
+   "fuel_l": 84,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=CK50-8&langID=en",
+  "notes": "Operating weight 5070 kg with cab, A/C, rear LED lights, without bucket (+221 kg standard 2030 mm bucket); rubber tracks 450 mm. Standard bucket 0.45 m3: operating capacity 1630 kg (1730 kg with add. counterweight), tipping load 4650 kg, breakout ISO 14397 3777 daN, drawbar pull 4910 daN. Hydraulic system refill 60 L. Only CTL in Komatsu EU range, heavier than ZT090V (3.5 t)/ZT120V (4.35 t); nearest match."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA380-8",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 18155,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 142,
+   "power_kw_gross": 143,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "SCR (AdBlue); KDPF not confirmed"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "205 (steering pump 137)",
+   "pump_flow_total_lpm": 205,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2790,
+   "bucket_capacity_m3": 3.2,
+   "breakout_force_kn": 164,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13110
+  },
+  "capacities": {
+   "fuel_l": 300,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA380-8&langID=en",
+  "notes": "Bucket 3.2 m3 heaped ISO 7546 with teeth, tyres 23.5 R25: operating weight 18155 kg (range 18155-19765 kg), static tipping load straight 15015 kg / articulated 13110 kg (tipping_load_kg = articulated), breakout 164 kN, dumping height at 45 deg 2790 mm. Hydraulic working pressure 320 kg/cm2 (=314 bar). Max travel 40 km/h (4th, lock-up). Hydraulic system refill 142 L. Net ISO 9249/gross ISO 14396. ZWL55GE is electric; compared against conventional loader of similar weight."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA475-11",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 25595,
+  "engine": {
+   "make": "Komatsu",
+   "model": "DBA127",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 257,
+   "rpm": 1600,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "306 (steering pump 145)",
+   "pump_flow_total_lpm": 306,
+   "system_pressure_bar": 353,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2755,
+   "bucket_capacity_m3": 4.5,
+   "breakout_force_kn": 200,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 17485
+  },
+  "capacities": {
+   "fuel_l": 360,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA475-11&langID=en",
+  "notes": "Bucket 4.5 m3 heaped ISO 7546 with teeth, tyres 26.5 R25, additional counterweight: operating weight 25595 kg (range 24740-26430 kg), static tipping load straight 20240 kg / articulated 17485 kg (tipping_load_kg = articulated), breakout 200 kN, dumping height 2755 mm. Only ISO 14396 power published (257 kW); net not stated. Hydraulic working pressure 360 kg/cm2 (=353 bar). Speed 0-38 km/h (K-HMT). Hydraulic system refill 132 L. WA470-8 (24.2-25.7 t) is the previous generation. ZWL75GE is electric; compared against a conventional loader of similar weight."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC09-1",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 980,
+  "engine": {
+   "make": "Komatsu",
+   "model": "2D70E-5SBA",
+   "displacement_l": 0.57,
+   "cylinders": null,
+   "power_kw_net": 6.5,
+   "power_kw_gross": 6.8,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 gear pumps",
+   "pump_flow_lpm": "11+11",
+   "pump_flow_total_lpm": 22,
+   "system_pressure_bar": 165,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 10.5,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 3.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 10.3,
+   "hydraulic_tank_l": 8.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC09-1&langID=en",
+  "notes": "Operating weight with rubber shoes 980 kg (fully serviced, standard bucket, +75 kg operator; canopy +40 kg). Max breakout force 1050 daN used as bucket_dig_force. Pumps 2x gear 11+11 l/min, 165 bar. Net ISO 9249 / gross ISO 14396 at 2200 rpm. Working range figures not extractable from brochure text -> null. Cylinders not stated."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC17R-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1835,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D67E-2",
+   "displacement_l": 0.778,
+   "cylinders": 3,
+   "power_kw_net": 11.4,
+   "power_kw_gross": 11.8,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement + 1 gear pump (CLSS)",
+   "pump_flow_lpm": "36",
+   "pump_flow_total_lpm": 36,
+   "system_pressure_bar": 185,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.7,
+   "arm_dig_force_kn": 6.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2050,
+   "max_reach_mm": 3630,
+   "max_dump_height_mm": 2450,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC17R-5&langID=en",
+  "notes": "Combined PC17R-5/PC20R-5 brochure. Weight 1835 kg per komatsu.eu range page (brochure operating-weight table not read). Bucket force 990 kgf, arm crowd 630 kgf (880 mm arm). Working range = standard-arm column (long arm: depth 2300, reach 3890). Pump 1 variable + 1 gear, max flow 36 l/min (as published). Travel 2.2-4.2 km/h. Net ISO 9249 / gross ISO 14396."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC20R-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2040,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D67E-2",
+   "displacement_l": 0.778,
+   "cylinders": 3,
+   "power_kw_net": 11.4,
+   "power_kw_gross": 11.8,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement + 1 gear pump (CLSS)",
+   "pump_flow_lpm": "36",
+   "pump_flow_total_lpm": 36,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 11.1,
+   "arm_dig_force_kn": 8.7,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2120,
+   "max_reach_mm": 3830,
+   "max_dump_height_mm": 2560,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC20R-5&langID=en",
+  "notes": "Combined PC17R-5/PC20R-5 brochure. Weight 2040 kg per komatsu.eu range page (brochure table not read). Bucket force 1130 kgf, arm crowd 890 kgf (1215 mm arm). Working range = PC20R standard-arm column (long arm: depth 2370, reach 4100). Pump 1 variable + 1 gear, max flow 36 l/min. Travel 2.2-4.2 km/h."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC24MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2540,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D76E-6",
+   "displacement_l": 1.115,
+   "cylinders": 3,
+   "power_kw_net": 15.4,
+   "power_kw_gross": 15.8,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement + 2 gear pumps (CLSS)",
+   "pump_flow_lpm": "51.0+16.0+11.3",
+   "pump_flow_total_lpm": 78.3,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 18.8,
+   "arm_dig_force_kn": 13.6,
+   "swing_speed_rpm": 8.9,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2315,
+   "max_reach_mm": 4150,
+   "max_dump_height_mm": 2685,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 28,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC24MR-5&langID=en",
+  "notes": "Combined PC24MR-5/PC26MR-5 brochure. 2540 kg rubber shoes with cab (steel 2670; canopy -150). Arm force 970 mm arm (1320 mm: 11.3 kN). Working range = first (PC24MR standard arm) column. Pumps 1 variable (51.0) + 2 gear (16.0 + 11.3) l/min. Travel 2.8/4.6 km/h. Hydraulic system refill 30 l."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC26E-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2790,
+  "engine": {
+   "make": null,
+   "model": "Electric motor (permanent magnet), 15.4 kW rated",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 15.4
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement + 2 gear pumps (CLSS)",
+   "pump_flow_lpm": "53.3+16.0+11.3",
+   "pump_flow_total_lpm": 80.6,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 22,
+   "arm_dig_force_kn": 12.1,
+   "swing_speed_rpm": 8.9,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2380,
+   "max_reach_mm": 4410,
+   "max_dump_height_mm": 2880,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC26E-6&langID=en",
+  "notes": "Battery-electric (zero emission): Komatsu LFP battery 23.2 kWh, 76.8 V; electric motor 15.4 kW rated; no combustion engine. 2790 kg with cab (canopy 2690), rubber shoes. Pumps 1 variable (53.3) + 2 gear (16.0 + 11.3) l/min. Bucket 22 kN, arm 12.1 kN. Working range = first column. Hydraulic system refill 35 l. Travel 2.5/4.0 km/h."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC33MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3520,
+  "engine": {
+   "make": "Komatsu",
+   "model": "3D88E-7",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 17.4,
+   "power_kw_gross": 18.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement + gear pumps (CLSS)",
+   "pump_flow_lpm": "35.7x2+18.7+9.9",
+   "pump_flow_total_lpm": 100,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 29.4,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2760,
+   "max_reach_mm": 5050,
+   "max_dump_height_mm": 3350,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC33MR-5&langID=en",
+  "notes": "Combined PC33MR-5/PC38MR-5 brochure (PC38MR-5 already in file). 3520 kg rubber shoes with cabin. Bucket 2942 daN (3000 kgf). Working range = first (PC33MR standard arm) column. Swing 9.0 rpm (6.6 with A/C). Travel 2.6/4.6 km/h. Arm force not captured -> null."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC33E-6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3640,
+  "engine": {
+   "make": null,
+   "model": "Electric motor (permanent magnet)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement + gear pumps (CLSS)",
+   "pump_flow_lpm": "35.7x2+18.7+9.9",
+   "pump_flow_total_lpm": 100,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 29.4,
+   "arm_dig_force_kn": 14.9,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3130,
+   "max_reach_mm": 5390,
+   "max_dump_height_mm": 3580,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC33E-6&langID=en",
+  "notes": "Battery-electric: Komatsu battery 35 kWh (302 Ah); electric motor, air-cooled; 3640 kg with canopy. Bucket 2942 daN, arm 1491 daN. Hydraulic system refill 34 l. Motor rated power not captured. Zero emission."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC50MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5020,
+  "engine": {
+   "make": "Komatsu",
+   "model": "4D88E-7",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": 28.3,
+   "power_kw_gross": 29.1,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement + gear pumps (CLSS)",
+   "pump_flow_lpm": "53.5x2+33.8+12",
+   "pump_flow_total_lpm": 152.8,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 33.9,
+   "arm_dig_force_kn": 21.6,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3300,
+   "max_reach_mm": 5735,
+   "max_dump_height_mm": 3775,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 65,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC50MR-5&langID=en",
+  "notes": "Combined PC50MR-5/PC55MR-5 brochure. 5020 kg rubber shoes with cabin. Bucket 3390 daN, arm 2160 daN (1375 mm arm; 1770 mm: 20.1 kN). Working range = first column (PC50MR std arm). Pumps 53.5x2 + 33.8 + 12 l/min. Travel 2.6/4.6. Fuel 65 l."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC55MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5280,
+  "engine": {
+   "make": "Komatsu",
+   "model": "4D88E-7",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": 28.3,
+   "power_kw_gross": 29.1,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement + gear pumps (CLSS)",
+   "pump_flow_lpm": "53.5x2+33.8+12",
+   "pump_flow_total_lpm": 152.8,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 39.0,
+   "arm_dig_force_kn": 23.9,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3770,
+   "max_reach_mm": 6220,
+   "max_dump_height_mm": 4200,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 65,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC55MR-5&langID=en",
+  "notes": "Combined PC50MR-5/PC55MR-5 brochure. 5280 kg rubber shoes with cabin. Bucket 3900 daN, arm 2392 daN (1640 mm arm). Working range = PC55MR standard-arm column. Pumps 53.5x2 + 33.8 + 12 l/min. Travel 2.6/4.6. Fuel 65 l."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC80MR-5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8000,
+  "engine": {
+   "make": "Komatsu",
+   "model": "4D98E-5SFB",
+   "displacement_l": 3.319,
+   "cylinders": 4,
+   "power_kw_net": 44.2,
+   "power_kw_gross": 46.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "variable axial piston pumps (CLSS)",
+   "pump_flow_lpm": "178 (swing/blade) + 72",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 58.6,
+   "arm_dig_force_kn": 39.1,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3975,
+   "max_reach_mm": 6775,
+   "max_dump_height_mm": 4390,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 110,
+   "hydraulic_tank_l": 65
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC80MR-5&langID=en",
+  "notes": "Midi crawler, rubber shoes 8000 kg (steel 8090), 1650 mm arm, 0.2 m3 bucket, with blade. Bucket 5855 daN, arm 3913 daN. Working range = first column (mono boom). Hydraulics: variable axial pump 178 l/min for swing/blade, 72 l/min additional pump; brochure states '26.5 MPa (270 bar)'; 265 bar used. Fuel 110 l, hydraulic tank 65 l. Swing 10.0 rpm."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC88MR-11",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8500,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA3D95E-1",
+   "displacement_l": 2.445,
+   "cylinders": 3,
+   "power_kw_net": 50.6,
+   "power_kw_gross": 50.7,
+   "rpm": 1850,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pumps (HydrauMind closed-centre) + gear pump",
+   "pump_flow_lpm": "160 + 70",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": 41.5,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4160,
+   "max_reach_mm": 6935,
+   "max_dump_height_mm": 4515,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 125,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC88MR-11&langID=en",
+  "notes": "Midi crawler (listed on komatsu.eu as 8.75 t max). 8500 kg rubber shoes 450 mm, mono boom, 1650 mm arm, 0.28 m3 bucket. Arm crowd 41.5 kN; bucket force not captured. Working range = first column. Pumps 160 + 70 l/min (+ gear pump for swing/blade). Swing 10 rpm, travel 2.7/5.0. Fuel 125 l. Relief 26.5 MPa (270 kg/cm2) = 265 bar."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC170LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 18520,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA4D107E-5",
+   "displacement_l": 4.46,
+   "cylinders": 4,
+   "power_kw_net": 90,
+   "power_kw_gross": 90,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "1 variable displacement piston pump (HydrauMind closed-centre)",
+   "pump_flow_lpm": "298",
+   "pump_flow_total_lpm": 298,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 112.8,
+   "arm_dig_force_kn": 80.4,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5960,
+   "max_reach_mm": 8960,
+   "max_dump_height_mm": 6370,
+   "bucket_capacity_m3": 0.94,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 300,
+   "hydraulic_tank_l": 121
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC170LC-11&langID=en",
+  "notes": "Mono boom, 600 mm triple grouser: 18520 kg (500 mm: 18300; two-piece boom 19250). Figures for 2.6 m arm (2.25/2.9 m: depth 5610/6250). Bucket 11500 kgf (PowerMax 12500), arm 8200 kgf (2.6 m). Relief 380 kg/cm2 = 373 bar. Max bucket 0.94 m3 (1.2 t/m3). Net=gross 90 kW."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC220LC-12",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24000,
+  "engine": {
+   "make": "Komatsu",
+   "model": "Komatsu Next Generation engine",
+   "displacement_l": 4.46,
+   "cylinders": 4,
+   "power_kw_net": 129,
+   "power_kw_gross": 129,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement piston pump (HydrauMind closed-centre)",
+   "pump_flow_lpm": "504",
+   "pump_flow_total_lpm": 504,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 171,
+   "arm_dig_force_kn": 127,
+   "swing_speed_rpm": 12.4,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6070,
+   "max_reach_mm": 9375,
+   "max_dump_height_mm": 6770,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC220LC-12&langID=en",
+  "notes": "Mono boom PC220LC-12, 600 mm triple grouser: 24000 kg. Figures for 2.4 m arm (2.925 m: bucket 146 kN, arm 106 kN, depth 6620). Bucket 171 kN (183 kN PowerMax), arm 127 kN (136). Relief 37.3 MPa. Brochure does not name engine model; displacement 4.46 l, 4 cyl. Aftertreatment not captured."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC230NHD-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23515,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 123,
+   "power_kw_gross": 123,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (HydrauMind closed-centre)",
+   "pump_flow_lpm": "475",
+   "pump_flow_total_lpm": 475,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 161.8,
+   "arm_dig_force_kn": 119.6,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5955,
+   "max_reach_mm": 9355,
+   "max_dump_height_mm": 6895,
+   "bucket_capacity_m3": 1.45,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 325,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC230NHD-11&langID=en",
+  "notes": "550 mm triple grouser, mono boom, 2.4 m arm: 23515 kg (two-piece boom 24315). Bucket 16500 kgf (17500 PowerMax), arm 12200 kgf (2.4 m). Travel Lo/Mi/Hi 3.0/4.1/5.5. Bucket 1.45 m3 per komatsu.eu range page. Wide-gauge (NHD) high-drive undercarriage."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC230NHD-12",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26100,
+  "engine": {
+   "make": "Komatsu",
+   "model": "Komatsu Next Generation engine",
+   "displacement_l": 4.46,
+   "cylinders": 4,
+   "power_kw_net": 129,
+   "power_kw_gross": 129,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement piston pump (HydrauMind closed-centre)",
+   "pump_flow_lpm": "504",
+   "pump_flow_total_lpm": 504,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 171.0,
+   "arm_dig_force_kn": 127.0,
+   "swing_speed_rpm": 12.3,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5940,
+   "max_reach_mm": 9350,
+   "max_dump_height_mm": 6880,
+   "bucket_capacity_m3": 1.76,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 270,
+   "hydraulic_tank_l": 120.3
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC230NHD-12&langID=en",
+  "notes": "Operating weight 26100 kg and bucket 1.76 m3 per komatsu.eu range page (brochure weight rows not read). Figures mono boom, first arm column. Bucket 17437 kgf (18660 PowerMax), arm 12950 kgf. Relief pressure not captured -> null."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC240LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25300,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 132,
+   "power_kw_gross": 141,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR (AdBlue)"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (HydrauMind closed-centre)",
+   "pump_flow_lpm": "2x237.5",
+   "pump_flow_total_lpm": 475,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 184.4,
+   "arm_dig_force_kn": 150.0,
+   "swing_speed_rpm": 11.7,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5825,
+   "max_reach_mm": 9270,
+   "max_dump_height_mm": 6715,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 132
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC240LC-11&langID=en",
+  "notes": "Mono boom, 600 mm triple grouser, LC: 25300 kg (NLC 24700). Shortest-arm column. Bucket 18800 kgf (20100 PowerMax), arm 15300 kgf. Travel 3.0/4.1/5.5. Net ISO 9249 132 kW / gross ISO 14396 141 kW."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC290LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 29950,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 147,
+   "power_kw_gross": 159,
+   "rpm": 2050,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (HydrauMind closed-centre)",
+   "pump_flow_lpm": "2x239.5",
+   "pump_flow_total_lpm": 479,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 211.8,
+   "arm_dig_force_kn": 172.6,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5720,
+   "max_reach_mm": 9570,
+   "max_dump_height_mm": 6830,
+   "bucket_capacity_m3": 2.02,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 132
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC290LC-11&langID=en",
+  "notes": "Mono boom, 600 mm triple grouser, LC: 29950 kg (NLC 29850). Shortest-arm column. Bucket 21600 kgf (23100 PowerMax), arm 17600 kgf. Max bucket 2.02 m3 (1.2 t/m3). Travel 3.0/4.1/5.5."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC490LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 47370,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D125E-7",
+   "displacement_l": 11.04,
+   "cylinders": 6,
+   "power_kw_net": 268,
+   "power_kw_gross": 270,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 variable displacement piston pumps (HydrauMind closed-centre)",
+   "pump_flow_lpm": "2x345",
+   "pump_flow_total_lpm": 690,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 256.0,
+   "arm_dig_force_kn": 237.3,
+   "swing_speed_rpm": 9.1,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6780,
+   "max_reach_mm": 11080,
+   "max_dump_height_mm": 7135,
+   "bucket_capacity_m3": 2.76,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 650,
+   "hydraulic_tank_l": 248
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC490LC-11&langID=en",
+  "notes": "PC490LC-11 600 mm triple grouser: 47370 kg (PC490-11: 46470). Shortest-arm column of working-range table (several arm lengths up to depth 9190 mm). Bucket 26100 kgf (28000 PowerMax), arm 24200 kgf. Max bucket 2.76 m3 (1.2 t/m3). Travel 3.0/4.2/5.5."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC950LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 97800,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D140E-7",
+   "displacement_l": 15.24,
+   "cylinders": 6,
+   "power_kw_net": 401,
+   "power_kw_gross": 405,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement piston pumps",
+   "pump_flow_lpm": "1206",
+   "pump_flow_total_lpm": 1206,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 502,
+   "arm_dig_force_kn": 385,
+   "swing_speed_rpm": 6.8,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7190,
+   "max_reach_mm": 12480,
+   "max_dump_height_mm": 7615,
+   "bucket_capacity_m3": 6.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC950LC-11&langID=en",
+  "notes": "PC950LC-11 650 mm double grouser, 2.9 m arm/7.1 m boom/5.8 m3 bucket: 97800 kg (range 95000-97800). Bucket 502 kN and arm 385 kN are the 'up to' values quoted in the brochure text. Working range column for the 6.5 m3 backhoe configuration not confirmed; first column used. Travel 2.7/4.0. EGR cooled per brochure."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC1250-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 118300,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D170E-7",
+   "displacement_l": 23.15,
+   "cylinders": 6,
+   "power_kw_net": 565,
+   "power_kw_gross": 578,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF (no SCR)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pumps (2x 494 l/min)",
+   "pump_flow_lpm": "2x494",
+   "pump_flow_total_lpm": 988,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 479,
+   "arm_dig_force_kn": 412,
+   "swing_speed_rpm": 5.8,
+   "travel_speed_kmh": 3.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 9350,
+   "max_reach_mm": 15350,
+   "max_dump_height_mm": 8680,
+   "bucket_capacity_m3": 6.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 670
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC1250-11&langID=en",
+  "notes": "Backhoe 115900-118300 kg (loading shovel 119500); 118300 used. Bucket 479 kN / arm 412 kN are 'up to' values in brochure (PC1250SP-11: 570 kN bucket). Net 565 kW (ISO 9249/SAE J1349), brochure footnote also mentions net 519 kW at another fan setting; gross 578 kW (ISO 14396). Working range first column (shortest arm). Travel 2.3/3.3. Pressure 320 kg/cm2."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "PC228USLC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24350,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 123,
+   "power_kw_gross": 123,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement piston pumps (HydrauMind closed-centre)",
+   "pump_flow_lpm": "490",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 373,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 161.8,
+   "arm_dig_force_kn": 119.6,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6095,
+   "max_reach_mm": 9395,
+   "max_dump_height_mm": 7470,
+   "bucket_capacity_m3": 1.49,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 290,
+   "hydraulic_tank_l": 126
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=PC228USLC-11&langID=en",
+  "notes": "Short-tail-swing 24 t: 600 mm triple grouser mono boom 24350 kg (with optional blade 26800). 2.4 m arm. Bucket 16500 kgf (17500 PowerMax), arm 12200 kgf. Max bucket 1.49 m3 (1.2 t/m3)."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA170M-11",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 10220,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA4D101E-1WHA",
+   "displacement_l": 3.8,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 95.5,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "160",
+   "pump_flow_total_lpm": 160,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2875,
+   "bucket_capacity_m3": 1.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 7000
+  },
+  "capacities": {
+   "fuel_l": 160,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA170M-11&langID=en",
+  "notes": "First column of brochure table: 1.60 m3, operating weight 10220 kg (range 9485-10575 kg), static tipping load straight 8000 kg / 40 deg articulated 7000 kg (tipping_load_kg = articulated), dump height at 45 deg 2875 mm. Max travel 40 km/h version (20 km/h version also offered). Only ISO 14396 (gross) power published (net not stated). Max pump flow 160 l/min."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA200-8",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 12045,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA4D107E-5",
+   "displacement_l": 4.46,
+   "cylinders": 4,
+   "power_kw_net": 94.0,
+   "power_kw_gross": 95.2,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "139",
+   "pump_flow_total_lpm": 139,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2815,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 8110
+  },
+  "capacities": {
+   "fuel_l": 177,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA200-8&langID=en",
+  "notes": "First column: 1.9 m3, operating weight 12045 kg (range 12045-12475), tipping straight 9330 / articulated 8110 kg, dump height 2815 mm. Pump flow 85+54 l/min. Working pressure 210 kg/cm2. Max travel 38 km/h."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA270-8",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 13166,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 111,
+   "power_kw_gross": 115,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "150",
+   "pump_flow_total_lpm": 150,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2773,
+   "bucket_capacity_m3": 2.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 8852
+  },
+  "capacities": {
+   "fuel_l": 186,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA270-8&langID=en",
+  "notes": "First column: 2.2 m3, operating weight 13166 kg (range 12975-13525), tipping straight 10180 / articulated 8852 kg, dump height 2773 mm. Max pump flow 150 l/min, 320 kg/cm2. Max travel 38 km/h."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA320-8",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15831,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D107E-3",
+   "displacement_l": 6.69,
+   "cylinders": 6,
+   "power_kw_net": 123,
+   "power_kw_gross": 127,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "180",
+   "pump_flow_total_lpm": 180,
+   "system_pressure_bar": 304,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2684,
+   "bucket_capacity_m3": 2.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 9850
+  },
+  "capacities": {
+   "fuel_l": 245,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA320-8&langID=en",
+  "notes": "First column: 2.7 m3, operating weight 15831 kg (range 15095-16560), tipping straight 11744 / articulated 9850 kg, dump height 2684 mm. Pump 180 l/min, 310 kg/cm2. Max travel 38 km/h."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA470-8",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 24225,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D125E-7",
+   "displacement_l": 11.04,
+   "cylinders": 6,
+   "power_kw_net": 203,
+   "power_kw_gross": 204,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "260",
+   "pump_flow_total_lpm": 260,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2865,
+   "bucket_capacity_m3": 4.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16225
+  },
+  "capacities": {
+   "fuel_l": 380,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA470-8&langID=en",
+  "notes": "First column: 4.2 m3, operating weight 24225 kg (range 24170-25670), tipping straight 18915 / articulated 16225 kg, dump height 2865 mm. Max flow 260 l/min, 350 kg/cm2. Max travel 36.2 km/h forward (38.3 with torque converter lock-up)."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA475-10",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 25670,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D125E-7",
+   "displacement_l": 11.04,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 217,
+   "rpm": 1600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "306",
+   "pump_flow_total_lpm": 306,
+   "system_pressure_bar": 353,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2760,
+   "bucket_capacity_m3": 4.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 17355
+  },
+  "capacities": {
+   "fuel_l": 380,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA475-10&langID=en",
+  "notes": "First column: 4.5 m3, operating weight 25670 kg (range 25335-30070), tipping straight 20070 / articulated 17355 kg, dump height 2760 mm. Net power not stated (only ISO 14396 217 kW at 1600 rpm). Max flow 306 l/min, 360 kg/cm2. Max travel 38 km/h. (Komatsu lists WA475-10 alongside WA475-11 already in file.)"
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA480-8",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 26315,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D125E-7",
+   "displacement_l": 11.04,
+   "cylinders": 6,
+   "power_kw_net": 223,
+   "power_kw_gross": 224,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "260",
+   "pump_flow_total_lpm": 260,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2915,
+   "bucket_capacity_m3": 4.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 17500
+  },
+  "capacities": {
+   "fuel_l": 380,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA480-8&langID=en",
+  "notes": "First column: 4.8 m3, operating weight 26315 kg (range 26315-27535), tipping straight 20165 / articulated 17500 kg, dump height 2915 mm. Max flow 260 l/min, 350 kg/cm2. Max travel 36.2 km/h forward (39.0 with lock-up)."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA485-11",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 27940,
+  "engine": {
+   "make": "Komatsu",
+   "model": "DBA127",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 271,
+   "rpm": 1600,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "306",
+   "pump_flow_total_lpm": 306,
+   "system_pressure_bar": 353,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2885,
+   "bucket_capacity_m3": 4.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 18280
+  },
+  "capacities": {
+   "fuel_l": 360,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA485-11&langID=en",
+  "notes": "First column: 4.8 m3, operating weight 27940 kg (range 27940-28915), tipping straight 21265 / articulated 18280 kg, dump height 2885 mm. Net power not stated (ISO 14396 271 kW at 1600 rpm). EGR mentioned in brochure. Max flow 306 l/min, 360 kg/cm2. Max travel 38 km/h fwd."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "WA500-8",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 34905,
+  "engine": {
+   "make": "Komatsu",
+   "model": "SAA6D140E-7",
+   "displacement_l": 15.24,
+   "cylinders": 6,
+   "power_kw_net": 264,
+   "power_kw_gross": 266,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "KDPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pump (CLSS)",
+   "pump_flow_lpm": "320",
+   "pump_flow_total_lpm": 320,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 37.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3090,
+   "bucket_capacity_m3": 5.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 24095
+  },
+  "capacities": {
+   "fuel_l": 473,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=WA500-8&langID=en",
+  "notes": "First column: 5.5 m3, operating weight 34905 kg (range 34855-36380; Stone Handler version 38.1 t not added), tipping straight 26620 / articulated 24095 kg, dump height 3090 mm. Max flow 320 l/min, 350 kg/cm2. Max travel 35.5 km/h fwd (37.3 with lock-up)."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "SK715-8",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 2820,
+  "engine": {
+   "make": "Komatsu",
+   "model": "4D88E-7KFD",
+   "displacement_l": 2.19,
+   "cylinders": 4,
+   "power_kw_net": 33.7,
+   "power_kw_gross": 34.3,
+   "rpm": 2800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (no SCR)"
+  },
+  "hydraulics": {
+   "pump_type": "Gear pump (CLSS); 2 variable travel pumps",
+   "pump_flow_lpm": "62",
+   "pump_flow_total_lpm": 62,
+   "system_pressure_bar": 190,
+   "aux_flow_lpm": 62
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 16,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 13.8,
+   "rated_operating_capacity_kg": 680,
+   "tipping_load_kg": 1360
+  },
+  "capacities": {
+   "fuel_l": 67,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=SK715-8&langID=en",
+  "notes": "Operating weight 2820 kg (headline; open cab 2675 kg per spec table). Operating capacity 680 kg, tipping load 1360 kg, breakout ISO 14397 1383 daN. Super Flow option 100 l/min. Pump max flow 62 l/min (gear pump), fuel 67 l, hydraulic system refill 27 l. Net ISO 9249 / gross ISO 14396."
+ },
+ {
+  "brand": "Komatsu",
+  "model": "SK815-8",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3000,
+  "engine": {
+   "make": "Komatsu",
+   "model": "S4D86E-7MFD",
+   "displacement_l": 2.09,
+   "cylinders": 4,
+   "power_kw_net": 36.0,
+   "power_kw_gross": 37.9,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (no SCR)"
+  },
+  "hydraulics": {
+   "pump_type": "Gear pump (CLSS); 2 variable travel pumps",
+   "pump_flow_lpm": "62",
+   "pump_flow_total_lpm": 62,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": 62
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 16,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 14.5,
+   "rated_operating_capacity_kg": 750,
+   "tipping_load_kg": 1500
+  },
+  "capacities": {
+   "fuel_l": 67,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.komatsu.eu/Assets/GetBrochureByProductName.aspx?id=SK815-8&langID=en",
+  "notes": "Operating weight 3000 kg (headline; spec table 2780 kg with open cab). Operating capacity 750 kg, tipping 1500 kg, breakout ISO 14397 1450 daN. Super Flow option 100 l/min. Pump max flow 62 l/min (gear pump), fuel 67 l, hydraulic system refill 27 l. Net ISO 9249 / gross ISO 14396."
+ }
+]

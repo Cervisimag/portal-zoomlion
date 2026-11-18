@@ -1,0 +1,1265 @@
+[
+ {
+  "brand": "Takeuchi",
+  "model": "TB216",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1817,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 11.5
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + Gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 33
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14,
+   "arm_dig_force_kn": 8.2,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2390,
+   "max_reach_mm": 4035,
+   "max_dump_height_mm": 2705,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TB216-2024-Brochure.pdf",
+  "notes": "Weight 1,817 kg cab (1,697 canopy). Brochure: Stage V ready, <19 kW. Pump type variable x2 + gear x2. 2nd aux 10 L/min. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB217R",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1680,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 11.5
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + Gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 33
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14,
+   "arm_dig_force_kn": 8.2,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2390,
+   "max_reach_mm": 3945,
+   "max_dump_height_mm": 2545,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB217R-Brochure-April-2025-2.pdf",
+  "notes": "1.7 t class, zero-tail-swing style (slew radius 730 mm). 2nd aux 10 L/min. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB320",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20G",
+   "ZE20GE"
+  ],
+  "weight_kg": 2060,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2500,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 12
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + Gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 40
+  },
+  "performance": {
+   "bucket_dig_force_kn": 17,
+   "arm_dig_force_kn": 9.1,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2370,
+   "max_reach_mm": 4035,
+   "max_dump_height_mm": 2725,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 22,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB320-Brochure-April-2025-2.pdf",
+  "notes": "Weight cab 2,060 kg (canopy 1,930). Aux flow 40 L/min per brochure text (spec table flow cells not extractable). Engine make Yanmar per brochure diagram; model 3TNV70. Fuel tank 22 L as printed. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB225",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2400,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV82A",
+   "displacement_l": 1.33,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 16.5
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 38
+  },
+  "performance": {
+   "bucket_dig_force_kn": 19.3,
+   "arm_dig_force_kn": 12.8,
+   "swing_speed_rpm": 9.7,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2580,
+   "max_reach_mm": 4250,
+   "max_dump_height_mm": 2875,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 30.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB225-Brochure-April-2025-2.pdf",
+  "notes": "Weight cab 2,400 kg (canopy 2,265). 2nd aux 13 L/min. Fuel 30.5 L. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB230",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2875,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88F",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.2
+  },
+  "hydraulics": {
+   "pump_type": "Rexroth Variable x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 54
+  },
+  "performance": {
+   "bucket_dig_force_kn": 20.9,
+   "arm_dig_force_kn": 12.9,
+   "swing_speed_rpm": 10.3,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2835,
+   "max_reach_mm": 4710,
+   "max_dump_height_mm": 3230,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 46,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB230-Brochure-April-2025-2.pdf",
+  "notes": "Weight cab 2,875 kg (canopy 2,810). 2nd aux 21 L/min. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB235-2",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3465,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.2
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + Gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 60
+  },
+  "performance": {
+   "bucket_dig_force_kn": 27.1,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.3,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3245,
+   "max_reach_mm": 5130,
+   "max_dump_height_mm": 3595,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 46,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TB235-2-Brochure-April-2025.pdf",
+  "notes": "Long arm mono boom. Arm dig force not found in brochure table. 2nd aux 22 L/min. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB240",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 4070,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV88C-CSTB",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 26.7
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + gear",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 65
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.8,
+   "arm_dig_force_kn": 18.3,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3465,
+   "max_reach_mm": 5425,
+   "max_dump_height_mm": 3825,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB240-Brochure-April-2025-2.pdf",
+  "notes": "Cab, long arm. Set pressure 240 bar. 2nd aux 24 L/min. Engine model printed '4TNV88C-CSTB DPF'. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB250-2",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU"
+  ],
+  "weight_kg": 5120,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV88C-PTB",
+   "displacement_l": 2.189,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF",
+   "power_kw_rated": 29.1
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + Gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": 37.3,
+   "arm_dig_force_kn": 23.4,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3780,
+   "max_reach_mm": 5985,
+   "max_dump_height_mm": 4045,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TB250-2-Brochure-April-2025.pdf",
+  "notes": "2nd aux 39 L/min. Brochure: Yanmar 4TNV88C with DPF, Stage V. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB260",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 5735,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV86CT",
+   "displacement_l": 2.091,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 35.5
+  },
+  "hydraulics": {
+   "pump_type": "Rexroth Variable x 2 + Gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 102
+  },
+  "performance": {
+   "bucket_dig_force_kn": 43.2,
+   "arm_dig_force_kn": 25.6,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3895,
+   "max_reach_mm": 6130,
+   "max_dump_height_mm": 4220,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 81,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB260-Brochure-April-2025-2.pdf",
+  "notes": "2nd aux 44 L/min. Set pressure 240 bar. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB280FR",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8500,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT-WTBZ",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 51.6
+  },
+  "hydraulics": {
+   "pump_type": "Rexroth Variable x 2 +",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": 148
+  },
+  "performance": {
+   "bucket_dig_force_kn": 46.7,
+   "arm_dig_force_kn": 31.3,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4540,
+   "max_reach_mm": 7045,
+   "max_dump_height_mm": 4480,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 100,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB280FR-Brochure-April-2025-2.pdf",
+  "notes": "Long arm with blade. Emission stage not stated in brochure text. Aux 2nd 59 L/min. Cab with air-con and ROPS/OPG per brochure. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB370",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 6710,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-TE5B",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 42.4
+  },
+  "hydraulics": {
+   "pump_type": "Single variable piston",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 48.4,
+   "arm_dig_force_kn": 29.4,
+   "swing_speed_rpm": 8.8,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4085,
+   "max_reach_mm": 6565,
+   "max_dump_height_mm": 4545,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 110,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB370-Brochure-April-2025.pdf",
+  "notes": "Weight mono boom (7,065 kg 2-piece). 7 t class (below ZE75G 7.5 t). Values mono boom (2-piece in brackets in source). Aux flow not extracted; tank 110 L. Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB3150",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 15930,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN101FHT-2STB",
+   "displacement_l": 3.847,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR (DEF)",
+   "power_kw_rated": 85
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": 224
+  },
+  "performance": {
+   "bucket_dig_force_kn": 96.3,
+   "arm_dig_force_kn": 55.8,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5470,
+   "max_reach_mm": 8570,
+   "max_dump_height_mm": 6225,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 273.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TAK1427-NEW-COPY-TB3150-Brochure-2.pdf",
+  "notes": "Brochure 'Standard UK Specification'; 2nd aux flow 55.7 L/min. DEF tank 20 L (SCR). Figures from Takeuchi UK brochure 'Standard UK Specification' (long arm, rubber tracks, blade unless stated). Brochure gives 'Rated Output' without net/gross, so it is stored in engine.power_kw_rated and power_kw_net/gross are null. Hydraulic pump flow per pump not published; aux_flow_lpm = 1st aux max flow. EGR not mentioned in brochure (null)."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TL6R",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT090V"
+  ],
+  "weight_kg": 3530,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403",
+   "displacement_l": 2.434,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2700,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 47.9
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": 67
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 10.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 26.4,
+   "rated_operating_capacity_kg": 835,
+   "tipping_load_kg": 2390
+  },
+  "capacities": {
+   "fuel_l": 75.7,
+   "hydraulic_tank_l": 30
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TL6R-6pp-Brochure-LR.pdf",
+  "notes": "Radial lift, cab. 3.5 t. Aux 67 L/min. Travel speed high 10.0 km/h. Brochure gives rated output without net/gross (stored in engine.power_kw_rated). Radial/vertical lift as noted. Aux flows primary/high-flow. EGR not mentioned (null). Tipping load per brochure; rated operating capacity ISO 14397-1."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TL8R-2",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4165,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307",
+   "displacement_l": 3.331,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 54.6
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 128
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2420,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 27.6,
+   "rated_operating_capacity_kg": 960,
+   "tipping_load_kg": 2740
+  },
+  "capacities": {
+   "fuel_l": 107,
+   "hydraulic_tank_l": 36.5
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TL8R2-6pp-Brochure-LR.pdf",
+  "notes": "Radial lift, cab. Aux primary 72.3, high flow 128 L/min (stored aux = high flow). Lift height to pin 3,080 mm, dump height 2,420 mm. Brochure gives rated output without net/gross (stored in engine.power_kw_rated). Radial/vertical lift as noted. Aux flows primary/high-flow. EGR not mentioned (null). Tipping load per brochure; rated operating capacity ISO 14397-1."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TL10V-2",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4660,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307",
+   "displacement_l": 3.331,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 54.6
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 124
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 29,
+   "rated_operating_capacity_kg": 1145,
+   "tipping_load_kg": 3270
+  },
+  "capacities": {
+   "fuel_l": 81,
+   "hydraulic_tank_l": 36
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TL10V2-6pp-Brochure.pdf",
+  "notes": "Vertical lift, cab. Aux primary 71, high flow 124 L/min (stored aux = high flow). Lift height to pin 3,170 mm. Brochure gives rated output without net/gross (stored in engine.power_kw_rated). Radial/vertical lift as noted. Aux flows primary/high-flow. EGR not mentioned (null). Tipping load per brochure; rated operating capacity ISO 14397-1."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TL12V-2",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 5985,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800",
+   "displacement_l": 3.769,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "power_kw_rated": 81.8
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 153
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 35,
+   "rated_operating_capacity_kg": 1865,
+   "tipping_load_kg": 5325
+  },
+  "capacities": {
+   "fuel_l": 119.5,
+   "hydraulic_tank_l": 50
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/wp-content/uploads/TL12V-2-6pp-Brochure-LR.pdf",
+  "notes": "Vertical lift, cab; heavier than ZT120V (4.35 t), listed as the next class up. Aux primary 88, high flow 153 L/min (stored aux = high flow). Brochure gives rated output without net/gross (stored in engine.power_kw_rated). Radial/vertical lift as noted. Aux flows primary/high-flow. EGR not mentioned (null). Tipping load per brochure; rated operating capacity ISO 14397-1."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB210R",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1150,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722-E4B",
+   "displacement_l": 0.719,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 8.8
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 182,
+   "aux_flow_lpm": 22
+  },
+  "performance": {
+   "bucket_dig_force_kn": 11.2,
+   "arm_dig_force_kn": 6.4,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 3.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 1755,
+   "max_reach_mm": 3220,
+   "max_dump_height_mm": 2120,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 12,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb210r-compact-excavator/",
+  "notes": "Micro excavator 1.15 t. Gradeability 15 deg (not %). Hydraulic system 15 L. Brochure: https://www.takeuchi-mfg.co.uk/wp-content/uploads/UTF-8TB210R-Micro-Brochure-April-2025-2.pdf. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB20e",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2125,
+  "engine": {
+   "make": "Electric (2 motors)",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x gear",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": 34
+  },
+  "performance": {
+   "bucket_dig_force_kn": 13.7,
+   "arm_dig_force_kn": 8.1,
+   "swing_speed_rpm": 7.6,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2390,
+   "max_reach_mm": 4035,
+   "max_dump_height_mm": 2705,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb20e-electric-excavator",
+  "notes": "Battery-electric: 24.7 kWh Li-ion, 73 V, 2 electric motors, up to 8 h at 65% load; no combustion engine so engine fields null. Weight 2125 kg cab / 1930 kg canopy. 2nd aux 11 L/min at 210 bar, 3rd 34 L/min at 215 bar. Gradeability 15 deg. Brochure: https://www.takeuchi-mfg.co.uk/wp-content/uploads/TB220e-Cab-Canopy-Brochure-Sept-2025.pdf. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB325R",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2440,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV82A",
+   "displacement_l": 1.33,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V ready (<19 kW)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 16.5
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 210,
+   "aux_flow_lpm": 40
+  },
+  "performance": {
+   "bucket_dig_force_kn": 19.3,
+   "arm_dig_force_kn": 11.3,
+   "swing_speed_rpm": 8.9,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2540,
+   "max_reach_mm": 4350,
+   "max_dump_height_mm": 2775,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 31.2,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb325r-compact-excavator",
+  "notes": "Weight 2440 kg / 2310 kg as listed (page does not label cab/canopy; first value stored). Hydraulic system 48 L. Gradeability 25 deg. Cab or canopy ROPS/TOPS/OPG. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB335R",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3760,
+  "engine": {
+   "make": "Kubota",
+   "model": "V1505-E4B",
+   "displacement_l": 1.498,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": "Stage V ready (<19 kW)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.2
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 64
+  },
+  "performance": {
+   "bucket_dig_force_kn": 27.1,
+   "arm_dig_force_kn": 19.1,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3205,
+   "max_reach_mm": 5305,
+   "max_dump_height_mm": 3530,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 43.5,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb335r-compact-excavator/",
+  "notes": "Hydraulic system 59 L. Gradeability 25 deg. ROPS/TOPS/OPG cab. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB350R",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5085,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607-CR-E5B",
+   "displacement_l": 2.615,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V ready",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 32.4
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 92
+  },
+  "performance": {
+   "bucket_dig_force_kn": 37.3,
+   "arm_dig_force_kn": 22.4,
+   "swing_speed_rpm": 8.9,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3575,
+   "max_reach_mm": 5925,
+   "max_dump_height_mm": 3945,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 55.3,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb350R-compact-excavator/",
+  "notes": "Common rail. Hydraulic system 85 L. Gradeability 30 deg. ROPS/TOPS/OPG cab only. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB257FR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5840,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403 CR TE5b",
+   "displacement_l": 2.434,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V ready",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 39
+  },
+  "hydraulics": {
+   "pump_type": "Variable x 2 + gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 240,
+   "aux_flow_lpm": 105
+  },
+  "performance": {
+   "bucket_dig_force_kn": 36.6,
+   "arm_dig_force_kn": 23.1,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3895,
+   "max_reach_mm": 6080,
+   "max_dump_height_mm": 3890,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 70.2,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb257fr-compact-excavator/",
+  "notes": "Zero-tail-swing (FR). Travel speed not on page. Hydraulic system 100 L. Gradeability 30 deg. Page lists air conditioning. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB290-2",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8400,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4THV98CT-WTB",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V ready",
+   "egr": null,
+   "aftertreatment": "DPF; DOC+DPF",
+   "power_kw_rated": 51.6
+  },
+  "hydraulics": {
+   "pump_type": "Single variable piston + gear x 2",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 275,
+   "aux_flow_lpm": 100
+  },
+  "performance": {
+   "bucket_dig_force_kn": 59.1,
+   "arm_dig_force_kn": 36.3,
+   "swing_speed_rpm": 10.3,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4580,
+   "max_reach_mm": 7290,
+   "max_dump_height_mm": 5260,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 128,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb290-2-compact-excavator/",
+  "notes": "Weight mono boom (2-piece boom 8715 kg); dig data per first listed values (mono). Hydraulic system 140 L. Gradeability 30 (unit not stated). Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ },
+ {
+  "brand": "Takeuchi",
+  "model": "TB3150R",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 16075,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN101 FHT-2STB",
+   "displacement_l": 3.647,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 85
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 224
+  },
+  "performance": {
+   "bucket_dig_force_kn": 96.3,
+   "arm_dig_force_kn": 60,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6055,
+   "max_reach_mm": 8670,
+   "max_dump_height_mm": 7145,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 240,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.takeuchi-mfg.co.uk/compact-excavators/tb3150r-excavator/",
+  "notes": "Mono boom 16075 kg (2-piece 16580 kg; arm force 65.4 kN, depth 5745). DEF tank 20 L. Hydraulic system 225 L. Gradeability 35 deg. Pump type and relief pressure not on page. ROPS cab with tiltable OPG Level II. Largest Takeuchi excavator currently listed. Source: Takeuchi UK product page specification table. Page gives 'Rated output' without net/gross (stored in engine.power_kw_rated). EGR not stated (null). Travel speed = high range. aux_flow_lpm = 1st aux max flow. pump_flow not published."
+ }
+]

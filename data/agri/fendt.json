@@ -1,0 +1,3521 @@
+[
+ {
+  "brand": "Fendt",
+  "model": "207 Vario",
+  "category": "tractor",
+  "series": "200 Vario",
+  "power_hp_rated": 72,
+  "power_hp_max": null,
+  "power_kw_rated": 53,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 328,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 4204,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vario",
+  "notes": "Rated power ECE R120 (web table). Max torque at 1600 rpm 328 Nm. Weight = unladen base tractor with cab, full tanks, without driver; max permissible 7500 kg. Dual hydraulic pump 33+42 l/min. Front PTO optional 1000. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "208 Vario",
+  "category": "tractor",
+  "series": "200 Vario",
+  "power_hp_rated": 82,
+  "power_hp_max": null,
+  "power_kw_rated": 60,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 348,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 4204,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4140,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vario",
+  "notes": "Rated power ECE R120 (web table). Max torque at 1600 rpm 348 Nm. Weight = unladen base tractor with cab, full tanks, without driver; max permissible 7500 kg. Dual hydraulic pump 33+42 l/min. Front PTO optional 1000. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "209 Vario",
+  "category": "tractor",
+  "series": "200 Vario",
+  "power_hp_rated": 91,
+  "power_hp_max": null,
+  "power_kw_rated": 67,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 4204,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4220,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vario",
+  "notes": "Rated power ECE R120 (web table). Max torque at 1600 rpm 389 Nm. Weight = unladen base tractor with cab, full tanks, without driver; max permissible 7500 kg. Dual hydraulic pump 33+42 l/min. Front PTO optional 1000. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "210 Vario",
+  "category": "tractor",
+  "series": "200 Vario",
+  "power_hp_rated": 99,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 428,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 4204,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4220,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vario",
+  "notes": "Rated power ECE R120 (web table). Max torque at 1600 rpm 428 Nm. Weight = unladen base tractor with cab, full tanks, without driver; max permissible 7500 kg. Dual hydraulic pump 33+42 l/min. Front PTO optional 1000. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "211 Vario",
+  "category": "tractor",
+  "series": "200 Vario",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 508,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 4204,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4280,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vario",
+  "notes": "Rated power ECE R120 (web table). Max torque at 1600 rpm; 211 only: 508 Nm with DP (Dynamic Performance) at 1600 rpm. Weight = unladen base tractor with cab, full tanks, without driver; max permissible 7500 kg. Dual hydraulic pump 33+42 l/min. Front PTO optional 1000. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "207 Vario V",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 72,
+  "power_hp_max": null,
+  "power_kw_rated": 53,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 328,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2775,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3060,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant V. Rated power ECE R120. Max torque 328 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "207 Vario F",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 72,
+  "power_hp_max": null,
+  "power_kw_rated": 53,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 328,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2417,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3140,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant F. Rated power ECE R120. Max torque 328 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "208 Vario V",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 82,
+  "power_hp_max": null,
+  "power_kw_rated": 60,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 348,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2775,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3080,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant V. Rated power ECE R120. Max torque 348 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "208 Vario F",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 82,
+  "power_hp_max": null,
+  "power_kw_rated": 60,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 348,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2417,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3140,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant F. Rated power ECE R120. Max torque 348 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "209 Vario V",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 91,
+  "power_hp_max": null,
+  "power_kw_rated": 67,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2775,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3080,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant V. Rated power ECE R120. Max torque 389 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "209 Vario F",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 91,
+  "power_hp_max": null,
+  "power_kw_rated": 67,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2417,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3140,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant F. Rated power ECE R120. Max torque 389 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "209 Vario P",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 91,
+  "power_hp_max": null,
+  "power_kw_rated": 67,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 3134,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3360,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant P. Rated power ECE R120. Max torque 389 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 5600 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "210 Vario V",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 99,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 428,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2775,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3080,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant V. Rated power ECE R120. Max torque 428 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "210 Vario F",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 99,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 428,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2417,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3140,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant F. Rated power ECE R120. Max torque 428 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "210 Vario P",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 99,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 428,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 3134,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3360,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant P. Rated power ECE R120. Max torque 428 Nm at 1600 rpm. Unladen weight (cab, full tanks, no driver); max permissible 5600 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "211 Vario V",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 508,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2775,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3090,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant V. Rated power ECE R120. Max torque with DP 508 Nm at 1600 rpm (211). Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "211 Vario F",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 508,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 2417,
+   "front_lift_dan": 2380,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3140,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant F. Rated power ECE R120. Max torque with DP 508 Nm at 1600 rpm (211). Unladen weight (cab, full tanks, no driver); max permissible 4800 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "211 Vario P",
+  "category": "tractor",
+  "series": "200 V/F/P Vario (specialty narrow tractors, in 70+ hp range)",
+  "power_hp_rated": 105,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 508,
+   "max_torque_rpm": 1600,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Dual hydraulic pump 33+42 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 3134,
+   "front_lift_dan": 2540,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 3380,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-200-vfp-vario",
+  "notes": "Specialty narrow tractor variant P. Rated power ECE R120. Max torque with DP 508 Nm at 1600 rpm (211). Unladen weight (cab, full tanks, no driver); max permissible 5600 kg. Dual hydraulic pump 33+42 l/min. Lift capacities in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "310 Vario",
+  "category": "tractor",
+  "series": "300 Vario Gen5",
+  "power_hp_rated": 100,
+  "power_hp_max": 113,
+  "power_kw_rated": 74,
+  "power_kw_max": 83,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 HD",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 497,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "ML 75",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 5960,
+   "front_lift_dan": 3065,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5390,
+  "wheelbase_mm": 2420,
+  "fuel_l": 210,
+  "adblue_l": 23,
+  "tires": {
+   "front": "440/65R24",
+   "rear": "540/65R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-300-vario-gen5",
+  "notes": "Web table label: 'Rated power with DP ECE R120' used as rated; power_max = 'Maximum power with DP ECE R120' (Dynamic Performance). Without DP max power: 76/103, 83/113, 90/123, 98/133, 104/142 kW/hp (310-314). Specs also from Fendt 300 Vario Gen5 ES brochure (local PDF, update 01.09.2025): AGCO Power 44 HD. Operating weight incl. common accessories +/-5%; max permissible 9500 kg. Rear PTO optional ground-speed 540/1000/4.2. Valves max front/centre/rear 1/2/4. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "311 Vario",
+  "category": "tractor",
+  "series": "300 Vario Gen5",
+  "power_hp_rated": 113,
+  "power_hp_max": 123,
+  "power_kw_rated": 83,
+  "power_kw_max": 90,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 HD",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 536,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "ML 75",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 5960,
+   "front_lift_dan": 3065,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5390,
+  "wheelbase_mm": 2420,
+  "fuel_l": 210,
+  "adblue_l": 23,
+  "tires": {
+   "front": "440/65R24",
+   "rear": "540/65R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-300-vario-gen5",
+  "notes": "Web table label: 'Rated power with DP ECE R120' used as rated; power_max = 'Maximum power with DP ECE R120' (Dynamic Performance). Without DP max power: 76/103, 83/113, 90/123, 98/133, 104/142 kW/hp (310-314). Specs also from Fendt 300 Vario Gen5 ES brochure (local PDF, update 01.09.2025): AGCO Power 44 HD. Operating weight incl. common accessories +/-5%; max permissible 9500 kg. Rear PTO optional ground-speed 540/1000/4.2. Valves max front/centre/rear 1/2/4. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "312 Vario",
+  "category": "tractor",
+  "series": "300 Vario Gen5",
+  "power_hp_rated": 123,
+  "power_hp_max": 133,
+  "power_kw_rated": 90,
+  "power_kw_max": 98,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 HD",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 571,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "ML 75",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 5960,
+   "front_lift_dan": 3065,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5510,
+  "wheelbase_mm": 2420,
+  "fuel_l": 210,
+  "adblue_l": 23,
+  "tires": {
+   "front": "480/65R24",
+   "rear": "540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-300-vario-gen5",
+  "notes": "Web table label: 'Rated power with DP ECE R120' used as rated; power_max = 'Maximum power with DP ECE R120' (Dynamic Performance). Without DP max power: 76/103, 83/113, 90/123, 98/133, 104/142 kW/hp (310-314). Specs also from Fendt 300 Vario Gen5 ES brochure (local PDF, update 01.09.2025): AGCO Power 44 HD. Operating weight incl. common accessories +/-5%; max permissible 9500 kg. Rear PTO optional ground-speed 540/1000/4.2. Valves max front/centre/rear 1/2/4. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "313 Vario",
+  "category": "tractor",
+  "series": "300 Vario Gen5",
+  "power_hp_rated": 132,
+  "power_hp_max": 143,
+  "power_kw_rated": 97,
+  "power_kw_max": 105,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 HD",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 608,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "ML 75",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 5960,
+   "front_lift_dan": 3065,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5510,
+  "wheelbase_mm": 2420,
+  "fuel_l": 210,
+  "adblue_l": 23,
+  "tires": {
+   "front": "480/65R24",
+   "rear": "540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-300-vario-gen5",
+  "notes": "Web table label: 'Rated power with DP ECE R120' used as rated; power_max = 'Maximum power with DP ECE R120' (Dynamic Performance). Without DP max power: 76/103, 83/113, 90/123, 98/133, 104/142 kW/hp (310-314). Specs also from Fendt 300 Vario Gen5 ES brochure (local PDF, update 01.09.2025): AGCO Power 44 HD. Operating weight incl. common accessories +/-5%; max permissible 9500 kg. Rear PTO optional ground-speed 540/1000/4.2. Valves max front/centre/rear 1/2/4. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "314 Vario",
+  "category": "tractor",
+  "series": "300 Vario Gen5",
+  "power_hp_rated": 142,
+  "power_hp_max": 152,
+  "power_kw_rated": 104,
+  "power_kw_max": 112,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "44 HD",
+   "cylinders": 4,
+   "displacement_l": 4.4,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 650,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "ML 75",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 5960,
+   "front_lift_dan": 3065,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5510,
+  "wheelbase_mm": 2420,
+  "fuel_l": 210,
+  "adblue_l": 23,
+  "tires": {
+   "front": "480/65R24",
+   "rear": "540/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-300-vario-gen5",
+  "notes": "Web table label: 'Rated power with DP ECE R120' used as rated; power_max = 'Maximum power with DP ECE R120' (Dynamic Performance). Without DP max power: 76/103, 83/113, 90/123, 98/133, 104/142 kW/hp (310-314). Specs also from Fendt 300 Vario Gen5 ES brochure (local PDF, update 01.09.2025): AGCO Power 44 HD. Operating weight incl. common accessories +/-5%; max permissible 9500 kg. Rear PTO optional ground-speed 540/1000/4.2. Valves max front/centre/rear 1/2/4. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "513 Vario",
+  "category": "tractor",
+  "series": "500 Vario Gen4",
+  "power_hp_rated": 134,
+  "power_hp_max": 144,
+  "power_kw_rated": 99,
+  "power_kw_max": 106,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 651,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA120 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 109,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 7890,
+   "front_lift_dan": 3420,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 6700,
+  "wheelbase_mm": 2560,
+  "fuel_l": 290,
+  "adblue_l": 35,
+  "tires": {
+   "front": "480/65R28",
+   "rear": "600/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-500-vario-gen4",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 500 Vario Gen4 ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 11750 kg. Variable pump 109 l/min (152 optional; web shows 152). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "514 Vario",
+  "category": "tractor",
+  "series": "500 Vario Gen4",
+  "power_hp_rated": 144,
+  "power_hp_max": 154,
+  "power_kw_rated": 106,
+  "power_kw_max": 113,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 698,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA120 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 109,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 7890,
+   "front_lift_dan": 3420,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 6850,
+  "wheelbase_mm": 2560,
+  "fuel_l": 290,
+  "adblue_l": 35,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-500-vario-gen4",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 500 Vario Gen4 ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 11750 kg. Variable pump 109 l/min (152 optional; web shows 152). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "515 Vario",
+  "category": "tractor",
+  "series": "500 Vario Gen4",
+  "power_hp_rated": 154,
+  "power_hp_max": 164,
+  "power_kw_rated": 113,
+  "power_kw_max": 121,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 745,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA120 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 109,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 7890,
+   "front_lift_dan": 3420,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 6850,
+  "wheelbase_mm": 2560,
+  "fuel_l": 290,
+  "adblue_l": 35,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-500-vario-gen4",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 500 Vario Gen4 ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 11750 kg. Variable pump 109 l/min (152 optional; web shows 152). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "516 Vario",
+  "category": "tractor",
+  "series": "500 Vario Gen4",
+  "power_hp_rated": 164,
+  "power_hp_max": 174,
+  "power_kw_rated": 121,
+  "power_kw_max": 128,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 792,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA120 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 109,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 7890,
+   "front_lift_dan": 3420,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 6850,
+  "wheelbase_mm": 2560,
+  "fuel_l": 290,
+  "adblue_l": 35,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-500-vario-gen4",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 500 Vario Gen4 ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 11750 kg. Variable pump 109 l/min (152 optional; web shows 152). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "614 Vario",
+  "category": "tractor",
+  "series": "600 Vario",
+  "power_hp_rated": 149,
+  "power_hp_max": 164,
+  "power_kw_rated": 110,
+  "power_kw_max": 121,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 793,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA 150",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 152,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 9790,
+   "front_lift_dan": 4418,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7620,
+  "wheelbase_mm": 2720,
+  "fuel_l": 347,
+  "adblue_l": 36,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-600-vario",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 600 Vario ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 13500 kg. Variable pump 152 l/min (205 optional). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "616 Vario",
+  "category": "tractor",
+  "series": "600 Vario",
+  "power_hp_rated": 169,
+  "power_hp_max": 184,
+  "power_kw_rated": 124,
+  "power_kw_max": 135,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 861,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA 150",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 152,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 9790,
+   "front_lift_dan": 4418,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7620,
+  "wheelbase_mm": 2720,
+  "fuel_l": 347,
+  "adblue_l": 36,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-600-vario",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 600 Vario ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 13500 kg. Variable pump 152 l/min (205 optional). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "618 Vario",
+  "category": "tractor",
+  "series": "600 Vario",
+  "power_hp_rated": 189,
+  "power_hp_max": 204,
+  "power_kw_rated": 139,
+  "power_kw_max": 150,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 904,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA 150",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 152,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 9790,
+   "front_lift_dan": 4418,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7620,
+  "wheelbase_mm": 2720,
+  "fuel_l": 347,
+  "adblue_l": 36,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-600-vario",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 600 Vario ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 13500 kg. Variable pump 152 l/min (205 optional). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "620 Vario",
+  "category": "tractor",
+  "series": "600 Vario",
+  "power_hp_rated": 209,
+  "power_hp_max": 224,
+  "power_kw_rated": 154,
+  "power_kw_max": 165,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE50",
+   "cylinders": 4,
+   "displacement_l": 5.017,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "turbo": null,
+   "max_torque_nm": 950,
+   "max_torque_rpm": null,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA 150",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 152,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 9790,
+   "front_lift_dan": 4418,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7740,
+  "wheelbase_mm": 2720,
+  "fuel_l": 347,
+  "adblue_l": 36,
+  "tires": {
+   "front": "540/65R30",
+   "rear": "650/65R42"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-600-vario",
+  "notes": "Rated=max power without DP; power_max = max power with DP ECE R120. Details from Fendt 600 Vario ES brochure (local PDF). Operating weight incl. accessories +/-5%; max permissible 13500 kg. Variable pump 152 l/min (205 optional). Valves max f/c/r Profi Plus 2/3/5. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "720 Vario",
+  "category": "tractor",
+  "series": "700 Vario Gen7",
+  "power_hp_rated": 203,
+  "power_hp_max": 223,
+  "power_kw_rated": 149,
+  "power_kw_max": 164,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": 6,
+   "displacement_l": 7.527,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA190 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11050,
+   "front_lift_dan": 5300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-700-vario-gen7",
+  "notes": "power_max = max power with DP ECE R120 (web). Rated (without DP) taken from Fendt 700 Gen7 ES brochure (720-726: 149/203, 164/223, 179/243, 193/262 kW/hp) and Beileger text (728: 206 kW at rated speed; hp pairing 206/282 from web DP value of 726). AGCO Power CORE75 7.5 l, 6 cyl, Fendt iD 1700 rpm, EU Stage V (brochure); TA190 VarioDrive (Beileger). Max permissible weight 15000 kg up to 40 km/h (country exception), 14000 kg up to 60 km/h (724-728). Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "722 Vario",
+  "category": "tractor",
+  "series": "700 Vario Gen7",
+  "power_hp_rated": 223,
+  "power_hp_max": 243,
+  "power_kw_rated": 164,
+  "power_kw_max": 179,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": 6,
+   "displacement_l": 7.527,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA190 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11050,
+   "front_lift_dan": 5300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-700-vario-gen7",
+  "notes": "power_max = max power with DP ECE R120 (web). Rated (without DP) taken from Fendt 700 Gen7 ES brochure (720-726: 149/203, 164/223, 179/243, 193/262 kW/hp) and Beileger text (728: 206 kW at rated speed; hp pairing 206/282 from web DP value of 726). AGCO Power CORE75 7.5 l, 6 cyl, Fendt iD 1700 rpm, EU Stage V (brochure); TA190 VarioDrive (Beileger). Max permissible weight 15000 kg up to 40 km/h (country exception), 14000 kg up to 60 km/h (724-728). Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "724 Vario",
+  "category": "tractor",
+  "series": "700 Vario Gen7",
+  "power_hp_rated": 243,
+  "power_hp_max": 262,
+  "power_kw_rated": 179,
+  "power_kw_max": 193,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": 6,
+   "displacement_l": 7.527,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA190 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11050,
+   "front_lift_dan": 5300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-700-vario-gen7",
+  "notes": "power_max = max power with DP ECE R120 (web). Rated (without DP) taken from Fendt 700 Gen7 ES brochure (720-726: 149/203, 164/223, 179/243, 193/262 kW/hp) and Beileger text (728: 206 kW at rated speed; hp pairing 206/282 from web DP value of 726). AGCO Power CORE75 7.5 l, 6 cyl, Fendt iD 1700 rpm, EU Stage V (brochure); TA190 VarioDrive (Beileger). Max permissible weight 15000 kg up to 40 km/h (country exception), 14000 kg up to 60 km/h (724-728). Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "726 Vario",
+  "category": "tractor",
+  "series": "700 Vario Gen7",
+  "power_hp_rated": 262,
+  "power_hp_max": 282,
+  "power_kw_rated": 193,
+  "power_kw_max": 206,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": 6,
+   "displacement_l": 7.527,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA190 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11050,
+   "front_lift_dan": 5300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-700-vario-gen7",
+  "notes": "power_max = max power with DP ECE R120 (web). Rated (without DP) taken from Fendt 700 Gen7 ES brochure (720-726: 149/203, 164/223, 179/243, 193/262 kW/hp) and Beileger text (728: 206 kW at rated speed; hp pairing 206/282 from web DP value of 726). AGCO Power CORE75 7.5 l, 6 cyl, Fendt iD 1700 rpm, EU Stage V (brochure); TA190 VarioDrive (Beileger). Max permissible weight 15000 kg up to 40 km/h (country exception), 14000 kg up to 60 km/h (724-728). Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "728 Vario",
+  "category": "tractor",
+  "series": "700 Vario Gen7",
+  "power_hp_rated": 282,
+  "power_hp_max": 303,
+  "power_kw_rated": 206,
+  "power_kw_max": 223,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE75",
+   "cylinders": 6,
+   "displacement_l": 7.527,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA190 VarioDrive",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11050,
+   "front_lift_dan": 5300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-700-vario-gen7",
+  "notes": "power_max = max power with DP ECE R120 (web). Rated (without DP) taken from Fendt 700 Gen7 ES brochure (720-726: 149/203, 164/223, 179/243, 193/262 kW/hp) and Beileger text (728: 206 kW at rated speed; hp pairing 206/282 from web DP value of 726). AGCO Power CORE75 7.5 l, 6 cyl, Fendt iD 1700 rpm, EU Stage V (brochure); TA190 VarioDrive (Beileger). Max permissible weight 15000 kg up to 40 km/h (country exception), 14000 kg up to 60 km/h (724-728). Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "826 Vario",
+  "category": "tractor",
+  "series": "800 Vario Gen5",
+  "power_hp_rated": 260,
+  "power_hp_max": 283,
+  "power_kw_rated": 191,
+  "power_kw_max": 208,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE80",
+   "cylinders": 6,
+   "displacement_l": 7.926,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1450,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA250",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 11682,
+   "front_lift_kg": 5300,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 9900,
+  "wheelbase_mm": 3020,
+  "fuel_l": 540,
+  "adblue_l": 65,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-800-vario",
+  "notes": "power_max = rated power with DP ECE R120 (Dynamic Performance); without DP max = rated. Engine/rest from Fendt 800 Vario ES brochure (local PDF, 2501) and web. Operating weight incl. accessories +/-5%. Max permissible 16000 kg up to 60 km/h (brochure). Valves max f/c/r Profi Plus 2/0/6. Pump options 220 and 165+220 l/min. Lift in kg at coupling point."
+ },
+ {
+  "brand": "Fendt",
+  "model": "829 Vario",
+  "category": "tractor",
+  "series": "800 Vario Gen5",
+  "power_hp_rated": 290,
+  "power_hp_max": 313,
+  "power_kw_rated": 213,
+  "power_kw_max": 230,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE80",
+   "cylinders": 6,
+   "displacement_l": 7.926,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1550,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA250",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 11682,
+   "front_lift_kg": 5300,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 9900,
+  "wheelbase_mm": 3020,
+  "fuel_l": 540,
+  "adblue_l": 65,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-800-vario",
+  "notes": "power_max = rated power with DP ECE R120 (Dynamic Performance); without DP max = rated. Engine/rest from Fendt 800 Vario ES brochure (local PDF, 2501) and web. Operating weight incl. accessories +/-5%. Max permissible 16000 kg up to 60 km/h (brochure). Valves max f/c/r Profi Plus 2/0/6. Pump options 220 and 165+220 l/min. Lift in kg at coupling point."
+ },
+ {
+  "brand": "Fendt",
+  "model": "832 Vario",
+  "category": "tractor",
+  "series": "800 Vario Gen5",
+  "power_hp_rated": 320,
+  "power_hp_max": 343,
+  "power_kw_rated": 235,
+  "power_kw_max": 252,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": "CORE80",
+   "cylinders": 6,
+   "displacement_l": 7.926,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1680,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA250",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 11682,
+   "front_lift_kg": 5300,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 9900,
+  "wheelbase_mm": 3020,
+  "fuel_l": 540,
+  "adblue_l": 65,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-800-vario",
+  "notes": "power_max = rated power with DP ECE R120 (Dynamic Performance); without DP max = rated. Engine/rest from Fendt 800 Vario ES brochure (local PDF, 2501) and web. Operating weight incl. accessories +/-5%. Max permissible 16000 kg up to 60 km/h (brochure). Valves max f/c/r Profi Plus 2/0/6. Pump options 220 and 165+220 l/min. Lift in kg at coupling point."
+ },
+ {
+  "brand": "Fendt",
+  "model": "930 Vario",
+  "category": "tractor",
+  "series": "900 Vario Gen7",
+  "power_hp_rated": 296,
+  "power_hp_max": 296,
+  "power_kw_rated": 217,
+  "power_kw_max": 217,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 9.037,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1550,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 12410,
+   "front_lift_dan": 5584,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario",
+  "notes": "Web label 'Maximum power ECE R120'; brochure (local PDF) shows nominal = maximum (no DP overboost). MAN 9.0 l 6-cyl engine, Fendt iD (brochure). Max permissible weight 19000 kg up to 50 km/h (country exception). Pump options 165 / 220 l/min. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "933 Vario",
+  "category": "tractor",
+  "series": "900 Vario Gen7",
+  "power_hp_rated": 326,
+  "power_hp_max": 326,
+  "power_kw_rated": 239,
+  "power_kw_max": 239,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 9.037,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1650,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 12410,
+   "front_lift_dan": 5584,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario",
+  "notes": "Web label 'Maximum power ECE R120'; brochure (local PDF) shows nominal = maximum (no DP overboost). MAN 9.0 l 6-cyl engine, Fendt iD (brochure). Max permissible weight 19000 kg up to 50 km/h (country exception). Pump options 165 / 220 l/min. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "936 Vario",
+  "category": "tractor",
+  "series": "900 Vario Gen7",
+  "power_hp_rated": 355,
+  "power_hp_max": 355,
+  "power_kw_rated": 261,
+  "power_kw_max": 261,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 9.037,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 12410,
+   "front_lift_dan": 5584,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario",
+  "notes": "Web label 'Maximum power ECE R120'; brochure (local PDF) shows nominal = maximum (no DP overboost). MAN 9.0 l 6-cyl engine, Fendt iD (brochure). Max permissible weight 19000 kg up to 50 km/h (country exception). Pump options 165 / 220 l/min. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "939 Vario",
+  "category": "tractor",
+  "series": "900 Vario Gen7",
+  "power_hp_rated": 385,
+  "power_hp_max": 385,
+  "power_kw_rated": 283,
+  "power_kw_max": 283,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 9.037,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 12410,
+   "front_lift_dan": 5584,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario",
+  "notes": "Web label 'Maximum power ECE R120'; brochure (local PDF) shows nominal = maximum (no DP overboost). MAN 9.0 l 6-cyl engine, Fendt iD (brochure). Max permissible weight 19000 kg up to 50 km/h (country exception). Pump options 165 / 220 l/min. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "942 Vario",
+  "category": "tractor",
+  "series": "900 Vario Gen7",
+  "power_hp_rated": 415,
+  "power_hp_max": 415,
+  "power_kw_rated": 305,
+  "power_kw_max": 305,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 9.037,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 1970,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 165,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 12410,
+   "front_lift_dan": 5584,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E/1000",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario",
+  "notes": "Web label 'Maximum power ECE R120'; brochure (local PDF) shows nominal = maximum (no DP overboost). MAN 9.0 l 6-cyl engine, Fendt iD (brochure). Max permissible weight 19000 kg up to 50 km/h (country exception). Pump options 165 / 220 l/min. Lift in daN."
+ },
+ {
+  "brand": "Fendt",
+  "model": "938 Vario MT",
+  "category": "tractor",
+  "series": "900 Vario MT (rubber-track tractor)",
+  "power_hp_rated": 380,
+  "power_hp_max": null,
+  "power_kw_rated": 279,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 7,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11500,
+   "front_lift_dan": null,
+   "category": "Cat. III/IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000/1000E",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario-mt",
+  "notes": "Nominal power ECE R120 from Fendt 900 Vario MT ES brochure (local PDF). AGCO Power 7-cyl engine, ~9-9.8 l (brochure text inconsistent: '9,8 l' and '9 litros'), EU Stage V/Tier 5, rated speed text; max torque 1921 Nm quoted for the top model (not per model). Rear lift cat. III/IV up to 11500 daN, rear PTO 1000/1000E, top speed 40 km/h, hydraulics 220 or 440 l/min. No per-model table available online."
+ },
+ {
+  "brand": "Fendt",
+  "model": "940 Vario MT",
+  "category": "tractor",
+  "series": "900 Vario MT (rubber-track tractor)",
+  "power_hp_rated": 405,
+  "power_hp_max": null,
+  "power_kw_rated": 298,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 7,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11500,
+   "front_lift_dan": null,
+   "category": "Cat. III/IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000/1000E",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario-mt",
+  "notes": "Nominal power ECE R120 from Fendt 900 Vario MT ES brochure (local PDF). AGCO Power 7-cyl engine, ~9-9.8 l (brochure text inconsistent: '9,8 l' and '9 litros'), EU Stage V/Tier 5, rated speed text; max torque 1921 Nm quoted for the top model (not per model). Rear lift cat. III/IV up to 11500 daN, rear PTO 1000/1000E, top speed 40 km/h, hydraulics 220 or 440 l/min. No per-model table available online."
+ },
+ {
+  "brand": "Fendt",
+  "model": "943 Vario MT",
+  "category": "tractor",
+  "series": "900 Vario MT (rubber-track tractor)",
+  "power_hp_rated": 431,
+  "power_hp_max": null,
+  "power_kw_rated": 317,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "AGCO Power",
+   "model": null,
+   "cylinders": 7,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": 11500,
+   "front_lift_dan": null,
+   "category": "Cat. III/IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000/1000E",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-900-vario-mt",
+  "notes": "Nominal power ECE R120 from Fendt 900 Vario MT ES brochure (local PDF). AGCO Power 7-cyl engine, ~9-9.8 l (brochure text inconsistent: '9,8 l' and '9 litros'), EU Stage V/Tier 5, rated speed text; max torque 1921 Nm quoted for the top model (not per model). Rear lift cat. III/IV up to 11500 daN, rear PTO 1000/1000E, top speed 40 km/h, hydraulics 220 or 440 l/min. No per-model table available online."
+ },
+ {
+  "brand": "Fendt",
+  "model": "1040 Vario",
+  "category": "tractor",
+  "series": "1000 Vario Gen4",
+  "power_hp_rated": 400,
+  "power_hp_max": 426,
+  "power_kw_rated": 294,
+  "power_kw_max": 313,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": "D26",
+   "cylinders": 6,
+   "displacement_l": 12.419,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 2090,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA400",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 13180,
+   "front_lift_kg": 5688,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000/1000E (option)",
+   "front_pto": null
+  },
+  "weight_kg": 14000,
+  "wheelbase_mm": 3300,
+  "fuel_l": 740,
+  "adblue_l": 79,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-1000-vario-gen4",
+  "notes": "power_max = max power with DP ECE R120. Models 1048 (480 hp) and 1052 (520 hp) are above the requested range and omitted. MAN D26 12.4 l 6-cyl (brochure). Unladen weight = base tractor with cab, full tanks, no driver; max permissible 23000 kg. Valves max f/c/r Profi Plus 1/0/6. Pump option 220+210 l/min. Lift in kg at coupling point."
+ },
+ {
+  "brand": "Fendt",
+  "model": "1044 Vario",
+  "category": "tractor",
+  "series": "1000 Vario Gen4",
+  "power_hp_rated": 440,
+  "power_hp_max": 466,
+  "power_kw_rated": 324,
+  "power_kw_max": 343,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "MAN",
+   "model": "D26",
+   "cylinders": 6,
+   "displacement_l": 12.419,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 2280,
+   "max_torque_rpm": null,
+   "rated_rpm": 1700
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "TA400",
+   "speeds": "continuous",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable flow LS pump",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 13180,
+   "front_lift_kg": 5688,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000/1000E (option)",
+   "front_pto": null
+  },
+  "weight_kg": 14000,
+  "wheelbase_mm": 3300,
+  "fuel_l": 740,
+  "adblue_l": 79,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/tractors/fendt-1000-vario-gen4",
+  "notes": "power_max = max power with DP ECE R120. Models 1048 (480 hp) and 1052 (520 hp) are above the requested range and omitted. MAN D26 12.4 l 6-cyl (brochure). Unladen weight = base tractor with cab, full tanks, no driver; max permissible 23000 kg. Valves max f/c/r Profi Plus 1/0/6. Pump option 220+210 l/min. Lift in kg at coupling point."
+ },
+ {
+  "brand": "Fendt",
+  "model": "e107 Vario",
+  "category": "electric_tractor",
+  "series": "e100 Vario",
+  "power_hp_rated": 68,
+  "power_hp_max": 90,
+  "power_kw_rated": 50,
+  "power_kw_max": 66,
+  "power_standard": "ECE R85",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": 100,
+   "description": "Fully electric, 100 kWh battery; AC charge max 22 kW, DC fast charge max 80 kW"
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/e-tractors/fendt-e100vario",
+  "notes": "Standard-wheel electric tractor. Power per ECE R85: rated 50/68, continuous 55/75, peak 66/90 kW/hp (power_hp_max = peak). Battery 100 kWh, AC 22 kW / DC 80 kW charging. Below 70 hp rated, included because continuous 75 hp / peak 90 hp."
+ },
+ {
+  "brand": "Fendt",
+  "model": "e107 V Vario",
+  "category": "electric_tractor",
+  "series": "e100 V Vario",
+  "power_hp_rated": 68,
+  "power_hp_max": 90,
+  "power_kw_rated": 50,
+  "power_kw_max": 66,
+  "power_standard": "ECE R85",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 347,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": 100,
+   "description": "Fully electric, 100 kWh battery; AC charge max 22 kW, DC fast charge max 80 kW"
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": null,
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "rear_lift_dan": null,
+   "front_lift_dan": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.fendt.com/int/agricultural-machinery/e-tractors/fendt-e100-v-vario",
+  "notes": "Narrow vineyard electric tractor. Power per ECE R85: rated 50/68, continuous 55/75, peak 66/90 kW/hp (power_hp_max = peak). Battery 100 kWh, AC 22 kW / DC 80 kW charging. Below 70 hp rated, included because continuous 75 hp / peak 90 hp."
+ }
+]

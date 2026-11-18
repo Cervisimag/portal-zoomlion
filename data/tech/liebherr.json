@@ -1,0 +1,1621 @@
+[
+ {
+  "brand": "Liebherr",
+  "model": "R 915 Compact G8",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE145GU",
+   "ZE135G"
+  ],
+  "weight_kg": 15020,
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD3.6L4",
+   "displacement_l": 3.6,
+   "cylinders": 4,
+   "power_kw_net": 90,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Deutz DOC + DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr axial piston variable displacement pump (LSC system)",
+   "pump_flow_lpm": "300 (max flow, equipment and travel)",
+   "pump_flow_total_lpm": 300,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 89,
+   "arm_dig_force_kn": 62,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 6.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5670,
+   "max_reach_mm": 8330,
+   "max_dump_height_mm": 6190,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 169,
+   "hydraulic_tank_l": 93.4
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/019efdf6-1c43-7d2b-b4da-a5334ba7c3c9/original/",
+  "notes": "Official Liebherr Generation 8 technical data PDF (also https://www.liebherr.com/en-us/p/659848-4342673). Operating weight 15,020-16,960 kg (configuration dependent; 15,020 kg lowest). Power 90 kW per ISO 9249 at 1800 rpm. Dig figures from the first digging envelope (with quick coupler, stick 2.45 m; sticks 2.25/2.45/2.65 m give depth 5.47/5.67/5.87 m, reach 8.14/8.33/8.52 m, dump 6.05/6.19/6.32 m, stick force ISO 66/62/59 kN); bucket force ISO 6015 89 kN (SAE 80). Bucket capacity range 0.32-0.80 m3 (null). Travel 3.1 / 6.9 km/h. Urea tank 20 L. EGR not stated. Liebherr crawler range starts at this class; no smaller Liebherr crawler excavators."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 920 Compact G8",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN",
+   "ZE145GU"
+  ],
+  "weight_kg": 18380,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D924 A7-05",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 110,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Liebherr DOC + DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pump (LSC system)",
+   "pump_flow_lpm": "300 (max flow)",
+   "pump_flow_total_lpm": 300,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 98,
+   "arm_dig_force_kn": 78,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 5.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5610,
+   "max_reach_mm": 8770,
+   "max_dump_height_mm": 6630,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 243,
+   "hydraulic_tank_l": 135
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/019efe11-e054-7fbb-9efa-65ca9658a478/original/",
+  "notes": "Official Liebherr Generation 8 technical data PDF. Operating weight 18,380-21,030 kg (lowest shown). Power 110 kW per ISO 9249 at 1800 rpm. Dig figures from the first digging envelope with quick coupler, stick 2.45 m (sticks 2.25/2.45/2.65: depth 5.41/5.61/5.81 m, reach 8.58/8.77/8.96 m, dump 6.50/6.63/6.77 m, stick ISO 83/78/74 kN); bucket ISO 6015 98 kN (SAE 89). Bucket capacity range 0.30-0.95 m3 (null). Travel 2.7 / 5.9 km/h. Urea tank 46 L. EGR not stated. Weight sits between the 15-16 t and 22-23 t Zoomlion classes."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 550 XPower",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 18550,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D934 A7",
+   "displacement_l": 7.014,
+   "cylinders": 4,
+   "power_kw_net": 160,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V (Stage IV in select markets)",
+   "egr": null,
+   "aftertreatment": "Liebherr SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing swash plate variable flow pump",
+   "pump_flow_lpm": "234 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 12500
+  },
+  "capacities": {
+   "fuel_l": 280,
+   "hydraulic_tank_l": 105
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/wheel-loader/xpower/liebherr-brochure-xpower_en.pdf",
+  "notes": "Conventional XPower diesel loader compared with the electric ZWL55GE by weight class. Operating weight 18,550 kg, bucket 3.4 m3 (ISO 7546), tipping load fully articulated 12,500 kg (ISO 14397-1), Z-bar linkage, standard tyres. Power 160 kW ISO 9249 (163 kW rated ISO 14396, so power_kw_gross left null). Breakout force printed in the brochure table with unit kg (165) so left null. Pressure 350 bar Z-bar (380 industrial arm). Travel 0-40 km/h. DEF tank 67.5 L. EGR not stated."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 576 XPower",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 25700,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D936 A7",
+   "displacement_l": 10.52,
+   "cylinders": 6,
+   "power_kw_net": 215,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V (Stage IV in select markets)",
+   "egr": null,
+   "aftertreatment": "Liebherr SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing swash plate variable flow pump",
+   "pump_flow_lpm": "290 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 290,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 4.7,
+   "breakout_force_kn": 200,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 17600
+  },
+  "capacities": {
+   "fuel_l": 365,
+   "hydraulic_tank_l": 105
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/wheel-loader/xpower/liebherr-brochure-xpower_en.pdf",
+  "notes": "Conventional XPower diesel loader compared with the electric ZWL75GE by weight class. Operating weight 25,700 kg with 4.7 m3 bucket (ISO 7546), tipping load fully articulated 17,600 kg (ISO 14397-1); the brochure gives several equipment/tyre variants (weight 25,700-25,800 kg) and the L 576 first column (Z-bar, 4.7 m3) is used. Breakout 200 kN (SAE) from that column; other variants 190 kN. Power 215 kW ISO 9249 (218 kW rated ISO 14396). Travel 0-40 km/h. DEF tank 67.5 L. EGR not stated."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 922 G8",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE225GN",
+   "ZE210GLC"
+  ],
+  "weight_kg": 22250,
+  "engine": {
+   "make": "Liebherr (FPT-based)",
+   "model": "D924 A7-05",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 120,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR filter"
+  },
+  "hydraulics": {
+   "pump_type": "Positive Control hydraulic system, two independent pump flows (open circuit swing)",
+   "pump_flow_lpm": "2x210",
+   "pump_flow_total_lpm": 420,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 160,
+   "arm_dig_force_kn": 113,
+   "swing_speed_rpm": 12.9,
+   "travel_speed_kmh": 5.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6930,
+   "max_reach_mm": 10070,
+   "max_dump_height_mm": 6540,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 155
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/crawler-excavator/pi_r922_g8_agsv_de-2.pdf",
+  "notes": "Official Liebherr Generation 8 data sheet (English text). Operating weight 22,250-24,550 kg (lowest shown). Power 120 kW per ISO 9249 at 1800 rpm. Dig figures from first digging envelope (mono boom 5.70 m, with quick coupler) stick 2.90 m; sticks 2.50/2.90/3.50 m give depth 6.53/6.93/7.52 m, reach 9.69/10.07/10.55 m, dump 6.34/6.54/6.62 m, stick force ISO 125/113/99 kN; bucket ISO 6015 160 kN. Bucket capacity range 0.55-1.65 m3 (null). Travel 3.1 / 5.9 km/h. Urea tank 46 L. EGR not stated."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 930 G8",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G",
+   "ZE375G"
+  ],
+  "weight_kg": 30400,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D934 A7-25",
+   "displacement_l": 7.0,
+   "cylinders": 4,
+   "power_kw_net": 180,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR filter, passive regeneration by thermo management"
+  },
+  "hydraulics": {
+   "pump_type": "Positive Control; Liebherr variable displacement swashplate double pump (equipment/travel) + closed-loop swashplate pump (swing)",
+   "pump_flow_lpm": "2x265 (swing pump 200)",
+   "pump_flow_total_lpm": 530,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 204,
+   "arm_dig_force_kn": 156,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 5.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7160,
+   "max_reach_mm": 10450,
+   "max_dump_height_mm": 6920,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 620,
+   "hydraulic_tank_l": 239
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/880ccd75-95b2-431c-96a2-70d4cf72831a/original/",
+  "notes": "Official Liebherr Generation 8 data sheet. Operating weight 30,400-37,750 kg (lowest shown; covers both 33.5 t and 37.5 t Zoomlion classes depending on undercarriage/equipment). Power 180 kW per ISO 9249 at 1800 rpm. Dig figures from first digging envelope (mono boom 6.20 m, with quick coupler) stick 2.80 m; sticks 2.50/2.80/3.20/3.70 m give depth 6.86/7.16/7.56/8.05 m, reach 10.17/10.45/10.82/11.26 m, dump 6.78/6.92/7.09/7.25 m, stick force ISO 168/156/142/128 kN; bucket ISO 6015 204 kN. Swing circuit pressure 400 bar. Bucket capacity range 1.00-2.15 m3 (null). Travel 3.5 / 5.8 km/h (NLC/LC). Urea tank 90 L. EGR not stated. The 76.5 t ZE750G class has no current Liebherr equivalent below the 89 t R 976 G6, so it is skipped."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 917 Compact Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 16280,
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD3.6L4",
+   "displacement_l": 3.6,
+   "cylinders": 4,
+   "power_kw_net": 100,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Deutz DOC + DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "300 l/min",
+   "pump_flow_total_lpm": 300,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 98,
+   "arm_dig_force_kn": 77,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 6.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5060,
+   "max_reach_mm": 8100,
+   "max_dump_height_mm": 6220,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 169,
+   "hydraulic_tank_l": 93.4
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/019efe0b-5645-7416-a735-4657ad6097e8/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (16,280 kg). Dig figures from the first digging envelope (mono boom, stick 2.25 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 74 / bucket 89 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 921 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22200,
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 5.2 L4",
+   "displacement_l": 5.2,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 112,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 216 l/min",
+   "pump_flow_total_lpm": 432,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 159,
+   "arm_dig_force_kn": 113,
+   "swing_speed_rpm": 11.3,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6620,
+   "max_reach_mm": 9780,
+   "max_dump_height_mm": 6800,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 575,
+   "hydraulic_tank_l": 103
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/115fb361-c444-4f03-b302-0c3ee4412c4c/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Brochure also mentions Tier 4 Final. Power given as gross (SAE J1995/ISO 3046), net not stated. Operating weight lowest of site range (22,200 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 109 / bucket 139 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 924 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23400,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D924 A7-05",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 129,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 210 l/min",
+   "pump_flow_total_lpm": 420,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 173,
+   "arm_dig_force_kn": 135,
+   "swing_speed_rpm": 12.9,
+   "travel_speed_kmh": 5.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6530,
+   "max_reach_mm": 9690,
+   "max_dump_height_mm": 6340,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 155
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/a9cb3582-a9ad-4fbf-9ee0-bfeddd25257d/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Engine D924 A7-05 described as FPT motor designed for Liebherr. Operating weight lowest of site range (23,400 kg). Dig figures from the first digging envelope (mono boom, stick 2.50 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 129 / bucket 151 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 926 Compact Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25550,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D924 A7-05",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 129,
+   "power_kw_gross": null,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "oxidation catalyst, particle filter and SCR urea injection"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 223 l/min",
+   "pump_flow_total_lpm": 446,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 140,
+   "arm_dig_force_kn": 120,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6260,
+   "max_reach_mm": 9180,
+   "max_dump_height_mm": 7720,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 331,
+   "hydraulic_tank_l": 153
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/37254927-8a6c-478e-bd21-bb1fb3fc8eca/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Travel 3.2 / 5.1 km/h. Operating weight lowest of site range (25,550 kg). Dig figures from the first digging envelope (mono boom, stick 2.35 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 113 / bucket 125 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 926 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26500,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D934 A7-25",
+   "displacement_l": 7.0,
+   "cylinders": 4,
+   "power_kw_net": 150,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 265 l/min",
+   "pump_flow_total_lpm": 530,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 187,
+   "arm_dig_force_kn": 152,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 6.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6640,
+   "max_reach_mm": 9740,
+   "max_dump_height_mm": 6540,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 620,
+   "hydraulic_tank_l": 239
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/d35df53a-4219-4582-9a41-442a02b1e13c/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Stage V brochure version used (a Tier 4 Final version also exists). Operating weight lowest of site range (26,500 kg). Dig figures from the first digging envelope (mono boom, stick 2.50 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 145 / bucket 166 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 928 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 28950,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D934 A7-25",
+   "displacement_l": 7.0,
+   "cylinders": 4,
+   "power_kw_net": 150,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 265 l/min",
+   "pump_flow_total_lpm": 530,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 187,
+   "arm_dig_force_kn": 152,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 5.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6590,
+   "max_reach_mm": 9720,
+   "max_dump_height_mm": 6600,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 620,
+   "hydraulic_tank_l": 239
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/da85f4f7-30ec-4fb4-bf09-1177aa0c73c6/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (28,950 kg). Dig figures from the first digging envelope (mono boom, stick 2.50 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 145 / bucket 166 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 934 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 34800,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D944 A7-25",
+   "displacement_l": 8.0,
+   "cylinders": 4,
+   "power_kw_net": 200,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 315 l/min",
+   "pump_flow_total_lpm": 630,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 223,
+   "arm_dig_force_kn": 206,
+   "swing_speed_rpm": 8.6,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6950,
+   "max_reach_mm": 10590,
+   "max_dump_height_mm": 6740,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 729,
+   "hydraulic_tank_l": 239
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/8349fd0c-e39a-48d7-a0b9-7adbf2a723d1/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (34,800 kg). Dig figures from the first digging envelope (mono boom, stick 2.60 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 196 / bucket 197 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 936 Compact Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 33800,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D944 A7-25",
+   "displacement_l": 8.0,
+   "cylinders": 4,
+   "power_kw_net": 190,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 245 l/min",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 204,
+   "arm_dig_force_kn": 168,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6620,
+   "max_reach_mm": 10400,
+   "max_dump_height_mm": 7150,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 450,
+   "hydraulic_tank_l": 290
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/8919ee55-4417-423a-8843-4533226ed270/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (33,800 kg). Dig figures from the first digging envelope (mono boom, stick 2.50 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 160 / bucket 178 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 938 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 37300,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D944 A7-25",
+   "displacement_l": 8.0,
+   "cylinders": 4,
+   "power_kw_net": 220,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 315 l/min",
+   "pump_flow_total_lpm": 630,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 238,
+   "arm_dig_force_kn": 212,
+   "swing_speed_rpm": 8.6,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7170,
+   "max_reach_mm": 10820,
+   "max_dump_height_mm": 6510,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 729,
+   "hydraulic_tank_l": 239
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/f78dd935-8b04-4dea-a53e-4919c9660d10/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Stage V brochure version used (Tier 4 Final version also exists). Operating weight lowest of site range (37,300 kg). Dig figures from the first digging envelope (mono boom, stick 2.60 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 202 / bucket 210 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 945 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 41400,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D944 A7-25",
+   "displacement_l": 8.0,
+   "cylinders": 4,
+   "power_kw_net": 220,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 315 l/min",
+   "pump_flow_total_lpm": 630,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 238,
+   "arm_dig_force_kn": 212,
+   "swing_speed_rpm": 8.6,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7170,
+   "max_reach_mm": 10820,
+   "max_dump_height_mm": 6510,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 729,
+   "hydraulic_tank_l": 239
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/f4c02f68-b29c-4939-b6d1-9b3c4868f9a5/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (41,400 kg). Dig figures from the first digging envelope (mono boom, stick 2.60 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 202 / bucket 210 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 948 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 48600,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D956 A7-05",
+   "displacement_l": 11.9,
+   "cylinders": 6,
+   "power_kw_net": 280,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter (certifications: EU Stage V / US Tier 4 Final / non-regulated)"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 380 l/min",
+   "pump_flow_total_lpm": 760,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 298,
+   "arm_dig_force_kn": 243,
+   "swing_speed_rpm": 6.7,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7390,
+   "max_reach_mm": 11430,
+   "max_dump_height_mm": 7380,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 900,
+   "hydraulic_tank_l": 365
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/01a0429a-2238-7777-af89-086979f5d2bf/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (48,600 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 238 / bucket 260 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 952 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 51110,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D956 A7-05",
+   "displacement_l": 11.9,
+   "cylinders": 6,
+   "power_kw_net": 300,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter (certifications: EU Stage V / US Tier 4 Final / non-regulated)"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 380 l/min",
+   "pump_flow_total_lpm": 760,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 298,
+   "arm_dig_force_kn": 243,
+   "swing_speed_rpm": 6.7,
+   "travel_speed_kmh": 3.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7340,
+   "max_reach_mm": 11420,
+   "max_dump_height_mm": 7430,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 900,
+   "hydraulic_tank_l": 365
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/01a0cebe-c488-7c75-84ad-8456eaa4d737/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Travel low range 2.4 (HD / HD-V). Operating weight lowest of site range (51,110 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 238 / bucket 260 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 958 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 57100,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D956 A7-05",
+   "displacement_l": 11.9,
+   "cylinders": 6,
+   "power_kw_net": 300,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter (certifications: EU Stage V / US Tier 4 Final / non-regulated)"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 380 l/min",
+   "pump_flow_total_lpm": 760,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 323,
+   "arm_dig_force_kn": 261,
+   "swing_speed_rpm": 6.7,
+   "travel_speed_kmh": 3.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6950,
+   "max_reach_mm": 11190,
+   "max_dump_height_mm": 7390,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 900,
+   "hydraulic_tank_l": 365
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/01a0429b-bd4d-74b6-b729-d73eb3ce1897/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Operating weight lowest of site range (57,100 kg). Dig figures from the first digging envelope (mono boom, stick 2.50 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 255 / bucket 284 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 972 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 68450,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D9508 A7 SCR",
+   "displacement_l": 16.16,
+   "cylinders": 8,
+   "power_kw_net": 330,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 410 l/min",
+   "pump_flow_total_lpm": 820,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 354,
+   "arm_dig_force_kn": 308,
+   "swing_speed_rpm": 5.6,
+   "travel_speed_kmh": 4.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7150,
+   "max_reach_mm": 11600,
+   "max_dump_height_mm": 7850,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1140,
+   "hydraulic_tank_l": 435
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/448e6b7f-6ea7-4c50-afac-da54083b13f8/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). V8 engine. Travel 4.1 km/h (3.6 with drawbar pull increase). Operating weight lowest of site range (68,450 kg). Dig figures from the first digging envelope (mono boom, stick 2.60 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 289 / bucket 306 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 978 SME Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 78350,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D9508 A7 SCR",
+   "displacement_l": 16.16,
+   "cylinders": 8,
+   "power_kw_net": 330,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + SCR Filter"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 410 l/min",
+   "pump_flow_total_lpm": 820,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 392,
+   "arm_dig_force_kn": 357,
+   "swing_speed_rpm": 5.6,
+   "travel_speed_kmh": 3.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7200,
+   "max_reach_mm": 11650,
+   "max_dump_height_mm": 7850,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1140,
+   "hydraulic_tank_l": 435
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/654705f9-e679-45b1-9371-51f8ac5a3436/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). SME (quarry/mining) version. V8 engine. Operating weight lowest of site range (78,350 kg). Dig figures from the first digging envelope (mono boom, stick 2.60 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 335 / bucket 339 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 992 Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 85800,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D9508 A7 SCR",
+   "displacement_l": 16.16,
+   "cylinders": 8,
+   "power_kw_net": 420,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + DPF + SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 498 l/min",
+   "pump_flow_total_lpm": 996,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 485,
+   "arm_dig_force_kn": 390,
+   "swing_speed_rpm": 5.9,
+   "travel_speed_kmh": 4.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7450,
+   "max_reach_mm": 12300,
+   "max_dump_height_mm": 8250,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1498,
+   "hydraulic_tank_l": 536
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/a82175cd-a9df-44fa-89f8-16fc1e258031/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). V8 engine. Operating weight lowest of site range (85,800 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 374 / bucket 437 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 992 E Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 90550,
+  "engine": {
+   "make": null,
+   "model": "Electric motor (cable supply)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1491,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 400
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 515 l/min",
+   "pump_flow_total_lpm": 1030,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 485,
+   "arm_dig_force_kn": 390,
+   "swing_speed_rpm": 5.9,
+   "travel_speed_kmh": 2.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7590,
+   "max_reach_mm": 12350,
+   "max_dump_height_mm": 8120,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 536
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/1ba73620-b4ad-45d7-9ad5-47080186968a/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Electric (cable-fed) version. Operating weight lowest of site range (90,550 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 374 / bucket 437 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 998 SME Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 97700,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D9508 A7 SCR",
+   "displacement_l": 16.16,
+   "cylinders": 8,
+   "power_kw_net": 420,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 498 l/min",
+   "pump_flow_total_lpm": 996,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 506,
+   "arm_dig_force_kn": 426,
+   "swing_speed_rpm": 5.9,
+   "travel_speed_kmh": 3.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7350,
+   "max_reach_mm": 12300,
+   "max_dump_height_mm": 8500,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1498,
+   "hydraulic_tank_l": 536
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/09f4ffac-f3f3-42c9-b1f9-0d273efa7e60/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). SME version, largest Liebherr diesel crawler excavator in the earthmoving range. V8 engine. Operating weight lowest of site range (97,700 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 406 / bucket 454 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "R 998 SME E Litronic",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 100450,
+  "engine": {
+   "make": null,
+   "model": "Electric motor (cable supply)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1491,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 400
+  },
+  "hydraulics": {
+   "pump_type": "Liebherr variable displacement swashplate pumps",
+   "pump_flow_lpm": "2 x 515 l/min",
+   "pump_flow_total_lpm": 1030,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 506,
+   "arm_dig_force_kn": 426,
+   "swing_speed_rpm": 5.9,
+   "travel_speed_kmh": 2.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7280,
+   "max_reach_mm": 12280,
+   "max_dump_height_mm": 8740,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 536
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/1ba73620-b4ad-45d7-9ad5-47080186968a/original/",
+  "notes": "Official Liebherr product brochure (Technical data pages). Electric (cable-fed) SME version; dig data from its own envelope (stick 2.90 m). Operating weight lowest of site range (100,450 kg). Dig figures from the first digging envelope (mono boom, stick 2.90 m): depth/reach/dump per brochure; arm and bucket forces ISO 6015 without quick coupler (SAE J1179 stick 406 / bucket 454 kN). Power per ISO 9249 unless stated. Swing speed = max of stepless range; travel = high-range speed (single value when only one is given). Bucket capacity not given as single value (null). EGR/ROPS/air-conditioning not verified (null)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 556 XPower",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 19600,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D944 A7",
+   "displacement_l": 7.964,
+   "cylinders": 4,
+   "power_kw_net": 180,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Liebherr SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing swash plate variable flow pump",
+   "pump_flow_lpm": "290 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 290,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13750
+  },
+  "capacities": {
+   "fuel_l": 280,
+   "hydraulic_tank_l": 105
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/wheel-loader/xpower/liebherr-brochure-xpower_en.pdf",
+  "notes": "Official Liebherr XPower brochure (L 550 - L 586), first (Z-bar, standard lift arm) column. Operating weight and ISO 7546 bucket capacity as printed; tipping load fully articulated per ISO 14397-1; power net per ISO 9249 (rated ISO 14396 value in notes). EGR not stated. Rated output 183 kW (ISO 14396). Breakout force printed with unit 'kg' in the table (175) so left null. Pressure 350 bar Z-bar (380 industrial arm). DEF tank 67.5 L. Travel 0-40 km/h."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 566 XPower",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 23900,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D936 A7",
+   "displacement_l": 10.52,
+   "cylinders": 6,
+   "power_kw_net": 200,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Liebherr SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing swash plate variable flow pump",
+   "pump_flow_lpm": "290 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 290,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 4.2,
+   "breakout_force_kn": 200,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 15900
+  },
+  "capacities": {
+   "fuel_l": 365,
+   "hydraulic_tank_l": 105
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/wheel-loader/xpower/liebherr-brochure-xpower_en.pdf",
+  "notes": "Official Liebherr XPower brochure (L 550 - L 586), first (Z-bar, standard lift arm) column. Operating weight and ISO 7546 bucket capacity as printed; tipping load fully articulated per ISO 14397-1; power net per ISO 9249 (rated ISO 14396 value in notes). EGR not stated. Rated output 203 kW (ISO 14396). Breakout 200 kN SAE. Pressure 350 bar Z-bar / 380 industrial arm. Lift arm 2.92 m. DEF tank 67.5 L. Travel 0-40 km/h (L 566-L 580)."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 580 XPower",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 27650,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D936 A7",
+   "displacement_l": 10.52,
+   "cylinders": 6,
+   "power_kw_net": 230,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Liebherr SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing swash plate variable flow pump",
+   "pump_flow_lpm": "320 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 320,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 5.2,
+   "breakout_force_kn": 225,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 19200
+  },
+  "capacities": {
+   "fuel_l": 365,
+   "hydraulic_tank_l": 105
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/wheel-loader/xpower/liebherr-brochure-xpower_en.pdf",
+  "notes": "Official Liebherr XPower brochure (L 550 - L 586), first (Z-bar, standard lift arm) column. Operating weight and ISO 7546 bucket capacity as printed; tipping load fully articulated per ISO 14397-1; power net per ISO 9249 (rated ISO 14396 value in notes). EGR not stated. Rated output 233 kW (ISO 14396). Breakout 225 kN SAE. Pressure 380 bar. Lift arm 3.05 m. DEF tank 67.5 L. Travel 0-40 km/h."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 586 XPower",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 32600,
+  "engine": {
+   "make": "Liebherr",
+   "model": "D936 A7",
+   "displacement_l": 10.52,
+   "cylinders": 6,
+   "power_kw_net": 260,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "Liebherr SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing swash plate variable flow pump",
+   "pump_flow_lpm": "410 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 410,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 33,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 6.0,
+   "breakout_force_kn": 240,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 21600
+  },
+  "capacities": {
+   "fuel_l": 500,
+   "hydraulic_tank_l": 95
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www-assets.liebherr.com/media/bu-media/lhbu-emt/brochures/wheel-loader/xpower/liebherr-brochure-xpower_en.pdf",
+  "notes": "Official Liebherr XPower brochure (L 550 - L 586), first (Z-bar, standard lift arm) column. Operating weight and ISO 7546 bucket capacity as printed; tipping load fully articulated per ISO 14397-1; power net per ISO 9249 (rated ISO 14396 value in notes). EGR not stated. Rated output 263 kW (ISO 14396). Breakout 240 kN SAE. Pressure 350 bar. Lift arm 3.15 m, 29.5R25 tyres. Travel 0-33 km/h. DEF tank 67.5 L."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 526",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 13170,
+  "engine": {
+   "make": null,
+   "model": "4045CB551",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 114,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Swash plate type variable flow pump",
+   "pump_flow_lpm": "170 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 170,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.2,
+   "breakout_force_kn": 110,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 8730
+  },
+  "capacities": {
+   "fuel_l": 205,
+   "hydraulic_tank_l": 95
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/acdf83f7-55e6-43a6-b5cf-fbfa5c01a6c4/original/",
+  "notes": "Official Liebherr L 526 - L 546 Generation 8 brochure, first column (Z-bar, standard). Net power ISO 9249/SAE J1349 (rated ISO 14396 in notes); engine type code as printed (make not stated in extract). Cooled exhaust gas recirculation stated (EGR true) plus SCR and closed diesel particle filter. Tipping load fully articulated per ISO 14397-1; bucket ISO 7546. Pump max flow 'attachment hydraulics', 350 bar. DEF tank 20 L, hydraulic system total as printed. Travel speed not stated in extract (null). Rated output 116 kW (ISO 14396). Lift arm 2.55 m."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 538",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14520,
+  "engine": {
+   "make": null,
+   "model": "4045CB551",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 126,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Swash plate type variable flow pump",
+   "pump_flow_lpm": "200 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 200,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.6,
+   "breakout_force_kn": 125,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 9650
+  },
+  "capacities": {
+   "fuel_l": 205,
+   "hydraulic_tank_l": 95
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/acdf83f7-55e6-43a6-b5cf-fbfa5c01a6c4/original/",
+  "notes": "Official Liebherr L 526 - L 546 Generation 8 brochure, first column (Z-bar, standard). Net power ISO 9249/SAE J1349 (rated ISO 14396 in notes); engine type code as printed (make not stated in extract). Cooled exhaust gas recirculation stated (EGR true) plus SCR and closed diesel particle filter. Tipping load fully articulated per ISO 14397-1; bucket ISO 7546. Pump max flow 'attachment hydraulics', 350 bar. DEF tank 20 L, hydraulic system total as printed. Travel speed not stated in extract (null). Rated output 129 kW (ISO 14396). Lift arm 2.65 m."
+ },
+ {
+  "brand": "Liebherr",
+  "model": "L 546",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15410,
+  "engine": {
+   "make": null,
+   "model": "6068HB551",
+   "displacement_l": 6.8,
+   "cylinders": 6,
+   "power_kw_net": 148,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "SCR technology and closed diesel particle filter system"
+  },
+  "hydraulics": {
+   "pump_type": "Swash plate type variable flow pump",
+   "pump_flow_lpm": "200 (max flow, attachment hydraulics)",
+   "pump_flow_total_lpm": 200,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.0,
+   "breakout_force_kn": 140,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11010
+  },
+  "capacities": {
+   "fuel_l": 205,
+   "hydraulic_tank_l": 95
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://assets-cdn.liebherr.com/versions/acdf83f7-55e6-43a6-b5cf-fbfa5c01a6c4/original/",
+  "notes": "Official Liebherr L 526 - L 546 Generation 8 brochure, first column (Z-bar, standard). Net power ISO 9249/SAE J1349 (rated ISO 14396 in notes); engine type code as printed (make not stated in extract). Cooled exhaust gas recirculation stated (EGR true) plus SCR and closed diesel particle filter. Tipping load fully articulated per ISO 14397-1; bucket ISO 7546. Pump max flow 'attachment hydraulics', 350 bar. DEF tank 20 L, hydraulic system total as printed. Travel speed not stated in extract (null). Rated output 138 kW (ISO 14396). Lift arm 2.65 m."
+ }
+]

@@ -1,0 +1,471 @@
+[
+ {
+  "brand": "Lovol",
+  "model": "M754",
+  "category": "tractor",
+  "series": "M3000 (Compact Utility)",
+  "power_hp_rated": 74.8,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Doosan",
+   "model": "D24",
+   "cylinders": 4,
+   "displacement_l": 2.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical Transmission",
+   "speeds": "12F+12R",
+   "max_speed_kmh": 38.2,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "23+41 (pump capacity, L/min as published)",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": "2895 (ROPS) / 3055 (cab)",
+  "wheelbase_mm": 2070,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "380/85R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-m754?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Rated power published as 55 kW / 74.8 hp (page title says 75HP); standard not stated. Hydraulic pump capacity published as 23+41 L/min (flow_lpm kept as text). Weight 2895 kg ROPS / 3055 kg cab. Speed range 2.2-38.2 km/h. Within ~70 hp threshold."
+ },
+ {
+  "brand": "Lovol",
+  "model": "M904",
+  "category": "tractor",
+  "series": "M3000 (Compact Utility)",
+  "power_hp_rated": 100,
+  "power_hp_max": null,
+  "power_kw_rated": 73.6,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Doosan",
+   "model": "D34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical Transmission",
+   "speeds": "18F+18R",
+   "max_speed_kmh": 37.54,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "35+55",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2370,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-m904?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Rated power published 73.6 kW / 100 hp; standard not stated. Speed range 0.39-37.54 km/h. Hydraulic pump capacity 35+55 L/min."
+ },
+ {
+  "brand": "Lovol",
+  "model": "M1004",
+  "category": "tractor",
+  "series": "M3000 (Compact Utility)",
+  "power_hp_rated": 110,
+  "power_hp_max": null,
+  "power_kw_rated": 81.2,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Doosan",
+   "model": "D34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical Transmission",
+   "speeds": "18F+18R",
+   "max_speed_kmh": 37.54,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "35+55",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2370,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-m1004?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Rated power published 81.2 kW / 110 hp; standard not stated. Speed range 0.39-37.54 km/h. Hydraulic pump capacity 35+55 L/min."
+ },
+ {
+  "brand": "Lovol",
+  "model": "M1104",
+  "category": "tractor",
+  "series": "M3000 (Compact Utility)",
+  "power_hp_rated": 116,
+  "power_hp_max": null,
+  "power_kw_rated": 85.7,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Doosan",
+   "model": "D34",
+   "cylinders": 4,
+   "displacement_l": 3.4,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "Mechanical Transmission",
+   "speeds": "18F+18R",
+   "max_speed_kmh": 37.54,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "35+55",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2370,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-m1104?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Rated power published 85.7 kW / 116 hp; standard not stated. Speed range 0.39-37.54 km/h. Hydraulic pump capacity 35+55 L/min."
+ },
+ {
+  "brand": "Lovol",
+  "model": "P4110",
+  "category": "tractor",
+  "series": "P4000 (Utility)",
+  "power_hp_rated": 123,
+  "power_hp_max": null,
+  "power_kw_rated": 91,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Weichai",
+   "model": "WP4.6N",
+   "cylinders": 4,
+   "displacement_l": 4.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Power Shuttle",
+   "speeds": "18F+18R",
+   "max_speed_kmh": 37.54,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "35+55/65",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4800,
+  "wheelbase_mm": 2570,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-p4110?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Rated power published 91 kW / 123 hp; standard not stated. Page title 'P4110/M1104 Utility Tractor' (page text shared with M1104). Weichai 4.6 L turbo per description. Power shuttle. Hydraulic pump 35+55/65 L/min."
+ },
+ {
+  "brand": "Lovol",
+  "model": "P5130",
+  "category": "tractor",
+  "series": "P5000 (Utility)",
+  "power_hp_rated": 150,
+  "power_hp_max": null,
+  "power_kw_rated": 110,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Weichai",
+   "model": "WP4.6N",
+   "cylinders": 4,
+   "displacement_l": 4.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Power Shuttle + 3-Speed Power Shift",
+   "speeds": "45F+15R",
+   "max_speed_kmh": 39.5,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "40+70",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 5530,
+  "wheelbase_mm": 2560,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "380/70R28",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-p5130?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Rated power published as 110 kW / 150 hp with BOOST; nominal without boost not published, so stored as rated (boost). Speed range 0.34-39.5 km/h."
+ },
+ {
+  "brand": "Lovol",
+  "model": "F4100",
+  "category": "tractor",
+  "series": "F4000 (Orchard Tractor, in range)",
+  "power_hp_rated": 112.2,
+  "power_hp_max": null,
+  "power_kw_rated": 82.5,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Weichai",
+   "model": "WP3.6N",
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Power Shuttle (two versions)",
+   "speeds": "16F+16R / 28F+16R",
+   "max_speed_kmh": 39.9,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": "32+72",
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": "3035 (ROPS) / 3580 (cab)",
+  "wheelbase_mm": 2250,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "360/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://lovoltractor.eu/shop/tractor-f4100?category=1",
+  "notes": "Source: LOVOL Europe site (lovoltractor.eu), official European range page. Orchard/specialty tractor. Rated 82.5 kW / 112.2 hp; page title 112HP. Speed 1.05-39.9 / 0.32-39.9 km/h (with creeper). Hydraulic 32+72 L/min."
+ }
+]

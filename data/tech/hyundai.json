@@ -1,0 +1,2500 @@
+[
+ {
+  "brand": "Hyundai",
+  "model": "R220LC-9A",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 21900,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSB6.7",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 117,
+   "power_kw_gross": 124,
+   "rpm": 1950,
+   "emission_stage": "EU Stage IIIB / EPA Tier 4 interim",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement tandem-axis piston pumps",
+   "pump_flow_lpm": "2x228.2",
+   "pump_flow_total_lpm": 456.4,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 152.0,
+   "arm_dig_force_kn": 106.9,
+   "swing_speed_rpm": 10.7,
+   "travel_speed_kmh": 5.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6730,
+   "max_reach_mm": 9980,
+   "max_dump_height_mm": 9600,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 160
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "Catalegs/Altres/Hyundai/R220LC-9A.pdf (Specifications p.2-3, digging force and working range tables)",
+  "notes": "Weight with 600 mm triple grouser shoes, 5.68 m boom, 2.92 m arm, 0.92 m3 SAE heaped bucket. Dig forces ISO without power boost (SAE: bucket 133.4, arm 102.0 kN; ISO with power boost 165.0/116.1). Depth/reach/dump height with 5.68 m boom and 2.92 m arm. Pressures converted from 350 kgf/cm2 (power boost 380 kgf/cm2 = 373 bar). Engine: catalogue says Cummins Tier 4 interim & EU Stage IIIB; EGR/aftertreatment not stated. Pump flow 2 x 228.2 L/min."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "R800LC-9",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 83120,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSX15",
+   "displacement_l": 15.0,
+   "cylinders": 6,
+   "power_kw_net": 366,
+   "power_kw_gross": 380,
+   "rpm": 1800,
+   "emission_stage": "EPA Tier III",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement axial piston pumps",
+   "pump_flow_lpm": "2x504",
+   "pump_flow_total_lpm": 1008,
+   "system_pressure_bar": 324,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 443.3,
+   "arm_dig_force_kn": 333.4,
+   "swing_speed_rpm": 6.5,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7240,
+   "max_reach_mm": 12250,
+   "max_dump_height_mm": 11750,
+   "bucket_capacity_m3": 4.53,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 940,
+   "hydraulic_tank_l": 450
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "Catalegs/Altres/Hyundai/R800 lc-9.pdf (Specifications, digging force and working range tables)",
+  "notes": "Weight with 700 mm double grouser shoes, 7.2 m boom, 2.95 m arm, 4.53 m3 SAE heaped bucket (80 t class vs ZE750G 76.5 t). Dig forces ISO without power boost (SAE 388.3/318.7 kN). Depth/reach/dump height with 7.2 m boom and 2.95 m arm. Pressure converted from 330 kgf/cm2 (power boost 360 kgf/cm2 = 353 bar). Catalogue states Cummins Tier III QSX15; EGR/aftertreatment not stated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HSL650-7A",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 2690,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 34.3,
+   "power_kw_gross": 35.5,
+   "rpm": 2500,
+   "emission_stage": "EPA Tier 3 / EU Stage IIIa",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "66.3",
+   "pump_flow_total_lpm": 66.3,
+   "system_pressure_bar": 172,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2240,
+   "bucket_capacity_m3": 0.31,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 650,
+   "tipping_load_kg": 1310
+  },
+  "capacities": {
+   "fuel_l": 60,
+   "hydraulic_tank_l": 38
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "Catalegs/Altres/Hyundai/HSL650-HSL850-7A_EN_LOW.pdf (Specifications p.8)",
+  "notes": "Catalogue lists 'nominal capacity' 650 kg as rated operating capacity. Pressure converted from 175 kg/cm2. Engine displacement not stated in catalogue. Tier 3 / Stage IIIa. Breakout force not published. Radial/vertical lift type not stated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HSL850-7A",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 3355,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-T",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 53.5,
+   "power_kw_gross": 55.4,
+   "rpm": 2400,
+   "emission_stage": "EPA Tier 3 / EU Stage IIIa",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "63.9",
+   "pump_flow_total_lpm": 63.9,
+   "system_pressure_bar": 172,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2410,
+   "bucket_capacity_m3": 0.37,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 860,
+   "tipping_load_kg": 1718
+  },
+  "capacities": {
+   "fuel_l": 83,
+   "hydraulic_tank_l": 57
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "Catalegs/Altres/Hyundai/HSL650-HSL850-7A_EN_LOW.pdf (Specifications p.8)",
+  "notes": "Catalogue lists 'nominal capacity' 860 kg as rated operating capacity. Pressure converted from 175 kg/cm2. Engine displacement not stated. High flow attachment control is optional (flow not stated). Breakout force not published."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL760-7A",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 17900,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSB6.7",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 153,
+   "power_kw_gross": 160,
+   "rpm": 2100,
+   "emission_stage": "EPA Tier III / EU Stage IIIA",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Helical gear pump, open centre tandem circuit",
+   "pump_flow_lpm": "280",
+   "pump_flow_total_lpm": 280,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 34.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3000,
+   "bucket_capacity_m3": 3.1,
+   "breakout_force_kn": 156.4,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13840
+  },
+  "capacities": {
+   "fuel_l": 330,
+   "hydraulic_tank_l": 150
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "Catalegs/Altres/Hyundai/Hl760 7a.pdf (Spanish catalogue, Especificaciones p.11-12)",
+  "notes": "Conventional diesel loader vs electric ZWL55GE (19.2 t). Weight/bucket for standard HL760-7A (3.1 m3 heaped). Breakout 15,950 kg converted to kN (x9.80665). Tipping load 13,840 kg straight, 12,100 kg full turn (value shown is straight). Dump clearance 3,000 mm at max height, 45 deg. Pressure converted from 210 kg/cm2. Engine meets EPA Tier III / EU Stage IIIA. Max travel 34.3 km/h forward."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX17A Z",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1850,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 12.1,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no after-treatment devices)",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2440,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx17a-z",
+  "notes": "Power: summary block shows 12.1 kW; body text says '16.5 kW (12.1 hp) gross'. Since 16.5 hp = 12.3 kW (and HX10A Z text 7.6 kW = 10.35 hp, HX25A Z 18.5 kW = 24.8 hp are self-consistent), the kW/hp units in the HX17A/HX19A text are swapped: 12.1 kW (16.5 hp) gross stored in power_kw_gross. Stage V, no exhaust after-treatment. Max torque 54.6 Nm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX19A",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20G"
+  ],
+  "weight_kg": 1885,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 12.1,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no after-treatment)",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2540,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx19a",
+  "notes": "Power: summary block shows 12.1 kW; body text says '16.5 kW (12.1 hp) gross'. Since 16.5 hp = 12.3 kW (and HX10A Z text 7.6 kW = 10.35 hp, HX25A Z 18.5 kW = 24.8 hp are self-consistent), the kW/hp units in the HX17A/HX19A text are swapped: 12.1 kW (16.5 hp) gross stored in power_kw_gross. Stage V, no exhaust after-treatment. Max torque 54.6 Nm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX19e",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20GE"
+  ],
+  "weight_kg": 2296,
+  "engine": {
+   "make": "Electric (battery)",
+   "model": "Electric (32/40 kWh Li-ion battery)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 13
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2340,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx19e",
+  "notes": "Electric excavator; 32 kWh / 40 kWh lithium-ion battery; up to 10 h runtime per page. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Battery-electric: 32kWh / 40kWh Lithium-ion Battery; engine fields not applicable. Battery capacity on page: 32-40 kWH."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX25A Z",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2685,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1305",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 18.5,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2515,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.06,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx25a-z",
+  "notes": "Stage V engine 18.5 kW per page text. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Max torque 81.4 Nm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX35A Z",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3880,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 18.5,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no after-treatment)",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2980,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.09,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx35a-z",
+  "notes": "Page text calls it a 3.5 t machine; summary weight 3,880 kg. No exhaust after-treatment per page. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Max torque 97.4 Nm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX55A CR",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU"
+  ],
+  "weight_kg": 5355,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV86CT",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 35.5
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3750,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.15,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx55a-cr",
+  "notes": "Compact radius, Stage V. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Max torque 176.6 Nm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX65A",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE60G"
+  ],
+  "weight_kg": 6080,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DM02VB",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "exhaust aftertreatment, no additives",
+   "power_kw_rated": 48.5
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.18,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx65a",
+  "notes": "Weight range 6,080-6,460 kg (lowest stored). Aftertreatment system requires no costly additives (no AdBlue). Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Max torque 248 Nm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX85A",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8480,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF (self-regenerating), no SCR",
+   "power_kw_rated": 49.9
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "144",
+   "pump_flow_total_lpm": 144.0,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 61.7,
+   "arm_dig_force_kn": 41.4,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4290,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.25,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx85a",
+  "notes": "Page lists 'Exhaust aftertreatment by EGR / DOC / DPF (no SCR)' and both Yanmar 4TNV98C and Hyundai D34 engines in text; engine given here per page text is ambiguous (Yanmar 4TNV98C Stage V named explicitly). Power not given in summary. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page dig depth range 4,290 - 4,640 mm (arm options); lowest stored; Bucket breakout converted from 6,289.9 kgf (kgf x 0.00980665); Arm crowd converted from 4,221.6 kgf."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX130A LCR",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G"
+  ],
+  "weight_kg": 13445,
+  "engine": {
+   "make": "Cummins",
+   "model": "F3.8",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "no AdBlue needed (no SCR)",
+   "power_kw_rated": 55
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 98.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 3.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5640,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx130a-lcr",
+  "notes": "Bucket range 0.50-0.61 m3. Engine EGR-free per page; no AdBlue needed. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Breakout Force' 98/107 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165); Bucket range on page: 0.50 - 0.61 cubic meter; Tail swing radius 2345 mm. Check: page prints 55 kW for this 13.4 t machine with a Cummins F3.8 (same engine family as HX140A L at 100 kW); figure kept as printed but looks inconsistent."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX140A L",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14405,
+  "engine": {
+   "make": "Cummins",
+   "model": "F3.8",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": null,
+   "power_kw_rated": 100
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6015,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx140al",
+  "notes": "Bucket range 0.50-0.77 m3. EGR-free design per page. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Breakout Force' 103/112 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165); Bucket range on page: 0.50 - 0.77 cubic meter; Tail swing radius 2345 mm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX145A LCR",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE145GU"
+  ],
+  "weight_kg": 15430,
+  "engine": {
+   "make": "Cummins",
+   "model": "F3.8",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": null,
+   "power_kw_rated": 100
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 88.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6015,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx145a-lcr",
+  "notes": "Compact radius (short tailswing). Bucket range 0.50-0.77 m3. EGR-free per page. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Breakout Force' 88/95 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165); Bucket range on page: 0.50 - 0.77 cubic meter; Tail swing radius 1530 mm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX210A L",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 22150,
+  "engine": {
+   "make": "Cummins",
+   "model": "B4.5",
+   "displacement_l": 4.5,
+   "cylinders": 4,
+   "power_kw_net": 127,
+   "power_kw_gross": 129,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "integrated after-treatment system incl. DPF",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement tandem-axis piston pumps",
+   "pump_flow_lpm": "2x234",
+   "pump_flow_total_lpm": 468,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 152.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": 5.8,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7610,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 400,
+   "hydraulic_tank_l": 160
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx210al-hx210anl ; brochure: https://www.lectura-specs.com/datasheet-downloads/hx210al-210anl-en(f0a).pdf",
+  "notes": "Bucket range 0.80-1.34 m3. Page: 129 kW (173 hp), EGR-free after-treatment, DPF cleaning only when alerted. Current successor class to R220LC-9A. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Breakout Force' 152/165 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165); Bucket range on page: 0.80 - 1.34 cubic meter; Tail swing radius 2850 mm. Brochure (official Hyundai brochure copy hosted at https://www.lectura-specs.com/datasheet-downloads/hx210al-210anl-en(f0a).pdf): Cummins B4.5 4 cyl 4.5 L, gross 129 kW / net 127 kW at 2200 rpm, 2x234 L/min, relief 350 kgf/cm2 (=343 bar, converted), swing 12 rpm, travel 5.8/3.7 km/h, gradeability 35 deg (70%), fuel 400 L, hydraulic tank 160 L, DEF tank 48 L. Brochure data refers to HX210A L (22,150 kg with 600 mm shoes); not cross-checked for later production changes."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX300 L",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 31690,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DX08",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF",
+   "power_kw_rated": 207
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x288",
+   "pump_flow_total_lpm": 576,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx300l",
+  "notes": "Bucket range 0.45-1.63 m3; page text: up to 207 kW, 1,230 Nm; 206 kN figure appears in page text without label. DPF mentioned (ash cleaning 8,000 h). Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Dig depth 14610 mm printed on page (implausible for 31.7 t class), not used; Bucket range on page: 0.45 - 1.63 cubic meter; Max torque 1230 @ 1,300 rpm Nm; Tail swing radius 3207 mm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX360 L",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE375G"
+  ],
+  "weight_kg": 36390,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DX08",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF",
+   "power_kw_rated": 227
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x350",
+   "pump_flow_total_lpm": 700,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 219.5,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6695,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx360l",
+  "notes": "Bucket range 1.28-2.50 m3; page text up to 227 kW, 1,460 Nm. Page also mentions Cummins X12 Stage V in text (engine make ambiguous; summary says Hyundai / DX08). Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Breakout Force' 219.5/242.4 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165); Bucket range on page: 1.28 - 2.50 cubic meter; Tail swing radius 3530 mm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX800A L",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 82100,
+  "engine": {
+   "make": "Perkins",
+   "model": "2506J",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "combined exhaust after-treatment system",
+   "power_kw_rated": 402
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x504",
+   "pump_flow_total_lpm": 1008,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8995,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx800al",
+  "notes": "Bucket range 3.4-5.2 m3. Stage V Perkins 2506J, 402 kW at 2,100 rpm per page; 'combined exhaust after-treatment system'. Current Europe alternative to the local R800LC-9 entry. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Bucket range on page: 3.4 - 5.2 cubic meter; Tail swing radius 4100 mm."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL960A",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 19450,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment system",
+   "power_kw_rated": 168
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3365,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 173.6,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 14500
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl960a",
+  "notes": "Bucket range 2.9-3.3 m3. All-in-one exhaust aftertreatment system. Newer Stage V counterpart to the local HL760-7A entry. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Breakout force converted from 17705 kg (kgf x 0.00980665); Bucket range on page: 2.9 - 3.3 cubic meter."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL970A",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 24200,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment system",
+   "power_kw_rated": 242
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3570,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 213.0,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 18350
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl970a",
+  "notes": "Bucket range 3.6-4.2 m3. All-in-one exhaust aftertreatment system. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Breakout force converted from 21715 kg (kgf x 0.00980665); Bucket range on page: 3.6 - 4.2 cubic meter."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HS80V",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 3404,
+  "engine": {
+   "make": "Hyundai",
+   "model": "4HT4 / 4HT5",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no DEF/after-treatment)",
+   "power_kw_rated": 49.5
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 16.8,
+   "rated_operating_capacity_kg": 885,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/skid-steer-loaders/hs80v",
+  "notes": "Vertical lift. Page label 'Tipping Load 885 kg (at 50%)', i.e. 50% rating = rated operating capacity (stored as ROC). Stage V without DEF/after-treatment. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Tipping Load' 885 (at 50%) kg kg is the operating load at 50% of tipping load (stored as rated_operating_capacity_kg; actual tipping load not published); Page lists '64 l/min' under 'Hydraulic System (including tank)' (a flow figure under a capacity heading; not stored)."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HS120V",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 3845,
+  "engine": {
+   "make": "Hyundai",
+   "model": "4HT14 / 4HT15",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no DEF/after-treatment)",
+   "power_kw_rated": 54.9
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 19.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 28.2,
+   "rated_operating_capacity_kg": 1200,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/skid-steer-loaders/hs120v",
+  "notes": "Vertical lift. Page label 'Tipping Load 1,200 kg (at 50%)' stored as ROC. Stage V without DEF/after-treatment. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Tipping Load' 1200 (at 50%) kg kg is the operating load at 50% of tipping load (stored as rated_operating_capacity_kg; actual tipping load not published); Page lists '128.8 l/min' under 'Hydraulic System (including tank)' (a flow figure under a capacity heading; not stored)."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HT100V",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4330,
+  "engine": {
+   "make": "Hyundai",
+   "model": "4HT14 / 4HT15",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no DEF/after-treatment)",
+   "power_kw_rated": 54.9
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 27.6,
+   "rated_operating_capacity_kg": 1043,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/compact-track-loaders/ht100v",
+  "notes": "Vertical lift. Page label 'Tipping Load 1,043 kg (at 35%)' = 35% rating stored as ROC. Stage V without DEF/after-treatment. Source: Hyundai CE Europe product page summary block only (full spec table is gated behind a brochure form, not downloaded), so hydraulics, forces, speeds, depths and capacities are null. 'Engine Power' as printed on page without net/gross label (stored in engine.power_kw_rated; net/gross null). Completeness pass additions: Page 'Tipping Load' 1043 (at 35%) kg kg is the operating load at 35% of tipping load (stored as rated_operating_capacity_kg; actual tipping load not published); Page lists '128.8 l/min' under 'Hydraulic System (including tank)' (a flow figure under a capacity heading; not stored)."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX160A L",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17695,
+  "engine": {
+   "make": "Cummins",
+   "model": "B4.5",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": null,
+   "power_kw_rated": 113.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 126.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6530,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx160al",
+  "notes": "Page 'Breakout Force' 126/137 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165) | Bucket range on page: 0.73 - 0.96 cubic meter | Tail swing radius 2490 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX180A L",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 18665,
+  "engine": {
+   "make": "Cummins",
+   "model": "B4.5",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": null,
+   "power_kw_rated": 113.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 126.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6530,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx180al",
+  "notes": "Page 'Breakout Force' 126/137 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165) | Bucket range on page: 0.73 - 0.96 cubic meter | Tail swing radius 2490 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX210",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 21990,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DX05",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (ash cleaning interval stated); other devices not stated",
+   "power_kw_rated": 141.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x213",
+   "pump_flow_total_lpm": 426,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7220,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx210",
+  "notes": "Bucket range on page: 0.60 - 1.40 cubic meter | Max torque 830 @ 1,400 rpm Nm | Tail swing radius 2905 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX230",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23390,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DX05",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (ash cleaning interval stated); other devices not stated",
+   "power_kw_rated": 141.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x218",
+   "pump_flow_total_lpm": 436,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7220,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx230",
+  "notes": "Bucket range on page: 0.39 - 1.40 cubic meter | Max torque 955 @ 1,400 rpm Nm | Tail swing radius 2855 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX235A LCR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24000,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "integrated single-module exhaust after-treatment, EGR removed",
+   "power_kw_rated": 129.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 152.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6380,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx235alcr",
+  "notes": "Page 'Breakout Force' 152/165 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165) | Bucket range on page: 0.80 - 1.34 cubic meter | Tail swing radius 1780 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX260",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 28220,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DX05",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (ash cleaning interval stated); other devices not stated",
+   "power_kw_rated": 171.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x238",
+   "pump_flow_total_lpm": 476,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7310,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx260",
+  "notes": "Bucket range on page: 0.60 - 1.41 cubic meter | Max torque 955 @ 1,200 rpm Nm | Tail swing radius 3040 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX400",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 40360,
+  "engine": {
+   "make": "Hyundai",
+   "model": "DX08",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF (ash cleaning interval stated); other devices not stated",
+   "power_kw_rated": 254.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x350",
+   "pump_flow_total_lpm": 700,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 219.7,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8110,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx400l",
+  "notes": "Page 'Breakout Force' 219.7/232.4 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165) | Bucket range on page: 1.28 - 2.50 cubic meter | Tail swing radius 3530 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX480A L",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 50690,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment (AdBlue/DEF level switch)",
+   "power_kw_rated": 298.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 247.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx480al",
+  "notes": "Dig depth 12020 mm printed on page (implausible for standard 50 t excavator; likely a long-reach variant), not used | Page 'Breakout Force' 247/268 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165) | Bucket range on page: 1.38 - 3.20 cubic meter | Tail swing radius 3800 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX520A L",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52048,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment (AdBlue/DEF)",
+   "power_kw_rated": 298.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 247.0,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx520al",
+  "notes": "Dig depth 11870 mm printed on page (implausible, likely a long-reach variant), not used | Page 'Breakout Force' 247/268 kN: first value stored as bucket force (normal), second is likely the power-boost value (Hyundai convention, e.g. HX210A L 152/165) | Bucket range on page: 1.00 - 3.20 cubic meter | Tail swing radius 3800 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX1000A L",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 100400,
+  "engine": {
+   "make": "Perkins",
+   "model": "2806J",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "combined exhaust after-treatment system",
+   "power_kw_rated": 469.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "3x523",
+   "pump_flow_total_lpm": 1569,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8795,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/crawler-excavators/hx1000al",
+  "notes": "Bucket range on page: 5.4 - 6.8 cubic meter | Tail swing radius 4620 mm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX10A Z",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1165,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 7.6,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2205,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.02,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx10a-z",
+  "notes": "Max torque 39.4 Nm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX30A Z",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2890,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1305",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 18.5,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2695,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.06,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx30a-z",
+  "notes": "Max torque 81.4 Nm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX40A",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4390,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV88C",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 29.1,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3420,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.09,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx40a",
+  "notes": "Max torque 144.9 Nm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HX48A Z",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 5030,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV88C",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 29.1,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3500,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.13,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/hx48a-z",
+  "notes": "Max torque 144.9 Nm Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "R80CR-9A",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8350,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 49.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x68.4",
+   "pump_flow_total_lpm": 136.8,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 55.9,
+   "arm_dig_force_kn": 42.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4180,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/excavators/compact-excavators/r80cr-9a",
+  "notes": "Bucket breakout converted from 5,700 kgf (kgf x 0.00980665) | Arm crowd converted from 4,300 kgf | Bucket range on page: 0.14 m³ - 0.28 m³ Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL930A",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 11500,
+  "engine": {
+   "make": "Cummins",
+   "model": "B4.5",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "all-in-one aftertreatment, no EGR",
+   "power_kw_rated": 99.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2700,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": 89.7,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 9100
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl930a",
+  "notes": "Breakout force converted from 9150 kg (kgf x 0.00980665) Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL940A",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 13400,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment",
+   "power_kw_rated": 116.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2795,
+   "bucket_capacity_m3": 2.3,
+   "breakout_force_kn": 117.1,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 10100
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl940a",
+  "notes": "Breakout force converted from 11940 kg (kgf x 0.00980665) Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL955A",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15800,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment",
+   "power_kw_rated": 149.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2785,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 140.9,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11300
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl955a",
+  "notes": "Breakout force converted from 14370 kg (kgf x 0.00980665) | Bucket range on page: 2.40 - 2.8 cubic meter Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL975",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 26500,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "all-in-one exhaust aftertreatment, no EGR",
+   "power_kw_rated": 250.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3485,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 229.8,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 20000
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl975a",
+  "notes": "Breakout force converted from 23435 kg (kgf x 0.00980665) | Bucket range on page: 4.1 - 4.8 cubic meter Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL975A CVT",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 26500,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": null,
+   "power_kw_rated": 250.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl975a-cvt",
+  "notes": "Bucket range on page: 4.1 - 4.8 cubic meter Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL980A",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 30800,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "all-in-one exhaust aftertreatment",
+   "power_kw_rated": 265.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3620,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 241.9,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 23500
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl980a",
+  "notes": "Breakout force converted from 24670 kg (kgf x 0.00980665) | Bucket range on page: 5 - 6.3 cubic meter Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL985A",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 33800,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 321.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3360,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 278.5,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 26500
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl985a",
+  "notes": "Breakout force converted from 28400 kg (kgf x 0.00980665) | Bucket range on page: 6.5 - 7 cubic meter Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ },
+ {
+  "brand": "Hyundai",
+  "model": "HL985A BH",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 34400,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 265.0
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3015,
+   "bucket_capacity_m3": 5.0,
+   "breakout_force_kn": 243.2,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 28400
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hyundai-ce.eu/en/products/loaders/wheel-loaders/hl985a-bh",
+  "notes": "Breakout force converted from 24800 kg (kgf x 0.00980665) Source: Hyundai CE Europe product page (summary block and key-spec block; full spec sheet/brochure is behind a lead form and was not submitted). 'Engine Power' printed without net/gross label unless stated; stored in engine.power_kw_rated."
+ }
+]

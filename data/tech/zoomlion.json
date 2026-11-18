@@ -1,0 +1,1226 @@
+[
+ {
+  "brand": "Zoomlion",
+  "model": "ZE135G",
+  "category": "excavator",
+  "equivalent_to": null,
+  "weight_kg": 14400,
+  "engine": {
+   "make": "CUMMINS",
+   "model": "F3.8",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 100,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 108,
+   "arm_dig_force_kn": 69,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5505,
+   "max_reach_mm": 8420,
+   "max_dump_height_mm": 5885,
+   "bucket_capacity_m3": 0.55,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze135g.pdf (page 1)",
+  "notes": "Boom 4600 mm, arm 2500 mm. Standard bucket HD 0.55 m3 (range 0.1-0.6). Dozer blade optional. Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 8290 mm. Max digging height 8465 mm. Max drawbar pull 130 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE145GU",
+  "category": "excavator",
+  "equivalent_to": null,
+  "weight_kg": 15800,
+  "engine": {
+   "make": "CUMMINS",
+   "model": "F3.8",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 90,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 108,
+   "arm_dig_force_kn": 69,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5535,
+   "max_reach_mm": 8410,
+   "max_dump_height_mm": 6760,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze145gu.pdf (page 1)",
+  "notes": "Boom 4600 mm, arm 2500 mm. Standard bucket 0.6 m3 (range 0.1-0.6). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 8265 mm. Max digging height 9390 mm. Max drawbar pull 130 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE18GU",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 1800,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902",
+   "displacement_l": 0.898,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 11.8,
+   "rpm": 2300,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 17,
+   "arm_dig_force_kn": 10,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 3.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2316,
+   "max_reach_mm": 3910,
+   "max_dump_height_mm": 2429,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze18gu.pdf (page 1)",
+  "notes": "Boom 1830 mm, arm 950 mm. Standard bucket 0.04 m3 (range 0.016-0.053). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 3845 mm. Max digging height 3542 mm. Max drawbar pull 13.5 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE20G",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 1970,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": 1.123,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 15.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 18,
+   "arm_dig_force_kn": 8.5,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2555,
+   "max_reach_mm": 4130,
+   "max_dump_height_mm": 2550,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze20g.pdf (page 1)",
+  "notes": "Boom 1830 mm, arm 1190 mm. Standard bucket 0.04 m3. Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 4070 mm. Max digging height 3630 mm. Max drawbar pull 16.6 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE210GLC",
+  "category": "excavator",
+  "equivalent_to": null,
+  "weight_kg": null,
+  "engine": {
+   "make": "CUMMINS",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 129,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 150,
+   "arm_dig_force_kn": 109,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6680,
+   "max_reach_mm": 9920,
+   "max_dump_height_mm": 7120,
+   "bucket_capacity_m3": 1.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze210glc.pdf (page 1)",
+  "notes": "Boom 5700 mm, arm 2925 mm. Operating weight stated as range 22700-23600 kg (weight_kg left null). Standard bucket 1.2 m3 (range 1.0-1.2). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 9740 mm. Max digging height 9820 mm. Max drawbar pull 210 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE225GN",
+  "category": "excavator",
+  "equivalent_to": null,
+  "weight_kg": 23000,
+  "engine": {
+   "make": "CUMMINS",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 129,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 150,
+   "arm_dig_force_kn": 109,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6660,
+   "max_reach_mm": 9900,
+   "max_dump_height_mm": 7150,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze225gn.pdf (page 1)",
+  "notes": "Boom 5700 mm, arm 2925 mm. Standard bucket 1.1 m3 (range 0.85-1.1). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 9720 mm. Max digging height 9980 mm. Max drawbar pull 210 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE26GU",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 2750,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": 1.123,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 15.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 23.1,
+   "arm_dig_force_kn": 13.8,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2881,
+   "max_reach_mm": 4909,
+   "max_dump_height_mm": 2976,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze26gu.pdf (page 1)",
+  "notes": "Boom 2100 mm, arm 1300 mm. Standard bucket 0.08 m3 (range 0.037-0.15). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 4794 mm. Max digging height 4412 mm. Max drawbar pull 23.9 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE27GU",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 2700,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1105",
+   "displacement_l": 1.123,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 15.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 23.1,
+   "arm_dig_force_kn": 13.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2880,
+   "max_reach_mm": 4910,
+   "max_dump_height_mm": 2975,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze27gu.pdf (page 1)",
+  "notes": "Boom 2100 mm, arm 1300 mm. Standard bucket 0.08 m3. Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 4795 mm. Max digging height 4410 mm. Max drawbar pull 23.9 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE335G",
+  "category": "excavator",
+  "equivalent_to": null,
+  "weight_kg": 33500,
+  "engine": {
+   "make": "CUMMINS",
+   "model": "L9",
+   "displacement_l": 8.9,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 209,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 223,
+   "arm_dig_force_kn": 181,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6940,
+   "max_reach_mm": 10625,
+   "max_dump_height_mm": 6600,
+   "bucket_capacity_m3": 1.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze335g.pdf (page 1)",
+  "notes": "Boom 6150 mm, arm 2900 mm. Standard bucket HD 1.6 m3 (range 1.6-1.9). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 10430 mm. Max digging height 9740 mm. Max drawbar pull 266 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE35GU",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 3790,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703",
+   "displacement_l": 1.647,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 31.5,
+   "arm_dig_force_kn": 19.5,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3003,
+   "max_reach_mm": 5525,
+   "max_dump_height_mm": 3438,
+   "bucket_capacity_m3": 0.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze35gu.pdf (page 1)",
+  "notes": "Boom 2540 mm, arm 1350 mm. Standard bucket 0.1 m3 (range 0.038-0.17). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 5407 mm. Max digging height 4859 mm. Max drawbar pull 31.6 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE36GU",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 3790,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1703",
+   "displacement_l": 1.647,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 31.5,
+   "arm_dig_force_kn": 19.5,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3005,
+   "max_reach_mm": 5525,
+   "max_dump_height_mm": 3440,
+   "bucket_capacity_m3": 0.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze36gu.pdf (page 1)",
+  "notes": "Boom 2540 mm, arm 1350 mm. Standard bucket 0.1 m3. Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 5410 mm. Max digging height 4860 mm. Max drawbar pull 31.6 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE375G",
+  "category": "excavator",
+  "equivalent_to": null,
+  "weight_kg": 37500,
+  "engine": {
+   "make": "CUMMINS",
+   "model": "L9",
+   "displacement_l": 8.9,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 242,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 248,
+   "arm_dig_force_kn": 204,
+   "swing_speed_rpm": 10.6,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7075,
+   "max_reach_mm": 10870,
+   "max_dump_height_mm": 6885,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze375g.pdf (page 1)",
+  "notes": "Boom 6400 mm, arm 2900 mm. Standard bucket HD 1.9 m3 (range 1.6-1.9). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 10675 mm. Max digging height 10010 mm. Max drawbar pull 320 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE55GU",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 5800,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2607",
+   "displacement_l": 2.615,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 35,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 44,
+   "arm_dig_force_kn": 28,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3670,
+   "max_reach_mm": 6135,
+   "max_dump_height_mm": 3885,
+   "bucket_capacity_m3": 0.16,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze55gu.pdf (page 1)",
+  "notes": "Boom 2850 mm, arm 1570 mm. Standard bucket 0.16 m3. Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 5995 mm. Max digging height 5560 mm. Max drawbar pull 48 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE60G",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 5950,
+  "engine": {
+   "make": "YANMAR",
+   "model": "4TNV98C",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 42.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 45.5,
+   "arm_dig_force_kn": 28.5,
+   "swing_speed_rpm": 10.8,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3850,
+   "max_reach_mm": 6160,
+   "max_dump_height_mm": 3980,
+   "bucket_capacity_m3": 0.23,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze60g.pdf (page 1)",
+  "notes": "Boom 3000 mm, arm 1550 mm. Standard bucket 0.23 m3. Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 5960 mm. Max digging height 5790 mm. Max drawbar pull 50.2 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE75G",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 7500,
+  "engine": {
+   "make": "YANMAR",
+   "model": "4TNV98C",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 42.4,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 56,
+   "arm_dig_force_kn": 38,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4046,
+   "max_reach_mm": 6270,
+   "max_dump_height_mm": 5128,
+   "bucket_capacity_m3": 0.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/ze75g.pdf (page 1)",
+  "notes": "Boom 3720 mm, arm 1620 mm. Standard bucket 0.3 m3. Classified mini_excavator by weight (7.5 t). Travel speed = high range (low range in datasheet). Max reach = max digging radius; at ground level 6120 mm. Max digging height 7003 mm. Max drawbar pull 64.3 kN. Engine power is 'rated power' (gross/net not stated) in power_kw_rated. Track shoes, hydraulics, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE20GE",
+  "category": "mini_excavator",
+  "equivalent_to": null,
+  "weight_kg": 2100,
+  "engine": {
+   "make": null,
+   "model": "Permanent magnet synchronous electric motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 10,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Main pump 35 cc displacement",
+   "pump_flow_lpm": "56",
+   "pump_flow_total_lpm": 56,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 18.2,
+   "arm_dig_force_kn": 8.5,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2555,
+   "max_reach_mm": 4130,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 21
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "docs/ze20ge.pdf (page 7)",
+  "notes": "Battery-electric: 29 kWh LFP battery, 48 V, 10 kW @ 2200 rpm (rated), rated torque 43.5 N.m. Boom 1830 mm, arm 1190 mm, rubber tracks standard, 0.04 m3 bucket. Dig forces ISO. Working oil circuit 25 MPa; max flow 56 L/min. Max reach 4130 mm (4070 mm at ground level); max dig height 3630 mm; hydraulic system fill 27 L. Travel speed high range (low 2.2). Max dump height not stated. Cab ROPS/FOPS and A/C marked standard (page 8)."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZS030R",
+  "category": "skid_steer",
+  "equivalent_to": null,
+  "weight_kg": 1293,
+  "engine": {
+   "make": "KUBOTA",
+   "model": "D1105",
+   "displacement_l": 1.123,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 18.2,
+   "rpm": 3000,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 10.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 1959,
+   "bucket_capacity_m3": 0.18,
+   "breakout_force_kn": 8.7,
+   "rated_operating_capacity_kg": 345,
+   "tipping_load_kg": 690
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/zs030r.pdf (page 1)",
+  "notes": "Operating weight, standard bucket 0.18 m3. Breakout = bucket breakout force ('fuerza de arranque del cubo'); lift-arm breakout 7.6 kN; datasheet lists a 'hook' force of 10.1 kN (labelled as speed in the sheet, not used). Max hinge pin height 3075 mm, dump reach 403 mm. Engine power is rated power (gross/net not stated) in power_kw_rated. Hydraulics, aux flow, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZS090V",
+  "category": "skid_steer",
+  "equivalent_to": null,
+  "weight_kg": 2998,
+  "engine": {
+   "make": "KUBOTA",
+   "model": "V2403-CR-T",
+   "displacement_l": 2.434,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 47.9,
+   "rpm": 2700,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2377,
+   "bucket_capacity_m3": 0.44,
+   "breakout_force_kn": 18.5,
+   "rated_operating_capacity_kg": 901,
+   "tipping_load_kg": 1802
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/zs090v.pdf (page 1)",
+  "notes": "Operating weight, standard bucket 0.44 m3. Breakout = bucket breakout force ('fuerza de arranque del cubo'); lift-arm breakout 16.5 kN; datasheet lists a 'hook' force of 23 kN (labelled as speed in the sheet, not used). Max hinge pin height 3826 mm, dump reach 790 mm. Engine power is rated power (gross/net not stated) in power_kw_rated. Hydraulics, aux flow, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZS120V",
+  "category": "skid_steer",
+  "equivalent_to": null,
+  "weight_kg": 3755,
+  "engine": {
+   "make": "KUBOTA",
+   "model": "V3307",
+   "displacement_l": 3.33,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 53.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 11.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2510,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": 25.9,
+   "rated_operating_capacity_kg": 1350,
+   "tipping_load_kg": 2700
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/zs120v.pdf (page 1)",
+  "notes": "Operating weight, standard bucket 0.6 m3. Breakout = bucket breakout force ('fuerza de arranque del cubo'); lift-arm breakout 23.1 kN; datasheet lists a 'hook' force of 28 kN (labelled as speed in the sheet, not used). Max hinge pin height 4115 mm, dump reach 856 mm. Engine power is rated power (gross/net not stated) in power_kw_rated. Hydraulics, aux flow, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZT090V",
+  "category": "compact_track_loader",
+  "equivalent_to": null,
+  "weight_kg": 3520,
+  "engine": {
+   "make": "KUBOTA",
+   "model": "V2403-CR",
+   "displacement_l": 2.434,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 47.9,
+   "rpm": 2700,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 16.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2390,
+   "bucket_capacity_m3": 0.44,
+   "breakout_force_kn": 18.5,
+   "rated_operating_capacity_kg": 917,
+   "tipping_load_kg": 2620
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/zt090v.pdf (page 1)",
+  "notes": "Operating weight, standard bucket 0.44 m3. Breakout = bucket breakout force ('fuerza de arranque del cubo'); lift-arm breakout 16.5 kN; datasheet lists a 'hook' force of 33 kN (labelled as speed in the sheet, not used). Max hinge pin height 3855 mm, dump reach 830 mm. Engine power is rated power (gross/net not stated) in power_kw_rated. Hydraulics, aux flow, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZT120V",
+  "category": "compact_track_loader",
+  "equivalent_to": null,
+  "weight_kg": 4350,
+  "engine": {
+   "make": "KUBOTA",
+   "model": "V3307",
+   "displacement_l": 3.331,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 53.4,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 14,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2510,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": 25.9,
+   "rated_operating_capacity_kg": 1210,
+   "tipping_load_kg": 3457
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "docs/zt120v.pdf (page 1)",
+  "notes": "Operating weight, standard bucket 0.6 m3. Breakout = bucket breakout force ('fuerza de arranque del cubo'); lift-arm breakout 23.1 kN; datasheet lists a 'hook' force of 39.9 kN (labelled as speed in the sheet, not used). Max hinge pin height 4131 mm, dump reach 980 mm. Engine power is rated power (gross/net not stated) in power_kw_rated. Hydraulics, aux flow, capacities and cab not in datasheet."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZWL55GE",
+  "category": "wheel_loader",
+  "equivalent_to": null,
+  "weight_kg": 19200,
+  "engine": {
+   "make": null,
+   "model": "Electric drive (permanent magnet synchronous traction motor + hydraulic motor)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 185,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Fixed-variable displacement system; steering: swash-plate variable piston pump; working: silent gear pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 61,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3400,
+   "bucket_capacity_m3": 3.5,
+   "breakout_force_kn": 182,
+   "rated_operating_capacity_kg": 5800,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "docs/zwl55ge.pdf (page 9)",
+  "notes": "Battery-electric wheel loader, 282 kWh battery, 618 V nominal; 'power' = machine power 185 kW (datasheet cover); travel motor peak 200 kW, hydraulic motor peak 160 kW. Bucket 3.5 m3 SAE (range 2.7-4.5). Rated payload 5800 kg. Tipping load given in kN, not kg (straight 150+-5 kN, full turn 130+-5 kN), so tipping_load_kg left null. Dump height at 45 deg; dump reach 1190 mm; digging depth 61 mm; max working height 5610 mm. Forward speed 14.5/40 km/h (two ranges), max travel speed 40 km/h. Gradeability 30 deg (degrees, not %, so left null). Pressures: working 25 MPa, steering 21 MPa, braking 13 MPa. Tires 23.5-25 20PR. Cab FOPS/ROPS and automatic A/C marked standard. Hydraulic flow not stated."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZWL75GE",
+  "category": "wheel_loader",
+  "equivalent_to": null,
+  "weight_kg": 25500,
+  "engine": {
+   "make": null,
+   "model": "Electric drive (permanent magnet synchronous traction motor + hydraulic motor)",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 215,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Fixed-variable displacement system; steering: swash-plate variable piston pump; working: silent gear pump; braking: gear pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 100,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3540,
+   "bucket_capacity_m3": 5.0,
+   "breakout_force_kn": 215,
+   "rated_operating_capacity_kg": 7500,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "docs/zwl75ge.pdf (page 9)",
+  "notes": "Battery-electric wheel loader, 423 kWh battery, 618 V nominal; 'power' = machine power 215 kW (datasheet cover); travel motor peak 320 kW, hydraulic motor peak 180 kW. Bucket 5.0 m3 SAE (range 4.0-7.0). Rated payload 7500 kg. Tipping load given in kN, not kg (straight 190+-8 kN, full turn 165+-5 kN), so tipping_load_kg left null. Dump height at 45 deg; dump reach 1215 mm; digging depth 100 mm; max working height 6535 mm. Forward speed 15/39 km/h (two ranges), max travel speed 39 km/h. Gradeability 27 deg (degrees, not %, so left null). Pressures: working 25 MPa, steering 21 MPa, braking 13 MPa. Tires 26.5-25 32PR. Cab FOPS/ROPS and automatic A/C marked standard. Braking pump: gear pump. Hydraulic flow not stated."
+ },
+ {
+  "brand": "Zoomlion",
+  "model": "ZE750G",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 76500,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSM15 77C",
+   "displacement_l": 14.5,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 563,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistón variable + bomba piloto de engranajes (27 L/min)",
+   "pump_flow_lpm": "2x490",
+   "pump_flow_total_lpm": 980,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 388,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.1,
+   "travel_speed_kmh": 4.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7380,
+   "max_reach_mm": 12170,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 5.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1000,
+   "hydraulic_tank_l": 390
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "docs/ze750g.pdf (págs. 13-15, parámetros técnicos y configuración)",
+  "notes": "Pluma 7100 mm, brazo 2900 mm, cazo estándar 5,1 m³ (opciones 4,6 y 5,5 m³), zapata 650 mm. Presión de trabajo 34,3 MPa. Fuerza de excavación 'hasta 388 kN' según el texto del folleto, sin indicar si es de cazo o de brazo. Potencia nominal sin especificar neta o bruta. Altura máx. de excavación 11.720 mm; longitud total 12.900 mm. Norma de emisiones y EGR no constan en el folleto."
+ }
+]

@@ -1,0 +1,4089 @@
+[
+ {
+  "brand": "SAME",
+  "model": "Frutteto Platform 90",
+  "category": "tractor",
+  "series": "Frutteto Platform (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 / 24+12 (4 gears); 15+15 to 30+30 (5 gears, Hi-Lo)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2590,
+  "wheelbase_mm": 2044,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70R16",
+   "rear": "380/70R20"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-platform ; https://www.same-tractors.com/media/308.8920.3.1-0__Frutteto_Plat_Stage_V_EN_LOW.pdf",
+  "notes": "Max power = ECE R120 max; rated = power at rated speed. Orchard/vineyard tractor with 2-post foldable safety frame. Pump 48/56 std/opt (68 l/min option). Lift 3130 std / 3940 opt. Valves 2/3 std/opt. Weight = ROPS version. Source PDF used: Frutteto Cab-Platform Stage V brochure."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto Platform 95",
+  "category": "tractor",
+  "series": "Frutteto Platform (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 / 24+12 (4 gears); 15+15 to 30+30 (5 gears, Hi-Lo)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2650,
+  "wheelbase_mm": 2174,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70R16",
+   "rear": "380/70R20"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-platform ; https://www.same-tractors.com/media/308.8920.3.1-0__Frutteto_Plat_Stage_V_EN_LOW.pdf",
+  "notes": "Max power = ECE R120 max; rated = power at rated speed. Orchard/vineyard tractor with 2-post foldable safety frame. Pump 48/56 std/opt (68 l/min option). Lift 3130 std / 3940 opt. Valves 2/3 std/opt. Weight = ROPS version. Source PDF used: Frutteto Cab-Platform Stage V brochure."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto Platform 100",
+  "category": "tractor",
+  "series": "Frutteto Platform (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 / 24+12 (4 gears); 15+15 to 30+30 (5 gears, Hi-Lo)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2590,
+  "wheelbase_mm": 2044,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70R16",
+   "rear": "380/70R20"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-platform ; https://www.same-tractors.com/media/308.8920.3.1-0__Frutteto_Plat_Stage_V_EN_LOW.pdf",
+  "notes": "Max power = ECE R120 max; rated = power at rated speed. Orchard/vineyard tractor with 2-post foldable safety frame. Pump 48/56 std/opt (68 l/min option). Lift 3130 std / 3940 opt. Valves 2/3 std/opt. Weight = ROPS version. Source PDF used: Frutteto Cab-Platform Stage V brochure."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto Platform 105",
+  "category": "tractor",
+  "series": "Frutteto Platform (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 / 24+12 (4 gears); 15+15 to 30+30 (5 gears, Hi-Lo)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2650,
+  "wheelbase_mm": 2174,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70R16",
+   "rear": "380/70R20"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-platform ; https://www.same-tractors.com/media/308.8920.3.1-0__Frutteto_Plat_Stage_V_EN_LOW.pdf",
+  "notes": "Max power = ECE R120 max; rated = power at rated speed. Orchard/vineyard tractor with 2-post foldable safety frame. Pump 48/56 std/opt (68 l/min option). Lift 3130 std / 3940 opt. Valves 2/3 std/opt. Weight = ROPS version. Source PDF used: Frutteto Cab-Platform Stage V brochure."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto Platform 115",
+  "category": "tractor",
+  "series": "Frutteto Platform (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 / 24+12 (4 gears); 15+15 to 30+30 (5 gears, Hi-Lo)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2650,
+  "wheelbase_mm": 2174,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70R16",
+   "rear": "380/70R20"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-platform ; https://www.same-tractors.com/media/308.8920.3.1-0__Frutteto_Plat_Stage_V_EN_LOW.pdf",
+  "notes": "Max power = ECE R120 max; rated = power at rated speed. Orchard/vineyard tractor with 2-post foldable safety frame. Pump 48/56 std/opt (68 l/min option). Lift 3130 std / 3940 opt. Valves 2/3 std/opt. Weight = ROPS version. Source PDF used: Frutteto Cab-Platform Stage V brochure."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto S 90",
+  "category": "tractor",
+  "series": "Frutteto S/V Cab (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2086,
+  "fuel_l": 75,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Narrow S version of Frutteto Cab (width 1380 mm). Weight (cab) 3265-3865 (90/100) / 3320-3920 (95/105/115) kg range, left null. Lift 2600 kg. Pump 56 std (68 opt). Fuel 75 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto S 95",
+  "category": "tractor",
+  "series": "Frutteto S/V Cab (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2216,
+  "fuel_l": 75,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Narrow S version of Frutteto Cab (width 1380 mm). Weight (cab) 3265-3865 (90/100) / 3320-3920 (95/105/115) kg range, left null. Lift 2600 kg. Pump 56 std (68 opt). Fuel 75 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto S 100",
+  "category": "tractor",
+  "series": "Frutteto S/V Cab (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2086,
+  "fuel_l": 75,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Narrow S version of Frutteto Cab (width 1380 mm). Weight (cab) 3265-3865 (90/100) / 3320-3920 (95/105/115) kg range, left null. Lift 2600 kg. Pump 56 std (68 opt). Fuel 75 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto S 105",
+  "category": "tractor",
+  "series": "Frutteto S/V Cab (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2216,
+  "fuel_l": 75,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Narrow S version of Frutteto Cab (width 1380 mm). Weight (cab) 3265-3865 (90/100) / 3320-3920 (95/105/115) kg range, left null. Lift 2600 kg. Pump 56 std (68 opt). Fuel 75 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto S 115",
+  "category": "tractor",
+  "series": "Frutteto S/V Cab (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2216,
+  "fuel_l": 75,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Narrow S version of Frutteto Cab (width 1380 mm). Weight (cab) 3265-3865 (90/100) / 3320-3920 (95/105/115) kg range, left null. Lift 2600 kg. Pump 56 std (68 opt). Fuel 75 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto 90",
+  "category": "tractor",
+  "series": "Frutteto Cab (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML 3-Powershift)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Cab version (width 1624 mm). Weight (cab) 3290-3880 (90/100) / 3515-4105 (95/105/115) kg range, left null. Lift 3130 std / 3940 opt; front lift 1500 kg optional. Fuel 81 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto 95",
+  "category": "tractor",
+  "series": "Frutteto Cab (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML 3-Powershift)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Cab version (width 1624 mm). Weight (cab) 3290-3880 (90/100) / 3515-4105 (95/105/115) kg range, left null. Lift 3130 std / 3940 opt; front lift 1500 kg optional. Fuel 81 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto 100",
+  "category": "tractor",
+  "series": "Frutteto Cab (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML 3-Powershift)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Cab version (width 1624 mm). Weight (cab) 3290-3880 (90/100) / 3515-4105 (95/105/115) kg range, left null. Lift 3130 std / 3940 opt; front lift 1500 kg optional. Fuel 81 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto 105",
+  "category": "tractor",
+  "series": "Frutteto Cab (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML 3-Powershift)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Cab version (width 1624 mm). Weight (cab) 3290-3880 (90/100) / 3515-4105 (95/105/115) kg range, left null. Lift 3130 std / 3940 opt; front lift 1500 kg optional. Fuel 81 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto 115",
+  "category": "tractor",
+  "series": "Frutteto Cab (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear or 5-gear",
+   "speeds": "12+12 up to 45+45 (HML 3-Powershift)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E or 540/540E/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-sv ; https://www.same-tractors.com/media/308.8912.3.1-0_Frutteto_Cab-Plat_Stage_V_EN_3.pdf",
+  "notes": "Cab version (width 1624 mm). Weight (cab) 3290-3880 (90/100) / 3515-4105 (95/105/115) kg range, left null. Lift 3130 std / 3940 opt; front lift 1500 kg optional. Fuel 81 l (XL 100 l)."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto CVT 90",
+  "category": "tractor",
+  "series": "Frutteto CVT (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-cvt ; https://www.same-tractors.com/media/308.8902.3.1-1_Frutteto_CVT_ActiveSteer_EN_Dh3Tmo6.pdf",
+  "notes": "Cab CVT version (first table in brochure; other CVT variants such as CVT S are in the same PDF with different pumps/dimensions and not split here). Open-centre 84 l/min std, closed-centre 100 l/min option; independent steering pump 42 l/min. Weight 3340-3930 (90/95) / 3565-4155 (100/105/115) kg range, null. Max speed 40 km/h @1570 rpm. Fuel XL 100 l option."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto CVT 95",
+  "category": "tractor",
+  "series": "Frutteto CVT (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-cvt ; https://www.same-tractors.com/media/308.8902.3.1-1_Frutteto_CVT_ActiveSteer_EN_Dh3Tmo6.pdf",
+  "notes": "Cab CVT version (first table in brochure; other CVT variants such as CVT S are in the same PDF with different pumps/dimensions and not split here). Open-centre 84 l/min std, closed-centre 100 l/min option; independent steering pump 42 l/min. Weight 3340-3930 (90/95) / 3565-4155 (100/105/115) kg range, null. Max speed 40 km/h @1570 rpm. Fuel XL 100 l option."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto CVT 100",
+  "category": "tractor",
+  "series": "Frutteto CVT (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-cvt ; https://www.same-tractors.com/media/308.8902.3.1-1_Frutteto_CVT_ActiveSteer_EN_Dh3Tmo6.pdf",
+  "notes": "Cab CVT version (first table in brochure; other CVT variants such as CVT S are in the same PDF with different pumps/dimensions and not split here). Open-centre 84 l/min std, closed-centre 100 l/min option; independent steering pump 42 l/min. Weight 3340-3930 (90/95) / 3565-4155 (100/105/115) kg range, null. Max speed 40 km/h @1570 rpm. Fuel XL 100 l option."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto CVT 105",
+  "category": "tractor",
+  "series": "Frutteto CVT (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-cvt ; https://www.same-tractors.com/media/308.8902.3.1-1_Frutteto_CVT_ActiveSteer_EN_Dh3Tmo6.pdf",
+  "notes": "Cab CVT version (first table in brochure; other CVT variants such as CVT S are in the same PDF with different pumps/dimensions and not split here). Open-centre 84 l/min std, closed-centre 100 l/min option; independent steering pump 42 l/min. Weight 3340-3930 (90/95) / 3565-4155 (100/105/115) kg range, null. Max speed 40 km/h @1570 rpm. Fuel XL 100 l option."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto CVT 115",
+  "category": "tractor",
+  "series": "Frutteto CVT (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 126,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-cvt ; https://www.same-tractors.com/media/308.8902.3.1-1_Frutteto_CVT_ActiveSteer_EN_Dh3Tmo6.pdf",
+  "notes": "Cab CVT version (first table in brochure; other CVT variants such as CVT S are in the same PDF with different pumps/dimensions and not split here). Open-centre 84 l/min std, closed-centre 100 l/min option; independent steering pump 42 l/min. Weight 3340-3930 (90/95) / 3565-4155 (100/105/115) kg range, null. Max speed 40 km/h @1570 rpm. Fuel XL 100 l option. OverBoost: 126 hp / 93 kW, torque 444 Nm. power_hp_max/kw_max here = with OverBoost; ECE R120 max without boost 116 hp / 85 kW."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto PRO 90",
+  "category": "tractor",
+  "series": "Frutteto PRO (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "5-gear",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-pro ; https://www.same-tractors.com/media/308.9024.3.1-0_Frutteto_PRO_EN.pdf",
+  "notes": "Brochure table has no weights/wheelbase/tires in extracted text. Lift 3130/3940 (PRO), 2600 (PRO S/V). Hydraulic flow 88 l/min; independent steering pump 42 l/min; electronic valves 3/4 rear. Fuel XL 100 l."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto PRO 95",
+  "category": "tractor",
+  "series": "Frutteto PRO (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "5-gear",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-pro ; https://www.same-tractors.com/media/308.9024.3.1-0_Frutteto_PRO_EN.pdf",
+  "notes": "Brochure table has no weights/wheelbase/tires in extracted text. Lift 3130/3940 (PRO), 2600 (PRO S/V). Hydraulic flow 88 l/min; independent steering pump 42 l/min; electronic valves 3/4 rear. Fuel XL 100 l."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto PRO 100",
+  "category": "tractor",
+  "series": "Frutteto PRO (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "5-gear",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-pro ; https://www.same-tractors.com/media/308.9024.3.1-0_Frutteto_PRO_EN.pdf",
+  "notes": "Brochure table has no weights/wheelbase/tires in extracted text. Lift 3130/3940 (PRO), 2600 (PRO S/V). Hydraulic flow 88 l/min; independent steering pump 42 l/min; electronic valves 3/4 rear. Fuel XL 100 l."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto PRO 105",
+  "category": "tractor",
+  "series": "Frutteto PRO (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "5-gear",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-pro ; https://www.same-tractors.com/media/308.9024.3.1-0_Frutteto_PRO_EN.pdf",
+  "notes": "Brochure table has no weights/wheelbase/tires in extracted text. Lift 3130/3940 (PRO), 2600 (PRO S/V). Hydraulic flow 88 l/min; independent steering pump 42 l/min; electronic valves 3/4 rear. Fuel XL 100 l."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto PRO 115",
+  "category": "tractor",
+  "series": "Frutteto PRO (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "5-gear",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3130,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-pro ; https://www.same-tractors.com/media/308.9024.3.1-0_Frutteto_PRO_EN.pdf",
+  "notes": "Brochure table has no weights/wheelbase/tires in extracted text. Lift 3130/3940 (PRO), 2600 (PRO S/V). Hydraulic flow 88 l/min; independent steering pump 42 l/min; electronic valves 3/4 rear. Fuel XL 100 l."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto 80 Classic",
+  "category": "tractor",
+  "series": "Frutteto Classic (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "5-gear",
+   "speeds": "30+15 (mechanical splitter) / 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 54,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2011,
+  "fuel_l": 55,
+  "adblue_l": null,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-classic ; https://www.same-tractors.com/media/308.8910.3.1-1_Frutteto_80_Classic_EN.pdf",
+  "notes": "S/V Classic versions have lift 2600 kg. Pump 54 (64 opt) l/min. Fuel 55 l (95/85 l for S/V variants). Emission stage not shown in extracted table."
+ },
+ {
+  "brand": "SAME",
+  "model": "Frutteto Natural 80",
+  "category": "tractor",
+  "series": "Frutteto Natural (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "4-gear / 5-gear",
+   "speeds": "8+8; 10+10 / 15+15 / 30+15",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3050,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E",
+   "front_pto": null
+  },
+  "weight_kg": 2535,
+  "wheelbase_mm": 1996,
+  "fuel_l": 65,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/frutteto-natural ; https://www.same-tractors.com/media/308.8954.3.1-0_SAME_FRUTTETO_Natural_EN.pdf",
+  "notes": "Natural 70 (66 hp) excluded (<70 hp). Pump 42 or 50 l/min; lift 3050 standard (2700 compact); 4WD mechanical engagement; weight with ROPS 2535. Emission stage not shown in extracted table."
+ },
+ {
+  "brand": "SAME",
+  "model": "Argon 80",
+  "category": "tractor",
+  "series": "Argon",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": null,
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T3300",
+   "speeds": "15+15 (4WD; 40 km/h); Powershuttle/Hi-Lo up to 30+30",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 48,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2100,
+  "fuel_l": 75,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "16.9R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/argon ; https://www.same-tractors.com/media/308.8955.3.1-1_ARGON_EN_LOW.pdf",
+  "notes": "Argon 70 (66 hp) excluded (<70 hp). Power standard not stated in table (labelled max/rated power). Pump 48 std / 56 opt; lift 2500 std / 3500 opt. Weight (4WD) 2950-3050 kg across models, per-model mapping unclear -> null."
+ },
+ {
+  "brand": "SAME",
+  "model": "Argon 90",
+  "category": "tractor",
+  "series": "Argon",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": null,
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T3300",
+   "speeds": "15+15 (4WD; 40 km/h); Powershuttle/Hi-Lo up to 30+30",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 48,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2100,
+  "fuel_l": 75,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "16.9R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/argon ; https://www.same-tractors.com/media/308.8955.3.1-1_ARGON_EN_LOW.pdf",
+  "notes": "Argon 70 (66 hp) excluded (<70 hp). Power standard not stated in table (labelled max/rated power). Pump 48 std / 56 opt; lift 2500 std / 3500 opt. Weight (4WD) 2950-3050 kg across models, per-model mapping unclear -> null."
+ },
+ {
+  "brand": "SAME",
+  "model": "Argon 100",
+  "category": "tractor",
+  "series": "Argon",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": null,
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T3300",
+   "speeds": "15+15 (4WD; 40 km/h); Powershuttle/Hi-Lo up to 30+30",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 48,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2100,
+  "fuel_l": 75,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "16.9R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/argon ; https://www.same-tractors.com/media/308.8955.3.1-1_ARGON_EN_LOW.pdf",
+  "notes": "Argon 70 (66 hp) excluded (<70 hp). Power standard not stated in table (labelled max/rated power). Pump 48 std / 56 opt; lift 2500 std / 3500 opt. Weight (4WD) 2950-3050 kg across models, per-model mapping unclear -> null."
+ },
+ {
+  "brand": "SAME",
+  "model": "Dorado 75",
+  "category": "tractor",
+  "series": "Dorado Stage V",
+  "power_hp_rated": 74,
+  "power_hp_max": 75,
+  "power_kw_rated": 54.8,
+  "power_kw_max": 55.4,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "SDF T3500",
+   "speeds": "30+15 (mech.) / 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 54,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/540ECO/1000 option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2271,
+  "fuel_l": 85,
+  "adblue_l": null,
+  "tires": {
+   "front": "320/70R24 to 440/65R20",
+   "rear": "340/85R36 to 600/60R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/dorado ; https://www.same-tractors.com/media/308.8908.3.1-1_DORADO_Stage_V_EN_LOW.pdf",
+  "notes": "Torque 389 Nm given once for the series. Pump 54 std / 64 opt; lift 3000 std / 3600 opt. Total unladen weight 3575 kg in table (website range 3275-3875 kg), per-model mapping unclear -> null. Tires given as min-max range."
+ },
+ {
+  "brand": "SAME",
+  "model": "Dorado 95",
+  "category": "tractor",
+  "series": "Dorado Stage V",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "SDF T3500",
+   "speeds": "30+15 (mech.) / 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 54,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/540ECO/1000 option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2271,
+  "fuel_l": 85,
+  "adblue_l": 13,
+  "tires": {
+   "front": "320/70R24 to 440/65R20",
+   "rear": "340/85R36 to 600/60R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/dorado ; https://www.same-tractors.com/media/308.8908.3.1-1_DORADO_Stage_V_EN_LOW.pdf",
+  "notes": "Torque 389 Nm given once for the series. Pump 54 std / 64 opt; lift 3000 std / 3600 opt. Total unladen weight 3575 kg in table (website range 3275-3875 kg), per-model mapping unclear -> null. Tires given as min-max range."
+ },
+ {
+  "brand": "SAME",
+  "model": "Dorado 105",
+  "category": "tractor",
+  "series": "Dorado Stage V",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "SDF T3500",
+   "speeds": "30+15 (mech.) / 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 54,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3000,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/540ECO/1000 option)",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2271,
+  "fuel_l": 85,
+  "adblue_l": 13,
+  "tires": {
+   "front": "320/70R24 to 440/65R20",
+   "rear": "340/85R36 to 600/60R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/dorado ; https://www.same-tractors.com/media/308.8908.3.1-1_DORADO_Stage_V_EN_LOW.pdf",
+  "notes": "Torque 389 Nm given once for the series. Pump 54 std / 64 opt; lift 3000 std / 3600 opt. Total unladen weight 3575 kg in table (website range 3275-3875 kg), per-model mapping unclear -> null. Tires given as min-max range."
+ },
+ {
+  "brand": "SAME",
+  "model": "Dorado CVT 95",
+  "category": "tractor",
+  "series": "Dorado CVT",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 4210,
+  "wheelbase_mm": 2271,
+  "fuel_l": 95,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/85R24 to 380/70R20",
+   "rear": "320/85R36 to 540/65R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/dorado-cvt ; https://www.same-tractors.com/media/308.8702.3.1-1_DORADO_CVT_EN_1_Low_Res.pdf",
+  "notes": "Pump 84 l/min std / 100 l/min LS option. Rear lift rows 4310 and 3660 kg given without clear STD/OPT labels -> null. Weight 4210 kg total unladen (table single column). Fuel 95/115 l std/opt; steering 55 deg."
+ },
+ {
+  "brand": "SAME",
+  "model": "Dorado CVT 105",
+  "category": "tractor",
+  "series": "Dorado CVT",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 4210,
+  "wheelbase_mm": 2271,
+  "fuel_l": 95,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/85R24 to 380/70R20",
+   "rear": "320/85R36 to 540/65R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/dorado-cvt ; https://www.same-tractors.com/media/308.8702.3.1-1_DORADO_CVT_EN_1_Low_Res.pdf",
+  "notes": "Pump 84 l/min std / 100 l/min LS option. Rear lift rows 4310 and 3660 kg given without clear STD/OPT labels -> null. Weight 4210 kg total unladen (table single column). Fuel 95/115 l std/opt; steering 55 deg."
+ },
+ {
+  "brand": "SAME",
+  "model": "Dorado CVT 115",
+  "category": "tractor",
+  "series": "Dorado CVT",
+  "power_hp_rated": 110,
+  "power_hp_max": 126,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CVT",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 84,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 4210,
+  "wheelbase_mm": 2271,
+  "fuel_l": 95,
+  "adblue_l": 13,
+  "tires": {
+   "front": "280/85R24 to 380/70R20",
+   "rear": "320/85R36 to 540/65R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/dorado-cvt ; https://www.same-tractors.com/media/308.8702.3.1-1_DORADO_CVT_EN_1_Low_Res.pdf",
+  "notes": "Pump 84 l/min std / 100 l/min LS option. Rear lift rows 4310 and 3660 kg given without clear STD/OPT labels -> null. Weight 4210 kg total unladen (table single column). Fuel 95/115 l std/opt; steering 55 deg. Boost: 126 hp / 93 kW, torque 444 Nm. hp_max/kw_max = with Boost; ECE R120 max 116 hp / 85 kW."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer 95",
+  "category": "tractor",
+  "series": "Explorer",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Hi-Lo / HML 3-Powershift",
+   "speeds": "10+10 (mech) / 20+20 (Hi-Lo) / 30+30 (HML); x2 with creeper+underdrive",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3950,
+  "wheelbase_mm": 2400,
+  "fuel_l": 135,
+  "adblue_l": 8,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer ; https://www.same-tractors.com/media/308.8901.3.1-0_EXPLORER_Stage_V_EN_2_Low_Res.pdf",
+  "notes": "Max power @2000 rpm; rated @2200 rpm. Pump 55 std / 90 l/min double pump option; lift STD 3600 (opt 4525; 115 opt 4855; 125 std 4855 / opt 5410). Valves 2/3/4. Front lift 2100 kg optional."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer 100",
+  "category": "tractor",
+  "series": "Explorer",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Hi-Lo / HML 3-Powershift",
+   "speeds": "10+10 (mech) / 20+20 (Hi-Lo) / 30+30 (HML); x2 with creeper+underdrive",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3800,
+  "wheelbase_mm": 2350,
+  "fuel_l": 135,
+  "adblue_l": 8,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer ; https://www.same-tractors.com/media/308.8901.3.1-0_EXPLORER_Stage_V_EN_2_Low_Res.pdf",
+  "notes": "Max power @2000 rpm; rated @2200 rpm. Pump 55 std / 90 l/min double pump option; lift STD 3600 (opt 4525; 115 opt 4855; 125 std 4855 / opt 5410). Valves 2/3/4. Front lift 2100 kg optional."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer 105",
+  "category": "tractor",
+  "series": "Explorer",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Hi-Lo / HML 3-Powershift",
+   "speeds": "10+10 (mech) / 20+20 (Hi-Lo) / 30+30 (HML); x2 with creeper+underdrive",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3950,
+  "wheelbase_mm": 2400,
+  "fuel_l": 135,
+  "adblue_l": 8,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer ; https://www.same-tractors.com/media/308.8901.3.1-0_EXPLORER_Stage_V_EN_2_Low_Res.pdf",
+  "notes": "Max power @2000 rpm; rated @2200 rpm. Pump 55 std / 90 l/min double pump option; lift STD 3600 (opt 4525; 115 opt 4855; 125 std 4855 / opt 5410). Valves 2/3/4. Front lift 2100 kg optional."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer 115",
+  "category": "tractor",
+  "series": "Explorer",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Hi-Lo / HML 3-Powershift",
+   "speeds": "10+10 (mech) / 20+20 (Hi-Lo) / 30+30 (HML); x2 with creeper+underdrive",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer ; https://www.same-tractors.com/media/308.8901.3.1-0_EXPLORER_Stage_V_EN_2_Low_Res.pdf",
+  "notes": "Max power @2000 rpm; rated @2200 rpm. Pump 55 std / 90 l/min double pump option; lift STD 3600 (opt 4525; 115 opt 4855; 125 std 4855 / opt 5410). Valves 2/3/4. Front lift 2100 kg optional."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer 125",
+  "category": "tractor",
+  "series": "Explorer",
+  "power_hp_rated": 120,
+  "power_hp_max": 126,
+  "power_kw_rated": 88.2,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 517,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical / Hi-Lo / HML 3-Powershift",
+   "speeds": "10+10 (mech) / 20+20 (Hi-Lo) / 30+30 (HML); x2 with creeper+underdrive",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4855,
+   "front_lift_kg": 2100,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4350,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer ; https://www.same-tractors.com/media/308.8901.3.1-0_EXPLORER_Stage_V_EN_2_Low_Res.pdf",
+  "notes": "Max power @2000 rpm; rated @2200 rpm. Pump 55 std / 90 l/min double pump option; lift STD 3600 (opt 4525; 115 opt 4855; 125 std 4855 / opt 5410). Valves 2/3/4. Front lift 2100 kg optional."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer Natural 75",
+  "category": "tractor",
+  "series": "Explorer Natural",
+  "power_hp_rated": 74,
+  "power_hp_max": 75,
+  "power_kw_rated": 54.8,
+  "power_kw_max": 55.4,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 359,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330 / T4350 / T5350",
+   "speeds": "20+20 / 40+40 Hi-Lo",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-natural ; https://www.same-tractors.com/media/308.8922.3.1-1_Explorer_Natural_EN.pdf",
+  "notes": "Per-model column mapping from layout (weights 4000/4250/4250/4250/4350/4350 by model order; 105 HD shares 105 values). Rated power for 125 printed '88.2/110' in source (apparent typo) -> hp rated null. Lift STD 3600 (opt 4525; 5410 for large). PTO speeds not mapped per model."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer Natural 95",
+  "category": "tractor",
+  "series": "Explorer Natural",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330 / T4350 / T5350",
+   "speeds": "20+20 / 40+40 Hi-Lo",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-natural ; https://www.same-tractors.com/media/308.8922.3.1-1_Explorer_Natural_EN.pdf",
+  "notes": "Per-model column mapping from layout (weights 4000/4250/4250/4250/4350/4350 by model order; 105 HD shares 105 values). Rated power for 125 printed '88.2/110' in source (apparent typo) -> hp rated null. Lift STD 3600 (opt 4525; 5410 for large). PTO speeds not mapped per model."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer Natural 105",
+  "category": "tractor",
+  "series": "Explorer Natural",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330 / T4350 / T5350",
+   "speeds": "20+20 / 40+40 Hi-Lo",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-natural ; https://www.same-tractors.com/media/308.8922.3.1-1_Explorer_Natural_EN.pdf",
+  "notes": "Per-model column mapping from layout (weights 4000/4250/4250/4250/4350/4350 by model order; 105 HD shares 105 values). Rated power for 125 printed '88.2/110' in source (apparent typo) -> hp rated null. Lift STD 3600 (opt 4525; 5410 for large). PTO speeds not mapped per model."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer Natural 105 HD",
+  "category": "tractor",
+  "series": "Explorer Natural",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330 / T4350 / T5350",
+   "speeds": "20+20 / 40+40 Hi-Lo",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-natural ; https://www.same-tractors.com/media/308.8922.3.1-1_Explorer_Natural_EN.pdf",
+  "notes": "Per-model column mapping from layout (weights 4000/4250/4250/4250/4350/4350 by model order; 105 HD shares 105 values). Rated power for 125 printed '88.2/110' in source (apparent typo) -> hp rated null. Lift STD 3600 (opt 4525; 5410 for large). PTO speeds not mapped per model."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer Natural 115",
+  "category": "tractor",
+  "series": "Explorer Natural",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330 / T4350 / T5350",
+   "speeds": "20+20 / 40+40 Hi-Lo",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4350,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-natural ; https://www.same-tractors.com/media/308.8922.3.1-1_Explorer_Natural_EN.pdf",
+  "notes": "Per-model column mapping from layout (weights 4000/4250/4250/4250/4350/4350 by model order; 105 HD shares 105 values). Rated power for 125 printed '88.2/110' in source (apparent typo) -> hp rated null. Lift STD 3600 (opt 4525; 5410 for large). PTO speeds not mapped per model."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer Natural 125",
+  "category": "tractor",
+  "series": "Explorer Natural",
+  "power_hp_rated": null,
+  "power_hp_max": 126,
+  "power_kw_rated": 88.2,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 517,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330 / T4350 / T5350",
+   "speeds": "20+20 / 40+40 Hi-Lo",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4350,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-natural ; https://www.same-tractors.com/media/308.8922.3.1-1_Explorer_Natural_EN.pdf",
+  "notes": "Per-model column mapping from layout (weights 4000/4250/4250/4250/4350/4350 by model order; 105 HD shares 105 values). Rated power for 125 printed '88.2/110' in source (apparent typo) -> hp rated null. Lift STD 3600 (opt 4525; 5410 for large). PTO speeds not mapped per model."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer TB 105",
+  "category": "tractor",
+  "series": "Explorer TB (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": "20+20 / 40+40",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 3400,
+  "wheelbase_mm": 2400,
+  "fuel_l": 85,
+  "adblue_l": 10,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R24"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-tb ; https://www.same-tractors.com/media/308.8917.3.1-0_Explorer_TB_EN_2.pdf",
+  "notes": "2-post foldable safety frame (ROPS); width 1940 mm. Lift 3600 std / 4525 opt."
+ },
+ {
+  "brand": "SAME",
+  "model": "Explorer TB 115",
+  "category": "tractor",
+  "series": "Explorer TB (orchard/vineyard specialty tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": "20+20 / 40+40",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 3400,
+  "wheelbase_mm": 2400,
+  "fuel_l": 85,
+  "adblue_l": 10,
+  "tires": {
+   "front": "300/70R20",
+   "rear": "420/70R24"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/explorer-tb ; https://www.same-tractors.com/media/308.8917.3.1-0_Explorer_TB_EN_2.pdf",
+  "notes": "2-post foldable safety frame (ROPS); width 1940 mm. Lift 3600 std / 4525 opt."
+ },
+ {
+  "brand": "SAME",
+  "model": "Virtus 115 Powershift",
+  "category": "tractor",
+  "series": "Virtus",
+  "power_hp_rated": 110,
+  "power_hp_max": 127,
+  "power_kw_rated": 81,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 478,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "5 gears x 3 Powershift steps",
+   "speeds": "30+30 / 60+60 (with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre (std) / load sensing 120 l/min option",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 5410,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 160,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/virtus ; https://www.same-tractors.com/media/308.8905.3.1-1_VIRTUS_-_Stage_V_EN.pdf",
+  "notes": "Max power without boost 116 hp (86 kW); hp_max/kw_max shown = with Boost. Torque 478 Nm (483 Nm with Boost). Fuel tank 160/180 l depending on version (value by group order from layout). Powershift lift: 115=5410 kg; 125/135 5000 std (7000 opt); RVshift 7100. Weight ranges 4505-5900 kg by version, null. Power-shift/RVshift column mapping from brochure layout."
+ },
+ {
+  "brand": "SAME",
+  "model": "Virtus 125 Powershift",
+  "category": "tractor",
+  "series": "Virtus",
+  "power_hp_rated": 120,
+  "power_hp_max": 136,
+  "power_kw_rated": 88,
+  "power_kw_max": 100,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 524,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "5 gears x 3 Powershift steps",
+   "speeds": "30+30 / 60+60 (with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre (std) / load sensing 120 l/min option",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 5000,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 160,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/virtus ; https://www.same-tractors.com/media/308.8905.3.1-1_VIRTUS_-_Stage_V_EN.pdf",
+  "notes": "Max power without boost 127 hp (93 kW); hp_max/kw_max shown = with Boost. Torque 524 Nm (526 Nm with Boost). Fuel tank 160/180 l depending on version (value by group order from layout). Powershift lift: 115=5410 kg; 125/135 5000 std (7000 opt); RVshift 7100. Weight ranges 4505-5900 kg by version, null. Power-shift/RVshift column mapping from brochure layout."
+ },
+ {
+  "brand": "SAME",
+  "model": "Virtus 135 Powershift",
+  "category": "tractor",
+  "series": "Virtus",
+  "power_hp_rated": 129,
+  "power_hp_max": 143,
+  "power_kw_rated": 95,
+  "power_kw_max": 105,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 572,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "5 gears x 3 Powershift steps",
+   "speeds": "30+30 / 60+60 (with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre (std) / load sensing 120 l/min option",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 5000,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 160,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/virtus ; https://www.same-tractors.com/media/308.8905.3.1-1_VIRTUS_-_Stage_V_EN.pdf",
+  "notes": "Max power without boost 136 hp (100 kW); hp_max/kw_max shown = with Boost. Torque 572 Nm (572 Nm with Boost). Fuel tank 160/180 l depending on version (value by group order from layout). Powershift lift: 115=5410 kg; 125/135 5000 std (7000 opt); RVshift 7100. Weight ranges 4505-5900 kg by version, null. Power-shift/RVshift column mapping from brochure layout."
+ },
+ {
+  "brand": "SAME",
+  "model": "Virtus 115 RVshift",
+  "category": "tractor",
+  "series": "Virtus",
+  "power_hp_rated": 115,
+  "power_hp_max": 127,
+  "power_kw_rated": 85,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 500,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "RVshift (full powershift, APS)",
+   "speeds": "20 forward + 16 reverse",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre (std) / load sensing 120 l/min option",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7100,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 180,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/virtus ; https://www.same-tractors.com/media/308.8905.3.1-1_VIRTUS_-_Stage_V_EN.pdf",
+  "notes": "Max power without boost 121 hp (89 kW); hp_max/kw_max shown = with Boost. Torque 500 Nm (517 Nm with Boost). Fuel tank 160/180 l depending on version (value by group order from layout). Powershift lift: 115=5410 kg; 125/135 5000 std (7000 opt); RVshift 7100. Weight ranges 4505-5900 kg by version, null. Power-shift/RVshift column mapping from brochure layout."
+ },
+ {
+  "brand": "SAME",
+  "model": "Virtus 125 RVshift",
+  "category": "tractor",
+  "series": "Virtus",
+  "power_hp_rated": 123,
+  "power_hp_max": 136,
+  "power_kw_rated": 90,
+  "power_kw_max": 100,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 547,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "RVshift (full powershift, APS)",
+   "speeds": "20 forward + 16 reverse",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre (std) / load sensing 120 l/min option",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7100,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 180,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/virtus ; https://www.same-tractors.com/media/308.8905.3.1-1_VIRTUS_-_Stage_V_EN.pdf",
+  "notes": "Max power without boost 129 hp (95 kW); hp_max/kw_max shown = with Boost. Torque 547 Nm (551 Nm with Boost). Fuel tank 160/180 l depending on version (value by group order from layout). Powershift lift: 115=5410 kg; 125/135 5000 std (7000 opt); RVshift 7100. Weight ranges 4505-5900 kg by version, null. Power-shift/RVshift column mapping from brochure layout."
+ },
+ {
+  "brand": "SAME",
+  "model": "Virtus 135 RVshift",
+  "category": "tractor",
+  "series": "Virtus",
+  "power_hp_rated": 130,
+  "power_hp_max": 143,
+  "power_kw_rated": 96,
+  "power_kw_max": 105,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 574,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "RVshift (full powershift, APS)",
+   "speeds": "20 forward + 16 reverse",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre (std) / load sensing 120 l/min option",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7100,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 180,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/virtus ; https://www.same-tractors.com/media/308.8905.3.1-1_VIRTUS_-_Stage_V_EN.pdf",
+  "notes": "Max power without boost 137 hp (101 kW); hp_max/kw_max shown = with Boost. Torque 574 Nm (579 Nm with Boost). Fuel tank 160/180 l depending on version (value by group order from layout). Powershift lift: 115=5410 kg; 125/135 5000 std (7000 opt); RVshift 7100. Weight ranges 4505-5900 kg by version, null. Power-shift/RVshift column mapping from brochure layout."
+ },
+ {
+  "brand": "SAME",
+  "model": "Krypton 115",
+  "category": "tractor",
+  "series": "Krypton (crawler tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "CT4150",
+   "speeds": "16+16 (OverDrive) / 12+12 (creeper)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 75,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 5350,
+  "wheelbase_mm": 1850,
+  "fuel_l": 130,
+  "adblue_l": 11,
+  "tires": {
+   "front": "rubber/steel track undercarriage",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/krypton ; https://www.same-tractors.com/media/308.8925.3.1-0_Krypton_Crawlers_Range_EN_LOW.pdf",
+  "notes": "Crawler (tracked) tractor; included as specialty tractor in range. Pump 50+25 l/min (flow_lpm shown as sum 75). Wheelbase = track length 1850 / 1650 mm; weight unladen. Krypton M wide/narrow weights not captured."
+ },
+ {
+  "brand": "SAME",
+  "model": "Krypton M 105",
+  "category": "tractor",
+  "series": "Krypton (crawler tractor)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "CT4150",
+   "speeds": "16+16 (OverDrive) / 12+12 (creeper)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 75,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": "rubber/steel track undercarriage",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/krypton ; https://www.same-tractors.com/media/308.8925.3.1-0_Krypton_Crawlers_Range_EN_LOW.pdf",
+  "notes": "Crawler (tracked) tractor; included as specialty tractor in range. Pump 50+25 l/min (flow_lpm shown as sum 75). Wheelbase = track length 1850 / 1650 mm; weight unladen. Krypton M wide/narrow weights not captured."
+ },
+ {
+  "brand": "SAME",
+  "model": "Krypton M 115",
+  "category": "tractor",
+  "series": "Krypton (crawler tractor)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "CT4150",
+   "speeds": "16+16 (OverDrive) / 12+12 (creeper)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 75,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": "rubber/steel track undercarriage",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/krypton ; https://www.same-tractors.com/media/308.8925.3.1-0_Krypton_Crawlers_Range_EN_LOW.pdf",
+  "notes": "Crawler (tracked) tractor; included as specialty tractor in range. Pump 50+25 l/min (flow_lpm shown as sum 75). Wheelbase = track length 1850 / 1650 mm; weight unladen. Krypton M wide/narrow weights not captured."
+ },
+ {
+  "brand": "SAME",
+  "model": "Krypton F 75",
+  "category": "tractor",
+  "series": "Krypton (crawler tractor)",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "CT4130",
+   "speeds": "16+16 (OverDrive) / 12+12 (creeper)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 75,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4600,
+  "wheelbase_mm": 1650,
+  "fuel_l": 95,
+  "adblue_l": null,
+  "tires": {
+   "front": "rubber/steel track undercarriage",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/krypton ; https://www.same-tractors.com/media/308.8925.3.1-0_Krypton_Crawlers_Range_EN_LOW.pdf",
+  "notes": "Crawler (tracked) tractor; included as specialty tractor in range. Pump 50+25 l/min (flow_lpm shown as sum 75). Wheelbase = track length 1850 / 1650 mm; weight unladen. Krypton M wide/narrow weights not captured."
+ },
+ {
+  "brand": "SAME",
+  "model": "Krypton F 90",
+  "category": "tractor",
+  "series": "Krypton (crawler tractor)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "CT4130",
+   "speeds": "16+16 (OverDrive) / 12+12 (creeper)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 75,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4600,
+  "wheelbase_mm": 1650,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": "rubber/steel track undercarriage",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/krypton ; https://www.same-tractors.com/media/308.8925.3.1-0_Krypton_Crawlers_Range_EN_LOW.pdf",
+  "notes": "Crawler (tracked) tractor; included as specialty tractor in range. Pump 50+25 l/min (flow_lpm shown as sum 75). Wheelbase = track length 1850 / 1650 mm; weight unladen. Krypton M wide/narrow weights not captured."
+ },
+ {
+  "brand": "SAME",
+  "model": "Krypton F 100",
+  "category": "tractor",
+  "series": "Krypton (crawler tractor)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "other",
+   "model": "CT4130",
+   "speeds": "16+16 (OverDrive) / 12+12 (creeper)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 75,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4600,
+  "wheelbase_mm": 1650,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": "rubber/steel track undercarriage",
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.same-tractors.com/en-gb/tractors/krypton ; https://www.same-tractors.com/media/308.8925.3.1-0_Krypton_Crawlers_Range_EN_LOW.pdf",
+  "notes": "Crawler (tracked) tractor; included as specialty tractor in range. Pump 50+25 l/min (flow_lpm shown as sum 75). Wheelbase = track length 1850 / 1650 mm; weight unladen. Krypton M wide/narrow weights not captured."
+ }
+]

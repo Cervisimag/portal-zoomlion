@@ -1,0 +1,777 @@
+[
+ {
+  "brand": "Hidromek",
+  "model": "HMK 140 LC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14900,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1X",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 76.4,
+   "power_kw_gross": 78.5,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x129",
+   "pump_flow_total_lpm": 258,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 93.2,
+   "arm_dig_force_kn": 67.7,
+   "swing_speed_rpm": 11.1,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5360,
+   "max_reach_mm": 8220,
+   "max_dump_height_mm": 5920,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 280,
+   "hydraulic_tank_l": 115
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://res.cloudinary.com/dbv9boyyr/image/upload/v1760271877/hidromek/HMK_140_LC_Leaflet-min_ndaa1j.pdf (ENG - AUGUST 2022)",
+  "notes": "Pluma 4,60 m, balancin estandar 2,30 m, zapata 500 mm, cazo 0,6 m3 SAE; fuerzas ISO sin Power Boost (9.500 kgf cazo / 6.900 kgf balancin; con Power Boost 10.000/7.300 kgf), convertidas de kgf a kN (x0,00980665). Presion 350 kgf/cm2 (372 con Power Boost) convertida a bar. Potencia SAE J1349 neta / J1995 bruta. EGR y postratamiento no indicados. Peso operativo ISO 6016 estandar. Zoomlion ZE135G/ZE145GU (14,4/15,8 t) quedan a ambos lados de 14,9 t."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 85 SR",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8700,
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-TE5AB-HDM-1",
+   "displacement_l": 3.331,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable (plato oscilante) + 1 bomba de engranajes",
+   "pump_flow_lpm": "2x74 + 50 (engranajes)",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 299,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 65.7,
+   "arm_dig_force_kn": 46.1,
+   "swing_speed_rpm": 10.8,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 4260,
+   "max_reach_mm": 6630,
+   "max_dump_height_mm": 5280,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 145,
+   "hydraulic_tank_l": 95
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://res.cloudinary.com/dbv9boyyr/image/upload/v1768203144/hidromek/85SR_V_FOY_EN_72_fkswp6.pdf (ENG - OCTOBER 2025)",
+  "notes": "Midi (short radius): pluma 3,85 m, balancin 1,75 m, zapata 450 mm, cazo 0,28 m3 SAE; fuerzas ISO sin Power Boost (6.700/4.700 kgf; con Power Boost 7.100/5.000 kgf) convertidas a kN. Potencia 55,4 kW (74,3 HP) @2000 rpm publicada SIN indicar norma (bruta/neta) -> campos de potencia a null. Presion 305 kgf/cm2 convertida a bar. EGR y postratamiento no indicados. Peso 8.700 kg vs ZE75G 7,5 t: clase mas proxima de Hidromek."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 230 LC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 23650,
+  "engine": {
+   "make": "Isuzu",
+   "model": "AR-4HK1X",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": 121,
+   "power_kw_gross": 128,
+   "rpm": 2000,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage IV",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Bomba doble de pistones axiales de desplazamiento variable",
+   "pump_flow_lpm": "2x233",
+   "pump_flow_total_lpm": 466,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 146.1,
+   "arm_dig_force_kn": 102.0,
+   "swing_speed_rpm": 12.6,
+   "travel_speed_kmh": 5.8,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6730,
+   "max_reach_mm": 9970,
+   "max_dump_height_mm": 6950,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 405,
+   "hydraulic_tank_l": 152
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "Catalegs/Altres/Hidromek/Hmk 230lc_h4_.pdf (Serie H4, pags. 20-23 caracteristicas tecnicas)",
+  "notes": "Version LC, pluma monobloque 5,70 m, balancin 2,92 m (estandar), cazo estandar 1,10 m3 SAE, peso operativo 23.650 kg (24.200 kg pluma articulada). Fuerzas ISO sin Power Boost (14.900 kgf cazo / 10.400 kgf balancin; con Forzudo 15.800/10.900) convertidas de kgf a kN; el catalogo no imprime la unidad de la tabla de fuerzas pero el resto del catalogo usa kgf y el folleto ingles de Hidromek (HMK 140 LC) usa kgf. Presion 350 kgf/cm2 (370 con Power Boost) convertida a bar. Potencia SAE J1349 neta / J1995 bruta. Deposito de urea 16 L listado (indica SCR) pero el catalogo no nombra el postratamiento ni EGR -> null."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 310 LC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 32100,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 197,
+   "rpm": 1900,
+   "emission_stage": "Stage V-EU",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Bomba doble de pistones axiales de desplazamiento variable",
+   "pump_flow_lpm": "2x266",
+   "pump_flow_total_lpm": 532,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 192.2,
+   "arm_dig_force_kn": 160.8,
+   "swing_speed_rpm": 10.1,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6760,
+   "max_reach_mm": 10370,
+   "max_dump_height_mm": 7020,
+   "bucket_capacity_m3": 1.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 475,
+   "hydraulic_tank_l": 210
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "Catalegs/Altres/Hidromek/Hmk310c.pdf (caracteristicas tecnicas)",
+  "notes": "Version LC, pluma monobloque 6,28 m, balancin 2,50 m (estandar), cazo estandar 1,60 m3 SAE, peso operativo 32.100 kg. Fuerzas ISO sin Forzudo (19.600 kgf cazo / 16.400 kgf balancin; con Forzudo 21.300/17.800) convertidas de kgf a kN (unidad kgf no impresa en la tabla; el catalogo usa kgf para presiones y traccion). Presion 350 kgf/cm2 (380 con Power Boost) convertida a bar. Potencia bruta SAE J1995 197 kW; potencia neta no publicada. Velocidad alta 5,1 / baja 3,0 km/h. Urea 70 L listado; postratamiento y EGR no nombrados -> null. 32,1 t vs ZE335G 33,5 t."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 635 WL",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 20600,
+  "engine": {
+   "make": "Mercedes-Benz",
+   "model": "MTU 6R1000",
+   "displacement_l": 7.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 210
+  },
+  "hydraulics": {
+   "pump_type": "Bombas de pistones de cilindrada variable tipo LS, circuito de centro cerrado",
+   "pump_flow_lpm": "283 @2100 rpm",
+   "pump_flow_total_lpm": 283,
+   "system_pressure_bar": 300,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.5,
+   "breakout_force_kn": 173.1,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 15900
+  },
+  "capacities": {
+   "fuel_l": 275,
+   "hydraulic_tank_l": 115
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://blue-group.com/machine/hidromek-hmk-635-wl (distribuidor oficial UK); emision Stage V segun https://meconstructionnews.com/47910/hidromek-launches-hmk-635-wl-wheeled-loader ; datos ampliados con https://www.hidromek.com/europe-EN/download/products/leaflets/27/1/hmk-635-wl-leaflet.pdf",
+  "notes": "Datos parciales: no se pudo obtener el folleto oficial (interempresas 635WL_V_Katalog_ES.pdf requiere formulario). Peso operativo 20.600 kg, cazo 3,5 m3 y carga de vuelco 15.900 kg segun la ficha del distribuidor (condicion de vuelco -recta/giro- no indicada). Potencia publicada solo como 282 hp sin norma -> null. Se compara con ZWL55GE (electrica, 19,2 t) como cargadora convencional de peso y cazo similares. AMPLIADO (pasada de completitud) con el folleto oficial: motor Mercedes-Benz MTU 6R1000 7,7 l, 282 hp (210 kW) a 1.800 rpm sin indicar norma -> power_kw_rated; par 1.200 Nm; bomba 283 l/min a 2.100 rpm, 300 bar; 5 marchas (40 km/h); arranque 17.650 kgf (173,1 kN); vuelco articulado 14.000 kgf; depositos combustible 275 l, hidraulico 115 l (sistema 200 l), AdBlue 40 l. EGR/postratamiento no indicados."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 640 WL",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 26300,
+  "engine": {
+   "make": "Mercedes-Benz",
+   "model": "6R1100",
+   "displacement_l": 10.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1600,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 240
+  },
+  "hydraulics": {
+   "pump_type": "Bomba principal + bomba de direccion + bomba de ventilador/freno",
+   "pump_flow_lpm": "203 @1930 rpm (principal) + 203 (direccion) + 96 (ventilador/freno)",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 37,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 4.2,
+   "breakout_force_kn": 195.9,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 19930
+  },
+  "capacities": {
+   "fuel_l": 420,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://blue-group.com/machine/hidromek-hmk-640-wl (distribuidor oficial UK) ; datos ampliados/corregidos con https://www.hidromek.com/europe-EN/download/products/leaflets/75/1/hmk-640-wl-leaflet.pdf",
+  "notes": "Datos parciales: folleto oficial no obtenido. Peso 26.300 kg, cazo 4,2 m3 y carga de vuelco 19.269 kg segun la ficha del distribuidor (condicion de vuelco no indicada); motor descrito solo como 'Mercedes' (la propia ficha da 321 hp y 324 hp, inconsistente) -> modelo y potencia null. Otras fuentes secundarias dan pesos y cazos distintos segun mercado/version. Se compara con ZWL75GE (electrica, 25,5 t) como cargadora convencional de peso similar. CORRECCION/AMPLIACION (pasada de completitud): tipping_load_kg estaba en 19.269 (distribuidor); el folleto oficial indica carga de vuelco estatica recta 19.930 kg (articulada 17.600 kg), se corrige. Motor Mercedes-Benz 6R1100 10,7 l, 321 hp (240 kW) a 1.600 rpm sin indicar norma -> power_kw_rated; par 1.700 Nm; presiones 250 bar (direccion 210 bar); caudal 203+203+96 l/min; 5a marcha 37 km/h; arranque 19.975 kgf (195,9 kN); combustible 420 l; hidraulico total 200 l; AdBlue 40 l. EGR/postratamiento no indicados."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 145 LC SR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17050,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1X",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 78.5,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x129",
+   "pump_flow_total_lpm": 258,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 93.2,
+   "arm_dig_force_kn": 67.7,
+   "swing_speed_rpm": 11.3,
+   "travel_speed_kmh": 5.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5360,
+   "max_reach_mm": 8200,
+   "max_dump_height_mm": 6680,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 235,
+   "hydraulic_tank_l": 115
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/10/1/hmk-145-lc-sr-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 350 kgf/cm2 -> 343 bar (con Power Boost 372 kgf/cm2 = 365 bar); fuerzas ISO sin Power Boost (con Power Boost: cazo 98.1 kN, brazo 71.6 kN). Velocidad = alta (5.7 km/h; baja 3.4). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 35 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Radio de cola corto. Pluma 4,60 m, brazo estandar 2,30 m (opc. 2,60/2,90 m), zapata 500 mm. Alcance = max. digging reach (S); en el suelo 8.040 mm. Fuerza de traccion 11.230 kgf. Capacidad total circuito hidraulico 205 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 210 LC",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 21900,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4HK1X",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 128,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x221",
+   "pump_flow_total_lpm": 442,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 134.4,
+   "arm_dig_force_kn": 104.9,
+   "swing_speed_rpm": 11.9,
+   "travel_speed_kmh": 5.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6790,
+   "max_reach_mm": 10030,
+   "max_dump_height_mm": 6880,
+   "bucket_capacity_m3": 1.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 345,
+   "hydraulic_tank_l": 152
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/2503/1/hmk-210-lc-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 350 kgf/cm2 -> 343 bar (con Power Boost 370 kgf/cm2 = 363 bar); fuerzas ISO segun hoja. Velocidad = alta (5.7 km/h; baja 3.8). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 35 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Pluma 5,70 m, brazo estandar 2,92 m (marcado *; con brazo 2,40 m: alcance 9.620 mm, profundidad 6.270 mm, altura de descarga 6.780 mm). Zapata 600 mm. La hoja no precisa con que brazo se miden las fuerzas. Traccion 21.877 kgf. Capacidad circuito hidraulico 285 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 235 LCR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24950,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4HK1XASW-01",
+   "displacement_l": 5.193,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": 128.4,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x233",
+   "pump_flow_total_lpm": 466,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 147.1,
+   "arm_dig_force_kn": 102.0,
+   "swing_speed_rpm": 11.9,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6550,
+   "max_reach_mm": 9930,
+   "max_dump_height_mm": 7980,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 320,
+   "hydraulic_tank_l": 150
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/2522/1/hmk-235-lcr-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 350 kgf/cm2 -> 343 bar (con Power Boost 375 kgf/cm2 = 368 bar); fuerzas ISO sin Power Boost (con Power Boost: cazo 159.8 kN, brazo 110.8 kN). Velocidad = alta (5.2 km/h; baja 3.3). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 16 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Version de cola reducida (radio de giro trasero 1.975 mm). Pluma 5,70 m, brazo estandar 2,92 m (marcado *; con 2,40 m: alcance 9.520 mm, profundidad 6.030 mm). Zapata 600 mm (opc. 700). Traccion 21.080 kgf. Capacidad circuito hidraulico 280 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 360 LC",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 38700,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 210,
+   "power_kw_rated": null,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x290",
+   "pump_flow_total_lpm": 580,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 227.5,
+   "arm_dig_force_kn": 199.1,
+   "swing_speed_rpm": 9.3,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6970,
+   "max_reach_mm": 10720,
+   "max_dump_height_mm": 6950,
+   "bucket_capacity_m3": 2.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 565,
+   "hydraulic_tank_l": 265
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/78/1/hmk-360-lc-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 350 kgf/cm2 -> 343 bar; fuerzas ISO segun hoja. Velocidad = alta (4.9 km/h; baja 2.9). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 70 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Pluma 6,50 m, brazo 2,60 m, zapata 600 mm, cazo de doble radio 2,0 m3 SAE. Etiqueta de la hoja \"(power boost)\" con un unico valor de fuerza; no se lista valvula de Power Boost -> se toma como valor base. Traccion 30.740 kgf. Capacidad circuito hidraulico 470 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 390 LC HD",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 40400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 210,
+   "power_kw_rated": null,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x300",
+   "pump_flow_total_lpm": 600,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 228.5,
+   "arm_dig_force_kn": 200.1,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6560,
+   "max_reach_mm": 10380,
+   "max_dump_height_mm": 6870,
+   "bucket_capacity_m3": 2.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 565,
+   "hydraulic_tank_l": 265
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/13/1/hmk-390-lc-hd-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 350 kgf/cm2 -> 343 bar (con Power Boost 380 kgf/cm2 = 373 bar); fuerzas ISO sin Power Boost (con Power Boost: cazo 248.1 kN, brazo 216.7 kN). Velocidad = alta (5.0 km/h; baja 2.9). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 70 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Pluma 6,10 m y brazo 2,60 m (primera configuracion); existen pluma 6,50 m y brazos 3,20/4,00 m (profundidad hasta 8.370 mm). Zapata 600 mm. Traccion 30.470 kgf. Capacidad circuito hidraulico 470 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 410 LC UHD",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 42200,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1X",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 210,
+   "power_kw_rated": null,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x300",
+   "pump_flow_total_lpm": 600,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 228.5,
+   "arm_dig_force_kn": 200.1,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6530,
+   "max_reach_mm": 10460,
+   "max_dump_height_mm": 6910,
+   "bucket_capacity_m3": 2.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 565,
+   "hydraulic_tank_l": 265
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/14/1/hmk-410-lc-uhd-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 350 kgf/cm2 -> 343 bar (con Power Boost 380 kgf/cm2 = 373 bar); fuerzas ISO sin Power Boost (con Power Boost: cazo 248.1 kN, brazo 216.7 kN). Velocidad = alta (5.0 km/h; baja 3.0). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 70 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Pluma 6,10 m, brazo 2,60 m. Traccion 30.260 kgf. Capacidad circuito hidraulico 470 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 500 LC HD",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52000,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6UZ1X",
+   "displacement_l": 9.839,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 270,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x366",
+   "pump_flow_total_lpm": 732,
+   "system_pressure_bar": 324,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 259.9,
+   "arm_dig_force_kn": 251.1,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6480,
+   "max_reach_mm": 10770,
+   "max_dump_height_mm": 6940,
+   "bucket_capacity_m3": 3.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 655,
+   "hydraulic_tank_l": 370
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/15/1/hmk-500-lc-hd-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 330 kgf/cm2 -> 324 bar (con Power Boost 355 kgf/cm2 = 348 bar); fuerzas ISO sin Power Boost (con Power Boost: cazo 279.5 kN, brazo 270.7 kN). Velocidad = alta (4.7 km/h; baja 2.85). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 70 l). Fuerza de arranque de cazo; capacidad de cazo SAE. Pluma 6,30 m, brazo 2,60 m (existen pluma 6,90 m y brazos 2,90/3,30 m), zapata 600 mm. Traccion 35.250 kgf. Capacidad circuito hidraulico 615 l. Presion de ataque 330 kgf/cm2."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 520 LC HD",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 53800,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6UZ1X",
+   "displacement_l": 9.839,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 270,
+   "power_kw_rated": null,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 bombas de pistones axiales de caudal variable",
+   "pump_flow_lpm": "2x376",
+   "pump_flow_total_lpm": 752,
+   "system_pressure_bar": 324,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 259.9,
+   "arm_dig_force_kn": 251.1,
+   "swing_speed_rpm": 7.7,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6480,
+   "max_reach_mm": 10770,
+   "max_dump_height_mm": 6940,
+   "bucket_capacity_m3": 3.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 655,
+   "hydraulic_tank_l": 370
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/80/1/hmk-520-lc-hd-leaflet.pdf (ENG - NOVEMBER 2025)",
+  "notes": "Peso operativo estandar ISO 6016. Potencia SAE J1995 (bruta); sin dato neto. Presiones y fuerzas publicadas en kgf/cm2 y kgf, convertidas a bar y kN (x0,0980665 / x0,00980665). Presion de ataque/traslado 330 kgf/cm2 -> 324 bar (con Power Boost 355 kgf/cm2 = 348 bar); fuerzas ISO sin Power Boost (con Power Boost: cazo 279.5 kN, brazo 270.7 kN). Velocidad = alta (4.6 km/h; baja 2.8). EGR y postratamiento no indicados (la hoja solo lista deposito de urea de 33 l). Fuerza de arranque de cazo; capacidad de cazo SAE. El mayor excavador de cadenas de la gama. Pluma 6,30 m, brazo 2,60 m, zapata 600 mm. Traccion 35.880 kgf. Capacidad circuito hidraulico 615 l."
+ },
+ {
+  "brand": "Hidromek",
+  "model": "HMK 630 WL",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 19800,
+  "engine": {
+   "make": "Mercedes-Benz",
+   "model": "OM936",
+   "displacement_l": 7.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 188,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Bombas de pistones de cilindrada variable tipo LS, circuito de centro cerrado",
+   "pump_flow_lpm": "283",
+   "pump_flow_total_lpm": 283,
+   "system_pressure_bar": 270,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2900,
+   "bucket_capacity_m3": 3.2,
+   "breakout_force_kn": 158.9,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 14700
+  },
+  "capacities": {
+   "fuel_l": 275,
+   "hydraulic_tank_l": 115
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.hidromek.com/europe-EN/download/products/leaflets/2511/1/hmk-630-wl-leaflet.pdf (ENG - JULY 2026)",
+  "notes": "Potencia maxima 188 kW (252 hp) a 1.500-2.000 rpm, sin indicar norma -> power_kw_rated. Fuerza de arranque 16.200 kg convertida a kN (x0,00980665). Carga de vuelco estatica recta 14.700 kg (articulada 13.000 kg). Transmision autoshift 5 marchas adelante / 3 atras (5a = 40 km/h). Neumaticos 23,5-R25, cazo 3,2 m3, Z-bar. Profundidad de excavacion 100 mm. Par 1.200 Nm a 1.200-1.500 rpm. AdBlue 40 l; EGR/postratamiento no indicados."
+ }
+]

@@ -1,0 +1,2798 @@
+[
+ {
+  "brand": "Develon",
+  "model": "DX17Z-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1850,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 12.1
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 34.6,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14.1,
+   "arm_dig_force_kn": 8.8,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.21 low / 4.09 high",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2240,
+   "max_reach_mm": 3820,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx17z-7",
+  "notes": "Depth/reach with standard arm (long arm 2440/4010 mm). Max bucket 0.04 m3. ISO dig forces. Hydraulic flow 34.6 l/min. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX19-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G"
+  ],
+  "weight_kg": 1885,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 12.1
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 34.6,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14.1,
+   "arm_dig_force_kn": 8.8,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.06 low / 3.73 high",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2340,
+   "max_reach_mm": 3850,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx19-7",
+  "notes": "Depth/reach with standard arm (long arm 2540/4040 mm). ISO dig forces. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX20ZE-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20GE"
+  ],
+  "weight_kg": 1941,
+  "engine": {
+   "make": "electric",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": "2 - 3.7",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2200,
+   "max_reach_mm": 3725,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.05,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx20ze",
+  "notes": "Electric, 51 V / 20.4 kWh battery, max traction 1.57 t, gradeability 16.7 deg/30%, swing torque 335 kgf.m. Same machine class as Zoomlion ZE20GE (2.1 t electric). Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX23E-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20GE"
+  ],
+  "weight_kg": 2296,
+  "engine": {
+   "make": "electric",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.4,
+   "travel_speed_kmh": "2.1 / 4.2",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2540,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx23e",
+  "notes": "Electric, 73.8 V, 32 kWh or 40 kWh battery, operating time 8 h / 10 h. Depth shown is long arm per page label (std/long arm). Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX27Z-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2730,
+  "engine": {
+   "make": "Kubota",
+   "model": "V1505",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.5
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 22.2,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.5 / 4.3",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2645,
+   "max_reach_mm": 4520,
+   "max_dump_height_mm": 2935,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx27z",
+  "notes": "Standard arm values (long arm depth 2845, reach 4720, dump 3065 mm). Bucket force listed as 'Digging force - bucket' 22.2 kN. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX35Z-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3995,
+  "engine": {
+   "make": "Develon",
+   "model": "D17",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.4
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 31.8,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.4 / 4.2",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3275,
+   "max_reach_mm": 5235,
+   "max_dump_height_mm": 3580,
+   "bucket_capacity_m3": 0.11,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx35z",
+  "notes": "Standard arm values (long arm depth 3445, reach 5400, dump 3700 mm). Nominal flywheel power 18.2 kW @ 2200 rpm also listed. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX55R-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE55GU"
+  ],
+  "weight_kg": 5740,
+  "engine": {
+   "make": "Develon",
+   "model": "D18",
+   "displacement_l": 1.8,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF (EGR)",
+   "power_kw_rated": 36.4
+  },
+  "hydraulics": {
+   "pump_type": "Variable axial piston pump",
+   "pump_flow_lpm": 138.6,
+   "pump_flow_total_lpm": 138.6,
+   "system_pressure_bar": 274.6,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 43,
+   "arm_dig_force_kn": 27,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": "2.6/4.4",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 3630,
+   "max_reach_mm": 5950,
+   "max_dump_height_mm": 3925,
+   "bucket_capacity_m3": 0.16,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 78,
+   "hydraulic_tank_l": 67
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx55r",
+  "notes": "Standard arm (long arm depth 3930, reach 6250 mm). Max traction 4580 kg, gradeability 35 deg/70%, swing torque 1380 kgf.m. Reduced-tail-swing R version; DX50Z-7 (5438 kg, same D18 engine) is the zero-tail variant. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/26180 (SAE J1995 36.4 kW; dig forces ISO tf x9.80665, standard arm 1600 mm; relief 280 kgf/cm2 for DX55R)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX62R-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE60G"
+  ],
+  "weight_kg": 6216,
+  "engine": {
+   "make": "Develon",
+   "model": "D24",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 44.3
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.8 - 4.7",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3795,
+   "max_reach_mm": 6175,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx62r-7",
+  "notes": "Standard arm (long arm depth 4095, reach 6485 mm). Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX63-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE60G"
+  ],
+  "weight_kg": 6218,
+  "engine": {
+   "make": "Develon",
+   "model": "D24",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2300,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 44.3
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "2.8 - 4.7",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3795,
+   "max_reach_mm": 6005,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx63-7",
+  "notes": "Standard arm (long arm depth 4095, reach 6315 mm); max digging height 5790/6025 mm. Conventional-tail version. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX140LC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14400,
+  "engine": {
+   "make": "Develon",
+   "model": "G2 D34",
+   "displacement_l": 3.409,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "DOC+SCR+DPF, without EGR",
+   "power_kw_rated": 86
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pump",
+   "pump_flow_lpm": "2 x 114",
+   "pump_flow_total_lpm": 228,
+   "system_pressure_bar": 323.6,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103,
+   "arm_dig_force_kn": 71,
+   "swing_speed_rpm": 10.13,
+   "travel_speed_kmh": "2.9 low - 4.7 high",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.51,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 265,
+   "hydraulic_tank_l": 145
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx140lc-7",
+  "notes": "Max traction 15,200 kg, gradeability 35 deg/70%, swing torque 4888 kgf.m. Total flow = 2 x 114 (arithmetic sum). Closest in weight to ZE135G (14.4 t); ZE145GU is 15.8 t. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/26264: rpm 2000 per brochure (web lists 1800); J1349 81.6 kW; dig forces ISO nominal, mono boom 2100 mm arm column (tf x9.80665); relief 330 kgf/cm2."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX210-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC"
+  ],
+  "weight_kg": 21900,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF",
+   "power_kw_rated": 124
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2 x 210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 152,
+   "arm_dig_force_kn": 107,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.2/5.9",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6570,
+   "max_reach_mm": 9825,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 339,
+   "hydraulic_tank_l": 200
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx210-7",
+  "notes": "Bucket 0.92 m3 as listed (range 0.51-1.32). Dig forces published as ranges in tonnes (bucket normal/press-up 15.5-16.5 t, arm 10.8-11.4 t) so left null. 166 hp. Same family DX210LC-7 22,300 kg (https://eu.develon-ce.com/en/machines/dx210lc-7) is closer to ZE210GLC 22.7 t. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/31598 (names engine DL06P; web DL06V kept). Dig forces ISO nominal, mono boom 5600 + 2900 arm (tf x9.80665)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX235LC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE225GN",
+   "ZE210GLC"
+  ],
+  "weight_kg": 23200,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF",
+   "power_kw_rated": 129
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2 x 210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 153,
+   "arm_dig_force_kn": 125,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.0/5.3",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6095,
+   "max_reach_mm": 9465,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.05,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 339,
+   "hydraulic_tank_l": 200
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx235lc-7",
+  "notes": "Bucket 0.81-1.05 m3 (max shown). Dig forces published as ranges (bucket normal/press-up 15.6-16.5 t, arm 10.9-13.4 t) so left null. 173 hp. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/31576 (names engine DL06P). Dig forces ISO nominal, mono boom 5700 + 2400 arm (tf x9.80665); traction 29.2 t."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX300LC-7K",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 31500,
+  "engine": {
+   "make": "Develon",
+   "model": "DL08V",
+   "displacement_l": 7.64,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 202,
+   "rpm": 1800,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2 x 248",
+   "pump_flow_total_lpm": 496,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 196.1,
+   "arm_dig_force_kn": 121.6,
+   "swing_speed_rpm": 9.88,
+   "travel_speed_kmh": "3.0 low / 5.5 high",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7950,
+   "max_reach_mm": 11240,
+   "max_dump_height_mm": 10405,
+   "bucket_capacity_m3": 1.75,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 500,
+   "hydraulic_tank_l": 280
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx300lc-7",
+  "notes": "Engine power 202 kW (271 hp) SAE J1995 (gross). Page title DX300LC-7K. Dig forces published as 20 t / 12.4 t, converted to kN (x9.80665). Bucket range 0.80-1.75 m3. Max traction 35 t. DX300LC-9 (32,370 kg, Develon DX08 208 kW, 2x288 l/min) also on https://eu.develon-ce.com/en/machines/dx300lc-9. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/27727: J1349 199 kW; brochure dig forces (ISO normal) bucket 18.9 t / arm 16.0 t with first-listed arms, web values kept (they are pressure-up values)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX350LC-7K",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G",
+   "ZE375G"
+  ],
+  "weight_kg": 36100,
+  "engine": {
+   "make": "Develon",
+   "model": "DL08V",
+   "displacement_l": 7.64,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 213,
+   "rpm": 1800,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2 x 350",
+   "pump_flow_total_lpm": 700,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 254.0,
+   "arm_dig_force_kn": 228.5,
+   "swing_speed_rpm": 9.9,
+   "travel_speed_kmh": "3.4 low / 5.6 high",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8125,
+   "max_reach_mm": 12165,
+   "max_dump_height_mm": 13175,
+   "bucket_capacity_m3": 2.32,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600,
+   "hydraulic_tank_l": 380
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx350lc-7",
+  "notes": "Engine power 213 kW (290 hp) SAE J1995 (gross). Dig forces published as 25.9 t / 23.3 t, converted to kN. Bucket range 1.25-2.32 m3. Max traction 37.9 t. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/26966: J1349 209.1 kW; brochure dig forces (ISO normal) bucket 24.4 t / arm 22.0 t with first-listed arms, web values kept (they are pressure-up values)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX380LC-7K",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE375G"
+  ],
+  "weight_kg": 40200,
+  "engine": {
+   "make": "Scania",
+   "model": "DC09",
+   "displacement_l": 9.3,
+   "cylinders": 5,
+   "power_kw_net": null,
+   "power_kw_gross": 240,
+   "rpm": 1800,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2 x 350",
+   "pump_flow_total_lpm": 700,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 254.0,
+   "arm_dig_force_kn": 228.5,
+   "swing_speed_rpm": 9.9,
+   "travel_speed_kmh": "3.0 low / 5.4 high",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8165,
+   "max_reach_mm": 11930,
+   "max_dump_height_mm": 10940,
+   "bucket_capacity_m3": 2.32,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600,
+   "hydraulic_tank_l": 380
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx380lc-7",
+  "notes": "Engine power 240 kW (326 hp) SAE J1995 (gross). Dig forces published as 25.9 t / 23.3 t, converted to kN. Bucket range 1.25-2.32 m3. Max traction 43.4 t. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/27718: J1349 236.1 kW; brochure dig forces (ISO normal) bucket 24.4 t / arm 22.0 t with first-listed arms, web values kept (they are pressure-up values)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX800LC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 79500,
+  "engine": {
+   "make": "Perkins",
+   "model": "2506J",
+   "displacement_l": 15.2,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 403,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF",
+   "power_kw_rated": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement axial piston pumps",
+   "pump_flow_lpm": "2 x 504",
+   "pump_flow_total_lpm": 1008,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 368.7,
+   "arm_dig_force_kn": 328.5,
+   "swing_speed_rpm": 7.4,
+   "travel_speed_kmh": "2.9 low / 4.8 high",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7725,
+   "max_reach_mm": 12672,
+   "max_dump_height_mm": 11910,
+   "bucket_capacity_m3": 4.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 890,
+   "hydraulic_tank_l": 790
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx800lc-7",
+  "notes": "Engine 403 kW (548 hp) SAE J1995 (gross). ISO dig forces 37.6 t / 33.5 t converted to kN. Depth with 7.7 m boom/2.9 m arm. Bucket 4.6 m3 (range 4.25-5.24). Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Brochure https://eu.develon-ce.com/media/download/26760: Perkins 2506J, ISO 14396 gross 402 kW (web lists 403 kW SAE J1995 kept as rated); traction 70.7 t; swing torque 31600 kgf.m."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL320-7",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 19493,
+  "engine": {
+   "make": "Develon",
+   "model": "DL08",
+   "displacement_l": 7.64,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "power_kw_rated": 202
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 290,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "40",
+   "gradeability_pct": 51,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2887,
+   "bucket_capacity_m3": 3.3,
+   "breakout_force_kn": 170,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 15948
+  },
+  "capacities": {
+   "fuel_l": 291,
+   "hydraulic_tank_l": 117
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl320-7",
+  "notes": "Closest conventional loader to ZWL55GE (19.2 t, electric). Tipping load 15,948 kg straight; static tipping load at 40 deg 14,079 kg. Dump height at 45 deg with bolt-on edge, reach 1360 mm. Wheelbase 3300 mm. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Spec sheet https://eu.develon-ce.com/media/download/31714; pump max flow single value."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL420-7",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 23990,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "power_kw_rated": 257
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 266,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 315,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": 51,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2990,
+   "bucket_capacity_m3": 4.5,
+   "breakout_force_kn": 171,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 18696
+  },
+  "capacities": {
+   "fuel_l": 313,
+   "hydraulic_tank_l": 125
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl420-7",
+  "notes": "Closest conventional loader to ZWL75GE (25.5 t, electric). Tipping load 18,696 kg straight; static at 40 deg 16,493 kg. Max travel 40 km/h (5th gear). Tyres 26.5 R25 (L3). 345 hp. Unlisted fields are not published on the web spec block (null, not estimated). Power basis (net/gross) not stated unless noted. Completeness pass: power migrated to power_kw_rated. Spec sheet https://eu.develon-ce.com/media/download/31733; pump max flow single value."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX10Z-7",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1165,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722",
+   "displacement_l": 0.719,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": 7.6,
+   "power_kw_rated": null,
+   "rpm": 2050,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x10.4",
+   "pump_flow_total_lpm": 20.8,
+   "system_pressure_bar": 205.9,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 10.8,
+   "arm_dig_force_kn": 6.3,
+   "swing_speed_rpm": 8.7,
+   "travel_speed_kmh": "1.7/3.4",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2205,
+   "max_reach_mm": 3355,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.02,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 14.2,
+   "hydraulic_tank_l": 10.8
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx10z-7",
+  "notes": "Brochure https://eu.develon-ce.com/media/download/30125. Rated power gross 7.6 kW @2050 rpm; emission stage not stated in the brochure spec table. Main pumps 2x10.4 l/min @2300 rpm, boom/arm/bucket relief 210 kgf/cm2 (=206 bar), aux line 176 bar. Traction 12.75 kN, gradeability 30 deg (pct not stated). Max reach 3400 mm (ground 3355 used). Weight 1165 kg, 2-pillar canopy."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX20Z-7",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1995,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV70",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 10.3,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x17.6 (+13.2 third pump)",
+   "pump_flow_total_lpm": 35.2,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15,
+   "arm_dig_force_kn": 7,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": "2.02/3.71",
+   "gradeability_pct": 30,
+   "max_dig_depth_mm": 2345,
+   "max_reach_mm": 3875,
+   "max_dump_height_mm": 2750,
+   "bucket_capacity_m3": 0.05,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 20,
+   "hydraulic_tank_l": 25.5
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/DX20Z",
+  "notes": "Brochure https://eu.develon-ce.com/media/download/27464. Power ISO 14396 10.3 kW @2200 rpm. Dig forces 1.551 t / 0.762 t converted to kN; reach shown is ground-level (3875; max 3975). Traction 1.573 t, gradeability 30% (16.7 deg). Brochure ground-pressure table lists 1915 kg with 230 mm rubber shoes vs web operating weight 1995 kg (web value kept). Canopy (ISO TOPS)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX25Z-7",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2691,
+  "engine": {
+   "make": "Kubota",
+   "model": "D1305",
+   "displacement_l": 1.261,
+   "cylinders": 3,
+   "power_kw_net": 18.2,
+   "power_kw_gross": 18.5,
+   "power_kw_rated": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x28.2",
+   "pump_flow_total_lpm": 56.4,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 48
+  },
+  "performance": {
+   "bucket_dig_force_kn": 21,
+   "arm_dig_force_kn": 13,
+   "swing_speed_rpm": 9.16,
+   "travel_speed_kmh": "2.38/4.35",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 2695,
+   "max_reach_mm": 4600,
+   "max_dump_height_mm": 2975,
+   "bucket_capacity_m3": 0.07,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 30,
+   "hydraulic_tank_l": 27
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/DX25Z-7",
+  "notes": "Brochure https://eu.develon-ce.com/media/download/31793. Engine '4-cycle water-cooled, with EGR'. Gross 18.5 kW / net 18.2 kW; main pump 2x28.2 l/min @2350 rpm; aux line 48 l/min; swing relief 170 kgf/cm2. Reach is ground-level (max 4725). Arm 1.3 m. Gradeability 35 deg/70%."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX35Z-7K",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4040,
+  "engine": {
+   "make": "Develon",
+   "model": "DW01",
+   "displacement_l": 1.647,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": 18.4,
+   "power_kw_rated": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable axial piston pumps",
+   "pump_flow_lpm": "2x37",
+   "pump_flow_total_lpm": 74,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32,
+   "arm_dig_force_kn": 21,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": "2.5/4.3",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 3275,
+   "max_reach_mm": 5235,
+   "max_dump_height_mm": 3580,
+   "bucket_capacity_m3": 0.11,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 43,
+   "hydraulic_tank_l": 38
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx35z7",
+  "notes": "Upgraded DX35Z-7 (Sept 2026 launch; page title DX35Z-7K; existing DX35Z-7 entry is the previous D17 version). Brochure https://eu.develon-ce.com/media/download/35177 (DX27Z-7/DX35Z-7). Gross 18.4 kW @2200 rpm, torque 102 Nm. Arm 1.33 m tearout 2.12 t; reach is ground-level std arm (long arm 5400; depth long arm 3445). Gradeability 30 deg/58%. Emission stage not restated in brochure table."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX50Z-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 5438,
+  "engine": {
+   "make": "Develon",
+   "model": "D18",
+   "displacement_l": 1.8,
+   "cylinders": 3,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 36.4,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF (EGR)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable axial piston pump",
+   "pump_flow_lpm": 138.6,
+   "pump_flow_total_lpm": 138.6,
+   "system_pressure_bar": 245.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 34,
+   "arm_dig_force_kn": 23,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": "2.6/4.4",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 3480,
+   "max_reach_mm": 5800,
+   "max_dump_height_mm": 3820,
+   "bucket_capacity_m3": 0.16,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 78,
+   "hydraulic_tank_l": 67
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx50z",
+  "notes": "Zero-tail variant of DX55R-7. Brochure https://eu.develon-ce.com/media/download/26180. SAE J1995 36.4 kW; aftertreatment 'DOC, DPF and EGR'. Implement/travel relief 250 kgf/cm2 (=245 bar). Standard arm 1450 mm; reach is ground-level (max 5945). Traction 4.58 t."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX85R-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 9528,
+  "engine": {
+   "make": "Develon",
+   "model": "D24",
+   "displacement_l": 2.392,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 48.5,
+   "rpm": 2100,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF (EGR)"
+  },
+  "hydraulics": {
+   "pump_type": "Tandem axial piston pump (load sensing)",
+   "pump_flow_lpm": 149,
+   "pump_flow_total_lpm": 149,
+   "system_pressure_bar": 279.5,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 66,
+   "arm_dig_force_kn": 44,
+   "swing_speed_rpm": 9.9,
+   "travel_speed_kmh": "2.9/4.8",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 4110,
+   "max_reach_mm": 6850,
+   "max_dump_height_mm": 4705,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 160,
+   "hydraulic_tank_l": 140
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx85r-7",
+  "notes": "Brochure https://eu.develon-ce.com/media/download/27810. Power ISO 14396 48.5 kW @2100 rpm; torque 248 Nm; relief 285 kgf/cm2 (=279.5 bar). Standard arm 1700 mm (arm force 4.46 t); reach is ground-level (max 7015). Traction 6.6 t, gradeability 35 deg/58%. Listed under Mini Excavators on the Develon site."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX140LC-7K",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14400,
+  "engine": {
+   "make": "Develon",
+   "model": "G2 D34",
+   "displacement_l": 3.409,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 86,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "DOC+SCR+DPF, without EGR"
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pump",
+   "pump_flow_lpm": "2x114",
+   "pump_flow_total_lpm": 228,
+   "system_pressure_bar": 323.6,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103,
+   "arm_dig_force_kn": 61,
+   "swing_speed_rpm": 10.13,
+   "travel_speed_kmh": "2.9/4.7",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5635,
+   "max_reach_mm": 8285,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 265,
+   "hydraulic_tank_l": 145
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx140lc-7k",
+  "notes": "Same D34 G2 engine/hydraulics as DX140LC-7 (Kubota-type K-version for some markets). Brochure https://eu.develon-ce.com/media/download/27309. Dig forces: ISO, nominal pressure (power-boost values excluded), tonne-force converted x9.80665 to kN. Dig depth/reach/loading height = first-listed (mono boom) configuration of the brochure table; reach is max reach (not ground-level) unless noted. Power: SAE J1995 shown as rated (source does not label net/gross). Reach/depth/forces refer to the 2500 mm arm / mono boom 4600 mm column (not the first-listed 2100 mm arm). Relief 330 kgf/cm2 (=323.6 bar); SAE J1349 net 81.6 kW. DEF tank 25 l. Fuel 265 l, hydraulic tank 145 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX140LCR-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 15600,
+  "engine": {
+   "make": "Develon",
+   "model": "G2 D34",
+   "displacement_l": 3.409,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 86,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "DOC+SCR+DPF, without EGR"
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pump",
+   "pump_flow_lpm": "2x114",
+   "pump_flow_total_lpm": 228,
+   "system_pressure_bar": 323.6,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 102,
+   "arm_dig_force_kn": 61,
+   "swing_speed_rpm": 10.13,
+   "travel_speed_kmh": "2.9/4.7",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5485,
+   "max_reach_mm": 8285,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 265,
+   "hydraulic_tank_l": 145
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx140lcr-7",
+  "notes": "Reduced-tail-swing version. Brochure https://eu.develon-ce.com/media/download/26194. Dig forces: ISO, nominal pressure (power-boost values excluded), tonne-force converted x9.80665 to kN. Dig depth/reach/loading height = first-listed (mono boom) configuration of the brochure table; reach is max reach (not ground-level) unless noted. Power: SAE J1995 shown as rated (source does not label net/gross). Reach/depth/forces refer to the 2500 mm arm / mono boom 4600 mm column (not the first-listed 2100 mm arm). Relief 330 kgf/cm2 (=323.6 bar); SAE J1349 net 81.6 kW. DEF tank 25 l. Fuel 265 l, hydraulic tank 145 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX160LC-7HT",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 16800,
+  "engine": {
+   "make": "Develon",
+   "model": "G2 D34",
+   "displacement_l": 3.409,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 86,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "DOC+SCR+DPF, without EGR"
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pump",
+   "pump_flow_lpm": "2x114",
+   "pump_flow_total_lpm": 228,
+   "system_pressure_bar": 323.6,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103,
+   "arm_dig_force_kn": 61,
+   "swing_speed_rpm": 10.13,
+   "travel_speed_kmh": "2.3/3.7",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5355,
+   "max_reach_mm": 8285,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 265,
+   "hydraulic_tank_l": 145
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/DX160LC-7-HT",
+  "notes": "Forestry/heavy-tower version (brochure name DX160HT-7K); traction 29.7 t low / 12 t high. Brochure https://eu.develon-ce.com/media/download/26419. Dig forces: ISO, nominal pressure (power-boost values excluded), tonne-force converted x9.80665 to kN. Dig depth/reach/loading height = first-listed (mono boom) configuration of the brochure table; reach is max reach (not ground-level) unless noted. Power: SAE J1995 shown as rated (source does not label net/gross). Reach/depth/forces refer to the 2500 mm arm / mono boom 4600 mm column (not the first-listed 2100 mm arm). Relief 330 kgf/cm2 (=323.6 bar); SAE J1349 net 81.6 kW. DEF tank 25 l. Fuel 265 l, hydraulic tank 145 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX210LC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22300,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 124,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2x210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 152,
+   "arm_dig_force_kn": 106,
+   "swing_speed_rpm": 11.4,
+   "travel_speed_kmh": "3.2/5.9",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6270,
+   "max_reach_mm": 9535,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 339,
+   "hydraulic_tank_l": 200
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx210lc-7",
+  "notes": "LC long undercarriage. Brochure https://eu.develon-ce.com/media/download/31598 (names engine DL06P, web page says DL06V; DL06V kept as on web). SAE J1995 124 kW, J1349 121 kW @1800 rpm. Dig forces/reach/depth for mono boom 5600 mm + 2600 mm arm column; travel 3.2-5.9 km/h, traction 29.2 t, swing torque 9334 kgf.m. Relief 350 kgf/cm2 (=343 bar). "
+ },
+ {
+  "brand": "Develon",
+  "model": "DX210NLC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22100,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 124,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2x210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 152,
+   "arm_dig_force_kn": 106,
+   "swing_speed_rpm": 11.4,
+   "travel_speed_kmh": "3.2/5.9",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6270,
+   "max_reach_mm": 9535,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 339,
+   "hydraulic_tank_l": 200
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx210nlc-7",
+  "notes": "NLC narrow long undercarriage. Brochure https://eu.develon-ce.com/media/download/31598 (names engine DL06P, web page says DL06V; DL06V kept as on web). SAE J1995 124 kW, J1349 121 kW @1800 rpm. Dig forces/reach/depth for mono boom 5600 mm + 2600 mm arm column; travel 3.2-5.9 km/h, traction 29.2 t, swing torque 9334 kgf.m. Relief 350 kgf/cm2 (=343 bar). "
+ },
+ {
+  "brand": "Develon",
+  "model": "DX235LCR-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 24300,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 141,
+   "rpm": 1900,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement tandem axial piston pump",
+   "pump_flow_lpm": "2x222.3",
+   "pump_flow_total_lpm": 444.6,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 153,
+   "arm_dig_force_kn": 122,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": "3.2/5.8",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6180,
+   "max_reach_mm": 9415,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 310,
+   "hydraulic_tank_l": 190
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx235lcr-7",
+  "notes": "Reduced-tail-swing. Brochure https://eu.develon-ce.com/media/download/31867. SAE J1995 141 kW, J1349 127 kW @1900 rpm. Mono boom 5700 + 2400 mm arm column. Relief 350/370 kgf/cm2. Traction 29.2 t, swing torque 9626 kgf.m."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX245NHD-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25100,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 129,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x variable displacement tandem axial piston pumps",
+   "pump_flow_lpm": "2x210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 153,
+   "arm_dig_force_kn": 125,
+   "swing_speed_rpm": 11.4,
+   "travel_speed_kmh": "3.0/5.3",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6095,
+   "max_reach_mm": 9465,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.05,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 339,
+   "hydraulic_tank_l": 200
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx245nhd-7",
+  "notes": "Heavy-duty (NHD) undercarriage with 550 mm HD shoes. Brochure https://eu.develon-ce.com/media/download/31576 (names engine DL06P; web says DL06V). SAE J1995 129 kW, J1349 121 kW. Mono boom 5700 + 2400 mm arm column. Traction 31.1 t."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX235RTF-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25689,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06V",
+   "displacement_l": 5.89,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 141,
+   "rpm": 1900,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "DOC+SCR+DPF (no EGR)"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement tandem axial piston pump",
+   "pump_flow_lpm": "2x222.3",
+   "pump_flow_total_lpm": 444.6,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": "3.2/5.8",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 9260,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 310,
+   "hydraulic_tank_l": 190
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx235rtf-7",
+  "notes": "Tunneling excavator (boom tilting 2x45 deg, reduced swing radius). Brochure https://eu.develon-ce.com/media/download/29945. SAE J1995 141 kW, J1349 127 kW @1900 rpm. Dig forces/depth not given in brochure text. DEF tank 31.5 l. 'No EGR' per brochure."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX230LCE-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25600,
+  "engine": {
+   "make": "Electric motor",
+   "model": "Liquid-cooled permanent-magnet motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 120,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x tandem axial piston pumps",
+   "pump_flow_lpm": "2x210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 153,
+   "arm_dig_force_kn": 125,
+   "swing_speed_rpm": 10.9,
+   "travel_speed_kmh": "3.1/5.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6105,
+   "max_reach_mm": 9460,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 195
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx230lce-7",
+  "notes": "Battery-electric (LiFePO4 battery, 120 kW motor, zero local emissions; operating time indication 9 h; battery kWh not published in brochure). Brochure https://eu.develon-ce.com/media/download/33821. Mono boom 5700 + 2400 mm arm column. Traction 27.5 t. Charging AC 380 V 63/32 A min. 8/16 h (DX230LCE-7)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX250LCE-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 27900,
+  "engine": {
+   "make": "Electric motor",
+   "model": "Liquid-cooled permanent-magnet motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 120,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 x tandem axial piston pumps",
+   "pump_flow_lpm": "2x210.6",
+   "pump_flow_total_lpm": 421.2,
+   "system_pressure_bar": 343.2,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 153,
+   "arm_dig_force_kn": 125,
+   "swing_speed_rpm": 10.9,
+   "travel_speed_kmh": "3.1/5.5",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6105,
+   "max_reach_mm": 9460,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 195
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx250lce-7",
+  "notes": "Battery-electric (LiFePO4 battery, 120 kW motor, zero local emissions; operating time indication 12 h; battery kWh not published in brochure). Brochure https://eu.develon-ce.com/media/download/33821. Mono boom 5700 + 2400 mm arm column. Traction 27.5 t. Charging AC 380 V 63/32 A min. 8/16 h (DX230LCE-7)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX230LC-9",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23600,
+  "engine": {
+   "make": "Develon",
+   "model": "DX05V",
+   "displacement_l": 5.018,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 141,
+   "rpm": 1700,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x swash plate axial piston pumps",
+   "pump_flow_lpm": "2x212",
+   "pump_flow_total_lpm": 424,
+   "system_pressure_bar": 365.8,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 149,
+   "arm_dig_force_kn": 106,
+   "swing_speed_rpm": 11.1,
+   "travel_speed_kmh": "3.1/5.4",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6620,
+   "max_reach_mm": 9895,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx230lc-9",
+  "notes": "Develon 9 Series, full electro-hydraulic (FEH) system, Stage V. Brochure https://eu.develon-ce.com/media/download/32435. SAE J1995 141 kW @1700 rpm, torque 97.4 kgf.m; pumps 2x212 l/min (2x125 ml/rev); max system pressure 373 kg/cm2 work (=366 bar) / 358 travel. ISO nominal dig force: bucket 15.2 t, arm 10.8 t (std arm 2900 mm). Mono boom 5700 + 2900 arm. Max loading height 6805 mm. Max swing speed (eff=1) 11.1 rpm, traction 282.7/163.4 kN. Fuel/hydraulic tank capacities not found in brochure text."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX260LC-9",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26300,
+  "engine": {
+   "make": "Develon",
+   "model": "DX05V",
+   "displacement_l": 5.018,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 171.1,
+   "rpm": 1900,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x swash plate axial piston pumps",
+   "pump_flow_lpm": "2x237.5",
+   "pump_flow_total_lpm": 475.0,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 178,
+   "arm_dig_force_kn": 128,
+   "swing_speed_rpm": 10.6,
+   "travel_speed_kmh": "3.4/5.8",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6810,
+   "max_reach_mm": 10170,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx260lc-9",
+  "notes": "Develon 9 Series, FEH hydraulics, Stage V. Brochure https://eu.develon-ce.com/media/download/32435. SAE J1995 171.1 kW @1900 rpm. Pumps 2x237.5 l/min;  Max system pressure not stated for this model separately. ISO nominal dig force bucket 18.2 t / arm 13.1 t (std arm 3000 mm). Mono boom 5900 + 3000 arm; loading height 7025. Swing 10.6 rpm. Fuel/hydraulic tanks not found."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX300LC-9",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 32370,
+  "engine": {
+   "make": "Develon",
+   "model": "DX08",
+   "displacement_l": 7.5,
+   "cylinders": 6,
+   "power_kw_net": 207,
+   "power_kw_gross": 208,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x swash plate axial piston pumps",
+   "pump_flow_lpm": "2x288",
+   "pump_flow_total_lpm": 576,
+   "system_pressure_bar": 365.8,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 190,
+   "arm_dig_force_kn": 130,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.3/5.8",
+   "gradeability_pct": 35,
+   "max_dig_depth_mm": 7280,
+   "max_reach_mm": 10670,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 500,
+   "hydraulic_tank_l": 164
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx300lc-9",
+  "notes": "Develon 9 Series, FEH hydraulics, Stage V. Brochure https://eu.develon-ce.com/media/download/35348 (also 35404). Power net 207 kW / gross 208 kW (both labelled SAE J1995 at 1800 rpm in brochure), torque 1230 Nm @1300 rpm. Pumps 2x288 l/min (2x160 ml/rev). ISO nominal dig force bucket 189.9 kN, arm 130 kN (std arm 3100 mm). Mono boom 6245 + 3100 arm; loading height 7300; traction 272 kN; gradeability 35 deg; DEF tank 72 l. Max system pressure 373 kg/cm2 work (=366 bar) per family equipment list."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX360LC-9",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 37200,
+  "engine": {
+   "make": "Develon",
+   "model": "DX08",
+   "displacement_l": 7.5,
+   "cylinders": 6,
+   "power_kw_net": 224,
+   "power_kw_gross": 227,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x swash plate axial piston pumps",
+   "pump_flow_lpm": "2x360",
+   "pump_flow_total_lpm": 720,
+   "system_pressure_bar": 365.8,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 245,
+   "arm_dig_force_kn": 177,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.7/6.0",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7510,
+   "max_reach_mm": 11110,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.03,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600,
+   "hydraulic_tank_l": 243
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx360lc-9",
+  "notes": "Develon 9 Series, FEH hydraulics, Stage V. Brochure https://eu.develon-ce.com/media/download/35404. Power net 224 kW / gross 227 kW (SAE J1995 at 1800 rpm), torque 1230 Nm. Pumps 2x360 l/min (200 ml/rev). ISO nominal dig force bucket 245 kN, arm 177 kN (std arm 3200 mm). Mono boom 6500 + 3200 arm; loading height 7200; traction 363/223 kN; gradeability 70% (35 deg); DEF 72 l. Max pressure per family equipment list (373 kg/cm2 =366 bar)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX400HD-9",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 42200,
+  "engine": {
+   "make": "Develon",
+   "model": "DX08",
+   "displacement_l": 7.5,
+   "cylinders": 6,
+   "power_kw_net": 251,
+   "power_kw_gross": 254,
+   "power_kw_rated": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x swash plate axial piston pumps",
+   "pump_flow_lpm": "2x360",
+   "pump_flow_total_lpm": 720,
+   "system_pressure_bar": 365.8,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 245,
+   "arm_dig_force_kn": 177,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "3.2/5.6",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7400,
+   "max_reach_mm": 11110,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.22,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600,
+   "hydraulic_tank_l": 243
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx400hd-9",
+  "notes": "Develon 9 Series heavy-duty (HD), FEH hydraulics, Stage V. Brochure https://eu.develon-ce.com/media/download/35404. Power net 251 kW / gross 254 kW (SAE J1995 at 1800 rpm), torque 1460 Nm. Pumps 2x360 l/min. ISO nominal dig force bucket 245 kN, arm 177 kN (std arm 3200 mm). Loading height 7310; traction 422/240 kN; weight 42200 kg (41700 with long arm); DEF 72 l. Max pressure per family equipment list (373 kg/cm2 =366 bar)."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX420LC-7K",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 43500,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 257,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x parallel, bent axis, axial piston pumps",
+   "pump_flow_lpm": "2x333",
+   "pump_flow_total_lpm": 666,
+   "system_pressure_bar": 363,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 255,
+   "arm_dig_force_kn": 230,
+   "swing_speed_rpm": 9.6,
+   "travel_speed_kmh": "3.2/5.3",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6980,
+   "max_reach_mm": 10810,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 640,
+   "hydraulic_tank_l": 370
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx420lc-7",
+  "notes": "SAE J1995 257 kW, J1349 252 kW @1800 rpm; torque 158 kgf.m. Mono boom 6700 + 2600 mm arm column (first listed); long-arm values on web: reach 12120, depth 8335. Brochure https://eu.develon-ce.com/media/download/26758. Dig forces ISO normal pressure (tf x9.80665). Loading height 7485 mm. Traction 43.4 t. DEF tank 70 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX490LC-7K",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 50400,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 294,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x parallel, bent axis, axial piston pumps",
+   "pump_flow_lpm": "2x390",
+   "pump_flow_total_lpm": 780,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 284,
+   "arm_dig_force_kn": 239,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": "3.2/5.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7340,
+   "max_reach_mm": 11720,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 626,
+   "hydraulic_tank_l": 390
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx490lc-7",
+  "notes": "SAE J1995 294 kW, J1349 289 kW @1800 rpm. Mono boom 7100 + 2900 mm arm (first listed). Variable undercarriage. Brochure https://eu.develon-ce.com/media/download/26758. Dig forces ISO normal pressure (tf x9.80665). Loading height 7725 mm. Traction 45.7 t. DEF tank 70 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX530LC-7K",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52900,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 294,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x parallel, bent axis, axial piston pumps",
+   "pump_flow_lpm": "2x390",
+   "pump_flow_total_lpm": 780,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 279,
+   "arm_dig_force_kn": 278,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": "3.2/5.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6260,
+   "max_reach_mm": 10305,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 626,
+   "hydraulic_tank_l": 390
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx530lc-7",
+  "notes": "SAE J1995 294 kW, J1349 289 kW @1800 rpm. Config used: boom 6300 + arm 2400 + 3.28 m3 bucket (heavy-duty 3.3 m3 per web). The web page max reach 19615/depth 15125 refers to the 11000/8000 SLR configuration (see DX530LC-7 SLR). Brochure https://eu.develon-ce.com/media/download/26758. Dig forces ISO normal pressure (tf x9.80665). Loading height 6650 mm. Traction 45.7 t. DEF tank 70 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX530LC-7 SLR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52200,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 294,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 x parallel, bent axis, axial piston pumps",
+   "pump_flow_lpm": "2x390",
+   "pump_flow_total_lpm": 780,
+   "system_pressure_bar": 380,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 140,
+   "arm_dig_force_kn": 107,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": "3.2/5.6",
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 15125,
+   "max_reach_mm": 19615,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.92,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 626,
+   "hydraulic_tank_l": 390
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx530lc-7-slr",
+  "notes": "Super-long-reach version: boom 11000 mm + arm 8000 mm, bucket 0.92 m3. SAE J1995 294 kW, J1349 289 kW. Brochure also lists a Semi-SLR (9000/6000). Bucket 14.3 t / arm 10.9 t from the 11000/8000 column. Brochure https://eu.develon-ce.com/media/download/26456 (SLR brochure; fuel/hydraulic/pump data taken from the same brochure's DX530 section). Dig forces ISO normal pressure (tf x9.80665). Loading height 11890 mm. Traction 45.7 t. DEF tank 70 l."
+ },
+ {
+  "brand": "Develon",
+  "model": "DX1000LC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 97000,
+  "engine": {
+   "make": "Perkins",
+   "model": "2806J",
+   "displacement_l": 18.1,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 469,
+   "power_kw_rated": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "3 x variable displacement axial piston pumps",
+   "pump_flow_lpm": "3x523",
+   "pump_flow_total_lpm": 1569,
+   "system_pressure_bar": 360,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 421,
+   "arm_dig_force_kn": 400,
+   "swing_speed_rpm": 6.1,
+   "travel_speed_kmh": "2.6/4.5",
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7260,
+   "max_reach_mm": 12430,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 6.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1100,
+   "hydraulic_tank_l": 880
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dx1000lc-7",
+  "notes": "Largest Develon excavator. Brochure https://eu.develon-ce.com/media/download/26773. Power ISO 14396 gross 469 kW @2000 rpm, torque 301.1 kgf.m. Operating weight 97,000-99,500 kg (lower bound shown). Config: boom 7250 + arm 2900, bucket 6.8 m3 (5.4 m3 with 8400/3750); loading height 8100 mm; traction 60.6 t; swing torque 31850 kgf.m. Dig forces 42.96 t bucket / 40.8 t arm (ISO) converted to kN. Relief implement 360 bar."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL200-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 12047,
+  "engine": {
+   "make": "Perkins",
+   "model": "1204J",
+   "displacement_l": 4.4,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 106,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF+SCR + EGR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 155,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "38 (4th)",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2718,
+   "bucket_capacity_m3": 2.0,
+   "breakout_force_kn": 98,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 10124
+  },
+  "capacities": {
+   "fuel_l": 235,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl200-7",
+  "notes": "Traction 8.3 t; hydrostatic (HST) transmission; DEF 19 l. Spec sheet https://eu.develon-ce.com/media/download/31670 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL220-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 13198,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06",
+   "displacement_l": 5.9,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 119,
+   "rpm": 2100,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 155,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "38.9 (4-speed) / 40 (5-speed)",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2784,
+   "bucket_capacity_m3": 2.3,
+   "breakout_force_kn": 97,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 10652
+  },
+  "capacities": {
+   "fuel_l": 235,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl220-7",
+  "notes": "Traction 11.2/11.3 t. Spec sheet https://eu.develon-ce.com/media/download/31680 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL250-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 13847,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06",
+   "displacement_l": 5.9,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 128,
+   "rpm": 2100,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 155,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "37.5 (4-speed) / 40 (5-speed)",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2762,
+   "bucket_capacity_m3": 2.5,
+   "breakout_force_kn": 116,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11015
+  },
+  "capacities": {
+   "fuel_l": 235,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl250-7",
+  "notes": "Traction 11.8/13.2 t. Spec sheet https://eu.develon-ce.com/media/download/31690 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL280-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15759,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06",
+   "displacement_l": 5.9,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 141,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF+SCR + EGR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 246,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "35.6 (4-speed) / 40 (5-speed)",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2734,
+   "bucket_capacity_m3": 2.8,
+   "breakout_force_kn": 147,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 12303
+  },
+  "capacities": {
+   "fuel_l": 235,
+   "hydraulic_tank_l": 85
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl280-7",
+  "notes": "Traction 13.9 t; DEF 30 l. Spec sheet https://eu.develon-ce.com/media/download/31706 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL280-7 Waste Loader",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 19700,
+  "engine": {
+   "make": "Develon",
+   "model": "DL06",
+   "displacement_l": 5.9,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 141,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+DPF+SCR + EGR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 246,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 260,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "40",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 4086,
+   "bucket_capacity_m3": 2.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 5915
+  },
+  "capacities": {
+   "fuel_l": 235,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl280-7-waste-loader",
+  "notes": "Waste/recycling version with super-high-lift arm (pin height 5 m), solid tyres. Brochure lists bucket 2.7 m3 (web 2.8 m3); tipping load 5915 kg straight / 7180 kg full turn as printed in the brochure. Breakout force not published. Brochure https://eu.develon-ce.com/media/download/32014 (the base-DL280 spec sheet values above are not used).(bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL380-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 20269,
+  "engine": {
+   "make": "Develon",
+   "model": "DL08",
+   "displacement_l": 7.64,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 202,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 310,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "40",
+   "gradeability_pct": 51,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2887,
+   "bucket_capacity_m3": 3.7,
+   "breakout_force_kn": 181,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16248
+  },
+  "capacities": {
+   "fuel_l": 291,
+   "hydraulic_tank_l": 117
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl380-7",
+  "notes": "Traction 19.1 t. Spec sheet https://eu.develon-ce.com/media/download/31719 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL420CVT-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 23990,
+  "engine": {
+   "make": "Scania",
+   "model": "DC9",
+   "displacement_l": 9.3,
+   "cylinders": 5,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 240,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 266,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 315,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "38.3 (4 forward speeds listed)",
+   "gradeability_pct": 51,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2990,
+   "bucket_capacity_m3": 4.5,
+   "breakout_force_kn": 171,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 18696
+  },
+  "capacities": {
+   "fuel_l": 313,
+   "hydraulic_tank_l": 125
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl420cvt-7",
+  "notes": "CVT version; traction 22.1 t. Spec sheet https://eu.develon-ce.com/media/download/31744 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL480-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 26410,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 257,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 476,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 315,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "40",
+   "gradeability_pct": 51,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3088,
+   "bucket_capacity_m3": 4.8,
+   "breakout_force_kn": 231,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 20769
+  },
+  "capacities": {
+   "fuel_l": 332,
+   "hydraulic_tank_l": 126
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl480-7",
+  "notes": "Traction 24.2 t. Spec sheet https://eu.develon-ce.com/media/download/31756 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL550-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 33209,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 283,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 480,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "40",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3228,
+   "bucket_capacity_m3": 5.4,
+   "breakout_force_kn": 230,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 24830
+  },
+  "capacities": {
+   "fuel_l": 441,
+   "hydraulic_tank_l": 242
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl550-7",
+  "notes": "Traction 31.8 t; DEF 60 l. Spec sheet https://eu.develon-ce.com/media/download/31764 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ },
+ {
+  "brand": "Develon",
+  "model": "DL580-7",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 34488,
+  "engine": {
+   "make": "Scania",
+   "model": "DC13",
+   "displacement_l": 12.7,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "power_kw_rated": 294,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed-centre; dual variable displacement axial piston pumps",
+   "pump_flow_lpm": 529,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": "40",
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3461,
+   "bucket_capacity_m3": 6.4,
+   "breakout_force_kn": 264,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 27174
+  },
+  "capacities": {
+   "fuel_l": 441,
+   "hydraulic_tank_l": 242
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://eu.develon-ce.com/en/machines/dl580-7",
+  "notes": "Traction 32.2 t; DEF 60 l. Spec sheet https://eu.develon-ce.com/media/download/31769 (bucket/breakout/tipping/dump height as on web page; power SAE J1995, source does not label net/gross). Main pump max flow stated as a single value. Dump height at 45 deg with bolt-on edge."
+ }
+]

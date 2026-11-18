@@ -1,0 +1,3997 @@
+[
+ {
+  "brand": "Caterpillar",
+  "model": "301.8",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G",
+   "ZE20GE"
+  ],
+  "weight_kg": 2029,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 15.7,
+   "power_kw_gross": 16.1,
+   "rpm": 2400,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing, variable displacement piston pump",
+   "pump_flow_lpm": "66",
+   "pump_flow_total_lpm": 66,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 33
+  },
+  "performance": {
+   "bucket_dig_force_kn": 19.6,
+   "arm_dig_force_kn": 11.3,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2570,
+   "max_reach_mm": 4030,
+   "max_dump_height_mm": 2640,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 26,
+   "hydraulic_tank_l": 18
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/mini-excavators/730743084461224.html",
+  "notes": "Operating weight 2029 kg = max (cab, steel tracks, expandable UC); 1725 kg min canopy. Dig depth/reach with long stick (standard stick 2370 mm); arm force 11.3 kN std stick (9.8 long); gross power SAE J1995; net ISO 9249 at 2400 rpm; pump flow at 2400 rpm; aux flow primary 33 L/min (secondary 14); gradeability stated 30 degrees (not %); max dump 2640 mm long stick. EGR and aftertreatment not stated. ROPS/TOPS certified cab and canopy."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "303 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU",
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3545,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1 Turbo",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 17.6,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing, variable displacement piston pump",
+   "pump_flow_lpm": "100",
+   "pump_flow_total_lpm": 100,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 65
+  },
+  "performance": {
+   "bucket_dig_force_kn": 28.4,
+   "arm_dig_force_kn": 16.6,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2950,
+   "max_reach_mm": 5240,
+   "max_dump_height_mm": 3310,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 45,
+   "hydraulic_tank_l": 18
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/mini-excavators/108580.html",
+  "notes": "Operating weight 3545 kg = max with cab (min canopy 3025 kg). Dig depth/reach/dump with long stick; arm force 16.6 kN std stick (14.8 long). Page also lists 18.4 kW as Net Power ISO 9249 (without 80/1269/EEC wording); 17.6 kW is net at 2400 rpm. Gradeability 30 degrees (not %). Aux primary 65 L/min, secondary 25. EGR/aftertreatment not stated. Closest Cat class to the 2.7-3.8 t Zoomlion minis (Cat 302 CR 2.26 t also exists)."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "302 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2262,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 15.7,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing, variable displacement piston pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": 11.3,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2370,
+   "max_reach_mm": 4110,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 26,
+   "hydraulic_tank_l": 18
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/mini-excavators/730743084454966.html",
+  "notes": "Page lists only partial specs (no bucket force, pump flow). Standard stick. Equipment pressure printed as 245 kPa on the page (typo; travel 245 bar) so 245 bar used. Gradeability 30 degrees (not %)."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "307.5",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8120,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.4 Turbo",
+   "displacement_l": 2.43,
+   "cylinders": null,
+   "power_kw_net": 40.9,
+   "power_kw_gross": 43.2,
+   "rpm": 2400,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing, variable displacement piston pump",
+   "pump_flow_lpm": "167",
+   "pump_flow_total_lpm": 167,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131
+  },
+  "performance": {
+   "bucket_dig_force_kn": 54.6,
+   "arm_dig_force_kn": 37.8,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4642,
+   "max_reach_mm": 6805,
+   "max_dump_height_mm": 5717,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 145,
+   "hydraulic_tank_l": 53
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/mini-excavators/15969612.html",
+  "notes": "Operating weight 8120 kg = max with cab (min 7505). Dig depth/reach/dump with long stick; arm force 37.8 kN std stick (33.7 long). Aux primary 131 L/min, secondary 33. Gradeability 30 degrees (not %). EGR/aftertreatment not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "313 GC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G"
+  ],
+  "weight_kg": 13800,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 54,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Japan 2014",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "247 (main system max flow)",
+   "pump_flow_total_lpm": 247,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 98.67,
+   "arm_dig_force_kn": 59.29,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6040,
+   "max_reach_mm": 8660,
+   "max_dump_height_mm": 6420,
+   "bucket_capacity_m3": 0.68,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 258,
+   "hydraulic_tank_l": 70
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/small-excavators/126640.html",
+  "notes": "Boom 4.65 m, stick 3.0 m, GD 0.68 m3 bucket. Net power ISO 9249; gross listed as ISO 14396. Dig forces ISO. Pressure 35000 kPa equipment/travel, 26000 kPa swing. Pump type, travel speed not on page. EGR and aftertreatment not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "320 GC",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 22000,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C4.4",
+   "displacement_l": 4.4,
+   "cylinders": null,
+   "power_kw_net": 109,
+   "power_kw_gross": 110.1,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Japan 2014",
+   "egr": null,
+   "aftertreatment": "DEF tank 39 L listed (SCR implied by DEF; aftertreatment components not itemised on page)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "442 (main system max flow)",
+   "pump_flow_total_lpm": 442,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 129,
+   "arm_dig_force_kn": 99,
+   "swing_speed_rpm": 11.6,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6720,
+   "max_reach_mm": 9860,
+   "max_dump_height_mm": 6490,
+   "bucket_capacity_m3": 1.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 345,
+   "hydraulic_tank_l": 115
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/medium-excavators/126504.html",
+  "notes": "Boom 5.7 m, stick 2.9 m, GD 1.0 m3 bucket. Net power ISO 9249; gross ISO 14396. Lift-mode/travel pressure 343 bar, swing 250 bar. Swing torque 74.4 kN.m. Pump type and travel speed not on page. EGR not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "320",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE225GN",
+   "ZE210GLC"
+  ],
+  "weight_kg": 22600,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C4.4",
+   "displacement_l": 4.4,
+   "cylinders": null,
+   "power_kw_net": 128.5,
+   "power_kw_gross": 129.4,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Japan 2014",
+   "egr": null,
+   "aftertreatment": "DEF tank 39 L listed (SCR implied by DEF; aftertreatment components not itemised on page)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "429 (main system max flow)",
+   "pump_flow_total_lpm": 429,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 141,
+   "arm_dig_force_kn": 107,
+   "swing_speed_rpm": 11.25,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6720,
+   "max_reach_mm": 9860,
+   "max_dump_height_mm": 6490,
+   "bucket_capacity_m3": 1.19,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 345,
+   "hydraulic_tank_l": 115
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/medium-excavators/126532.html",
+  "notes": "Boom 5.7 m, stick 2.9 m, 1.19 m3 bucket. Net power ISO 9249; gross ISO 14396. Lift-mode pressure 380 bar, travel 343, swing 275. Swing torque 82 kN.m. Pump type and travel speed not on page. EGR not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "305 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 5754,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.7 Turbo",
+   "displacement_l": 1.662,
+   "cylinders": null,
+   "power_kw_net": 33.6,
+   "power_kw_gross": 36.1,
+   "rpm": 2400,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing, variable displacement piston pump",
+   "pump_flow_lpm": "133",
+   "pump_flow_total_lpm": 133,
+   "system_pressure_bar": 265,
+   "aux_flow_lpm": 80
+  },
+  "performance": {
+   "bucket_dig_force_kn": 49.2,
+   "arm_dig_force_kn": 28.3,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3670,
+   "max_reach_mm": 5990,
+   "max_dump_height_mm": 3845,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 63,
+   "hydraulic_tank_l": 60
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/mini-excavators/112620.html",
+  "notes": "Operating weight 5754 kg = max with cab (min 5095). Dig depth/reach/dump with long stick; arm force 28.3 kN std stick (25.2 long). Gross SAE J1995. Aux primary 80 L/min, secondary 28. Gradeability 30 degrees (not %). Hydraulic system volume 75 L. EGR/aftertreatment not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "315",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE145GU"
+  ],
+  "weight_kg": 15400,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 81,
+   "power_kw_gross": 82,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Japan 2014",
+   "egr": null,
+   "aftertreatment": "DEF tank 21 L listed (SCR implied by DEF; components not itemised)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "276 (main system max flow)",
+   "pump_flow_total_lpm": 276,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 98.67,
+   "arm_dig_force_kn": 59.29,
+   "swing_speed_rpm": 12,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5990,
+   "max_reach_mm": 8690,
+   "max_dump_height_mm": 7220,
+   "bucket_capacity_m3": 0.68,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 187,
+   "hydraulic_tank_l": 72
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/small-excavators/126743.html",
+  "notes": "Boom 4.65 m, stick 3.0 m, GD 0.68 m3 bucket. Net ISO 9249; gross ISO 14396. Swing pressure 260 bar. Swing torque 35 kN.m. Pump type, travel speed not on page. EGR not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "336",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G",
+   "ZE375G"
+  ],
+  "weight_kg": 36800,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1 TTA",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 223.5,
+   "power_kw_gross": 225,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Japan 2014",
+   "egr": null,
+   "aftertreatment": "DEF tank 50 L listed (SCR implied by DEF; components not itemised)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "560 (main system max flow)",
+   "pump_flow_total_lpm": 560,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 210,
+   "arm_dig_force_kn": 144,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8210,
+   "max_reach_mm": 11760,
+   "max_dump_height_mm": 7470,
+   "bucket_capacity_m3": 2.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600,
+   "hydraulic_tank_l": 161
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/large-excavators/127105.html",
+  "notes": "Boom 6.5 m, stick 3.9 m, HD 2.0 m3 bucket. Net ISO 9249; gross ISO 14396. Lift-mode pressure 380 bar, swing 294 bar. Swing torque 143 kN.m. Pump type, swing and travel speed not on page. EGR not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "374",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 73890,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C15",
+   "displacement_l": 15.2,
+   "cylinders": null,
+   "power_kw_net": 361,
+   "power_kw_gross": 362,
+   "rpm": null,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Korea Stage V / Japan 2014",
+   "egr": null,
+   "aftertreatment": "DEF tank 80 L listed (SCR implied by DEF; components not itemised)"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "896 (main system max flow, implement)",
+   "pump_flow_total_lpm": 896,
+   "system_pressure_bar": 370,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 358,
+   "arm_dig_force_kn": 295,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8570,
+   "max_reach_mm": 13160,
+   "max_dump_height_mm": 8430,
+   "bucket_capacity_m3": 3.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 920,
+   "hydraulic_tank_l": 326
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/excavators/large-excavators/127100.html",
+  "notes": "Boom 7.8 m, stick 3.6 m, SD 3.3 m3 bucket. Net ISO 9249; gross ISO 14396. Equipment pressure 370 bar (lift mode 380), travel/swing 350. Swing torque 298 kN.m. Pump type, speeds not on page. EGR not stated."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "950 GC",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 18849,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 168,
+   "power_kw_gross": 179,
+   "rpm": 1700,
+   "emission_stage": "Tier 4 / Stage V (page text)",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "256 (implement pump max output at 2390 rpm)",
+   "pump_flow_total_lpm": 256,
+   "system_pressure_bar": 279,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 36,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 154,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11006
+  },
+  "capacities": {
+   "fuel_l": 290,
+   "hydraulic_tank_l": 112
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/wheel-loaders/medium-wheel-loaders/1000029532.html",
+  "notes": "Conventional (diesel) loader compared against the electric ZWL55GE by weight class. Net ISO 9249 168 kW at 1700 rpm; gross ISO 14396 179 kW. Bucket range 2.9-4.4 m3 (not a single value so null). Tipping load full turn ISO 14397-1 11006 kg (11737 kg rigid tires). Max travel speed fwd gear 4 = 36 km/h. Pressure 27900 kPa at 50 L/min pilot flow condition. DEF tank 16 L. EGR/aftertreatment not itemised. Page also lists an engine heading Tier 4 Final/Stage IV."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "966",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 23196,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": 222,
+   "power_kw_gross": 242,
+   "rpm": 1600,
+   "emission_stage": "U.S. EPA Tier 4 Final / EU Stage V / Korea Stage V / China Nonroad Stage IV / Japan 2014",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "373 (implement pump max output at 2275 rpm)",
+   "pump_flow_total_lpm": 373,
+   "system_pressure_bar": 310,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 174,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 14849
+  },
+  "capacities": {
+   "fuel_l": 303,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/wheel-loaders/medium-wheel-loaders/130311.html",
+  "notes": "Conventional (diesel) loader compared against the electric ZWL75GE by weight class (966 XE hybrid-drive variant exists, not used). Net ISO 9249/SAE J1349 222 kW at 1600 rpm; ISO 14396 engine power 239 kW; gross SAE J1995 242 kW (gross field uses SAE). Tipping load static full 37 deg turn 14849 kg (15981 kg no tire deflection). Standard lift. Bucket capacity not on spec table. DEF tank 26 L. EGR/aftertreatment not itemised."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "226D3",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 2653,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.2 CRDI",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": 49.6,
+   "power_kw_gross": 50.1,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "69 standard / 99 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 99
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 705,
+   "tipping_load_kg": 1410
+  },
+  "capacities": {
+   "fuel_l": 57,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/15970471.html",
+  "notes": "Net power ISO 9249 49.6 kW (SAE J1349 49.1 kW); gross SAE J1995. Hydraulic flow 69 L/min standard, 99 L/min high flow (aux_flow shows high flow). Travel 12.3 km/h one speed (17.8 two-speed option). Breakout force listed as 1781 kg (tilt cylinder, not kN) so null. ROC 705 kg (750 kg with counterweight). Emission standard not stated on page. Zoomlion ZS090V is 3.0 t (226D3 is smaller; 242D3 is 3.2 t)."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "242D3",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V",
+   "ZS120V"
+  ],
+  "weight_kg": 3238,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.3B DIT (turbo)",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": 55.1,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "76 standard / 112 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 112
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1000,
+   "tipping_load_kg": 2000
+  },
+  "capacities": {
+   "fuel_l": 94,
+   "hydraulic_tank_l": 39
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/30056688546898.html",
+  "notes": "Net ISO 9249 55.1 kW (SAE J1349 54.6 kW); gross SAE J1995. Hydraulic flow 76 L/min standard, 112 L/min high flow (aux_flow shows high flow). Travel 12.1 km/h one speed (18.5 two-speed). ROC 1000 kg (1095 kg with counterweight). Breakout force listed as 2251 kg (tilt cylinder, not kN) so null. Emission standard not stated on page."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "249D3",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT090V"
+  ],
+  "weight_kg": 3552,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.2 CRDI",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": 49.6,
+   "power_kw_gross": 50.1,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "69 standard / 99 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 99
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1130,
+   "tipping_load_kg": 2260
+  },
+  "capacities": {
+   "fuel_l": 57,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/15970464.html",
+  "notes": "Net ISO 9249 49.6 kW; gross SAE J1995. ROC 1130 kg at 50% tipping load (790 kg at 35%; 1225 kg with counterweight). Travel 8.1 km/h one speed, 12.2 km/h two-speed. Breakout force listed as 1772 kg (tilt cylinder) so null. Emission standard not stated on page."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "265",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4759,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8TA (turbo after-cooled)",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 54.4,
+   "power_kw_gross": 55.2,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86 standard / 113 high flow / 129 high flow XPS",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 129
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 13,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1829,
+   "tipping_load_kg": 3659
+  },
+  "capacities": {
+   "fuel_l": 120.7,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_US/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/122720.html",
+  "notes": "Closest current Cat CTL to the 4.35 t ZT120V (265 is 4.76 t; no 259D3 spec page found). Net ISO 9249 54.4 kW; gross SAE J1995. ROC 1829 kg at 50% tipping (1280 kg at 35%). Pressure 241 bar std/high flow, 280 bar XPS (aux_flow = XPS 129 L/min). Travel 8 km/h one speed, 13 km/h two-speed. Breakout listed in kg (lift 3057, tilt 3937) so null. Emission standard not stated on page."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "301 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1230,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 11.7,
+   "power_kw_gross": 12.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Fixed displacement pump",
+   "pump_flow_lpm": "23.8",
+   "pump_flow_total_lpm": 23.8,
+   "system_pressure_bar": 204,
+   "aux_flow_lpm": 20.9
+  },
+  "performance": {
+   "bucket_dig_force_kn": 9.6,
+   "arm_dig_force_kn": 6.2,
+   "swing_speed_rpm": 8.3,
+   "travel_speed_kmh": 3.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 1820,
+   "max_reach_mm": 3150,
+   "max_dump_height_mm": 1820,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 13.0,
+   "hydraulic_tank_l": 13.4
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/132240.html",
+  "notes": "cat.com en_GB spec table. Operating weight 1230 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "301.5",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1775,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 15.7,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "66",
+   "pump_flow_total_lpm": 66.0,
+   "system_pressure_bar": 213,
+   "aux_flow_lpm": 33.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 14.1,
+   "arm_dig_force_kn": 7.2,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2540,
+   "max_reach_mm": 3800,
+   "max_dump_height_mm": 2510,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 22.0,
+   "hydraulic_tank_l": 18.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/730743084448070.html",
+  "notes": "cat.com en_GB spec table. Operating weight 1775 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "301.6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1958,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 15.7,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 22.0,
+   "hydraulic_tank_l": 18.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/730743084459228.html",
+  "notes": "cat.com en_GB spec table. Operating weight 1958 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "301.7 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1915,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 15.7,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.2,
+   "arm_dig_force_kn": 9.5,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 22.0,
+   "hydraulic_tank_l": 18.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/730743084446553.html",
+  "notes": "cat.com en_GB spec table. Operating weight 1915 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "302.7 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3050,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1 Turbo",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 17.6,
+   "power_kw_gross": 18.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "100",
+   "pump_flow_total_lpm": 100.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 65.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 23.3,
+   "arm_dig_force_kn": 13.8,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2710,
+   "max_reach_mm": 4850,
+   "max_dump_height_mm": 3070,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 45.0,
+   "hydraulic_tank_l": 18.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/108560.html",
+  "notes": "cat.com en_GB spec table. Operating weight 3050 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "302.6",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3030,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.1 Turbo",
+   "displacement_l": 1.1,
+   "cylinders": null,
+   "power_kw_net": 17.6,
+   "power_kw_gross": 18.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Flow sharing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "100",
+   "pump_flow_total_lpm": 100.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 65.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 23.3,
+   "arm_dig_force_kn": 13.8,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2710,
+   "max_reach_mm": 4650,
+   "max_dump_height_mm": 3080,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 45.0,
+   "hydraulic_tank_l": 18.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/132340.html",
+  "notes": "cat.com en_GB spec table. Operating weight 3030 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "303.5 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4190,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.7",
+   "displacement_l": 1.7,
+   "cylinders": null,
+   "power_kw_net": 17.6,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "100",
+   "pump_flow_total_lpm": 100.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 70.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 33.0,
+   "arm_dig_force_kn": 18.9,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3110,
+   "max_reach_mm": 5510,
+   "max_dump_height_mm": 3600,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 45.0,
+   "hydraulic_tank_l": 20.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/108600.html",
+  "notes": "cat.com en_GB spec table. Operating weight 4190 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "304",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4475,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C1.7 Turbo",
+   "displacement_l": 1.662,
+   "cylinders": null,
+   "power_kw_net": 33.6,
+   "power_kw_gross": 36.1,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "96",
+   "pump_flow_total_lpm": 96.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 65.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 38.2,
+   "arm_dig_force_kn": 21.0,
+   "swing_speed_rpm": 9.0,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3510,
+   "max_reach_mm": 5570,
+   "max_dump_height_mm": 3740,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 63.0,
+   "hydraulic_tank_l": 52.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/112621.html",
+  "notes": "cat.com en_GB spec table. Operating weight 4475 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Emission stage not captured. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "306 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 7150,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.4 Turbo",
+   "displacement_l": 2.43,
+   "cylinders": null,
+   "power_kw_net": 41.7,
+   "power_kw_gross": 43.2,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "151",
+   "pump_flow_total_lpm": 151.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 90.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 51.5,
+   "arm_dig_force_kn": 29.5,
+   "swing_speed_rpm": 11.0,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4110,
+   "max_reach_mm": 6685,
+   "max_dump_height_mm": 4610,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 130.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/100084.html",
+  "notes": "cat.com en_GB spec table. Operating weight 7150 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "306 CR VAB",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 7150,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.4 Turbo",
+   "displacement_l": 2.43,
+   "cylinders": null,
+   "power_kw_net": 41.7,
+   "power_kw_gross": 42.6,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "151",
+   "pump_flow_total_lpm": 151.0,
+   "system_pressure_bar": 245,
+   "aux_flow_lpm": 90.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 51.5,
+   "arm_dig_force_kn": 28.6,
+   "swing_speed_rpm": 11.0,
+   "travel_speed_kmh": 5.0,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2975,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 130.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/117520.html",
+  "notes": "cat.com en_GB spec table. Operating weight 7150 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. VAB (variable angle boom) model: working-range values are for the stated boom position and are not directly comparable. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "308 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 9420,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8 Turbo",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 51.2,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "167",
+   "pump_flow_total_lpm": 167.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 62.0,
+   "arm_dig_force_kn": 42.3,
+   "swing_speed_rpm": 10.6,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4643,
+   "max_reach_mm": 7637,
+   "max_dump_height_mm": 5072,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 147.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/128360.html",
+  "notes": "cat.com en_GB spec table. Operating weight 9420 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "308 CR (Fixed Boom)",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 8462,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8 Turbo",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 51.2,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "167",
+   "pump_flow_total_lpm": 167.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 58.9,
+   "arm_dig_force_kn": 41.3,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4687,
+   "max_reach_mm": 6900,
+   "max_dump_height_mm": 5672,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 145.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/127700.html",
+  "notes": "cat.com en_GB spec table. Operating weight 8462 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "308 CR VAB",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 9560,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8 Turbo",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 51.2,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "167",
+   "pump_flow_total_lpm": 167.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 62.0,
+   "arm_dig_force_kn": 42.3,
+   "swing_speed_rpm": 10.6,
+   "travel_speed_kmh": 5.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3815,
+   "max_reach_mm": 6515,
+   "max_dump_height_mm": 3450,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 147.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/128340.html",
+  "notes": "cat.com en_GB spec table. Operating weight 9560 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. VAB (variable angle boom) model: working-range values are for the stated boom position and are not directly comparable. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "309 CR",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 9465,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8 Turbo",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 51.2,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "233",
+   "pump_flow_total_lpm": 233.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 62.0,
+   "arm_dig_force_kn": 42.3,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4642,
+   "max_reach_mm": 7637,
+   "max_dump_height_mm": 5072,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 147.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/128040.html",
+  "notes": "cat.com en_GB spec table. Operating weight 9465 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "309 CR VAB",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 10020,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8 Turbo",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 51.2,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "233",
+   "pump_flow_total_lpm": 233.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 140.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 62.0,
+   "arm_dig_force_kn": 42.3,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3815,
+   "max_reach_mm": 6300,
+   "max_dump_height_mm": 3450,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 147.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/130580.html",
+  "notes": "cat.com en_GB spec table. Operating weight 10020 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. VAB (variable angle boom) model: working-range values are for the stated boom position and are not directly comparable. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "309 CR VAB (Long Undercarriage)",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 9740,
+  "engine": {
+   "make": "Caterpillar",
+   "model": null,
+   "displacement_l": 3.33,
+   "cylinders": null,
+   "power_kw_net": 51.8,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "233",
+   "pump_flow_total_lpm": 233.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 62.0,
+   "arm_dig_force_kn": 42.3,
+   "swing_speed_rpm": 10.6,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3815,
+   "max_reach_mm": 6515,
+   "max_dump_height_mm": 3450,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 147.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/108939672057.html",
+  "notes": "cat.com en_GB spec table. Operating weight 9740 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Emission stage not captured. VAB (variable angle boom) model: working-range values are for the stated boom position and are not directly comparable. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "310 - Tier 4 / Stage V",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 10432,
+  "engine": {
+   "make": "Caterpillar",
+   "model": null,
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 51.2,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing hydraulics, variable displacement piston pump",
+   "pump_flow_lpm": "233",
+   "pump_flow_total_lpm": 233.0,
+   "system_pressure_bar": 285,
+   "aux_flow_lpm": 131.0
+  },
+  "performance": {
+   "bucket_dig_force_kn": 77.7,
+   "arm_dig_force_kn": 49.2,
+   "swing_speed_rpm": 10.0,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5211,
+   "max_reach_mm": 7695,
+   "max_dump_height_mm": 5829,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 145.0,
+   "hydraulic_tank_l": 53.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/mini-excavators/127701.html",
+  "notes": "cat.com en_GB spec table. Operating weight 10432 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Emission stage not captured. Travel speed value on page looked like low range, set null. Engine model not captured. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "313",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 13800,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 81.0,
+   "power_kw_gross": 82.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "247",
+   "pump_flow_total_lpm": 247.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 99.0,
+   "arm_dig_force_kn": 59.0,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5840,
+   "max_reach_mm": 8660,
+   "max_dump_height_mm": 6420,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 258.0,
+   "hydraulic_tank_l": 70.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/small-excavators/126701.html",
+  "notes": "cat.com en_GB spec table. Operating weight 13800 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "315 GC",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 15400,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 73.3,
+   "power_kw_gross": 74.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "247",
+   "pump_flow_total_lpm": 247.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 98.67,
+   "arm_dig_force_kn": 59.29,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5990,
+   "max_reach_mm": 8690,
+   "max_dump_height_mm": 7220,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 187.0,
+   "hydraulic_tank_l": 72.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/small-excavators/126745.html",
+  "notes": "cat.com en_GB spec table. Operating weight 15400 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "317 GC",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17200,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 89.0,
+   "power_kw_gross": 90.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "296",
+   "pump_flow_total_lpm": 296.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 123.0,
+   "arm_dig_force_kn": 75.0,
+   "swing_speed_rpm": 8.7,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6400,
+   "max_reach_mm": 9010,
+   "max_dump_height_mm": 6280,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 271.0,
+   "hydraulic_tank_l": 87.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/small-excavators/126780.html",
+  "notes": "cat.com en_GB spec table. Operating weight 17200 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "317",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 18400,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 98.9,
+   "power_kw_gross": 100.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "296",
+   "pump_flow_total_lpm": 296.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 123.0,
+   "arm_dig_force_kn": 80.0,
+   "swing_speed_rpm": 8.7,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6100,
+   "max_reach_mm": 8790,
+   "max_dump_height_mm": 6270,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 271.0,
+   "hydraulic_tank_l": 87.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/small-excavators/126750.html",
+  "notes": "cat.com en_GB spec table. Operating weight 18400 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "319",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 20000,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 99.0,
+   "power_kw_gross": 100.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "296",
+   "pump_flow_total_lpm": 296.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 123.0,
+   "arm_dig_force_kn": 71.0,
+   "swing_speed_rpm": 9.2,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6550,
+   "max_reach_mm": 9190,
+   "max_dump_height_mm": 6430,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 229.0,
+   "hydraulic_tank_l": 76.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/small-excavators/130560.html",
+  "notes": "cat.com en_GB spec table. Operating weight 20000 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "323",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25000,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 128.5,
+   "power_kw_gross": 129.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "429",
+   "pump_flow_total_lpm": 429.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 140.0,
+   "arm_dig_force_kn": 107.0,
+   "swing_speed_rpm": 11.25,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6730,
+   "max_reach_mm": 9870,
+   "max_dump_height_mm": 6480,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 345.0,
+   "hydraulic_tank_l": 115.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/medium-excavators/126531.html",
+  "notes": "cat.com en_GB spec table. Operating weight 25000 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "325",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 28400,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C4.4",
+   "displacement_l": 4.4,
+   "cylinders": null,
+   "power_kw_net": 128.5,
+   "power_kw_gross": 129.4,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "429",
+   "pump_flow_total_lpm": 429.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 150.0,
+   "arm_dig_force_kn": 106.0,
+   "swing_speed_rpm": 11.12,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6700,
+   "max_reach_mm": 9780,
+   "max_dump_height_mm": 7900,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 313.0,
+   "hydraulic_tank_l": 111.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/medium-excavators/128980.html",
+  "notes": "cat.com en_GB spec table. Operating weight 28400 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "326",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25600,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 149.8,
+   "power_kw_gross": 151.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "481",
+   "pump_flow_total_lpm": 481.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 166.0,
+   "arm_dig_force_kn": 121.0,
+   "swing_speed_rpm": 9.9,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6820,
+   "max_reach_mm": 10120,
+   "max_dump_height_mm": 6610,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 474.0,
+   "hydraulic_tank_l": 147.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/medium-excavators/126537.html",
+  "notes": "cat.com en_GB spec table. Operating weight 25600 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "330",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 31400,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 203.7,
+   "power_kw_gross": 205.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "560",
+   "pump_flow_total_lpm": 560.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 179.0,
+   "arm_dig_force_kn": 126.0,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7240,
+   "max_reach_mm": 10680,
+   "max_dump_height_mm": 6950,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 474.0,
+   "hydraulic_tank_l": 147.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/medium-excavators/126480.html",
+  "notes": "cat.com en_GB spec table. Operating weight 31400 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "330 GC",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 30900,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 150.0,
+   "power_kw_gross": 151.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "560",
+   "pump_flow_total_lpm": 560.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 179.0,
+   "arm_dig_force_kn": 126.0,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7260,
+   "max_reach_mm": 10690,
+   "max_dump_height_mm": 6930,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 474.0,
+   "hydraulic_tank_l": 147.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/medium-excavators/126533.html",
+  "notes": "cat.com en_GB spec table. Operating weight 30900 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "335",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 34900,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 203.7,
+   "power_kw_gross": 205.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "560",
+   "pump_flow_total_lpm": 560.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 207.0,
+   "arm_dig_force_kn": 144.0,
+   "swing_speed_rpm": 10.8,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6990,
+   "max_reach_mm": 10640,
+   "max_dump_height_mm": 7960,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 368.0,
+   "hydraulic_tank_l": 154.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/medium-excavators/126502.html",
+  "notes": "cat.com en_GB spec table. Operating weight 34900 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "340",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 37700,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": 258.3,
+   "power_kw_gross": 259.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "560",
+   "pump_flow_total_lpm": 560.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 210.0,
+   "arm_dig_force_kn": 145.0,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8210,
+   "max_reach_mm": 11760,
+   "max_dump_height_mm": 7470,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 600.0,
+   "hydraulic_tank_l": 161.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/large-excavators/127103.html",
+  "notes": "cat.com en_GB spec table. Operating weight 37700 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "350",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 46000,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": 308.0,
+   "power_kw_gross": 309.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "779",
+   "pump_flow_total_lpm": 779.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 268.0,
+   "arm_dig_force_kn": 183.0,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8210,
+   "max_reach_mm": 12150,
+   "max_dump_height_mm": 7390,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 680.0,
+   "hydraulic_tank_l": 217.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/large-excavators/127120.html",
+  "notes": "cat.com en_GB spec table. Operating weight 46000 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "352",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 48900,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C13B",
+   "displacement_l": 12.5,
+   "cylinders": null,
+   "power_kw_net": 330.0,
+   "power_kw_gross": 332.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "779",
+   "pump_flow_total_lpm": 779.0,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 267.0,
+   "arm_dig_force_kn": 183.0,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 8210,
+   "max_reach_mm": 12150,
+   "max_dump_height_mm": 7420,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 715.0,
+   "hydraulic_tank_l": 217.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/large-excavators/127121.html",
+  "notes": "cat.com en_GB spec table. Operating weight 48900 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "395",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 94000,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C18",
+   "displacement_l": 18.1,
+   "cylinders": null,
+   "power_kw_net": 404.0,
+   "power_kw_gross": 405.0,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "1064",
+   "pump_flow_total_lpm": 1064.0,
+   "system_pressure_bar": 370,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 383.0,
+   "arm_dig_force_kn": 305.0,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 9670,
+   "max_reach_mm": 14710,
+   "max_dump_height_mm": 9250,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 1220.0,
+   "hydraulic_tank_l": 372.0
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/excavators/large-excavators/126440.html",
+  "notes": "cat.com en_GB spec table. Operating weight 94000 kg as published (standard configuration on page; reach/stick/shoe config not itemised here). Net power ISO 9249/80/1269/EEC, gross ISO 14396 (where blank the page gave a non-kW value). Digging forces: bucket and standard/first-listed stick (ISO). Reach = 'Maximum Reach' row, dump = maximum dump/loading clearance row. Page states Tier 4 Final / EU Stage V (stage text on page); EGR/aftertreatment not itemised on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "216B3",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 2581,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.2",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": 35,
+   "power_kw_gross": 38,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "61",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 61
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 635,
+   "tipping_load_kg": 1270
+  },
+  "capacities": {
+   "fuel_l": 58,
+   "hydraulic_tank_l": 35
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/17817586.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (1852 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Net ISO 9249/SAE J1349 35 kW. Travel 12.7 km/h single speed. Page lists ROC 635 kg, tipping 1270 kg."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "232D3",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 2955,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.2 CRDI",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": 49.6,
+   "power_kw_gross": 50.1,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "69",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 69
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 17.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 865,
+   "tipping_load_kg": 1725
+  },
+  "capacities": {
+   "fuel_l": 57,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/15970472.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (1782 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Travel 12.3 km/h one-speed, 17.8 km/h two-speed option."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "236D3",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 2979,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.2 (turbo)",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": 49.6,
+   "power_kw_gross": 50.1,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "76",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 76
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 17.1,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 820,
+   "tipping_load_kg": 1635
+  },
+  "capacities": {
+   "fuel_l": 94,
+   "hydraulic_tank_l": 39
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/30056688546281.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (2269 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Travel 11.2 km/h one-speed, 17.1 two-speed option."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "246D3",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3392,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.3B DIT (turbo)",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": 54.9,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 86
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 17.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1000,
+   "tipping_load_kg": 2000
+  },
+  "capacities": {
+   "fuel_l": 105,
+   "hydraulic_tank_l": 39
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/30056688547513.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3336 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Travel 12.5 km/h one-speed, 17.7 two-speed option."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "262D3",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3763,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.3B DIT (turbo)",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": 54.9,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 86
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 17.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1225,
+   "tipping_load_kg": 2455
+  },
+  "capacities": {
+   "fuel_l": 105,
+   "hydraulic_tank_l": 39
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/30056688548127.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3336 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Travel 12.5 km/h one-speed, 17.7 two-speed option."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "250",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3551,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8T (turbo)",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 55,
+   "power_kw_gross": 55,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "76",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 76
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 16.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1220,
+   "tipping_load_kg": 2440
+  },
+  "capacities": {
+   "fuel_l": 94.4,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/127703.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3077 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Travel 12.9 km/h one-speed, 16.9 two-speed option. Lift-cylinder breakout 2698 kgf."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "270",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 4736,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6TA (turbocharged, aftercooled)",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 74,
+   "power_kw_gross": 75,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 86
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 15.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1614,
+   "tipping_load_kg": 3227
+  },
+  "capacities": {
+   "fuel_l": 130.7,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/127760.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3750 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. Travel 10.6 km/h one-speed, 15.4 two-speed option. Lift-cylinder breakout 2880 kgf."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "270 XE",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 4920,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6TA (turbocharged, aftercooled)",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 89,
+   "power_kw_gross": 91,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 86
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 17,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1821,
+   "tipping_load_kg": 3642
+  },
+  "capacities": {
+   "fuel_l": 130.7,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/skid-steer-loaders/127780.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3750 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ISO 14396 100 kW also listed. XE high-flow option; flow value for XE not captured. Travel 11.7 km/h one-speed, 17 two-speed option."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "239D3",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 3372,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.2 CRDI",
+   "displacement_l": 2.2,
+   "cylinders": null,
+   "power_kw_net": 49.6,
+   "power_kw_gross": 50.1,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "69 standard / 99 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 99
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 995,
+   "tipping_load_kg": 1985
+  },
+  "capacities": {
+   "fuel_l": 57,
+   "hydraulic_tank_l": 34
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/15970436.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (1775 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 995 kg at 50% tipping load (695 kg at 35%). Travel 8.1 km/h one-speed, 12.2 two-speed."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "255",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 4345,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C2.8T (turbo)",
+   "displacement_l": 2.8,
+   "cylinders": null,
+   "power_kw_net": 54.4,
+   "power_kw_gross": 55.4,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "76 standard / 113 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 113
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 13.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1619,
+   "tipping_load_kg": 3238
+  },
+  "capacities": {
+   "fuel_l": 93.9,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/122740.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3060 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 1619 kg at 50% (1133 kg at 35%). Enclosed cab adds 82 kg. Travel 9.2 / 13.7 km/h. Lift-cylinder breakout 2674 kgf."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "275",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5625,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6 TA (turbocharged aftercooled)",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 81,
+   "power_kw_gross": 82,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86 standard / 129 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 129
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 2693,
+   "tipping_load_kg": 5386
+  },
+  "capacities": {
+   "fuel_l": 136.1,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/127180.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (4519 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 2693 kg at 50% (1885 kg at 35%). Enclosed cab adds 99 kg. Travel 8.4 / 12.5 km/h. Lift-cylinder breakout 2913 kgf."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "275 XE",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5763,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6 TA (turbocharged aftercooled)",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 89,
+   "power_kw_gross": 91,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86 standard / 150 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 310,
+   "aux_flow_lpm": 150
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1829,
+   "tipping_load_kg": 5450
+  },
+  "capacities": {
+   "fuel_l": 136.1,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/127380.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (4519 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 1829 kg at 50% (1280 kg at 35%). Net ISO 9249 89 kW (SAE J1349 value 111 kW on page, inconsistent, not used). XE high flow 150 l/min at up to 310 bar. Travel 8.4 / 12.5 km/h."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "285",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 6122,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6 TA (turbocharged aftercooled)",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 81,
+   "power_kw_gross": 82,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 241,
+   "aux_flow_lpm": 86
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 2891,
+   "tipping_load_kg": 5781
+  },
+  "capacities": {
+   "fuel_l": 136.1,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/127620.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (6314 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 2891 kg at 50% (2023 kg at 35%). Travel 7.8 / 12 km/h. Lift-cylinder breakout 3960 kgf."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "285 XE",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 6200,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.6 TA (turbocharged aftercooled)",
+   "displacement_l": 3.6,
+   "cylinders": null,
+   "power_kw_net": 89,
+   "power_kw_gross": 91,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86 standard / 150 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 310,
+   "aux_flow_lpm": 150
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 12,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 2929,
+   "tipping_load_kg": 5868
+  },
+  "capacities": {
+   "fuel_l": 136.1,
+   "hydraulic_tank_l": 26
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/127702.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (6314 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 2929 kg at 50% (2050 kg at 35%). XE high flow 150 l/min at up to 310 bar. Travel 7.8 / 12 km/h."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "299D3",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5200,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.8 DIT (turbo)",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": 71,
+   "power_kw_gross": 73,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": 86
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 13.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 2255,
+   "tipping_load_kg": 4520
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 39
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/15970469.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3298 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 2255 kg at 50% (1580 kg at 35%). Travel 8.4 / 13.5 km/h. Lift-cylinder breakout 2795 kgf."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "299D3 XE",
+  "category": "compact_track_loader",
+  "equivalent_to": [],
+  "weight_kg": 5333,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C3.8 DIT (turbo)",
+   "displacement_l": 3.8,
+   "cylinders": null,
+   "power_kw_net": 80,
+   "power_kw_gross": 82,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "86 standard / 150 high flow",
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": 150
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 13.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 2315,
+   "tipping_load_kg": 4625
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 39
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/skid-steer-and-compact-track-loaders/compact-track-loaders/15970470.html",
+  "notes": "cat.com en_GB spec table. ROC = rated operating capacity at 50% tipping load; tipping load as published. Net power ISO 9249; gross SAE J1995. Breakout force listed on page in kgf for tilt cylinder (3298 kgf), so breakout_force_kn left null (page value in kgf). Emission standard not stated on page. ROC 2315 kg at 50% (1620 kg at 35%). XE high flow 150 l/min at up to 280 bar. Travel 8.4 / 13.5 km/h."
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "926",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 12688,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 123,
+   "power_kw_gross": 125,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 195,
+   "hydraulic_tank_l": 90
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/small-wheel-loaders/123240.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Emission stage not stated on page. Tipping/breakout not captured for this model. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "930",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14117,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 123,
+   "power_kw_gross": 125,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 195,
+   "hydraulic_tank_l": 90
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/small-wheel-loaders/123460.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Emission stage not stated on page. Tipping/breakout not captured for this model. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "938",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 16115,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 138,
+   "power_kw_gross": 140,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 195,
+   "hydraulic_tank_l": 90
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/small-wheel-loaders/123480.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Emission stage not stated on page. Tipping/breakout not captured for this model. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "950",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 19260,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": 172,
+   "power_kw_gross": 186,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "322",
+   "pump_flow_total_lpm": 322,
+   "system_pressure_bar": 293,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 181,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11201
+  },
+  "capacities": {
+   "fuel_l": 259.5,
+   "hydraulic_tank_l": 97
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130308.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "962",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 20171,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C7.1",
+   "displacement_l": 7.01,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 201,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "322",
+   "pump_flow_total_lpm": 322,
+   "system_pressure_bar": 293,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 189,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11734
+  },
+  "capacities": {
+   "fuel_l": 259.5,
+   "hydraulic_tank_l": 97
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130309.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "966 GC",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 21781,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": 218,
+   "power_kw_gross": 239,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 279,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 34.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 164,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 13640
+  },
+  "capacities": {
+   "fuel_l": 320,
+   "hydraulic_tank_l": 101
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/115420.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Emission stage not stated on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "966 XE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 23196,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 239,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 310,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 174,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 14849
+  },
+  "capacities": {
+   "fuel_l": 303,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130313.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. XE = efficiency-oriented drivetrain variant. Tipping load listed for 'full 37 deg turn' without tire-deflection qualifier. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "972",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 24890,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": 236,
+   "power_kw_gross": 253,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "373",
+   "pump_flow_total_lpm": 373,
+   "system_pressure_bar": 310,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 196,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16297
+  },
+  "capacities": {
+   "fuel_l": 303,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130314.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. Tipping load listed for 'full 37 deg turn' without tire-deflection qualifier. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "972 XE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 24890,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C9.3B",
+   "displacement_l": 9.3,
+   "cylinders": null,
+   "power_kw_net": 236,
+   "power_kw_gross": 253,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "348",
+   "pump_flow_total_lpm": 348,
+   "system_pressure_bar": 310,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 196,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16297
+  },
+  "capacities": {
+   "fuel_l": 303,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130316.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. XE = efficiency-oriented drivetrain variant. Tipping load listed for 'full 37 deg turn' without tire-deflection qualifier. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "980 GC",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 29760,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C13A",
+   "displacement_l": 12.5,
+   "cylinders": null,
+   "power_kw_net": 293,
+   "power_kw_gross": 313,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 282,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 212,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 19251
+  },
+  "capacities": {
+   "fuel_l": 426,
+   "hydraulic_tank_l": 153
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/128380.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Emission stage not stated on page. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "980",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 30344,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C13",
+   "displacement_l": 12.5,
+   "cylinders": null,
+   "power_kw_net": 293,
+   "power_kw_gross": 313,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "449",
+   "pump_flow_total_lpm": 449,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 227,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 19706
+  },
+  "capacities": {
+   "fuel_l": 426,
+   "hydraulic_tank_l": 153
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130318.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "980 XE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 30344,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C13",
+   "displacement_l": 12.5,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 313,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "457",
+   "pump_flow_total_lpm": 457,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 227,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 19706
+  },
+  "capacities": {
+   "fuel_l": 426,
+   "hydraulic_tank_l": 153
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130319.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. XE = efficiency-oriented drivetrain variant. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "982",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 35510,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C13",
+   "displacement_l": 12.5,
+   "cylinders": null,
+   "power_kw_net": 301,
+   "power_kw_gross": 322,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "449",
+   "pump_flow_total_lpm": 449,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 37.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 262,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 21110
+  },
+  "capacities": {
+   "fuel_l": 426,
+   "hydraulic_tank_l": 153
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130320.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. "
+ },
+ {
+  "brand": "Caterpillar",
+  "model": "982 XE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 35510,
+  "engine": {
+   "make": "Caterpillar",
+   "model": "C13",
+   "displacement_l": 12.5,
+   "cylinders": null,
+   "power_kw_net": 301,
+   "power_kw_gross": 322,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 262,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 21110
+  },
+  "capacities": {
+   "fuel_l": 426,
+   "hydraulic_tank_l": 153
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.cat.com/en_GB/products/new/equipment/wheel-loaders/medium-wheel-loaders/130322.html",
+  "notes": "cat.com en_GB spec table. Operating weight as published (standard configuration). Power: net ISO 9249/SAE J1349 where given in kW (blank if page gave hp only), gross = ISO 14396 engine power. Tipping load = static tipping load full-turn WITH tire deflection (as for 950 GC) where listed; breakout force as listed. Max travel = highest forward gear. Pump flow/pressure = implement system max where listed. Bucket capacity depends on bucket choice (page gives a range) -> null. Page states Tier 4 Final / EU Stage V. XE = efficiency-oriented drivetrain variant. "
+ }
+]

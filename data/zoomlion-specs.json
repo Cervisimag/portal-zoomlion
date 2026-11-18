@@ -1,0 +1,1186 @@
+[
+ {
+  "model": "ZE18GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "1.800 kg"
+   ],
+   "Motor": [
+    "Kubota D902",
+    "Potencia: 11,8 kW (16 CV) / 2.300 rpm",
+    "Velocidad: 3,8 - 2,2 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 1.830 mm",
+    "Balancín: 950 mm",
+    "Prof. máx. excavación: 2.316 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "ROPS/FOPS (sin cabina cerrada)",
+    "Joysticks ergonómicos"
+   ],
+   "Iluminación": [
+    "Luces de trabajo"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 230 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas disponibles según configuración"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE20G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "1.970 kg"
+   ],
+   "Motor": [
+    "Kubota D1105",
+    "Potencia: 15,4 kW (21 CV) / 2.400 rpm",
+    "Velocidad: 4,2 - 2,2 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 1.830 mm",
+    "Balancín: 1.190 mm",
+    "Prof. máx. excavación: 2.555 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "ROPS/FOPS (sin cabina cerrada)",
+    "Joysticks ergonómicos"
+   ],
+   "Iluminación": [
+    "Luces de trabajo"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 980/1.300 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas disponibles según configuración"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE20GE",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma (Eléctrica)"
+   ],
+   "Peso operativo": [
+    "2.100 kg"
+   ],
+   "Motor": [
+    "Motor eléctrico síncrono de imanes permanentes",
+    "Potencia: 10 kW / 2.200 rpm (Batería 29 kWh)",
+    "Velocidad: 4,2 - 2,2 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 1.830 mm",
+    "Balancín: 1.190 mm",
+    "Prof. máx. excavación: 2.555 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina ROPS/FOPS",
+    "Joysticks multifuncionales",
+    "Interruptor parada emergencia",
+    "Asiento con amortiguación",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 230 mm (retráctil 980/1.300 mm)",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas disponibles según configuración"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE26GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "2.750 kg"
+   ],
+   "Motor": [
+    "Kubota D1105",
+    "Potencia: 15,4 kW (21 CV) / 2.400 rpm",
+    "Velocidad: 4,0 - 2,5 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 2.100 mm",
+    "Balancín: 1.300 mm",
+    "Prof. máx. excavación: 2.881 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.500 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE27GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "2.700 kg"
+   ],
+   "Motor": [
+    "Kubota D1105",
+    "Potencia: 15,4 kW (21 CV) / 2.400 rpm",
+    "Velocidad: 4,2 - 2,6 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 2.100 mm",
+    "Balancín: 1.300 mm",
+    "Prof. máx. excavación: 2.880 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.500 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE35GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "3.790 kg"
+   ],
+   "Motor": [
+    "Kubota D1703",
+    "Potencia: 18,2 kW (24,75 CV) / 2.200 rpm",
+    "Velocidad: 4,2 - 2,3 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 2.540 mm",
+    "Balancín: 1.350 mm",
+    "Prof. máx. excavación: 3.003 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.700 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE36GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "3.790 kg"
+   ],
+   "Motor": [
+    "Kubota D1703",
+    "Potencia: 18,2 kW (24,75 CV) / 2.200 rpm",
+    "Velocidad: 4,2 - 2,3 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 2.540 mm",
+    "Balancín: 1.350 mm",
+    "Prof. máx. excavación: 3.005 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.700 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE55GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas de goma"
+   ],
+   "Peso operativo": [
+    "5.800 kg"
+   ],
+   "Motor": [
+    "Kubota V2607",
+    "Potencia: 35 kW (47,6 CV) / 2.200 rpm",
+    "Velocidad: 4,0 - 2,2 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 2.850 mm",
+    "Balancín: 1.570 mm",
+    "Prof. máx. excavación: 3.670 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.960 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE60G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "5.950 kg"
+   ],
+   "Motor": [
+    "Yanmar 4TNV98C",
+    "Potencia: 42,4 kW (57,7 CV) / 2.000 rpm",
+    "Velocidad: 4,2 - 2,3 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 3.000 mm",
+    "Balancín: 1.550 mm",
+    "Prof. máx. excavación: 3.850 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.900 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE75G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "7.500 kg"
+   ],
+   "Motor": [
+    "Yanmar 4TNV98C",
+    "Potencia: 42,4 kW (57,7 CV) / 2.000 rpm",
+    "Velocidad: 4,8 - 2,9 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 3.720 mm",
+    "Balancín: 1.620 mm",
+    "Prof. máx. excavación: 4.046 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 2.346 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE135G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "14.400 kg"
+   ],
+   "Motor": [
+    "Cummins F3.8",
+    "Potencia: 100 kW (136 CV) / 2.200 rpm",
+    "Velocidad: 5,4 - 3,0 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 4.600 mm",
+    "Balancín: 2.500 mm",
+    "Prof. máx. excavación: 5.505 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 2.500 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE145GU",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "15.800 kg"
+   ],
+   "Motor": [
+    "Cummins F3.8",
+    "Potencia: 90 kW (122 CV) / 2.200 rpm",
+    "Velocidad: 5,4 - 3,0 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 4.600 mm",
+    "Balancín: 2.500 mm",
+    "Prof. máx. excavación: 5.535 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 2.520 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE210GLC",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "22.700-23.600 kg"
+   ],
+   "Motor": [
+    "Cummins B6.7",
+    "Potencia: 129 kW (175 CV) / 2.200 rpm",
+    "Velocidad: 5,5 - 3,5 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 5.700 mm",
+    "Balancín: 2.925 mm",
+    "Prof. máx. excavación: 6.680 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 2.990 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE225GN",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "23.000 kg"
+   ],
+   "Motor": [
+    "Cummins B6.7",
+    "Potencia: 129 kW (175 CV) / 2.200 rpm",
+    "Velocidad: 5,4 - 3,4 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 5.700 mm",
+    "Balancín: 2.925 mm",
+    "Prof. máx. excavación: 6.660 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 2.540 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE335G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "33.500 kg"
+   ],
+   "Motor": [
+    "Cummins L9",
+    "Potencia: 209 kW (284 CV) / 2.100 rpm",
+    "Velocidad: 5,6 - 3,6 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 6.150 mm",
+    "Balancín: 2.900 mm",
+    "Prof. máx. excavación: 6.940 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 3.190 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE375G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "37.500 kg"
+   ],
+   "Motor": [
+    "Cummins L9",
+    "Potencia: 242 kW (329 CV) / 1.800 rpm",
+    "Velocidad: 5,2 - 3,1 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 6.400 mm",
+    "Balancín: 2.900 mm",
+    "Prof. máx. excavación: 7.075 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 3.190 mm",
+    "Hoja dozer delantera"
+   ],
+   "Enganche rápido hidráulico": [
+    "Enganche rápido hidráulico"
+   ],
+   "Cucharas": [
+    "Cucharas de 300, 400 y 600 mm"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZE750G",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Excavadora de cadenas"
+   ],
+   "Peso operativo": [
+    "76.500 kg"
+   ],
+   "Motor": [
+    "Cummins QSM15 77C",
+    "Potencia: 563 kW / 2.100 rpm",
+    "Velocidad: 4,0 - 2,8 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 7.100 mm",
+    "Balancín: 2.900 mm",
+    "Prof. máx. excavación: 7.380 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Tuberías para martillo / bivalva",
+    "Tuberías para enganche hidráulico",
+    "Tuberías de drenaje"
+   ],
+   "Cabina confort": [
+    "Cabina confort ROPS",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento suspensión neumática",
+    "Aire acondicionado",
+    "Pantalla táctil",
+    "Cámara visión trasera"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de acero",
+    "Anchura: 4.320 mm"
+   ],
+   "Enganche rápido hidráulico": [
+    "No incluido de serie"
+   ],
+   "Cucharas": [
+    "",
+    "Opcional: 4,6 m³ (rocas) / 5,5 m³ (tierra)"
+   ],
+   "Carga nominal (cargadoras)": [
+    "-"
+   ]
+  }
+ },
+ {
+  "model": "ZS030R",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora de dirección por deslizamiento"
+   ],
+   "Peso operativo": [
+    "1.293 kg"
+   ],
+   "Motor": [
+    "Kubota D1105",
+    "Potencia: 18,2 kW (24,75 CV) / 3.000 rpm",
+    "Velocidad: 10,3 km/h"
+   ],
+   "Brazo de excavación": [
+    "No aplica"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Ruedas con neumáticos"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 0,18 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "345 kg"
+   ]
+  }
+ },
+ {
+  "model": "ZS090V",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora de dirección por deslizamiento"
+   ],
+   "Peso operativo": [
+    "2.998 kg"
+   ],
+   "Motor": [
+    "Kubota V2403-CR-T",
+    "Potencia: 47,9 kW (65 CV) / 2.700 rpm",
+    "Velocidad: 11,5 km/h"
+   ],
+   "Brazo de excavación": [
+    "No aplica"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Ruedas con neumáticos"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 0,44 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "901 kg"
+   ]
+  }
+ },
+ {
+  "model": "ZS120V",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora de dirección por deslizamiento"
+   ],
+   "Peso operativo": [
+    "3.755 kg"
+   ],
+   "Motor": [
+    "Kubota V3307",
+    "Potencia: 53,4 kW (72,6 CV) / 2.400 rpm",
+    "Velocidad: 11,1 km/h"
+   ],
+   "Brazo de excavación": [
+    "No aplica"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Ruedas con neumáticos"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 0,6 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "1.350 kg"
+   ]
+  }
+ },
+ {
+  "model": "ZT090V",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora compacta de orugas"
+   ],
+   "Peso operativo": [
+    "3.520 kg"
+   ],
+   "Motor": [
+    "Kubota V2403-CR",
+    "Potencia: 47,9 kW (65 CV) / 2.700 rpm",
+    "Velocidad: 16,6 km/h"
+   ],
+   "Brazo de excavación": [
+    "No aplica"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.725 mm"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 0,44 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "917 kg"
+   ]
+  }
+ },
+ {
+  "model": "ZT120V",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora compacta de orugas"
+   ],
+   "Peso operativo": [
+    "4.350 kg"
+   ],
+   "Motor": [
+    "Kubota V3307",
+    "Potencia: 53,4 kW (72,6 CV) / 2.400 rpm",
+    "Velocidad: 14 km/h"
+   ],
+   "Brazo de excavación": [
+    "No aplica"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina confort",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento ajustable mecánicamente",
+    "Aire acondicionado"
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Orugas de goma",
+    "Anchura: 1.905 mm"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 0,6 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "1.210 kg"
+   ]
+  }
+ },
+ {
+  "model": "ZWL55GE",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora de ruedas (Eléctrica)"
+   ],
+   "Peso operativo": [
+    "19.200 kg"
+   ],
+   "Motor": [
+    "Motor eléctrico síncrono de imanes permanentes",
+    "Potencia: 185 kW (Batería 282 kWh)",
+    "Velocidad: 40 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 3.165 mm (dinamómetro)",
+    "Prof. máx. excavación: 61 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina FOPS/ROPS",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento suspensión mecánica",
+    "Aire acondicionado automático",
+    "Pantalla táctil 12\""
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Neumáticos 23.5-25-20PR",
+    "Freno hidráulico"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 3,5 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "5.800 kg"
+   ]
+  }
+ },
+ {
+  "model": "ZWL75GE",
+  "specs": {
+   "TIPO DE MÁQUINA": [
+    "Cargadora de ruedas (Eléctrica)"
+   ],
+   "Peso operativo": [
+    "25.500 kg"
+   ],
+   "Motor": [
+    "Motor eléctrico síncrono de imanes permanentes",
+    "Potencia: 215 kW (Batería 423 kWh)",
+    "Velocidad: 39 km/h"
+   ],
+   "Brazo de excavación": [
+    "Pluma: 3.395 mm (dinamómetro)",
+    "Prof. máx. excavación: 100 mm"
+   ],
+   "Instalaciones hidráulicas para implementos": [
+    "Circuito hidráulico auxiliar para implementos"
+   ],
+   "Cabina confort": [
+    "Cabina FOPS/ROPS",
+    "Joysticks ergonómicos",
+    "Interruptor parada emergencia",
+    "Asiento suspensión mecánica",
+    "Aire acondicionado automático",
+    "Pantalla táctil 12\""
+   ],
+   "Iluminación": [
+    "Luces de trabajo en el brazo",
+    "Rotativo LED"
+   ],
+   "Bastidor inferior": [
+    "Neumáticos 23.5-25-20PR",
+    "Freno hidráulico"
+   ],
+   "Enganche rápido hidráulico": [
+    "Placa portaimplementos"
+   ],
+   "Cucharas": [
+    "Cuchara estándar 5,0 m³"
+   ],
+   "Carga nominal (cargadoras)": [
+    "7.500 kg"
+   ]
+  }
+ }
+]

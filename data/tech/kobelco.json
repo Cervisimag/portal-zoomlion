@@ -1,0 +1,1779 @@
+[
+ {
+  "brand": "Kobelco",
+  "model": "SK17SR-3E",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G"
+  ],
+  "weight_kg": 1780,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV 70-SYB",
+   "displacement_l": 0.854,
+   "cylinders": 3,
+   "power_kw_net": 9.9,
+   "power_kw_gross": 10.4,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "1 main pump",
+   "pump_flow_lpm": "32.6 total",
+   "pump_flow_total_lpm": 32.6,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.2,
+   "arm_dig_force_kn": 8.7,
+   "swing_speed_rpm": 8.6,
+   "travel_speed_kmh": 4,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 2150,
+   "max_reach_mm": 3890,
+   "max_dump_height_mm": 2650,
+   "bucket_capacity_m3": 0.044,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 22,
+   "hydraulic_tank_l": 9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk17sr-3e-europe/",
+  "notes": "Mono boom 3470-3490 mm, dipper 980 mm (options 980-1200), weight range 1780-1910 kg (min shown); bucket force = breakout, arm force = dipper tearout; travel speed high (low 2); dump height max of 2280-2650; bucket ref 0.044 m3 ISO 7451; power net ISO 9249 / gross ISO 14396 at 2200 rpm; 1.8t class only, nearest to ZE18GU/ZE20G"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK26SR-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2650,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 17.9,
+   "power_kw_gross": 18.9,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "57.6 total",
+   "pump_flow_total_lpm": 57.6,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 20.8,
+   "arm_dig_force_kn": 14.2,
+   "swing_speed_rpm": 7.9,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2540,
+   "max_reach_mm": 4770,
+   "max_dump_height_mm": 2850,
+   "bucket_capacity_m3": 0.07,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42,
+   "hydraulic_tank_l": 16
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/product/europe/mini-excavators/sk26sr-7",
+  "notes": "Operating weight range 2650-2980 kg (min shown); dipper 1150 mm (options 1150-1400); bucket force = breakout, arm force = dipper tearout; travel high (low 2.6); reference bucket 0.07 m3 (58 kg); power net ISO 9249 / gross ISO 14396 at 2400 rpm"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK28SR-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2980,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 17.9,
+   "power_kw_gross": 18.9,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "57.6 total",
+   "pump_flow_total_lpm": 57.6,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 24.7,
+   "arm_dig_force_kn": 16.6,
+   "swing_speed_rpm": 8.2,
+   "travel_speed_kmh": 3.8,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 2590,
+   "max_reach_mm": 4840,
+   "max_dump_height_mm": 3090,
+   "bucket_capacity_m3": 0.07,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42,
+   "hydraulic_tank_l": 20.4
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk28sr-7-europe/",
+  "notes": "Operating weight 2980-3140 kg (mono boom 2910-3070; min of range shown); mono boom 4510 mm, dipper 1180 mm (options 1180-1480); bucket force = breakout, arm force = dipper tearout; travel high (low 2.1); rubber shoes 300 mm; ISO 10567 reach/depth; ref bucket 0.07 m3; slightly above ZE26GU/ZE27GU class"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK39SR-7",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3780,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 17.9,
+   "power_kw_gross": 18.9,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "76.8 total",
+   "pump_flow_total_lpm": 76.8,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32.2,
+   "arm_dig_force_kn": 22.4,
+   "swing_speed_rpm": 8.2,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 3050,
+   "max_reach_mm": 5350,
+   "max_dump_height_mm": 3650,
+   "bucket_capacity_m3": 0.09,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42,
+   "hydraulic_tank_l": 20.4
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk39sr-7-europe/",
+  "notes": "Operating weight 3780-3940 kg mono boom (min shown); boom 2.47 m, dipper 1370 mm (options 1370-1670); dig depth/dump height are page maxima of listed ranges (2970-3050, 3490-3650); bucket force = breakout, arm force = dipper tearout; travel high (low 2.5); ref bucket 0.09 m3 (range to 0.11)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK58SRX-7E",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 5140,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403-CR-TE5B",
+   "displacement_l": 2.434,
+   "cylinders": 4,
+   "power_kw_net": 32.9,
+   "power_kw_gross": 33.6,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "106 total",
+   "pump_flow_total_lpm": 106,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 35.6,
+   "arm_dig_force_kn": 24.8,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 4120,
+   "max_reach_mm": 6460,
+   "max_dump_height_mm": 4520,
+   "bucket_capacity_m3": 0.14,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 75,
+   "hydraulic_tank_l": 27.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk58srx-7e-europe/",
+  "notes": "Operating weight 5140-5300 kg mono boom (min shown); boom 2.99 m, dipper 1690 mm (options 1690-1920); depth/reach/dump height are page maxima of listed ranges; bucket force = breakout, arm force = dipper tearout; travel high (low 2.4); ref bucket 0.14 m3 (range to 0.16); page also lists SK50SRX-7E (not fetched)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK75SR-7E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8230,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN98CT",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 49.5,
+   "power_kw_gross": 53.7,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "145 total",
+   "pump_flow_total_lpm": 145,
+   "system_pressure_bar": 294,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 60.2,
+   "arm_dig_force_kn": 35.2,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 4580,
+   "max_reach_mm": 6880,
+   "max_dump_height_mm": 5670,
+   "bucket_capacity_m3": 0.22,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 44
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk75sr-7e-europe/",
+  "notes": "Short-radius SK75SR-7E: 8230 kg, counterweight 700 kg, mono boom 3.82 m, dipper 2130 mm (options 1710-2130), 450 mm triple grouser shoes; bucket force = breakout, arm force = dipper tearout; travel high (low 2.7); ISO 10567; ref bucket 0.22 m3; power net ISO 9249 / gross ISO 14396 at 2100 rpm; ZE75G 7.5t class"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK140SRLC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 15400,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1XDDV A01",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 78.6,
+   "power_kw_gross": 86,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR (DEF tank 20.7 L)"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "284 total",
+   "pump_flow_total_lpm": 284,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 105.4,
+   "arm_dig_force_kn": 58,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6150,
+   "max_reach_mm": 9270,
+   "max_dump_height_mm": 7460,
+   "bucket_capacity_m3": 0.38,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 186,
+   "hydraulic_tank_l": 89.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk140srlc-7-europe/",
+  "notes": "Operating weight 15400-16100 kg mono boom (min shown), counterweight 3150 kg, boom 4.68 m, 600 mm triple grouser shoes; dipper options 2380 and 2840 mm - depth/reach/dump height shown for 2840 mm set (page does not label sets; assumed order); arm force = dipper tearout; travel high (low 3.4); ref bucket 0.38 m3 ISO; power net ISO 9249 / gross ISO 14396 at 2200 rpm"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK230SRLC-7",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 24000,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DEF tank 33.9 L listed (system not named)"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 132,
+   "arm_dig_force_kn": 97,
+   "swing_speed_rpm": 12.6,
+   "travel_speed_kmh": 5.8,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6580,
+   "max_reach_mm": 9700,
+   "max_dump_height_mm": 7710,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 330,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk230srlc-7-europe/",
+  "notes": "Operating weight 24000-25200 kg mono boom (min shown), counterweight 5190 kg, boom 5.62 m, dipper 2870 mm, 600 mm triple grouser shoes; reach/depth figures from first (unlabelled) set; boost pressure 378 bar for breakout; net power is SAE (122 kW), gross ISO 14396 at 2000 rpm; bucket 0.8 m3 SAE; slightly heavier than ZE210GLC/ZE225GN"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK300LC-11E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 30700,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 198,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "490 total",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 208,
+   "arm_dig_force_kn": 139,
+   "swing_speed_rpm": 10.2,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7200,
+   "max_reach_mm": 10860,
+   "max_dump_height_mm": 7110,
+   "bucket_capacity_m3": 1.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 503,
+   "hydraulic_tank_l": 245
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk300lc-11e-europe/",
+  "notes": "Operating weight 30700-31500 kg (min shown), counterweight 4940 kg; boom 6.2 m mono (6.3 m articulated), dipper options 2400-4000 mm; reach/depth shown for first (unlabelled) set, assumed mono boom; boost 378 bar for breakout; travel high (low 3.1); ref bucket 1.2 m3 ISO; power net ISO 9249 / gross ISO 14396 at 1900 rpm"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK350LC-11E",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE375G"
+  ],
+  "weight_kg": 37000,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 198,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": "DOC+SCR+DPF (cooled EGR)"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "588 total",
+   "pump_flow_total_lpm": 588,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 244,
+   "arm_dig_force_kn": 180,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7560,
+   "max_reach_mm": 11260,
+   "max_dump_height_mm": 7370,
+   "bucket_capacity_m3": 1.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 503,
+   "hydraulic_tank_l": 245
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk350lc-11e-europe/",
+  "notes": "Operating weight 37000-37800 kg mono boom (min shown); mono boom 6.5 m, dipper options 2600-4150 mm, 600 mm triple grouser shoes; reach/depth from first (unlabelled, likely mono) set; boost 378 bar for breakout; travel high (low 3.3); ref bucket 1.4 m3 ISO; power net ISO 9249 / gross ISO 14396 at 1900 rpm"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "ED160-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17000,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4 JJ 1X DDV A01",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 78.6,
+   "power_kw_gross": 86,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "284 total",
+   "pump_flow_total_lpm": 284,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 105.4,
+   "arm_dig_force_kn": 64,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.8,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5360,
+   "max_reach_mm": 8370,
+   "max_dump_height_mm": 6910,
+   "bucket_capacity_m3": 0.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 186,
+   "hydraulic_tank_l": 89.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/ed160-7-blade-runner-europe/",
+  "notes": "Blade Runner (dozer-blade) excavator; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK10SR-2E",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1130,
+  "engine": {
+   "make": "Yanmar",
+   "model": "2 TNV 70",
+   "displacement_l": 0.569,
+   "cylinders": 2,
+   "power_kw_net": null,
+   "power_kw_gross": 6.1,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "22 total",
+   "pump_flow_total_lpm": 22,
+   "system_pressure_bar": 206,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 10.8,
+   "arm_dig_force_kn": 6.2,
+   "swing_speed_rpm": 9,
+   "travel_speed_kmh": 3.7,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 3300,
+   "max_dump_height_mm": 2320,
+   "bucket_capacity_m3": 0.022,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 10,
+   "hydraulic_tank_l": 9.8
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk10sr-2e-europe-maghreb/",
+  "notes": "Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; page is the Europe/Maghreb listing; only gross output published"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK130LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 14700,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1XDDV A01",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 71.3,
+   "power_kw_gross": 78.5,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "260 total",
+   "pump_flow_total_lpm": 260,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 105.4,
+   "arm_dig_force_kn": 64,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5520,
+   "max_reach_mm": 8340,
+   "max_dump_height_mm": 6080,
+   "bucket_capacity_m3": 0.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 280,
+   "hydraulic_tank_l": 96.7
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk130lc-11-europe/",
+  "notes": "Operating weight range 14700 - 15400 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK140SRLC-7 Offset Boom",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 16700,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1XDDV A01",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 78.6,
+   "power_kw_gross": 86,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "260 total",
+   "pump_flow_total_lpm": 260,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 92.9,
+   "arm_dig_force_kn": 61.9,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 4920,
+   "max_reach_mm": 7600,
+   "max_dump_height_mm": 5770,
+   "bucket_capacity_m3": 0.45,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 186,
+   "hydraulic_tank_l": 89.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk140srlc-7-offset-boom-europe/",
+  "notes": "Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK165SRLC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 17600,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1XDDV A01",
+   "displacement_l": 2.999,
+   "cylinders": 4,
+   "power_kw_net": 78.6,
+   "power_kw_gross": 86,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "284 total",
+   "pump_flow_total_lpm": 284,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 105.4,
+   "arm_dig_force_kn": 64,
+   "swing_speed_rpm": 11,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5330,
+   "max_reach_mm": 8370,
+   "max_dump_height_mm": 6940,
+   "bucket_capacity_m3": 0.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 186,
+   "hydraulic_tank_l": 89.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk165srlc-7-europe/",
+  "notes": "Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK180LC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 19900,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV107FHT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 95,
+   "power_kw_gross": 100,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "320 total",
+   "pump_flow_total_lpm": 320,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 126,
+   "arm_dig_force_kn": 90.6,
+   "swing_speed_rpm": 12.6,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5990,
+   "max_reach_mm": 8970,
+   "max_dump_height_mm": 6700,
+   "bucket_capacity_m3": 0.63,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 280,
+   "hydraulic_tank_l": 122
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk180lc-11e-europe/",
+  "notes": "Operating weight range 19900 - 20400 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK180N-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 19400,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV107FHT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 95,
+   "power_kw_gross": 100,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "320 total",
+   "pump_flow_total_lpm": 320,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 126,
+   "arm_dig_force_kn": 90.6,
+   "swing_speed_rpm": 12.6,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 5990,
+   "max_reach_mm": 8970,
+   "max_dump_height_mm": 6700,
+   "bucket_capacity_m3": 0.63,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 280,
+   "hydraulic_tank_l": 122
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk180n-11e-europe/",
+  "notes": "Operating weight range 19400 - 19900 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK210LC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22100,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV107FTT/4TN107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 12.7,
+   "travel_speed_kmh": 6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 321,
+   "hydraulic_tank_l": 140
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk210lc-11e-europe/",
+  "notes": "Operating weight range 22100 - 23600 kg (min value used); bucket reference capacity quoted as a range (0.45 - 0.8 m³) so left null; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 6700 - 12010 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK210NLC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22000,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 157,
+   "arm_dig_force_kn": 112,
+   "swing_speed_rpm": 12.7,
+   "travel_speed_kmh": 6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6700,
+   "max_reach_mm": 9900,
+   "max_dump_height_mm": 6910,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 321,
+   "hydraulic_tank_l": 140
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk210nlc-11e-europe/",
+  "notes": "Operating weight range 22000 - 23000 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK210SNLC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22500,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 157,
+   "arm_dig_force_kn": 112,
+   "swing_speed_rpm": 12.7,
+   "travel_speed_kmh": 6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6700,
+   "max_reach_mm": 9900,
+   "max_dump_height_mm": 6910,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 321,
+   "hydraulic_tank_l": 140
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk210snlc-11e-europe/",
+  "notes": "Operating weight range 22500 - 23500 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK240SN-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23600,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 157,
+   "arm_dig_force_kn": 112,
+   "swing_speed_rpm": 12.7,
+   "travel_speed_kmh": 6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6690,
+   "max_reach_mm": 9900,
+   "max_dump_height_mm": 6920,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 321,
+   "hydraulic_tank_l": 140
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk240sn-11e-europe/",
+  "notes": "Operating weight range 23600 - 24600 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK260LC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26700,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107FTT/4TNV107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 148,
+   "power_kw_gross": 155,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "490 total",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 403,
+   "hydraulic_tank_l": 165
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk260lc-11e-europe/",
+  "notes": "Operating weight range 26700 - 28000 kg (min value used); bucket reference capacity quoted as a range (0.4 - 1 m³) so left null; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 7000 - 14730 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK260NLC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26600,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TN107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 148,
+   "power_kw_gross": 155,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "490 total",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 187,
+   "arm_dig_force_kn": 134,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 403,
+   "hydraulic_tank_l": 165
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk260nlc-11e-europe/",
+  "notes": "Operating weight range 26600 - 27900 kg (min value used); bucket reference capacity quoted as a range (0.4 - 1 m³) so left null; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 7000 - 14730 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK270SRLC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25700,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 157,
+   "arm_dig_force_kn": 112,
+   "swing_speed_rpm": 10.2,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6650,
+   "max_reach_mm": 9850,
+   "max_dump_height_mm": 8330,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 330,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk270srlc-7-europe/",
+  "notes": "Operating weight range 25700 - 26800 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK270SRNLC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 25600,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV107FTT",
+   "displacement_l": 4.567,
+   "cylinders": 4,
+   "power_kw_net": 122,
+   "power_kw_gross": 127,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "440 total",
+   "pump_flow_total_lpm": 440,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 157,
+   "arm_dig_force_kn": 112,
+   "swing_speed_rpm": 10.2,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6650,
+   "max_reach_mm": 9850,
+   "max_dump_height_mm": 8330,
+   "bucket_capacity_m3": 0.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 330,
+   "hydraulic_tank_l": 114
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk270srnlc-7-europe/",
+  "notes": "Operating weight range 25600 - 26700 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK300NLC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 30700,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 198,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "490 total",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 208,
+   "arm_dig_force_kn": 139,
+   "swing_speed_rpm": 10.2,
+   "travel_speed_kmh": 5.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7200,
+   "max_reach_mm": 10860,
+   "max_dump_height_mm": 7110,
+   "bucket_capacity_m3": 1.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 503,
+   "hydraulic_tank_l": 245
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk300nlc-11e-europe/",
+  "notes": "Operating weight range 30700 - 31400 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK34SR-7",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3380,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88",
+   "displacement_l": 1.642,
+   "cylinders": 3,
+   "power_kw_net": 17.9,
+   "power_kw_gross": 18.9,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "76.8 total",
+   "pump_flow_total_lpm": 76.8,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32.2,
+   "arm_dig_force_kn": 19.1,
+   "swing_speed_rpm": 8.2,
+   "travel_speed_kmh": 4.4,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 5200,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.09,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 42,
+   "hydraulic_tank_l": 20.4
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk34sr-7-europe/",
+  "notes": "Operating weight range 3380 - 3550 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 2780 - 2830 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK350NLC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 36900,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6HK1",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 198,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "588 total",
+   "pump_flow_total_lpm": 588,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 244,
+   "arm_dig_force_kn": 180,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 7560,
+   "max_reach_mm": 11260,
+   "max_dump_height_mm": 7370,
+   "bucket_capacity_m3": 1.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 503,
+   "hydraulic_tank_l": 245
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk350nlc-11e-europe/",
+  "notes": "Operating weight range 36900 - 37700 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK380SRLC-7",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 37700,
+  "engine": {
+   "make": "ISUZU",
+   "model": "6HK1",
+   "displacement_l": 7.79,
+   "cylinders": 6,
+   "power_kw_net": 198,
+   "power_kw_gross": 210,
+   "rpm": 1900,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "490 total",
+   "pump_flow_total_lpm": 490,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 208,
+   "arm_dig_force_kn": 139,
+   "swing_speed_rpm": 8.4,
+   "travel_speed_kmh": 4.6,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": 6990,
+   "max_reach_mm": 10930,
+   "max_dump_height_mm": 8150,
+   "bucket_capacity_m3": 1.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 350,
+   "hydraulic_tank_l": 245
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://kobelco-europe.com/products/sk380srlc-7-europe/",
+  "notes": "Operating weight range 37700 - 40200 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK50SRX-7E",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4710,
+  "engine": {
+   "make": "Kubota",
+   "model": "V2403-CR-TE5B",
+   "displacement_l": 2.434,
+   "cylinders": 4,
+   "power_kw_net": 32.9,
+   "power_kw_gross": 33.6,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "98.8 total",
+   "pump_flow_total_lpm": 98.8,
+   "system_pressure_bar": 230,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 35.6,
+   "arm_dig_force_kn": 20.9,
+   "swing_speed_rpm": 8.5,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 3440,
+   "max_reach_mm": 5850,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.14,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 75,
+   "hydraulic_tank_l": 27.9
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk50srx-7e-europe/",
+  "notes": "Operating weight range 4710 - 4860 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK520LC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52900,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6WG1",
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 348,
+   "rpm": 1800,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "740 total",
+   "pump_flow_total_lpm": 740,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.5,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 720,
+   "hydraulic_tank_l": 370
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk520lc-11e-europe/",
+  "notes": "Operating weight range 52900 - 55300 kg (min value used); bucket reference capacity quoted as a range (1.9 - 3.4 m³) so left null; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 6910 - 7770 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK530LC-11E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52000,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": 11.8,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 280,
+   "rpm": 1800,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "740 total",
+   "pump_flow_total_lpm": 740,
+   "system_pressure_bar": 314,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.5,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 638,
+   "hydraulic_tank_l": 371
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk530lc-11e-europe/",
+  "notes": "Operating weight range 52000 - 52700 kg (min value used); bucket reference capacity quoted as a range (1.9 - 3.4 m³) so left null; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 6360 - 7690 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK75SR-7 Offset Boom",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8690,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 52.3,
+   "power_kw_gross": 53.7,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "145 total",
+   "pump_flow_total_lpm": 145,
+   "system_pressure_bar": 294,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 60.1,
+   "arm_dig_force_kn": 35.8,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 4600,
+   "max_reach_mm": 6750,
+   "max_dump_height_mm": 5660,
+   "bucket_capacity_m3": 0.22,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 44
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk75sr-7-offset-boom-europe/",
+  "notes": "Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK850LC-11",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 81800,
+  "engine": {
+   "make": "Isuzu",
+   "model": "6WG1",
+   "displacement_l": 15.681,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": 382,
+   "rpm": 1800,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+SCR"
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "1008 total",
+   "pump_flow_total_lpm": 1008,
+   "system_pressure_bar": 330,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 7.3,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": 70,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 960,
+   "hydraulic_tank_l": 522
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://kobelco-europe.com/products/sk850lc-11-europe/",
+  "notes": "Operating weight range 81800 - 81900 kg (min value used); bucket reference capacity quoted as a range (3.5 - 5.4 m³) so left null; Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396; Dig Depth range 7380 - 8900 mm (null: mixes boom/dipper variants)"
+ },
+ {
+  "brand": "Kobelco",
+  "model": "SK85MSR-7E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8600,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4 TN 98 CT",
+   "displacement_l": 3.318,
+   "cylinders": 4,
+   "power_kw_net": 49.5,
+   "power_kw_gross": 53.7,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "2 main pumps",
+   "pump_flow_lpm": "145 total",
+   "pump_flow_total_lpm": 145,
+   "system_pressure_bar": 294,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 60.3,
+   "arm_dig_force_kn": 33.7,
+   "swing_speed_rpm": 11.5,
+   "travel_speed_kmh": 5,
+   "gradeability_pct": 58,
+   "max_dig_depth_mm": 4440,
+   "max_reach_mm": 7500,
+   "max_dump_height_mm": 5180,
+   "bucket_capacity_m3": 0.22,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 120,
+   "hydraulic_tank_l": 44
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://kobelco-europe.com/products/sk85msr-7e-europe/",
+  "notes": "Operating weight range 8600 - 8980 kg (min value used); Kobelco Europe web spec table; first/standard boom-dipper set shown, forces per ISO 6015 (boost pressure used where stated), dig depth = max depth (mono boom first set), net ISO 9249 / gross ISO 14396"
+ }
+]

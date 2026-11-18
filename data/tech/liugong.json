@@ -1,0 +1,1841 @@
+[
+ {
+  "brand": "LiuGong",
+  "model": "9017FZTS",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU",
+   "ZE20G"
+  ],
+  "weight_kg": 1850,
+  "engine": {
+   "make": "Kubota",
+   "model": "D902",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 55,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16,
+   "arm_dig_force_kn": 9,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 3910,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/mini-excavator/9017fzts/",
+  "notes": "Page does not tie figures to a boom/arm configuration (spec table: boom 1685, arm 1070, 230 mm rubber shoes). Weight 1850 kg is the header value (table shows contradictory min/max 1900/1800). Power conflicting on page (table 13.4 kW vs header 11.8 kW) so left null. Bucket capacity 0.015-0.056 m3 (table) / 0.045 (header) so left null. Travel 4.5 high / 2.7 low km/h. ROPS/TOPS cab; FOPS not stated. Load-sensing hydraulics, system flow 55 L/min (total). Arm/bucket values are 'breakout force' as published."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "9018FE",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20GE"
+  ],
+  "weight_kg": 2060,
+  "engine": {
+   "make": null,
+   "model": "Electric motor (IPMSM), 20.6 kWh LFP battery",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 17,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16,
+   "arm_dig_force_kn": 9,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 3910,
+   "max_dump_height_mm": 2370,
+   "bucket_capacity_m3": 0.045,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/mini-excavator/9018fe/",
+  "notes": "Battery-electric; standard configuration; rated/net power 17 kW (page). Battery 20.6 kWh cobalt-free LFP. Motor specs beyond power, pump data, swing/travel speed, dig depth not on the page (brochure BEV-9018FE linked there not read). Cab: electric heating; ROPS/FOPS not stated."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "9027FZTS",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2750,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F-SNLY",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 15.2,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 86,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 20,
+   "arm_dig_force_kn": 12,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 4757,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/mini-excavator/9027fzts/",
+  "notes": "Spec table labelled EU Stage V; boom 2080 mm, arm 1300 mm, 300 mm rubber shoes; weight 2750 kg max (2680 min). Net power 15.2 kW per page header (table says 15.2 kW/21 hp without basis). Bucket 0.02-0.08 m3 range so left null. Travel 4.5 high / 2.7 low. Breakout forces as published. Load-sensing pressure-compensated hydraulics. ROPS/TOPS cab."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "9035FZTS",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3540,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88F-ESLY",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 17.3,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 99,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 33,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.11,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/mini-excavator/9035fzts/",
+  "notes": "Weight 3540 kg min (3800 max); boom 2450 mm, arm 1320 or 1700 mm, 300 mm rubber shoes. Power 17.3 kW: table says gross, header says net, so only gross filled. Arm breakout 20 / 17.8 kN and reach 5385 / 5715 mm for two arm lengths with unstated order, left null. Travel 4.2 high / 2.5 low. Torque 94.2 N.m. Load-sensing with flow sharing. ROPS cab ISO 12117-2, FOPS optional."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "909FCR",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 8700,
+  "engine": {
+   "make": "Yanmar",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 53.3,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 209,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 7290,
+   "max_dump_height_mm": 4540,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/midi-excavators/909fcr/",
+  "notes": "Weakest match: 8.7 t vs ZE75G 7.5 t (LiuGong has no excavator between 3.8 t and 8.4 t on its EU range). Engine model conflicts on page (4TN98CT-7VLYC in header vs 4TNV98C-SLY in text) so model left null. Bucket 0.23-0.32 m3 range. Dig forces, speeds, depth not on page. Load-sensing with flow sharing, short tail swing."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "913FCR",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G",
+   "ZE145GU"
+  ],
+  "weight_kg": 14700,
+  "engine": {
+   "make": "Cummins",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 69.5,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DEF tank mentioned; system not detailed"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x117",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 89.8,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 11.3,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/913fcr/",
+  "notes": "Standard config: boom 4600 mm, arm 2500/2100 mm (order of paired values not clear so paired figures left null), 500 mm steel shoes. Weight 14700 kg min (spec table max 16500, header 14700-16100). Engine model: header Cummins B6.7 vs text 3.8 L, conflict so model/displacement null. Power 69.5 kW (header labelled net; second figure 84.5 kW unlabelled). Arm breakout 64.9/58 kN (boost 70/63.5); bucket breakout 89.8 kN (boost 96.9). Pairs: reach 8315/8705, depth 5490/5890, dump 6310/6024 mm. Bucket 0.5 m3 (table) vs 0.77 (header) conflict. VGT mentioned; EGR not stated. Travel 4.9 high / 2.9 low."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "922F",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 22700,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 116,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DEF tank mentioned; system not detailed"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x228",
+   "pump_flow_total_lpm": 456,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/922f/",
+  "notes": "Boom 5710 mm, arm 2400/3500 mm (paired values in that order: reach 9530/10485, depth 6250/7345, dump 7000/7455 mm), 600 mm shoes. Weight 22700 kg min (25170 max). Arm breakout 140 kN (boost 152.5), bucket breakout 89.8 (boost 105) as published, but bucket < arm is implausible and the bucket value equals the 913FCR page, so both dig forces left null pending dealer check. Bucket 0.9-1.4 m3 range. VGT mentioned; EGR not stated. Travel 5.6 high / 3.3 low. Page also lists 924F with same weight range."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "933F",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 34300,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V / Tier 4F",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x266",
+   "pump_flow_total_lpm": 532,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 203,
+   "arm_dig_force_kn": 149,
+   "swing_speed_rpm": 10.3,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7300,
+   "max_reach_mm": 10653,
+   "max_dump_height_mm": 7265,
+   "bucket_capacity_m3": 1.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/large-excavators/933f/",
+  "notes": "Boom 6200 mm, arm 3050 mm, 600 mm shoes. Weight 34300 kg per spec table (header 34700). Rated power 161 kW @2200 rpm but net/gross basis not stated, so power left null. Bucket type not stated. Forces as published (breakout). Travel 5.5 high / 3.0 low."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "936F",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE375G"
+  ],
+  "weight_kg": 38800,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x333",
+   "pump_flow_total_lpm": 666,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7340,
+   "max_reach_mm": 11100,
+   "max_dump_height_mm": 7160,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/large-excavators/936f/",
+  "notes": "Spec table (max operating weight 38800 kg; header range 38600-44000 covers other models). Boom 6400 mm, arm 3200/2900/2600 mm (figures not tied to one arm), 600 mm shoes, counterweight 7.7 t. Engine power 173 kW in table vs header 219 kW (which belongs to 942F) so basis uncertain, left null. Table bucket 0.8 m3 implausible, left null. Dig forces and pressure shown as '-'. Travel 5.5 high / 3.4 low."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "975F",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 75000,
+  "engine": {
+   "make": "Cummins",
+   "model": "X15",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 375,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 438,
+   "arm_dig_force_kn": 331,
+   "swing_speed_rpm": 7.51,
+   "travel_speed_kmh": 4.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7680,
+   "max_reach_mm": 12160,
+   "max_dump_height_mm": 7020,
+   "bucket_capacity_m3": 5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/extra-large-excavators/975f/",
+  "notes": "Weight 75000-77000 kg (min used). Net 375 kW @1800 rpm per spec table (rated 391 kW; header says net 391 so basis inconsistent). Torque 2373 N.m @1400. Standard bucket 5 m3 (mining-type work device). Max digging force ISO as published. Gradeability published as 35 degrees (not converted). Travel 4.7 high / 3.0 low. Kawasaki pump named, no flow/pressure."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "375B",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS090V"
+  ],
+  "weight_kg": 3100,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C-PLYS",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 49.9,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed-circuit hydrostatic drive piston pump and motor; open working circuit, pilot control",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 20.4,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.45,
+   "breakout_force_kn": 20.4,
+   "rated_operating_capacity_kg": 865,
+   "tipping_load_kg": 1730
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/skidsteer/375b/",
+  "notes": "Wheeled skid steer (4 wheel hydraulic drive, 10-16.5 tires). Rated operating capacity 865 kg, static tipping load 1730 kg, bucket breakout 20.4 kN (boom breakout 18.5 kN). System flow 69-120 L/min published as a range (aux flow left null). Torque 241 N.m. Cab with FOPS and ROPS. LiuGong EU range has no skid steer near 1.3 t and no compact track loaders."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "385B",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 3750,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT-NLYS",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 53.7,
+   "rpm": 2400,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Closed-circuit hydrostatic drive piston pump and motor; open working circuit, pilot control",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 29.8,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.5,
+   "breakout_force_kn": 29.8,
+   "rated_operating_capacity_kg": 1045,
+   "tipping_load_kg": 2090
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/skidsteer/385b/",
+  "notes": "Wheeled skid steer. Product page for 385B but the spec table is headed 375B; figures here match the 385B weight (3750 kg) so used, flagged for check. ROC 1045 kg, tipping 2090 kg, boom breakout 20.3 kN. System flow 69-120 L/min range. Torque 291 N.m."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "856T",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 20234,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 172,
+   "power_kw_gross": 183,
+   "rpm": 1700,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 37.7,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.5,
+   "breakout_force_kn": 147,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11618
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/856t/",
+  "notes": "Conventional diesel (ZWL55GE is electric). Standard bucket 3.5 m3 (range 2.7-5.6); tipping load at full turn; travel speed forward max. Net 172 kW / gross 183 kW @1700 rpm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "870T",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 24300,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 199,
+   "power_kw_gross": 210,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 38,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 4.2,
+   "breakout_force_kn": 186,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 16120
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/870t/",
+  "notes": "Conventional diesel (ZWL75GE is electric). Standard general-purpose bucket 4.2 m3 (range 3.0-7.0); tipping load at full turn; travel forward max."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "9027FE",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2680,
+  "engine": {
+   "make": "SEM (electric motor)",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 16.5
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 72.8,
+   "system_pressure_bar": 216,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 9.5,
+   "travel_speed_kmh": 4.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.08,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/mini-excavator/9027fe/",
+  "notes": "Battery-electric (SEM motor, LiFePO4 20.6 kWh 44.8 V; page header \"Net Power 20.6 kWh\" is the battery); rated power 16.5 kW; weight with cab; main pump max flow 72.8 L/min; circuit pressure 21.6 MPa; boom 2080 mm, arm 1300/1150 mm, 300 mm shoes; micro-pressurised cab."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "909ECR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8700,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 44,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing, flow sharing",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 196,
+   "system_pressure_bar": 280,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 63,
+   "arm_dig_force_kn": 43,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 4.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4093,
+   "max_reach_mm": 6847,
+   "max_dump_height_mm": 4725,
+   "bucket_capacity_m3": 0.23,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/midi-excavators/909ecr/",
+  "notes": "Weight range 8400-10100 kg (header); table min 8700 / max 8900 kg - 8700 used. Engine 44 kW net; spec forces/depth/reach are for the two arm options (1650/2100 mm): arm 43/37 kN, depth 4093/4540, reach 6847/7264, dump 4725/5000 - first value used; boom 3375 mm; 450 mm shoes; load-sensing flow sharing; max system flow 196 L/min."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "915FCR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 15400,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7 (header) / 3.8 L (body)",
+   "displacement_l": 3.8,
+   "cylinders": 4,
+   "power_kw_net": 84.5,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Kawasaki electro-hydraulic",
+   "pump_flow_lpm": "2x117",
+   "pump_flow_total_lpm": 234,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 89.8,
+   "arm_dig_force_kn": 64.9,
+   "swing_speed_rpm": 11.3,
+   "travel_speed_kmh": 4.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5940,
+   "max_reach_mm": 8365,
+   "max_dump_height_mm": 6510,
+   "bucket_capacity_m3": 0.77,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/915fcr/",
+  "notes": "Weight 15400-17300 kg (table min 15400/max 17200). Power 69.5/84.5 kW net per header, spec table 84.5 kW; page header says Cummins B6.7 but body says 3.8 L four-cylinder Cummins (conflict, displacement taken from body text); pump Kawasaki electro-hydraulic, 2x117 L/min; forces without/with power boost 64.9/70 and 89.8/96.9 kN (without used); depth/reach for two arms 2900/2500 mm, first used; boom 4600 mm; 500 mm shoes; DEF tank mentioned."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "924F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 22700,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": 116,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Electronically controlled variable main pump 130 cc",
+   "pump_flow_lpm": "2x228",
+   "pump_flow_total_lpm": 456,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 89.8,
+   "arm_dig_force_kn": 140,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": 5.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6700,
+   "max_reach_mm": 9870,
+   "max_dump_height_mm": 7000,
+   "bucket_capacity_m3": 0.9,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/924f/",
+  "notes": "Weight 22700-25170 kg; Cummins B6.7 6 cyl 116 kW net; electronically controlled main pump 130 cc, 2x228 L/min, 34.3 MPa; forces without power boost (arm 140 / bucket 89.8 kN; power boost 152.5/105); boom 5710 mm, arm 2915 mm, 700 mm shoes; bucket 0.9-1.4 m3 (0.9 used); page text refers to 922F in places (copy-paste); DEF tank, VGT."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "924FE",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 28100,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 115
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 165,
+   "arm_dig_force_kn": 105,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 9890,
+   "max_dump_height_mm": 7020,
+   "bucket_capacity_m3": 1.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/924fe/",
+  "notes": "Battery-electric LFP 423 kWh; rated power 115 kW (standard/cab tables) vs 165 kW (summary table) - inconsistent, 115 used; drawbar pull 200 kN; cab options standard/high-rise/tilting; page header \"115 kWh\" is a typo for kW."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "925FCR",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 28300,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 116,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x228",
+   "pump_flow_total_lpm": 456,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 9920,
+   "max_dump_height_mm": 7950,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/925fcr/",
+  "notes": "Cummins B6.7 116 kW net; Stage V only in brochure file name (not in page text); pump max flow 2x228 L/min; F-series cab with high-strength ROPS (ISO 12117-2:2008), FOPS optional."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "926F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26400,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 142,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Electronically controlled variable main pump 130 cc",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6925,
+   "max_reach_mm": 10340,
+   "max_dump_height_mm": 6920,
+   "bucket_capacity_m3": 1.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/926f/",
+  "notes": "Weight 26400-28990 kg; Cummins B6.7 6.7 L 6 cyl 142 kW net; electronically controlled main pump 130 cc; page \"system maximum flow 55 L/min\" is implausible and not used; swing 10.5 rpm; boom 6000 mm, arm 2980 mm; page identical to 928F; DEF tank, VGT."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "928F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 26400,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": 6.7,
+   "cylinders": 6,
+   "power_kw_net": 142,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Electronically controlled variable main pump 130 cc",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.5,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6925,
+   "max_reach_mm": 10340,
+   "max_dump_height_mm": 6920,
+   "bucket_capacity_m3": 1.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/928f/",
+  "notes": "Weight 26400-28990 kg; Cummins B6.7 6.7 L 6 cyl 142 kW net; electronically controlled main pump 130 cc; page \"system maximum flow 55 L/min\" is implausible and not used; swing 10.5 rpm; boom 6000 mm, arm 2980 mm; page identical to 926F; DEF tank, VGT."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "956F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 55500,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 282,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x432",
+   "pump_flow_total_lpm": 864,
+   "system_pressure_bar": 350,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 11980,
+   "max_dump_height_mm": 6670,
+   "bucket_capacity_m3": 2.8,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/medium-excavators/956f/",
+  "notes": "Listed under medium on site; Cummins X12 282 kW net; pump max flow 2x432 L/min; working pressure 35 MPa; bucket 2.8-3.6 m3 (2.8 used)."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "930F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 31500,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": 161,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x266",
+   "pump_flow_total_lpm": 532,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10.3,
+   "travel_speed_kmh": 5.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7300,
+   "max_reach_mm": 10653,
+   "max_dump_height_mm": 7086,
+   "bucket_capacity_m3": 1.4,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/large-excavators/930f/",
+  "notes": "Weight 31500-35400 kg (table max 31600); Cummins B6.7 6 cyl: net 161 kW (header), 173 kW engine power in table (not labelled); pump 2x266 L/min; arm 3050/2600 mm, depth/reach for first; boom 6400 mm; 600 mm shoes; bucket 1.6 m3 header / 1.4 m3 table (1.4 used); VGT."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "942F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 42800,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": 219,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x333",
+   "pump_flow_total_lpm": 666,
+   "system_pressure_bar": 343,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 290,
+   "arm_dig_force_kn": 196,
+   "swing_speed_rpm": 9.8,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7340,
+   "max_reach_mm": 11100,
+   "max_dump_height_mm": 7160,
+   "bucket_capacity_m3": 2.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/large-excavators/942f/",
+  "notes": "Weight 42800-44000 kg; Cummins L9 6 cyl 219 kW net; pump 2x333 L/min, 34.3 MPa; ISO arm 196 / bucket 290 kN; boom 6400 mm, arm 3200 mm, 600 mm shoes."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "995F",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 94800,
+  "engine": {
+   "make": "Perkins",
+   "model": "2806J",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": 433,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x504",
+   "pump_flow_total_lpm": 1008,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 471,
+   "arm_dig_force_kn": 391,
+   "swing_speed_rpm": 6.4,
+   "travel_speed_kmh": 4.2,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": 12488,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 5.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://liugong.eu/en/machines/extra-large-excavators/995f/",
+  "notes": "Perkins 2806J 6 cyl 433 kW net; pump 2x504 L/min; forces breakout without power boost (arm 391 / bucket 471; boost 413/496); page writes dims with dots (12.488 etc.), read as 12,488 mm; boom 7250, arm 2925, 650 mm shoes; cab pressurised FOPS level II; A/C."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "838TE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14600,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 120
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 7900
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/838te/",
+  "notes": "Battery-electric, 193 kWh; rated power 120 kW; tipping load full turn; max pin height 3870 mm; charging 160 kW, 58 min 15-95%."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "838T",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 13378,
+  "engine": {
+   "make": "Cummins",
+   "model": "B4.5",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 106,
+   "power_kw_gross": 115,
+   "rpm": 2200,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39.8,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2804,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": 113,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 7487
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/838t/",
+  "notes": "EU Stage V; Cummins B4.5, 106 kW net / 115 kW gross at 2200 rpm; bucket 1.8-4.0 m3, standard 1.9 m3; tipping load full turn; dump clearance 2804 mm; cycle 9.8 s."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "842T",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 15100,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 116,
+   "power_kw_gross": 145,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 44.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2826,
+   "bucket_capacity_m3": 2.3,
+   "breakout_force_kn": 128,
+   "rated_operating_capacity_kg": 4200,
+   "tipping_load_kg": 8400
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/842t/",
+  "notes": "EU Stage V; Cummins B6.7, 116 kW net, max gross 145 kW at 2000 rpm; bucket 2.3 m3 standard (2.1-4.0); tipping load full turn; dump clearance 2826 mm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "848T",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 16500,
+  "engine": {
+   "make": "Cummins",
+   "model": "B6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 136,
+   "power_kw_gross": 145,
+   "rpm": 2000,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 39,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 2848,
+   "bucket_capacity_m3": 2.7,
+   "breakout_force_kn": 142,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 9600
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/848t/",
+  "notes": "EU Stage V; Cummins B6.7, 136 kW net / 145 kW gross at 2000 rpm; bucket 2.5-5.0 m3, standard 2.7 m3; tipping load full turn; dump clearance 2848 mm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "848TE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 18591,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 160,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 11420
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/848te/",
+  "notes": "Battery-electric 282 kWh; net power 160 kW; tipping load full turn; max pin height 3998 mm; charging 300 kW, 45 min 15-95%."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "856HE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 22280,
+  "engine": {
+   "make": null,
+   "model": "PMSM traction motor",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 180
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 250,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.5,
+   "breakout_force_kn": 162,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 15400
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": 230
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/856he/",
+  "notes": "Battery-electric (PMSM traction motor, 423 kWh LFP CATL); rated 180 kW; bucket 3.5 m3 headline (2.7-5.6 range); main relief 25 MPa; tipping load straight 17400 kg; hydraulic system 230 L; speed on page printed km/s (typo, read km/h) 40 fwd; micro-pressurised ROPS cab; max hinge pin height 4156 mm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "870HE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 24640,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 210
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3101,
+   "bucket_capacity_m3": 4.7,
+   "breakout_force_kn": 221,
+   "rated_operating_capacity_kg": 7500,
+   "tipping_load_kg": 16800
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/870he/",
+  "notes": "Battery-electric 423 kWh; rated power 210 kW; standard bucket 4.7 m3; rated load 7500 kg; tipping load full turn 16800 (straight 19000); dump clearance 3101 mm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "890T",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 31750,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 273,
+   "power_kw_gross": 287,
+   "rpm": 1800,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 41.9,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3332,
+   "bucket_capacity_m3": 5.4,
+   "breakout_force_kn": 270,
+   "rated_operating_capacity_kg": 9500,
+   "tipping_load_kg": 21150
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/890t/",
+  "notes": "EU Stage V; Cummins X12, 273 kW net, max gross 287 kW at 1800 rpm; standard bucket 5.4 m3 (4.0-9.0); tipping load full turn; rated load 9500 kg; dump clearance 3332 mm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "890T Block Handler",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 37500,
+  "engine": {
+   "make": "Cummins",
+   "model": "X12",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": 261,
+   "rpm": 2100,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": 315,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 33.5,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3200,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": 288,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/890t-block-handler/",
+  "notes": "Block-handler (fork) version of 890T; EU Stage V; Cummins X12 261 kW gross at 2100 rpm (brochure filename cites 4WG310, not confirmed); page lists capacity as 9500 kg (not m3); fork breakout force; tipping load straight 23200 kg; main relief 31.5 MPa; max hinge pin height 4610 mm."
+ },
+ {
+  "brand": "LiuGong",
+  "model": "8110TE",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 41000,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 264
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": 3350,
+   "bucket_capacity_m3": 6.2,
+   "breakout_force_kn": 317,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://liugong.eu/en/machines/wheel-loaders/8110te/",
+  "notes": "Battery-electric LFP 706 kWh; rated 264 kW (header says kWh, table kW); bucket 6.2 m3; breakout force 317 kN; dump clearance 3350 mm; slightly above the 40 t band."
+ }
+]

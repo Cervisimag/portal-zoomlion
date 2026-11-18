@@ -1,0 +1,3026 @@
+[
+ {
+  "brand": "Case IH",
+  "model": "Magnum 355",
+  "category": "tractor",
+  "series": "Magnum",
+  "power_hp_rated": 355,
+  "power_hp_max": null,
+  "power_kw_rated": 261,
+  "power_kw_max": 291,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1671,
+   "max_torque_rpm": "1300-1400",
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "PowerDrive 21x5 or CVXDrive",
+   "speeds": "21x5 / continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; 166 std / 221 high flow / 282 twin flow l/min",
+   "flow_lpm": 166,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10929,
+   "front_lift_kg": 4090,
+   "category": "Cat. IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (opt. 540/1000)",
+   "front_pto": "1000 rpm (standard on spec table)"
+  },
+  "weight_kg": 11800,
+  "wheelbase_mm": 3155,
+  "fuel_l": 678,
+  "adblue_l": 99,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "710/70 R42"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/magnum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6f99d104827242ed8e0e2ad8b4f3eef6 (spec table p.30-31)",
+  "notes": "Brochure CIH_25_Magnum (TP01/SM/12.2025). Power Management (PM) only in hydraulic/mobile-PTO/haulage use. Max power as printed in brochure is '291 kW / 309 hp' (apparent typo in source) so power_hp_max left null, 291 kW taken as printed. With PM: rated 276 kW/375 hp, max 301 kW/410 hp, torque 1,800 Nm. Table dots: PowerDrive shown for 355 and 405, CVXDrive for 355 and 385. Torque rise 40/37%."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Magnum 385",
+  "category": "tractor",
+  "series": "Magnum",
+  "power_hp_rated": 385,
+  "power_hp_max": 418,
+  "power_kw_rated": 283,
+  "power_kw_max": 307,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": "1300-1400",
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "CVXDrive (continuously variable 0-40 kph Eco or 0-50 kph)",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; 166 std / 221 high flow / 282 twin flow l/min",
+   "flow_lpm": 166,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10929,
+   "front_lift_kg": 4090,
+   "category": "Cat. IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (opt. 540/1000)",
+   "front_pto": "1000 rpm (standard on spec table)"
+  },
+  "weight_kg": 11800,
+  "wheelbase_mm": 3155,
+  "fuel_l": 617,
+  "adblue_l": 99,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "710/70 R42"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/magnum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6f99d104827242ed8e0e2ad8b4f3eef6 (spec table p.30-31)",
+  "notes": "Brochure CIH_25_Magnum (TP01/SM/12.2025). Power Management (PM) only in hydraulic/mobile-PTO/haulage use. With PM: rated 305 kW/415 hp, max 320 kW/435 hp, torque 1,850 Nm. Torque rise 39/27%. Fuel tank 678 (PowerDrive) / 617 (CVXDrive) / 674 (Rowtrac) l."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Magnum 405",
+  "category": "tractor",
+  "series": "Magnum",
+  "power_hp_rated": 404,
+  "power_hp_max": 435,
+  "power_kw_rated": 297,
+  "power_kw_max": 320,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": "1300-1400",
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "PowerDrive 21x5 full powershift (brake-to-clutch)",
+   "speeds": "21x5",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; 166 std / 221 high flow / 282 twin flow l/min",
+   "flow_lpm": 166,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10929,
+   "front_lift_kg": 4090,
+   "category": "Cat. IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (opt. 540/1000)",
+   "front_pto": "1000 rpm (standard on spec table)"
+  },
+  "weight_kg": 11800,
+  "wheelbase_mm": 3155,
+  "fuel_l": 678,
+  "adblue_l": 99,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "710/70 R42"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/magnum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6f99d104827242ed8e0e2ad8b4f3eef6 (spec table p.30-31)",
+  "notes": "Brochure CIH_25_Magnum (TP01/SM/12.2025). Power Management (PM) only in hydraulic/mobile-PTO/haulage use. No Power Management values shown for 405. Rated printed as 297 kW / 404 hp (model name 405). Fuel tank 678 l (PowerDrive)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Magnum 385 Rowtrac",
+  "category": "tractor",
+  "series": "Magnum Rowtrac (tracked)",
+  "power_hp_rated": 385,
+  "power_hp_max": 418,
+  "power_kw_rated": 283,
+  "power_kw_max": 307,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": "1300-1400",
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "CVXDrive or PowerDrive (per Magnum range)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement; 166 / 221 / 282 l/min",
+   "flow_lpm": 166,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10929,
+   "front_lift_kg": 4090,
+   "category": "Cat. IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (opt. 540/1000)",
+   "front_pto": "1000 rpm (standard on spec table)"
+  },
+  "weight_kg": 16653,
+  "wheelbase_mm": 3155,
+  "fuel_l": 674,
+  "adblue_l": 99,
+  "tires": {
+   "front": "620/75 R30 (track unit front)",
+   "rear": null
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/magnum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6f99d104827242ed8e0e2ad8b4f3eef6 (spec table p.30-31)",
+  "notes": "Brochure CIH_25_Magnum (TP01/SM/12.2025). Power Management (PM) only in hydraulic/mobile-PTO/haulage use. Rowtrac = 4-track variant, tracks 610 mm std / 762 mm opt. Power as wheeled Magnum 385/405 (same engine). Weight 16,653 kg (Cat.5 front axle) / 17,113 kg (suspended)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Magnum 405 Rowtrac",
+  "category": "tractor",
+  "series": "Magnum Rowtrac (tracked)",
+  "power_hp_rated": 404,
+  "power_hp_max": 435,
+  "power_kw_rated": 297,
+  "power_kw_max": 320,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": "1300-1400",
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "CVXDrive or PowerDrive (per Magnum range)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement; 166 / 221 / 282 l/min",
+   "flow_lpm": 166,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10929,
+   "front_lift_kg": 4090,
+   "category": "Cat. IV"
+  },
+  "pto": {
+   "rear_speeds_rpm": "1000 (opt. 540/1000)",
+   "front_pto": "1000 rpm (standard on spec table)"
+  },
+  "weight_kg": 16653,
+  "wheelbase_mm": 3155,
+  "fuel_l": 674,
+  "adblue_l": 99,
+  "tires": {
+   "front": "620/75 R30 (track unit front)",
+   "rear": null
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/magnum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6f99d104827242ed8e0e2ad8b4f3eef6 (spec table p.30-31)",
+  "notes": "Brochure CIH_25_Magnum (TP01/SM/12.2025). Power Management (PM) only in hydraulic/mobile-PTO/haulage use. Rowtrac = 4-track variant, tracks 610 mm std / 762 mm opt. Power as wheeled Magnum 385/405 (same engine). Weight 16,653 kg (Cat.5 front axle) / 17,113 kg (suspended)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Optum 270 CVXDrive",
+  "category": "tractor",
+  "series": "Optum 270-340",
+  "power_hp_rated": 271,
+  "power_hp_max": 288,
+  "power_kw_rated": 199,
+  "power_kw_max": 212,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1194,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; 165 std / 220 opt l/min",
+   "flow_lpm": 220,
+   "max_pressure_bar": 215,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11058,
+   "front_lift_kg": 6016,
+   "category": "Cat. III / IVN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 / 1000E"
+  },
+  "weight_kg": 11530,
+  "wheelbase_mm": 2995,
+  "fuel_l": 630,
+  "adblue_l": 96,
+  "tires": {
+   "front": "540/65 R28",
+   "rear": "650/85 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/optum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/3ba0f25fd0a04895aa73e892de272108 (spec p.30-31)",
+  "notes": "Rated @2,100 rpm, max @1,800 rpm, ECE R120 (= ISO 14396, 97/68/EC). Front hitch lift 6,016 kg, OECD rear lift 10,299 kg. Weight/dimensions given once for range (11,530 kg, permissible 17,200 kg)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Optum 300 CVXDrive",
+  "category": "tractor",
+  "series": "Optum 270-340",
+  "power_hp_rated": 300,
+  "power_hp_max": 313,
+  "power_kw_rated": 221,
+  "power_kw_max": 230,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1282,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; 165 std / 220 opt l/min",
+   "flow_lpm": 220,
+   "max_pressure_bar": 215,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11058,
+   "front_lift_kg": 6016,
+   "category": "Cat. III / IVN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 / 1000E"
+  },
+  "weight_kg": 11530,
+  "wheelbase_mm": 2995,
+  "fuel_l": 630,
+  "adblue_l": 96,
+  "tires": {
+   "front": "540/65 R30",
+   "rear": "650/65 R42"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/optum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/3ba0f25fd0a04895aa73e892de272108 (spec p.30-31)",
+  "notes": "Rated @2,100 rpm, max @1,800 rpm, ECE R120 (= ISO 14396, 97/68/EC). Front hitch lift 6,016 kg, OECD rear lift 10,299 kg. Weight/dimensions given once for range (11,530 kg, permissible 17,200 kg)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Optum 340 CVXDrive",
+  "category": "tractor",
+  "series": "Optum 270-340",
+  "power_hp_rated": 340,
+  "power_hp_max": 340,
+  "power_kw_rated": 250,
+  "power_kw_max": 250,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1398,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; 165 std / 220 opt l/min",
+   "flow_lpm": 220,
+   "max_pressure_bar": 215,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11058,
+   "front_lift_kg": 6016,
+   "category": "Cat. III / IVN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 / 1000E"
+  },
+  "weight_kg": 11530,
+  "wheelbase_mm": 2995,
+  "fuel_l": 630,
+  "adblue_l": 96,
+  "tires": {
+   "front": "540/65 R30",
+   "rear": "650/65 R42"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/optum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/3ba0f25fd0a04895aa73e892de272108 (spec p.30-31)",
+  "notes": "Rated @2,100 rpm, max @1,800 rpm, ECE R120 (= ISO 14396, 97/68/EC). Front hitch lift 6,016 kg, OECD rear lift 10,299 kg. Weight/dimensions given once for range (11,530 kg, permissible 17,200 kg)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Optum 360 CVXDrive",
+  "category": "tractor",
+  "series": "Optum 360-440",
+  "power_hp_rated": 360,
+  "power_hp_max": 360,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1616,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated; single pump 220 l/min, TwinFlow 360 (220+140) l/min",
+   "flow_lpm": 360,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 14350,
+   "front_lift_kg": 5800,
+   "category": "Rear Cat. III / IVN; front Cat. IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E / 1000 / 1000E",
+   "front_pto": "1000 / 1000E"
+  },
+  "weight_kg": 12450,
+  "wheelbase_mm": 3190,
+  "fuel_l": 680,
+  "adblue_l": 93,
+  "tires": {
+   "front": null,
+   "rear": "650/85 R42 / 710/75 R42 / 750/70 R44 (combinations offered)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/optum-360-440-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/aa06cb4855d84ba8a33c454fa4aa8da2 (spec table, brochure CIH_26_Optum-360-440)",
+  "notes": "Brochure gives power only in hp (no kW, no standard named); rated @2,000 rpm = max @1,800 rpm. 8.7 l 6-cyl eVGT 4-valve. Weight 12,450 kg base spec (13,500 high spec), permissible 18,000 kg (19,000 kg possible). Remote valves 4 or 5 rear electronic. 'Optum 440' rated 435 hp."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Optum 390 CVXDrive",
+  "category": "tractor",
+  "series": "Optum 360-440",
+  "power_hp_rated": 390,
+  "power_hp_max": 390,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1750,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated; single pump 220 l/min, TwinFlow 360 (220+140) l/min",
+   "flow_lpm": 360,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 14350,
+   "front_lift_kg": 5800,
+   "category": "Rear Cat. III / IVN; front Cat. IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E / 1000 / 1000E",
+   "front_pto": "1000 / 1000E"
+  },
+  "weight_kg": 12450,
+  "wheelbase_mm": 3190,
+  "fuel_l": 680,
+  "adblue_l": 93,
+  "tires": {
+   "front": null,
+   "rear": "650/85 R42 / 710/75 R42 / 750/70 R44 (combinations offered)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/optum-360-440-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/aa06cb4855d84ba8a33c454fa4aa8da2 (spec table, brochure CIH_26_Optum-360-440)",
+  "notes": "Brochure gives power only in hp (no kW, no standard named); rated @2,000 rpm = max @1,800 rpm. 8.7 l 6-cyl eVGT 4-valve. Weight 12,450 kg base spec (13,500 high spec), permissible 18,000 kg (19,000 kg possible). Remote valves 4 or 5 rear electronic. 'Optum 440' rated 435 hp."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Optum 440 CVXDrive",
+  "category": "tractor",
+  "series": "Optum 360-440",
+  "power_hp_rated": 435,
+  "power_hp_max": 435,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1851,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2000
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated; single pump 220 l/min, TwinFlow 360 (220+140) l/min",
+   "flow_lpm": 360,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 14350,
+   "front_lift_kg": 5800,
+   "category": "Rear Cat. III / IVN; front Cat. IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540E / 1000 / 1000E",
+   "front_pto": "1000 / 1000E"
+  },
+  "weight_kg": 12450,
+  "wheelbase_mm": 3190,
+  "fuel_l": 680,
+  "adblue_l": 93,
+  "tires": {
+   "front": null,
+   "rear": "650/85 R42 / 710/75 R42 / 750/70 R44 (combinations offered)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/optum-360-440-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/aa06cb4855d84ba8a33c454fa4aa8da2 (spec table, brochure CIH_26_Optum-360-440)",
+  "notes": "Brochure gives power only in hp (no kW, no standard named); rated @2,000 rpm = max @1,800 rpm. 8.7 l 6-cyl eVGT 4-valve. Weight 12,450 kg base spec (13,500 high spec), permissible 18,000 kg (19,000 kg possible). Remote valves 4 or 5 rear electronic. 'Optum 440' rated 435 hp."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 185",
+  "category": "tractor",
+  "series": "Puma 185-260",
+  "power_hp_rated": 180,
+  "power_hp_max": 200,
+  "power_kw_rated": 132,
+  "power_kw_max": 147,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 942,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "PowerDrive 19x6 full powershift or CVXDrive",
+   "speeds": "19x6 / continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": "Creeper n/a on CVXDrive; PowerDrive creeper per table"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; MultiController models 120 (opt 150) l/min, CVXDrive models 150 (opt 170) l/min",
+   "flow_lpm": 170,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5812,
+   "category": "Cat. II-III quick adjust"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 8625,
+  "wheelbase_mm": 2884,
+  "fuel_l": 470,
+  "adblue_l": 54,
+  "tires": {
+   "front": "600/65 R28 (600/70 R30 option on 220/240)",
+   "rear": "650/65 R42 (710/70 R42 option on 220/240)"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": "Class II or III optional",
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-185-260 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5f08817a2c174405bc755cece3fa570a (brochure 01/2026, spec p.30-31)",
+  "notes": "Rated model name 'Puma 185' = 180 hp rated ECE R120 (@2,200 rpm); max power @1,800 rpm; with Power Management max 165 kW / 224 hp. ECE R120 = ISO 14396 = 97/68/EC. Available as MultiController (PowerDrive) and CVXDrive. Weight shown 8,625 kg std / 9,550 kg susp. front axle (range value); GVW up to 13,650/14,400/15,000 kg."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 200",
+  "category": "tractor",
+  "series": "Puma 185-260",
+  "power_hp_rated": 200,
+  "power_hp_max": 220,
+  "power_kw_rated": 147,
+  "power_kw_max": 162,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1038,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "PowerDrive 19x6 full powershift or CVXDrive",
+   "speeds": "19x6 / continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": "Creeper n/a on CVXDrive; PowerDrive creeper per table"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; MultiController models 120 (opt 150) l/min, CVXDrive models 150 (opt 170) l/min",
+   "flow_lpm": 170,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5812,
+   "category": "Cat. II-III quick adjust"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 8625,
+  "wheelbase_mm": 2884,
+  "fuel_l": 470,
+  "adblue_l": 54,
+  "tires": {
+   "front": "600/65 R28 (600/70 R30 option on 220/240)",
+   "rear": "650/65 R42 (710/70 R42 option on 220/240)"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": "Class II or III optional",
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-185-260 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5f08817a2c174405bc755cece3fa570a (brochure 01/2026, spec p.30-31)",
+  "notes": "Rated model name 'Puma 200' = 200 hp rated ECE R120 (@2,200 rpm); max power @1,800 rpm; with Power Management max 180 kW / 245 hp. ECE R120 = ISO 14396 = 97/68/EC. Available as MultiController (PowerDrive) and CVXDrive. Weight shown 8,625 kg std / 9,550 kg susp. front axle (range value); GVW up to 13,650/14,400/15,000 kg."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 220",
+  "category": "tractor",
+  "series": "Puma 185-260",
+  "power_hp_rated": 220,
+  "power_hp_max": 239,
+  "power_kw_rated": 162,
+  "power_kw_max": 176,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1101,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "PowerDrive 19x6 full powershift or CVXDrive",
+   "speeds": "19x6 / continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": "Creeper n/a on CVXDrive; PowerDrive creeper per table"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; MultiController models 120 (opt 150) l/min, CVXDrive models 150 (opt 170) l/min",
+   "flow_lpm": 170,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5812,
+   "category": "Cat. II-III quick adjust"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 8625,
+  "wheelbase_mm": 2884,
+  "fuel_l": 470,
+  "adblue_l": 54,
+  "tires": {
+   "front": "600/65 R28 (600/70 R30 option on 220/240)",
+   "rear": "650/65 R42 (710/70 R42 option on 220/240)"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": "Class II or III optional",
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-185-260 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5f08817a2c174405bc755cece3fa570a (brochure 01/2026, spec p.30-31)",
+  "notes": "Rated model name 'Puma 220' = 220 hp rated ECE R120 (@2,200 rpm); max power @1,800 rpm; with Power Management max 191 kW / 260 hp. ECE R120 = ISO 14396 = 97/68/EC. Available as MultiController (PowerDrive) and CVXDrive. Weight shown 8,625 kg std / 9,550 kg susp. front axle (range value); GVW up to 13,650/14,400/15,000 kg."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 240",
+  "category": "tractor",
+  "series": "Puma 185-260",
+  "power_hp_rated": 240,
+  "power_hp_max": 260,
+  "power_kw_rated": 177,
+  "power_kw_max": 191,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1159,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": "Creeper n/a on CVXDrive; PowerDrive creeper per table"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; MultiController models 120 (opt 150) l/min, CVXDrive models 150 (opt 170) l/min",
+   "flow_lpm": 170,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5812,
+   "category": "Cat. II-III quick adjust"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 8625,
+  "wheelbase_mm": 2884,
+  "fuel_l": 470,
+  "adblue_l": 54,
+  "tires": {
+   "front": "600/65 R28 (600/70 R30 option on 220/240)",
+   "rear": "650/65 R42 (710/70 R42 option on 220/240)"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": "Class II or III optional",
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-185-260 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5f08817a2c174405bc755cece3fa570a (brochure 01/2026, spec p.30-31)",
+  "notes": "Rated model name 'Puma 240' = 240 hp rated ECE R120 (@2,200 rpm); max power @1,800 rpm; with Power Management max 199 kW / 271 hp. ECE R120 = ISO 14396 = 97/68/EC. CVXDrive only. Weight shown 8,625 kg std / 9,550 kg susp. front axle (range value); GVW up to 13,650/14,400/15,000 kg."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 260",
+  "category": "tractor",
+  "series": "Puma 185-260",
+  "power_hp_rated": 260,
+  "power_hp_max": 281,
+  "power_kw_rated": 191,
+  "power_kw_max": 205,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1249,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 50,
+   "creeper": "Creeper n/a on CVXDrive; PowerDrive creeper per table"
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; MultiController models 120 (opt 150) l/min, CVXDrive models 150 (opt 170) l/min",
+   "flow_lpm": 170,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10464,
+   "front_lift_kg": 5812,
+   "category": "Cat. II-III quick adjust"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 8625,
+  "wheelbase_mm": 2884,
+  "fuel_l": 470,
+  "adblue_l": 54,
+  "tires": {
+   "front": "600/70 R30",
+   "rear": "710/70 R42"
+  },
+  "cab": {
+   "suspension": "cab suspension available",
+   "air_conditioning": null,
+   "isobus": "Class II or III optional",
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-185-260 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/5f08817a2c174405bc755cece3fa570a (brochure 01/2026, spec p.30-31)",
+  "notes": "Rated model name 'Puma 260' = 260 hp rated ECE R120 (@2,200 rpm); max power @1,800 rpm; with Power Management max 222 kW / 302 hp. ECE R120 = ISO 14396 = 97/68/EC. CVXDrive only. Weight shown 8,625 kg std / 9,550 kg susp. front axle (range value); GVW up to 13,650/14,400/15,000 kg."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 155 (155-185 range)",
+  "category": "tractor",
+  "series": "Puma 155-185",
+  "power_hp_rated": 155,
+  "power_hp_max": 170,
+  "power_kw_rated": 114,
+  "power_kw_max": 125,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.718,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 906,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "ActiveDrive 6 (155/165 only), ActiveDrive 8 DCT, CVXDrive",
+   "speeds": "18x6/19x6/29x12 semi-powershift; 24x24 (48x48 creeper) DCT; CVT",
+   "max_speed_kmh": 50,
+   "creeper": "29x12 / 48x48 creeper options"
+  },
+  "hydraulics": {
+   "pump_type": "Closed centre load sensing; 150 std / 170 opt l/min (120 opt on ActiveDrive 6)",
+   "flow_lpm": 170,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "mechanical or pneumatic cab suspension available",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-155-185 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a0545f2ca7694ce7be741a79e29b0da4 (CIH_25_PumaSWB, spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,600 rpm (ECE R120). With Power Management: rated 140 kW/190 hp, max 141 kW/192 hp (as printed). Same model name 185 also exists in Puma 185-260 range with different rating. Brochure CIH_25_PumaSWB (2025). Weight 7,600 kg (Class 3.6 front axle, no FHPL/PTO/fuel/operator) / 8,400 kg (Class 4.1 suspended, equipped). Rear lift 7,450 kg @610 mm."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 165 (155-185 range)",
+  "category": "tractor",
+  "series": "Puma 155-185",
+  "power_hp_rated": 165,
+  "power_hp_max": 180,
+  "power_kw_rated": 121,
+  "power_kw_max": 132,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.718,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 979,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "ActiveDrive 6 (155/165 only), ActiveDrive 8 DCT, CVXDrive",
+   "speeds": "18x6/19x6/29x12 semi-powershift; 24x24 (48x48 creeper) DCT; CVT",
+   "max_speed_kmh": 50,
+   "creeper": "29x12 / 48x48 creeper options"
+  },
+  "hydraulics": {
+   "pump_type": "Closed centre load sensing; 150 std / 170 opt l/min (120 opt on ActiveDrive 6)",
+   "flow_lpm": 170,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "mechanical or pneumatic cab suspension available",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-155-185 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a0545f2ca7694ce7be741a79e29b0da4 (CIH_25_PumaSWB, spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,600 rpm (ECE R120). With Power Management: rated 150 kW/204 hp, max 155 kW/211 hp (as printed). Same model name 185 also exists in Puma 185-260 range with different rating. Brochure CIH_25_PumaSWB (2025). Weight 7,600 kg (Class 3.6 front axle, no FHPL/PTO/fuel/operator) / 8,400 kg (Class 4.1 suspended, equipped). Rear lift 7,450 kg @610 mm."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 185 (155-185 range)",
+  "category": "tractor",
+  "series": "Puma 155-185",
+  "power_hp_rated": 185,
+  "power_hp_max": 200,
+  "power_kw_rated": 136,
+  "power_kw_max": 147,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.718,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 1063,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "ActiveDrive 6 (155/165 only), ActiveDrive 8 DCT, CVXDrive",
+   "speeds": "18x6/19x6/29x12 semi-powershift; 24x24 (48x48 creeper) DCT; CVT",
+   "max_speed_kmh": 50,
+   "creeper": "29x12 / 48x48 creeper options"
+  },
+  "hydraulics": {
+   "pump_type": "Closed centre load sensing; 150 std / 170 opt l/min (120 opt on ActiveDrive 6)",
+   "flow_lpm": 170,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8380,
+   "front_lift_kg": 4180,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2789,
+  "fuel_l": 350,
+  "adblue_l": 50,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "mechanical or pneumatic cab suspension available",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-155-185 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/a0545f2ca7694ce7be741a79e29b0da4 (CIH_25_PumaSWB, spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,600 rpm (ECE R120). With Power Management: rated 155 kW/211 hp, max 166 kW/226 hp (as printed). Same model name 185 also exists in Puma 185-260 range with different rating. Brochure CIH_25_PumaSWB (2025). Weight 7,600 kg (Class 3.6 front axle, no FHPL/PTO/fuel/operator) / 8,400 kg (Class 4.1 suspended, equipped). Rear lift 7,450 kg @610 mm."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 140 (140-175 range)",
+  "category": "tractor",
+  "series": "Puma 140-175",
+  "power_hp_rated": 140,
+  "power_hp_max": 155,
+  "power_kw_rated": 103,
+  "power_kw_max": 114,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 655,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8257,
+   "front_lift_kg": 3568,
+   "category": "Cat. II-III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm (1,895 engine rpm)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 330,
+  "adblue_l": 48,
+  "tires": {
+   "front": "540/65 R28",
+   "rear": "650/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-140-175 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9c26b7c2ebb34d5bb3febef226a845c9 / e964e57d031245dbb7d9b8d418e14619 (Puma 140-175 brochure TP01/SM/11/22, spec p.45-47)",
+  "notes": "Rated @2,200 rpm, max @1,800 rpm (ECE R120). With Power Management: rated 129 kW/175 hp, max 129 kW/175 hp, torque 750 Nm. Torque rise 46/44%. Puma 140 only appears in the loader-compatibility table of the brochure (power/torque/fuel shown; no transmission/hydraulics split), so those fields are null. Shipping weight 7,528 kg (CVXDrive) / 7,319 kg (MultiController). Puma 165 at 180 hp max / Puma 175 at 180 hp rated as printed."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 150 (140-175 range)",
+  "category": "tractor",
+  "series": "Puma 140-175",
+  "power_hp_rated": 150,
+  "power_hp_max": 165,
+  "power_kw_rated": 110,
+  "power_kw_max": 121,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 700,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "ActiveDrive 6 / PowerDrive / CVXDrive",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; CVXDrive 140 (160 opt) l/min, MultiController 110 (150 opt) l/min",
+   "flow_lpm": 160,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8257,
+   "front_lift_kg": 3568,
+   "category": "Cat. II-III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm (1,895 engine rpm)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 330,
+  "adblue_l": 48,
+  "tires": {
+   "front": "540/65 R28",
+   "rear": "650/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-140-175 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9c26b7c2ebb34d5bb3febef226a845c9 / e964e57d031245dbb7d9b8d418e14619 (Puma 140-175 brochure TP01/SM/11/22, spec p.45-47)",
+  "notes": "Rated @2,200 rpm, max @1,800 rpm (ECE R120). With Power Management: rated 129 kW/175 hp, max 140 kW/190 hp, torque 805 Nm. Torque rise 46/44%. Puma 140 only appears in the loader-compatibility table of the brochure (power/torque/fuel shown; no transmission/hydraulics split), so those fields are null. Shipping weight 7,528 kg (CVXDrive) / 7,319 kg (MultiController). Puma 165 at 180 hp max / Puma 175 at 180 hp rated as printed."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 165 (140-175 range)",
+  "category": "tractor",
+  "series": "Puma 140-175",
+  "power_hp_rated": 165,
+  "power_hp_max": 180,
+  "power_kw_rated": 121,
+  "power_kw_max": 132,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 770,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "ActiveDrive 6 / PowerDrive / CVXDrive",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; CVXDrive 140 (160 opt) l/min, MultiController 110 (150 opt) l/min",
+   "flow_lpm": 160,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8257,
+   "front_lift_kg": 3568,
+   "category": "Cat. II-III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm (1,895 engine rpm)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 330,
+  "adblue_l": 48,
+  "tires": {
+   "front": "540/65 R28",
+   "rear": "650/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-140-175 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9c26b7c2ebb34d5bb3febef226a845c9 / e964e57d031245dbb7d9b8d418e14619 (Puma 140-175 brochure TP01/SM/11/22, spec p.45-47)",
+  "notes": "Rated @2,200 rpm, max @1,800 rpm (ECE R120). With Power Management: rated 140 kW/190 hp, max 154 kW/209 hp, torque 875 Nm. Torque rise 46/44%. Puma 140 only appears in the loader-compatibility table of the brochure (power/torque/fuel shown; no transmission/hydraulics split), so those fields are null. Shipping weight 7,528 kg (CVXDrive) / 7,319 kg (MultiController). Puma 165 at 180 hp max / Puma 175 at 180 hp rated as printed."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Puma 175 (140-175 range)",
+  "category": "tractor",
+  "series": "Puma 140-175",
+  "power_hp_rated": 180,
+  "power_hp_max": 200,
+  "power_kw_rated": 132,
+  "power_kw_max": 147,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.7,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 840,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "CVXDrive",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated; CVXDrive 140 (160 opt) l/min, MultiController 110 (150 opt) l/min",
+   "flow_lpm": 160,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 8257,
+   "front_lift_kg": 3568,
+   "category": "Cat. II-III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm (1,895 engine rpm)"
+  },
+  "weight_kg": 7528,
+  "wheelbase_mm": null,
+  "fuel_l": 330,
+  "adblue_l": 48,
+  "tires": {
+   "front": "540/65 R28",
+   "rear": "650/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/puma-series/puma-140-175 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/9c26b7c2ebb34d5bb3febef226a845c9 / e964e57d031245dbb7d9b8d418e14619 (Puma 140-175 brochure TP01/SM/11/22, spec p.45-47)",
+  "notes": "Rated @2,200 rpm, max @1,800 rpm (ECE R120). With Power Management: rated 151 kW/205 hp, max 165 kW/224 hp, torque 940 Nm. Torque rise 46/44%. Puma 140 only appears in the loader-compatibility table of the brochure (power/torque/fuel shown; no transmission/hydraulics split), so those fields are null. Shipping weight 7,528 kg (CVXDrive) / 7,319 kg (MultiController). Puma 165 at 180 hp max / Puma 175 at 180 hp rated as printed."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Maxxum 115",
+  "category": "tractor",
+  "series": "Maxxum 115-150",
+  "power_hp_rated": 116,
+  "power_hp_max": 125,
+  "power_kw_rated": 85,
+  "power_kw_max": 92,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 528,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive, ActiveDrive 8 (24x24, 48x48 creeper) or ActiveDrive 4 (16x16, 32x32 creeper)",
+   "speeds": "continuously variable / 8-speed / 4-speed powershift",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated (CCLS) 121 or 150 l/min; fixed displacement 86 l/min / 190 bar on base versions",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3100,
+   "category": "Cat. II / III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2642,
+  "fuel_l": null,
+  "adblue_l": 39.5,
+  "tires": {
+   "front": "480/65 R28",
+   "rear": "600/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/maxxum-115-150 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2385264d1cac4751a455521b66adba05 (spec p.44-45)",
+  "notes": "Rated @2,200 rpm, max @1,800-1,900 rpm (ECE R120). With Power Management: rated 96 kW/131 hp (field mode), max 107 kW/145 hp, torque 590 Nm. 13 model variants (T/U/A ranges) of 115-150. Weight/fuel not assigned per model: brochure shows 5,020 / 4,890 kg shipping weight for pairs of columns and 250 (210) l vs 210 (250) l fuel in two tables (conflicting), so null. Rear lift 7,115 kg with 86 l/min pump. Cylinder count for 145 not explicit (4 or 6 mentioned)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Maxxum 125",
+  "category": "tractor",
+  "series": "Maxxum 115-150",
+  "power_hp_rated": 125,
+  "power_hp_max": 135,
+  "power_kw_rated": 92,
+  "power_kw_max": 99,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 560,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive, ActiveDrive 8 (24x24, 48x48 creeper) or ActiveDrive 4 (16x16, 32x32 creeper)",
+   "speeds": "continuously variable / 8-speed / 4-speed powershift",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated (CCLS) 121 or 150 l/min; fixed displacement 86 l/min / 190 bar on base versions",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3100,
+   "category": "Cat. II / III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2642,
+  "fuel_l": null,
+  "adblue_l": 39.5,
+  "tires": {
+   "front": "480/65 R28",
+   "rear": "600/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/maxxum-115-150 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2385264d1cac4751a455521b66adba05 (spec p.44-45)",
+  "notes": "Rated @2,200 rpm, max @1,800-1,900 rpm (ECE R120). With Power Management: rated 103 kW/140 hp (field mode), max 114 kW/155 hp, torque 637 Nm. 13 model variants (T/U/A ranges) of 115-150. Weight/fuel not assigned per model: brochure shows 5,020 / 4,890 kg shipping weight for pairs of columns and 250 (210) l vs 210 (250) l fuel in two tables (conflicting), so null. Rear lift 7,115 kg with 86 l/min pump. Cylinder count for 145 not explicit (4 or 6 mentioned)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Maxxum 135",
+  "category": "tractor",
+  "series": "Maxxum 115-150",
+  "power_hp_rated": 135,
+  "power_hp_max": 145,
+  "power_kw_rated": 99,
+  "power_kw_max": 107,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 605,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive, ActiveDrive 8 (24x24, 48x48 creeper) or ActiveDrive 4 (16x16, 32x32 creeper)",
+   "speeds": "continuously variable / 8-speed / 4-speed powershift",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated (CCLS) 121 or 150 l/min; fixed displacement 86 l/min / 190 bar on base versions",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3100,
+   "category": "Cat. II / III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2642,
+  "fuel_l": null,
+  "adblue_l": 39.5,
+  "tires": {
+   "front": "480/65 R28",
+   "rear": "600/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/maxxum-115-150 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2385264d1cac4751a455521b66adba05 (spec p.44-45)",
+  "notes": "Rated @2,200 rpm, max @1,800-1,900 rpm (ECE R120). With Power Management: rated 114 kW/155 hp (field mode), max 124 kW/169 hp, torque 700 Nm. 13 model variants (T/U/A ranges) of 115-150. Weight/fuel not assigned per model: brochure shows 5,020 / 4,890 kg shipping weight for pairs of columns and 250 (210) l vs 210 (250) l fuel in two tables (conflicting), so null. Rear lift 7,115 kg with 86 l/min pump. Cylinder count for 145 not explicit (4 or 6 mentioned)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Maxxum 145",
+  "category": "tractor",
+  "series": "Maxxum 115-150",
+  "power_hp_rated": 145,
+  "power_hp_max": 155,
+  "power_kw_rated": 107,
+  "power_kw_max": 114,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 650,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive, ActiveDrive 8 (24x24, 48x48 creeper) or ActiveDrive 4 (16x16, 32x32 creeper)",
+   "speeds": "continuously variable / 8-speed / 4-speed powershift",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated (CCLS) 121 or 150 l/min; fixed displacement 86 l/min / 190 bar on base versions",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3100,
+   "category": "Cat. II / III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2642,
+  "fuel_l": null,
+  "adblue_l": 39.5,
+  "tires": {
+   "front": "480/65 R28",
+   "rear": "600/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/maxxum-115-150 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2385264d1cac4751a455521b66adba05 (spec p.44-45)",
+  "notes": "Rated @2,200 rpm, max @1,800-1,900 rpm (ECE R120). With Power Management: rated 118 kW/160 hp (field mode), max 129 kW/175 hp, torque 700 Nm. 13 model variants (T/U/A ranges) of 115-150. Weight/fuel not assigned per model: brochure shows 5,020 / 4,890 kg shipping weight for pairs of columns and 250 (210) l vs 210 (250) l fuel in two tables (conflicting), so null. Rear lift 7,115 kg with 86 l/min pump. Cylinder count for 145 not explicit (4 or 6 mentioned)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Maxxum 150",
+  "category": "tractor",
+  "series": "Maxxum 115-150",
+  "power_hp_rated": 150,
+  "power_hp_max": 158,
+  "power_kw_rated": 110,
+  "power_kw_max": 116,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 650,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive, ActiveDrive 8 (24x24, 48x48 creeper) or ActiveDrive 4 (16x16, 32x32 creeper)",
+   "speeds": "continuously variable / 8-speed / 4-speed powershift",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement pressure/flow compensated (CCLS) 121 or 150 l/min; fixed displacement 86 l/min / 190 bar on base versions",
+   "flow_lpm": 150,
+   "max_pressure_bar": 210,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7864,
+   "front_lift_kg": 3100,
+   "category": "Cat. II / III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E)",
+   "front_pto": "1000 rpm"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2642,
+  "fuel_l": null,
+  "adblue_l": 39.5,
+  "tires": {
+   "front": "480/65 R28",
+   "rear": "600/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/maxxum-115-150 | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2385264d1cac4751a455521b66adba05 (spec p.44-45)",
+  "notes": "Rated @2,200 rpm, max @1,800-1,900 rpm (ECE R120). With Power Management: rated 121 kW/165 hp (field mode), max 129 kW/175 hp, torque 740 Nm. 13 model variants (T/U/A ranges) of 115-150. Weight/fuel not assigned per model: brochure shows 5,020 / 4,890 kg shipping weight for pairs of columns and 250 (210) l vs 210 (250) l fuel in two tables (conflicting), so null. Rear lift 7,115 kg with 86 l/min pump. Cylinder count for 145 not explicit (4 or 6 mentioned)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Vestrum 100",
+  "category": "tractor",
+  "series": "Vestrum 100-130",
+  "power_hp_rated": 100,
+  "power_hp_max": 110,
+  "power_kw_rated": 74,
+  "power_kw_max": 81,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 520,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive or ActiveDrive 8 (24x24, 48x48 creeper)",
+   "speeds": "continuously variable / 8-speed powershift",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5600,
+   "front_lift_kg": 2300,
+   "category": "Cat. II / III N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E or 540 / 1000)",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/vestrum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7e178d7639d6494a8fc28ee7cac5865c (spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,700-1,900 rpm (ECE R120). Max 40 kph ECO. OECD lift 4,200 kg. Weight 5,500 kg / permissible 8,800 kg (range value). Rear valves 4 (2 mechanical std) + mid-mount up to 3 electrical."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Vestrum 110",
+  "category": "tractor",
+  "series": "Vestrum 100-130",
+  "power_hp_rated": 110,
+  "power_hp_max": 120,
+  "power_kw_rated": 81,
+  "power_kw_max": 88,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 551,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive or ActiveDrive 8 (24x24, 48x48 creeper)",
+   "speeds": "continuously variable / 8-speed powershift",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5600,
+   "front_lift_kg": 2300,
+   "category": "Cat. II / III N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E or 540 / 1000)",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/vestrum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7e178d7639d6494a8fc28ee7cac5865c (spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,700-1,900 rpm (ECE R120). Max 40 kph ECO. OECD lift 4,200 kg. Weight 5,500 kg / permissible 8,800 kg (range value). Rear valves 4 (2 mechanical std) + mid-mount up to 3 electrical."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Vestrum 120",
+  "category": "tractor",
+  "series": "Vestrum 100-130",
+  "power_hp_rated": 120,
+  "power_hp_max": 130,
+  "power_kw_rated": 88,
+  "power_kw_max": 96,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 610,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive or ActiveDrive 8 (24x24, 48x48 creeper)",
+   "speeds": "continuously variable / 8-speed powershift",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5600,
+   "front_lift_kg": 2300,
+   "category": "Cat. II / III N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E or 540 / 1000)",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/vestrum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7e178d7639d6494a8fc28ee7cac5865c (spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,700-1,900 rpm (ECE R120). Max 40 kph ECO. OECD lift 4,200 kg. Weight 5,500 kg / permissible 8,800 kg (range value). Rear valves 4 (2 mechanical std) + mid-mount up to 3 electrical."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Vestrum 130",
+  "category": "tractor",
+  "series": "Vestrum 100-130",
+  "power_hp_rated": 130,
+  "power_hp_max": 140,
+  "power_kw_rated": 96,
+  "power_kw_max": 103,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.485,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 630,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT/powershift",
+   "model": "CVXDrive or ActiveDrive 8 (24x24, 48x48 creeper)",
+   "speeds": "continuously variable / 8-speed powershift",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable displacement, pressure/flow compensated",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5600,
+   "front_lift_kg": 2300,
+   "category": "Cat. II / III N"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 (opt. 540E / 1000 / 1000E or 540 / 1000)",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 5500,
+  "wheelbase_mm": 2490,
+  "fuel_l": 180,
+  "adblue_l": 19,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/vestrum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/7e178d7639d6494a8fc28ee7cac5865c (spec p.14-15)",
+  "notes": "Rated @2,200 rpm, max @1,700-1,900 rpm (ECE R120). Max 40 kph ECO. OECD lift 4,200 kg. Weight 5,500 kg / permissible 8,800 kg (range value). Rear valves 4 (2 mechanical std) + mid-mount up to 3 electrical."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Luxxum 100",
+  "category": "tractor",
+  "series": "Luxxum",
+  "power_hp_rated": 101,
+  "power_hp_max": null,
+  "power_kw_rated": 74,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 450,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 4 32x32 (4-speed automized) + powershuttle",
+   "speeds": "32x32",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "CCLS; 80 std / 100 opt l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5560,
+   "front_lift_kg": 1985,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 4450,
+  "wheelbase_mm": 2420,
+  "fuel_l": 140,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/luxxum | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/f78cede5ee974753b4484be6676b7ec0 (Luxxum Stage V brochure, 2022, spec p.42)",
+  "notes": "Rated @2,300 rpm ECE R120. Model 'Luxxum 100' rated 101 hp as printed in the Stage V brochure. FPT F5 engine, 16 valves. OECD lift 4,701 kg. Weight is minimum unballasted 4,450 kg, permissible 8,000 kg. Rear valves up to 3 mechanical / max 4 (2 mech + 2 electr.)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Luxxum 110",
+  "category": "tractor",
+  "series": "Luxxum",
+  "power_hp_rated": 110,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 4 32x32 (4-speed automized) + powershuttle",
+   "speeds": "32x32",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "CCLS; 80 std / 100 opt l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5560,
+   "front_lift_kg": 1985,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 4450,
+  "wheelbase_mm": 2420,
+  "fuel_l": 140,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/luxxum | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/f78cede5ee974753b4484be6676b7ec0 (Luxxum Stage V brochure, 2022, spec p.42)",
+  "notes": "Rated @2,300 rpm ECE R120. Model 'Luxxum 100' rated 101 hp as printed in the Stage V brochure. FPT F5 engine, 16 valves. OECD lift 4,701 kg. Weight is minimum unballasted 4,450 kg, permissible 8,000 kg. Rear valves up to 3 mechanical / max 4 (2 mech + 2 electr.)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Luxxum 120",
+  "category": "tractor",
+  "series": "Luxxum",
+  "power_hp_rated": 117,
+  "power_hp_max": null,
+  "power_kw_rated": 86,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 506,
+   "max_torque_rpm": 1300,
+   "rated_rpm": 2300
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 4 32x32 (4-speed automized) + powershuttle",
+   "speeds": "32x32",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "CCLS; 80 std / 100 opt l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5560,
+   "front_lift_kg": 1985,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000 / 1000E",
+   "front_pto": "1000 rpm (1,920 engine rpm)"
+  },
+  "weight_kg": 4450,
+  "wheelbase_mm": 2420,
+  "fuel_l": 140,
+  "adblue_l": 10,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/luxxum | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/f78cede5ee974753b4484be6676b7ec0 (Luxxum Stage V brochure, 2022, spec p.42)",
+  "notes": "Rated @2,300 rpm ECE R120. Model 'Luxxum 100' rated 101 hp as printed in the Stage V brochure. FPT F5 engine, 16 valves. OECD lift 4,701 kg. Weight is minimum unballasted 4,450 kg, permissible 8,000 kg. Rear valves up to 3 mechanical / max 4 (2 mech + 2 electr.)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 75 A",
+  "category": "tractor",
+  "series": "Farmall A (compact utility; 55/65 A below range)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.93,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "none (no AdBlue/DEF required)",
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2300
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro",
+   "model": "Synchroshift 8x8 mech. shuttle (2WD) / 12x12 / 12x12 powershuttle / 20x20 creeper",
+   "speeds": "8x8 to 20x20",
+   "max_speed_kmh": 40,
+   "creeper": "20x20 creeper option"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre; 47.7 l/min total (steering 29 / rear hitch & external 36.3)",
+   "flow_lpm": 47.7,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2700,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 (opt. 540/540E)",
+   "front_pto": null
+  },
+  "weight_kg": 2880,
+  "wheelbase_mm": 2123,
+  "fuel_l": 82,
+  "adblue_l": null,
+  "tires": {
+   "front": "12.4 R20",
+   "rear": "420/70 R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-55-75-a | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/999ba094ff4747e1a783e4a7b111ff0f (TP01/SM/04.23)",
+  "notes": "Rated @2,300 rpm ECE R120. Lift 2,700 kg (OECD 3,000). Weight 2,880 kg. Permissible 4,500 (2WD)/4,800 (4WD). Included only because 75 hp lies at the lower edge of the requested range."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 90C",
+  "category": "tractor",
+  "series": "Farmall C",
+  "power_hp_rated": null,
+  "power_hp_max": 90,
+  "power_kw_rated": null,
+  "power_kw_max": 66,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 380,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro/powershift",
+   "model": "ManualDrive electronic powershuttle 12x12 (40x40 creeper) or ActiveDrive 2 24x24 (40x40 creeper)",
+   "speeds": "12x12 / 24x24",
+   "max_speed_kmh": 40,
+   "creeper": "40x40 creeper option"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre; 64 or 82 l/min",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "largest: 440/65 R28 (1.5 HD axle)",
+   "rear": "largest: 540/65 R38 (1.5 HD axle)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-c | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/1459171cf38e4b289f4edb52164bc517 (brochure 11/2025, spec p.16)",
+  "notes": "Brochure gives only 'Maximum engine power ECE R120 @1,900 rpm' (no rated figure) so rated is null. Torque rise 39%. Lift 4,700 kg at ball ends. Weight 4,100 kg; max permissible 6,500-7,000 kg. Rear valves: 3 mech + 1 diverter option; 2 mid-mount optional. 90C has no ManualDrive-ActiveDrive2 split shown."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 100C",
+  "category": "tractor",
+  "series": "Farmall C",
+  "power_hp_rated": null,
+  "power_hp_max": 100,
+  "power_kw_rated": null,
+  "power_kw_max": 74,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 450,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro/powershift",
+   "model": "ManualDrive electronic powershuttle 12x12 (40x40 creeper) or ActiveDrive 2 24x24 (40x40 creeper)",
+   "speeds": "12x12 / 24x24",
+   "max_speed_kmh": 40,
+   "creeper": "40x40 creeper option"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre; 64 or 82 l/min",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "largest: 440/65 R28 (1.5 HD axle)",
+   "rear": "largest: 540/65 R38 (1.5 HD axle)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-c | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/1459171cf38e4b289f4edb52164bc517 (brochure 11/2025, spec p.16)",
+  "notes": "Brochure gives only 'Maximum engine power ECE R120 @1,900 rpm' (no rated figure) so rated is null. Torque rise 47%. Lift 4,700 kg at ball ends. Weight 4,100 kg; max permissible 6,500-7,000 kg. Rear valves: 3 mech + 1 diverter option; 2 mid-mount optional. 90C has no ManualDrive-ActiveDrive2 split shown."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 110C",
+  "category": "tractor",
+  "series": "Farmall C",
+  "power_hp_rated": null,
+  "power_hp_max": 110,
+  "power_kw_rated": null,
+  "power_kw_max": 81,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro/powershift",
+   "model": "ManualDrive electronic powershuttle 12x12 (40x40 creeper) or ActiveDrive 2 24x24 (40x40 creeper)",
+   "speeds": "12x12 / 24x24",
+   "max_speed_kmh": 40,
+   "creeper": "40x40 creeper option"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre; 64 or 82 l/min",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "largest: 440/65 R28 (1.5 HD axle)",
+   "rear": "largest: 540/65 R38 (1.5 HD axle)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-c | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/1459171cf38e4b289f4edb52164bc517 (brochure 11/2025, spec p.16)",
+  "notes": "Brochure gives only 'Maximum engine power ECE R120 @1,900 rpm' (no rated figure) so rated is null. Torque rise 46%. Lift 4,700 kg at ball ends. Weight 4,100 kg; max permissible 6,500-7,000 kg. Rear valves: 3 mech + 1 diverter option; 2 mid-mount optional. 90C has no ManualDrive-ActiveDrive2 split shown."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 120C",
+  "category": "tractor",
+  "series": "Farmall C",
+  "power_hp_rated": null,
+  "power_hp_max": 117,
+  "power_kw_rated": null,
+  "power_kw_max": 86,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 506,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "synchro/powershift",
+   "model": "ManualDrive electronic powershuttle 12x12 (40x40 creeper) or ActiveDrive 2 24x24 (40x40 creeper)",
+   "speeds": "12x12 / 24x24",
+   "max_speed_kmh": 40,
+   "creeper": "40x40 creeper option"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre; 64 or 82 l/min",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4700,
+   "front_lift_kg": 1670,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E / 1000",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 4100,
+  "wheelbase_mm": 2350,
+  "fuel_l": 130,
+  "adblue_l": null,
+  "tires": {
+   "front": "largest: 440/65 R28 (1.5 HD axle)",
+   "rear": "largest: 540/65 R38 (1.5 HD axle)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-c | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/1459171cf38e4b289f4edb52164bc517 (brochure 11/2025, spec p.16)",
+  "notes": "Brochure gives only 'Maximum engine power ECE R120 @1,900 rpm' (no rated figure) so rated is null. Torque rise 42%. Lift 4,700 kg at ball ends. Weight 4,100 kg; max permissible 6,500-7,000 kg. Rear valves: 3 mech + 1 diverter option; 2 mid-mount optional. 90C has no ManualDrive-ActiveDrive2 split shown."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 100M",
+  "category": "tractor",
+  "series": "Farmall M",
+  "power_hp_rated": null,
+  "power_hp_max": 101,
+  "power_kw_rated": null,
+  "power_kw_max": 74,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 450,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 4 16x16 semi-powershift (32x32 creeper optional)",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 creeper option; 20x20 creeper also mentioned"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2380,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-m | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/84c94ed3ffe047a5959baaea33a806f3 (CIH_25_Farmall_M flyer)",
+  "notes": "Flyer gives 'Max. engine power ISO TR14396 - ECE R120' only (rated null). GVW 8 t. Quick specs: FPT F36 4 cyl 3.6 l Stage V."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 110M",
+  "category": "tractor",
+  "series": "Farmall M",
+  "power_hp_rated": null,
+  "power_hp_max": 110,
+  "power_kw_rated": null,
+  "power_kw_max": 81,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 4 16x16 semi-powershift (32x32 creeper optional)",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 creeper option; 20x20 creeper also mentioned"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2380,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-m | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/84c94ed3ffe047a5959baaea33a806f3 (CIH_25_Farmall_M flyer)",
+  "notes": "Flyer gives 'Max. engine power ISO TR14396 - ECE R120' only (rated null). GVW 8 t. Quick specs: FPT F36 4 cyl 3.6 l Stage V."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Farmall 120M",
+  "category": "tractor",
+  "series": "Farmall M",
+  "power_hp_rated": null,
+  "power_hp_max": 117,
+  "power_kw_rated": null,
+  "power_kw_max": 86,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 506,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 4 16x16 semi-powershift (32x32 creeper optional)",
+   "speeds": "16x16",
+   "max_speed_kmh": 40,
+   "creeper": "32x32 creeper option; 20x20 creeper also mentioned"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 80,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5200,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2380,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/farmall-series/farmall-m | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/84c94ed3ffe047a5959baaea33a806f3 (CIH_25_Farmall_M flyer)",
+  "notes": "Flyer gives 'Max. engine power ISO TR14396 - ECE R120' only (rated null). GVW 8 t. Quick specs: FPT F36 4 cyl 3.6 l Stage V."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Quantum 80 (V/N/F/CL)",
+  "category": "tractor",
+  "series": "Quantum (specialty narrow/vineyard/orchard tractors; V, N, F, CL versions)",
+  "power_hp_rated": 75,
+  "power_hp_max": null,
+  "power_kw_rated": 55,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 320,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 2 32x16 with Powerclutch (44x16 creeper optional)",
+   "speeds": "32x16",
+   "max_speed_kmh": 40,
+   "creeper": "44x16 optional"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing 64 or 82 l/min (+36 l/min independent steering pump); rear outlets up to 10",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2844,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E (opt. 540/540E/1000 and ground speed)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 3200,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/quantum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/04b7c6dde9284473a2b1a5f5289bcfe4 (brochure 12/2023, spec p.14-15)",
+  "notes": "Rated ISO TR14396 / ECE R120. Engine is FPT F34 3.4 l (2 valves) or F36 3.6 l (4 valves) depending on model, split not explicit so displacement null. Narrow-track tractors: widths 1,063 (V) / 1,228 (N) / 1,382 (F) / 1,902 (CL) mm. Rear lift 2,353/2,188/2,519/2,844 kg by version (max shown). Weight 3,200 kg (4WD cab)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Quantum 90 (V/N/F/CL)",
+  "category": "tractor",
+  "series": "Quantum (specialty narrow/vineyard/orchard tractors; V, N, F, CL versions)",
+  "power_hp_rated": 86,
+  "power_hp_max": null,
+  "power_kw_rated": 63,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 351,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 2 32x16 with Powerclutch (44x16 creeper optional)",
+   "speeds": "32x16",
+   "max_speed_kmh": 40,
+   "creeper": "44x16 optional"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing 64 or 82 l/min (+36 l/min independent steering pump); rear outlets up to 10",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2844,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E (opt. 540/540E/1000 and ground speed)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 3200,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/quantum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/04b7c6dde9284473a2b1a5f5289bcfe4 (brochure 12/2023, spec p.14-15)",
+  "notes": "Rated ISO TR14396 / ECE R120. Engine is FPT F34 3.4 l (2 valves) or F36 3.6 l (4 valves) depending on model, split not explicit so displacement null. Narrow-track tractors: widths 1,063 (V) / 1,228 (N) / 1,382 (F) / 1,902 (CL) mm. Rear lift 2,353/2,188/2,519/2,844 kg by version (max shown). Weight 3,200 kg (4WD cab)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Quantum 100 (V/N/F/CL)",
+  "category": "tractor",
+  "series": "Quantum (specialty narrow/vineyard/orchard tractors; V, N, F, CL versions)",
+  "power_hp_rated": 99,
+  "power_hp_max": null,
+  "power_kw_rated": 73,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 407,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 2 32x16 with Powerclutch (44x16 creeper optional)",
+   "speeds": "32x16",
+   "max_speed_kmh": 40,
+   "creeper": "44x16 optional"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing 64 or 82 l/min (+36 l/min independent steering pump); rear outlets up to 10",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2844,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E (opt. 540/540E/1000 and ground speed)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 3200,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/quantum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/04b7c6dde9284473a2b1a5f5289bcfe4 (brochure 12/2023, spec p.14-15)",
+  "notes": "Rated ISO TR14396 / ECE R120. Engine is FPT F34 3.4 l (2 valves) or F36 3.6 l (4 valves) depending on model, split not explicit so displacement null. Narrow-track tractors: widths 1,063 (V) / 1,228 (N) / 1,382 (F) / 1,902 (CL) mm. Rear lift 2,353/2,188/2,519/2,844 kg by version (max shown). Weight 3,200 kg (4WD cab)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Quantum 110 (V/N/F/CL)",
+  "category": "tractor",
+  "series": "Quantum (specialty narrow/vineyard/orchard tractors; V, N, F, CL versions)",
+  "power_hp_rated": 110,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 490,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 2 32x16 with Powerclutch (44x16 creeper optional)",
+   "speeds": "32x16",
+   "max_speed_kmh": 40,
+   "creeper": "44x16 optional"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing 64 or 82 l/min (+36 l/min independent steering pump); rear outlets up to 10",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2844,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E (opt. 540/540E/1000 and ground speed)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 3200,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/quantum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/04b7c6dde9284473a2b1a5f5289bcfe4 (brochure 12/2023, spec p.14-15)",
+  "notes": "Rated ISO TR14396 / ECE R120. Engine is FPT F34 3.4 l (2 valves) or F36 3.6 l (4 valves) depending on model, split not explicit so displacement null. Narrow-track tractors: widths 1,063 (V) / 1,228 (N) / 1,382 (F) / 1,902 (CL) mm. Rear lift 2,353/2,188/2,519/2,844 kg by version (max shown). Weight 3,200 kg (4WD cab)."
+ },
+ {
+  "brand": "Case IH",
+  "model": "Quantum 120 (V/N/F/CL)",
+  "category": "tractor",
+  "series": "Quantum (specialty narrow/vineyard/orchard tractors; V, N, F, CL versions)",
+  "power_hp_rated": 120,
+  "power_hp_max": null,
+  "power_kw_rated": 88,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "HI-eSCR2 (SCR only, no EGR)",
+   "turbo": true,
+   "max_torque_nm": 518,
+   "max_torque_rpm": 1300,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "ActiveDrive 2 32x16 with Powerclutch (44x16 creeper optional)",
+   "speeds": "32x16",
+   "max_speed_kmh": 40,
+   "creeper": "44x16 optional"
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing 64 or 82 l/min (+36 l/min independent steering pump); rear outlets up to 10",
+   "flow_lpm": 82,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2844,
+   "front_lift_kg": 1500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540 / 540E (opt. 540/540E/1000 and ground speed)",
+   "front_pto": "1000 rpm optional"
+  },
+  "weight_kg": 3200,
+  "wheelbase_mm": 2180,
+  "fuel_l": null,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.caseih.com/en-gb/europe/products/tractors/quantum-series | brochure PDF https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/04b7c6dde9284473a2b1a5f5289bcfe4 (brochure 12/2023, spec p.14-15)",
+  "notes": "Rated ISO TR14396 / ECE R120. Engine is FPT F34 3.4 l (2 valves) or F36 3.6 l (4 valves) depending on model, split not explicit so displacement null. Narrow-track tractors: widths 1,063 (V) / 1,228 (N) / 1,382 (F) / 1,902 (CL) mm. Rear lift 2,353/2,188/2,519/2,844 kg by version (max shown). Weight 3,200 kg (4WD cab)."
+ }
+]

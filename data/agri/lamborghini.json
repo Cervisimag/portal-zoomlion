@@ -1,0 +1,3821 @@
+[
+ {
+  "brand": "Lamborghini",
+  "model": "Strike 95",
+  "category": "tractor",
+  "series": "Strike",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3600/4525",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3950,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/2952-strike",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. "
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike 100",
+  "category": "tractor",
+  "series": "Strike",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3600/4525",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3800,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/2952-strike",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. "
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike 105",
+  "category": "tractor",
+  "series": "Strike",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3600/4525",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3950,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/2952-strike",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. "
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike 115",
+  "category": "tractor",
+  "series": "Strike",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3600/4855",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/2952-strike",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. "
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike 125",
+  "category": "tractor",
+  "series": "Strike",
+  "power_hp_rated": 120,
+  "power_hp_max": 126,
+  "power_kw_rated": 88.2,
+  "power_kw_max": 93,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 517,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "4855/5410",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4350,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/2952-strike",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. "
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike Trend 75",
+  "category": "tractor",
+  "series": "Strike Trend",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/4128-strike-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Source table lists models 75/95/105/105 HD/115/125 but gives only one value column (max power 126, homologated 121, torque 433, 4 cyl, lift 4525, width 2051, weight 4000) not assignable to a specific model, so power/torque left null per model."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike Trend 95",
+  "category": "tractor",
+  "series": "Strike Trend",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/4128-strike-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Source table lists models 75/95/105/105 HD/115/125 but gives only one value column (max power 126, homologated 121, torque 433, 4 cyl, lift 4525, width 2051, weight 4000) not assignable to a specific model, so power/torque left null per model."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike Trend 105",
+  "category": "tractor",
+  "series": "Strike Trend",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/4128-strike-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Source table lists models 75/95/105/105 HD/115/125 but gives only one value column (max power 126, homologated 121, torque 433, 4 cyl, lift 4525, width 2051, weight 4000) not assignable to a specific model, so power/torque left null per model."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike Trend 105 HD",
+  "category": "tractor",
+  "series": "Strike Trend",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/4128-strike-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Source table lists models 75/95/105/105 HD/115/125 but gives only one value column (max power 126, homologated 121, torque 433, 4 cyl, lift 4525, width 2051, weight 4000) not assignable to a specific model, so power/torque left null per model."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike Trend 115",
+  "category": "tractor",
+  "series": "Strike Trend",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/4128-strike-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Source table lists models 75/95/105/105 HD/115/125 but gives only one value column (max power 126, homologated 121, torque 433, 4 cyl, lift 4525, width 2051, weight 4000) not assignable to a specific model, so power/torque left null per model."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike Trend 125",
+  "category": "tractor",
+  "series": "Strike Trend",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/4128-strike-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Source table lists models 75/95/105/105 HD/115/125 but gives only one value column (max power 126, homologated 121, torque 433, 4 cyl, lift 4525, width 2051, weight 4000) not assignable to a specific model, so power/torque left null per model."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spark R 115",
+  "category": "tractor",
+  "series": "Spark R",
+  "power_hp_rated": null,
+  "power_hp_max": 120,
+  "power_kw_rated": null,
+  "power_kw_max": 88,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 517,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "5410",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4500,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3863-spark-r",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. No homologated/rated-speed power row published; only maximum power. Page text: Spark R 135 reaches 143 hp at 2000 rpm in Boost mode, 576 Nm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spark R 125",
+  "category": "tractor",
+  "series": "Spark R",
+  "power_hp_rated": null,
+  "power_hp_max": 126,
+  "power_kw_rated": null,
+  "power_kw_max": 93,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 540,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "5410",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4500,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3863-spark-r",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. No homologated/rated-speed power row published; only maximum power. Page text: Spark R 135 reaches 143 hp at 2000 rpm in Boost mode, 576 Nm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spark R 135",
+  "category": "tractor",
+  "series": "Spark R",
+  "power_hp_rated": null,
+  "power_hp_max": 136,
+  "power_kw_rated": null,
+  "power_kw_max": 100,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 570,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "5410",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4500,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3863-spark-r",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. No homologated/rated-speed power row published; only maximum power. Page text: Spark R 135 reaches 143 hp at 2000 rpm in Boost mode, 576 Nm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire 75",
+  "category": "tractor",
+  "series": "Spire",
+  "power_hp_rated": 74,
+  "power_hp_max": 75,
+  "power_kw_rated": 54.8,
+  "power_kw_max": 55.4,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 359,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3000 (3600 opt.)",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3987-spire",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 3000 kg (3600 opt.). Weight 3275-3875 kg depending on model (not split per model)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire 95",
+  "category": "tractor",
+  "series": "Spire",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3000 (3600 opt.)",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3987-spire",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 3000 kg (3600 opt.). Weight 3275-3875 kg depending on model (not split per model)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire 105",
+  "category": "tractor",
+  "series": "Spire",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3000 (3600 opt.)",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3987-spire",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 3000 kg (3600 opt.). Weight 3275-3875 kg depending on model (not split per model)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire VRT 95",
+  "category": "tractor",
+  "series": "Spire VRT",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "4310",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3952-spire-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. VRT transmission range. Max power 85 kW/116 hp (93 kW/126 hp with OverBoost on the 115)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire VRT 105",
+  "category": "tractor",
+  "series": "Spire VRT",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "4310",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3952-spire-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. VRT transmission range. Max power 85 kW/116 hp (93 kW/126 hp with OverBoost on the 115)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire VRT 115",
+  "category": "tractor",
+  "series": "Spire VRT",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "4310",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3952-spire-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. VRT transmission range. Max power 85 kW/116 hp (93 kW/126 hp with OverBoost on the 115)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike C 115",
+  "category": "tractor",
+  "series": "Strike C (crawler)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3170",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": "5350 (no ballast) / 6245 (max ballast)",
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/crawlers/4097-strike-c",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Crawler tractor (in power range, included)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire Trend 80",
+  "category": "tractor",
+  "series": "Spire Trend",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2500/3500",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3250,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3815-spire-trend-stage-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 2500/3500 kg. Weight with cab 3250 kg (page, one value). Models 70 (66 hp) excluded as below range."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire Trend 90",
+  "category": "tractor",
+  "series": "Spire Trend",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2500/3500",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3250,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3815-spire-trend-stage-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 2500/3500 kg. Weight with cab 3250 kg (page, one value). Models 70 (66 hp) excluded as below range."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire Trend 100",
+  "category": "tractor",
+  "series": "Spire Trend",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2500/3500",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3250,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3815-spire-trend-stage-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 2500/3500 kg. Weight with cab 3250 kg (page, one value). Models 70 (66 hp) excluded as below range."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Crono 80",
+  "category": "tractor",
+  "series": "Crono",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2500/3500",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": "2750/3050",
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3903-crono-stage-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 2500 std / 3500 opt. Weight with cab 2750 (2WD) / 3050 (4WD). Model 70 (66 hp) excluded as below range."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Crono 90",
+  "category": "tractor",
+  "series": "Crono",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2500/3500",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": "2750/3050",
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3903-crono-stage-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 2500 std / 3500 opt. Weight with cab 2750 (2WD) / 3050 (4WD). Model 70 (66 hp) excluded as below range."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Crono 100",
+  "category": "tractor",
+  "series": "Crono",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2500/3500",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": "2750/3050",
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/open-field/3903-crono-stage-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Lift 2500 std / 3500 opt. Weight with cab 2750 (2WD) / 3050 (4WD). Model 70 (66 hp) excluded as below range."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike TB 105",
+  "category": "tractor",
+  "series": "Strike TB (vineyard/orchard)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3600/4525",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3600,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4088-strike-tb",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3600."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Strike TB 115",
+  "category": "tractor",
+  "series": "Strike TB (vineyard/orchard)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3600/4525",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3600,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4088-strike-tb",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3600."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F 90",
+  "category": "tractor",
+  "series": "Spire F (vineyard/orchard)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3885-spire-f",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3290-3880 kg (range for family, not split). Width 1441-1671 mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F 95",
+  "category": "tractor",
+  "series": "Spire F (vineyard/orchard)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3885-spire-f",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3290-3880 kg (range for family, not split). Width 1441-1671 mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F 100",
+  "category": "tractor",
+  "series": "Spire F (vineyard/orchard)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3885-spire-f",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3290-3880 kg (range for family, not split). Width 1441-1671 mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F 105",
+  "category": "tractor",
+  "series": "Spire F (vineyard/orchard)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3885-spire-f",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3290-3880 kg (range for family, not split). Width 1441-1671 mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F 115",
+  "category": "tractor",
+  "series": "Spire F (vineyard/orchard)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3885-spire-f",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor. Weight with cab 3290-3880 kg (range for family, not split). Width 1441-1671 mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Platform 90",
+  "category": "tractor",
+  "series": "Spire F Platform",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4063-spire-f-platform",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor, platform version. Weight with cab 3590-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Platform 95",
+  "category": "tractor",
+  "series": "Spire F Platform",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4063-spire-f-platform",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor, platform version. Weight with cab 3590-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Platform 100",
+  "category": "tractor",
+  "series": "Spire F Platform",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4063-spire-f-platform",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor, platform version. Weight with cab 3590-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Platform 105",
+  "category": "tractor",
+  "series": "Spire F Platform",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4063-spire-f-platform",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor, platform version. Weight with cab 3590-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Platform 115",
+  "category": "tractor",
+  "series": "Spire F Platform",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3130 std / 3940 opt",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4063-spire-f-platform",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard) tractor, platform version. Weight with cab 3590-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V 90",
+  "category": "tractor",
+  "series": "Spire S/V (narrow)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3886-spire-s-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor. Weight with cab 3290-3880 kg (family range). Width 1166 (V) / 1269 (S) mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V 95",
+  "category": "tractor",
+  "series": "Spire S/V (narrow)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3886-spire-s-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor. Weight with cab 3290-3880 kg (family range). Width 1166 (V) / 1269 (S) mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V 100",
+  "category": "tractor",
+  "series": "Spire S/V (narrow)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3886-spire-s-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor. Weight with cab 3290-3880 kg (family range). Width 1166 (V) / 1269 (S) mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V 105",
+  "category": "tractor",
+  "series": "Spire S/V (narrow)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3886-spire-s-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor. Weight with cab 3290-3880 kg (family range). Width 1166 (V) / 1269 (S) mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V 115",
+  "category": "tractor",
+  "series": "Spire S/V (narrow)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3886-spire-s-v",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor. Weight with cab 3290-3880 kg (family range). Width 1166 (V) / 1269 (S) mm."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F VRT 90",
+  "category": "tractor",
+  "series": "Spire F VRT",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3923-spire-f-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty vineyard/orchard tractor with VRT transmission. Source table gives cylinders/displacement only as a single '3/2887' for the whole row, so left null per model. Overboost 93 kW/126 hp on 115. Weight with cab 3290-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F VRT 95",
+  "category": "tractor",
+  "series": "Spire F VRT",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3923-spire-f-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty vineyard/orchard tractor with VRT transmission. Source table gives cylinders/displacement only as a single '3/2887' for the whole row, so left null per model. Overboost 93 kW/126 hp on 115. Weight with cab 3290-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F VRT 100",
+  "category": "tractor",
+  "series": "Spire F VRT",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3923-spire-f-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty vineyard/orchard tractor with VRT transmission. Source table gives cylinders/displacement only as a single '3/2887' for the whole row, so left null per model. Overboost 93 kW/126 hp on 115. Weight with cab 3290-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F VRT 105",
+  "category": "tractor",
+  "series": "Spire F VRT",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3923-spire-f-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty vineyard/orchard tractor with VRT transmission. Source table gives cylinders/displacement only as a single '3/2887' for the whole row, so left null per model. Overboost 93 kW/126 hp on 115. Weight with cab 3290-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F VRT 115",
+  "category": "tractor",
+  "series": "Spire F VRT",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "3800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3923-spire-f-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty vineyard/orchard tractor with VRT transmission. Source table gives cylinders/displacement only as a single '3/2887' for the whole row, so left null per model. Overboost 93 kW/126 hp on 115. Weight with cab 3290-4105 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V VRT 90",
+  "category": "tractor",
+  "series": "Spire S/V VRT",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3924-spire-s-v-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor with VRT transmission. Overboost 93 kW/126 hp on 115. Weight with cab 3265-3920 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V VRT 95",
+  "category": "tractor",
+  "series": "Spire S/V VRT",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3924-spire-s-v-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor with VRT transmission. Overboost 93 kW/126 hp on 115. Weight with cab 3265-3920 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V VRT 100",
+  "category": "tractor",
+  "series": "Spire S/V VRT",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3924-spire-s-v-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor with VRT transmission. Overboost 93 kW/126 hp on 115. Weight with cab 3265-3920 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V VRT 105",
+  "category": "tractor",
+  "series": "Spire S/V VRT",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3924-spire-s-v-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor with VRT transmission. Overboost 93 kW/126 hp on 115. Weight with cab 3265-3920 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V VRT 115",
+  "category": "tractor",
+  "series": "Spire S/V VRT",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": null,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2600",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3924-spire-s-v-vrt",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard tractor with VRT transmission. Overboost 93 kW/126 hp on 115. Weight with cab 3265-3920 kg (family range)."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Trend 80",
+  "category": "tractor",
+  "series": "Spire F Trend",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2700/3050",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 2189,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/3831-spire-f-trend",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard). Model 70 (66 hp) excluded. Weight with ROPS 2189 kg (family value). Lift 2700 compact / 3050 standard."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire F Target 80",
+  "category": "tractor",
+  "series": "Spire F Target",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 2995,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4027-spire-f-target",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty (vineyard/orchard). Weight with ROPS 2995."
+ },
+ {
+  "brand": "Lamborghini",
+  "model": "Spire S/V Target 80",
+  "category": "tractor",
+  "series": "Spire S/V Target",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "2000/25/EC (rated-speed homologated power); max power standard not stated",
+  "engine": {
+   "make": "SDF FARMotion (named on page)",
+   "model": null,
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": null,
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": "2800",
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 2995,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.lamborghini-tractors.com/en-eu/tractors/vineyards-orchards-compacts/4035-spire-s-v-target",
+  "notes": "Lamborghini Trattori official EU site (en-eu), technical sheet summary table. Power pairs are published mislabelled/mixed as hp/kW; assigned by magnitude (hp>kW). power_hp_max = 'Maximum power', rated = 'Homologated power (2000/25/EC) at rated engine speed'. Page gives only lift, torque, cylinders/displacement, width, weight. Specialty narrow vineyard. Weight with cab 2995."
+ }
+]

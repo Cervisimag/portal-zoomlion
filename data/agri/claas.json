@@ -1,0 +1,2347 @@
+[
+ {
+  "brand": "Claas",
+  "model": "ARION 4.150 CMATIC",
+  "category": "tractor",
+  "series": "ARION 4 CMATIC",
+  "power_hp_rated": 150,
+  "power_hp_max": 160,
+  "power_kw_rated": 110,
+  "power_kw_max": 118,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Cummins",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 646,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 160)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150 l/min optional)",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6250,
+   "front_lift_kg": 4300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 5350,
+  "wheelbase_mm": 2525,
+  "fuel_l": 228,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "650/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-4-cmatic; brochure https://www.claas.com/caas/v1/media/1434140/data/3042e871cb74a53e369c1d8c2568a27a (329012000826_KK_LC_1026.pdf, p.30)",
+  "notes": "Rated = max output ECE R120 without DYNAMIC POWER; max = with DYNAMIC POWER (matches web hp). Type approval max/rated kW: 118/112. Engine speed at max torque 1400 rpm. Max rear tyre size listed 650/60 R38 (maximum fit, not standard). Front linkage 4.3 t and front PTO optional; 5 electronic centre valves optional. Hydraulics: LS 110 l/min std, 150 l/min optional. Rear lift = max at ball ends (continuous at 610 mm 4700 kg)."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 4.140 CMATIC",
+  "category": "tractor",
+  "series": "ARION 4 CMATIC",
+  "power_hp_rated": 140,
+  "power_hp_max": 150,
+  "power_kw_rated": 103,
+  "power_kw_max": 110,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Cummins",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 646,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 160)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150 l/min optional)",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6250,
+   "front_lift_kg": 4300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 5350,
+  "wheelbase_mm": 2525,
+  "fuel_l": 228,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "650/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-4-cmatic; brochure https://www.claas.com/caas/v1/media/1434140/data/3042e871cb74a53e369c1d8c2568a27a (329012000826_KK_LC_1026.pdf, p.30)",
+  "notes": "Rated = max output ECE R120 without DYNAMIC POWER; max = with DYNAMIC POWER (matches web hp). Type approval max/rated kW: 110/107. Engine speed at max torque 1400 rpm. Max rear tyre size listed 650/60 R38 (maximum fit, not standard). Front linkage 4.3 t and front PTO optional; 5 electronic centre valves optional. Hydraulics: LS 110 l/min std, 150 l/min optional. Rear lift = max at ball ends (continuous at 610 mm 4700 kg)."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 4.130 CMATIC",
+  "category": "tractor",
+  "series": "ARION 4 CMATIC",
+  "power_hp_rated": 130,
+  "power_hp_max": 140,
+  "power_kw_rated": 96,
+  "power_kw_max": 103,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Cummins",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 646,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 160)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150 l/min optional)",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6250,
+   "front_lift_kg": 4300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 5350,
+  "wheelbase_mm": 2525,
+  "fuel_l": 228,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "650/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-4-cmatic; brochure https://www.claas.com/caas/v1/media/1434140/data/3042e871cb74a53e369c1d8c2568a27a (329012000826_KK_LC_1026.pdf, p.30)",
+  "notes": "Rated = max output ECE R120 without DYNAMIC POWER; max = with DYNAMIC POWER (matches web hp). Type approval max/rated kW: 103/99. Engine speed at max torque 1400 rpm. Max rear tyre size listed 650/60 R38 (maximum fit, not standard). Front linkage 4.3 t and front PTO optional; 5 electronic centre valves optional. Hydraulics: LS 110 l/min std, 150 l/min optional. Rear lift = max at ball ends (continuous at 610 mm 4700 kg)."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 4.120 CMATIC",
+  "category": "tractor",
+  "series": "ARION 4 CMATIC",
+  "power_hp_rated": 120,
+  "power_hp_max": 130,
+  "power_kw_rated": 88,
+  "power_kw_max": 96,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Cummins",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 646,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 160)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150 l/min optional)",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6250,
+   "front_lift_kg": 4300,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 5350,
+  "wheelbase_mm": 2525,
+  "fuel_l": 228,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "650/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-4-cmatic; brochure https://www.claas.com/caas/v1/media/1434140/data/3042e871cb74a53e369c1d8c2568a27a (329012000826_KK_LC_1026.pdf, p.30)",
+  "notes": "Rated = max output ECE R120 without DYNAMIC POWER; max = with DYNAMIC POWER (matches web hp). Type approval max/rated kW: 96/92. Engine speed at max torque 1400 rpm. Max rear tyre size listed 650/60 R38 (maximum fit, not standard). Front linkage 4.3 t and front PTO optional; 5 electronic centre valves optional. Hydraulics: LS 110 l/min std, 150 l/min optional. Rear lift = max at ball ends (continuous at 610 mm 4700 kg)."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 420",
+  "category": "tractor",
+  "series": "ARION 400",
+  "power_hp_rated": 95,
+  "power_hp_max": 100,
+  "power_kw_rated": 70,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 434,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "QUADRISHIFT / HEXASHIFT",
+   "speeds": "16/16 or 24/24 (420: 16/16)",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 60/100 l/min or load-sensing 110/150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5750,
+   "front_lift_kg": 2800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (variants by model)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4800,
+  "wheelbase_mm": 2489,
+  "fuel_l": 140,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-400; brochure https://www.claas.com/caas/v1/media/1086312/data/185dc81235ae92a014cb01e8b7de5c5a (323012131122_KK_LC_0824.pdf)",
+  "notes": "Rated output ECE R120; max = with CPM (CLAAS POWER MANAGEMENT) ECE R120 (matches web hp). Web lists 430/450 as COMFORT and TREND, 470 as TREND (equipment lines, same engine). Stage V. Max permissible total weight 8500 kg. 420: QUADRISHIFT 16/16 only (no HEXASHIFT), 140 l fuel tank; Hydraulics: open-centre 60/100 l/min or load-sensing 110/150 l/min (options listed; open-centre max 195 bar, LS 200 bar); mechanical valves 2-3, electronic 2-4 at rear. Rear lift = max at ball ends; front lift 2800 kg (front linkage option). Min/max speed 40 km/h. Brochure also lists 410 (85 hp) and 460M/450M/420M variants not on web list; omitted."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 430",
+  "category": "tractor",
+  "series": "ARION 400",
+  "power_hp_rated": 110,
+  "power_hp_max": 115,
+  "power_kw_rated": 81,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 505,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "QUADRISHIFT / HEXASHIFT",
+   "speeds": "16/16 or 24/24 (420: 16/16)",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 60/100 l/min or load-sensing 110/150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5750,
+   "front_lift_kg": 2800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (variants by model)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5200,
+  "wheelbase_mm": 2525,
+  "fuel_l": 190,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-400; brochure https://www.claas.com/caas/v1/media/1086312/data/185dc81235ae92a014cb01e8b7de5c5a (323012131122_KK_LC_0824.pdf)",
+  "notes": "Rated output ECE R120; max = with CPM (CLAAS POWER MANAGEMENT) ECE R120 (matches web hp). Web lists 430/450 as COMFORT and TREND, 470 as TREND (equipment lines, same engine). Stage V. Max permissible total weight 9000 kg. HEXASHIFT 24/24 or QUADRISHIFT 16/16 (web: 48/48 with creeper incl. REVERSHIFT). Hydraulics: open-centre 60/100 l/min or load-sensing 110/150 l/min (options listed; open-centre max 195 bar, LS 200 bar); mechanical valves 2-3, electronic 2-4 at rear. Rear lift = max at ball ends (6250 kg with increased lift capacity option); front lift 2800 kg (front linkage option). Min/max speed 40 km/h. Brochure also lists 410 (85 hp) and 460M/450M/420M variants not on web list; omitted."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 440",
+  "category": "tractor",
+  "series": "ARION 400",
+  "power_hp_rated": 110,
+  "power_hp_max": 125,
+  "power_kw_rated": 81,
+  "power_kw_max": 92,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 539,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "QUADRISHIFT / HEXASHIFT",
+   "speeds": "16/16 or 24/24 (420: 16/16)",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 60/100 l/min or load-sensing 110/150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5750,
+   "front_lift_kg": 2800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (variants by model)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5200,
+  "wheelbase_mm": 2525,
+  "fuel_l": 190,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-400; brochure https://www.claas.com/caas/v1/media/1086312/data/185dc81235ae92a014cb01e8b7de5c5a (323012131122_KK_LC_0824.pdf)",
+  "notes": "Rated output ECE R120; max = with CPM (CLAAS POWER MANAGEMENT) ECE R120 (matches web hp). Web lists 430/450 as COMFORT and TREND, 470 as TREND (equipment lines, same engine). Stage V. Max permissible total weight 9000 kg. HEXASHIFT 24/24 or QUADRISHIFT 16/16 (web: 48/48 with creeper incl. REVERSHIFT). Hydraulics: open-centre 60/100 l/min or load-sensing 110/150 l/min (options listed; open-centre max 195 bar, LS 200 bar); mechanical valves 2-3, electronic 2-4 at rear. Rear lift = max at ball ends (6250 kg with increased lift capacity option); front lift 2800 kg (front linkage option). Min/max speed 40 km/h. Brochure also lists 410 (85 hp) and 460M/450M/420M variants not on web list; omitted."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 450",
+  "category": "tractor",
+  "series": "ARION 400",
+  "power_hp_rated": 120,
+  "power_hp_max": 135,
+  "power_kw_rated": 88,
+  "power_kw_max": 99,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 573,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "QUADRISHIFT / HEXASHIFT",
+   "speeds": "16/16 or 24/24 (420: 16/16)",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 60/100 l/min or load-sensing 110/150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5750,
+   "front_lift_kg": 2800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (variants by model)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5300,
+  "wheelbase_mm": 2525,
+  "fuel_l": 190,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-400; brochure https://www.claas.com/caas/v1/media/1086312/data/185dc81235ae92a014cb01e8b7de5c5a (323012131122_KK_LC_0824.pdf)",
+  "notes": "Rated output ECE R120; max = with CPM (CLAAS POWER MANAGEMENT) ECE R120 (matches web hp). Web lists 430/450 as COMFORT and TREND, 470 as TREND (equipment lines, same engine). Stage V. Max permissible total weight 9000 kg. HEXASHIFT 24/24 or QUADRISHIFT 16/16 (web: 48/48 with creeper incl. REVERSHIFT). Hydraulics: open-centre 60/100 l/min or load-sensing 110/150 l/min (options listed; open-centre max 195 bar, LS 200 bar); mechanical valves 2-3, electronic 2-4 at rear. Rear lift = max at ball ends (6250 kg with increased lift capacity option); front lift 2800 kg (front linkage option). Min/max speed 40 km/h. Brochure also lists 410 (85 hp) and 460M/450M/420M variants not on web list; omitted."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 460",
+  "category": "tractor",
+  "series": "ARION 400",
+  "power_hp_rated": 130,
+  "power_hp_max": 145,
+  "power_kw_rated": 96,
+  "power_kw_max": 107,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 615,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "QUADRISHIFT / HEXASHIFT",
+   "speeds": "16/16 or 24/24 (420: 16/16)",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 60/100 l/min or load-sensing 110/150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5750,
+   "front_lift_kg": 2800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (variants by model)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5300,
+  "wheelbase_mm": 2525,
+  "fuel_l": 190,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-400; brochure https://www.claas.com/caas/v1/media/1086312/data/185dc81235ae92a014cb01e8b7de5c5a (323012131122_KK_LC_0824.pdf)",
+  "notes": "Rated output ECE R120; max = with CPM (CLAAS POWER MANAGEMENT) ECE R120 (matches web hp). Web lists 430/450 as COMFORT and TREND, 470 as TREND (equipment lines, same engine). Stage V. Max permissible total weight 9000 kg. HEXASHIFT 24/24 or QUADRISHIFT 16/16 (web: 48/48 with creeper incl. REVERSHIFT). Hydraulics: open-centre 60/100 l/min or load-sensing 110/150 l/min (options listed; open-centre max 195 bar, LS 200 bar); mechanical valves 2-3, electronic 2-4 at rear. Rear lift = max at ball ends (6250 kg with increased lift capacity option); front lift 2800 kg (front linkage option). Min/max speed 40 km/h. Brochure also lists 410 (85 hp) and 460M/450M/420M variants not on web list; omitted."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 470",
+  "category": "tractor",
+  "series": "ARION 400",
+  "power_hp_rated": 140,
+  "power_hp_max": 155,
+  "power_kw_rated": 103,
+  "power_kw_max": 114,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.5,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 631,
+   "max_torque_rpm": null,
+   "rated_rpm": 2000
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "QUADRISHIFT / HEXASHIFT",
+   "speeds": "16/16 or 24/24 (420: 16/16)",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 60/100 l/min or load-sensing 110/150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5750,
+   "front_lift_kg": 2800,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000 (variants by model)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 5300,
+  "wheelbase_mm": 2525,
+  "fuel_l": 190,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-400; brochure https://www.claas.com/caas/v1/media/1086312/data/185dc81235ae92a014cb01e8b7de5c5a (323012131122_KK_LC_0824.pdf)",
+  "notes": "Rated output ECE R120; max = with CPM (CLAAS POWER MANAGEMENT) ECE R120 (matches web hp). Web lists 430/450 as COMFORT and TREND, 470 as TREND (equipment lines, same engine). Stage V. Max permissible total weight 9000 kg. HEXASHIFT 24/24 or QUADRISHIFT 16/16 (web: 48/48 with creeper incl. REVERSHIFT). Hydraulics: open-centre 60/100 l/min or load-sensing 110/150 l/min (options listed; open-centre max 195 bar, LS 200 bar); mechanical valves 2-3, electronic 2-4 at rear. Rear lift = max at ball ends (6250 kg with increased lift capacity option); front lift 2800 kg (front linkage option). Min/max speed 40 km/h. Brochure also lists 410 (85 hp) and 460M/450M/420M variants not on web list; omitted."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 5.180 CMATIC",
+  "category": "tractor",
+  "series": "ARION 5 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 180,
+  "power_kw_rated": null,
+  "power_kw_max": 132,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "DPS",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.525,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 730,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 200)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 150 l/min (110 l/min option)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8000,
+   "front_lift_kg": 4000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7700,
+  "wheelbase_mm": 2564,
+  "fuel_l": 215,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "710/60 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-5; brochure https://www.claas.com/caas/v1/media/1421438/data/be377bae2d2ae2ccbe65a4f8072865a4 (326012000626_CI_KK_ME_0826.pdf)",
+  "notes": "Max output ECE R120 only (no separate rated figure in ECE R120); type-approval rated output 126 kW. Constant output range 1800-2100 rpm. Engine speed at max torque 1500 rpm. Max permissible gross weight 11000 kg; weight depends on spec. Tyre = max rear tyre fit. LS circuit 150 l/min std, 110 l/min option; 4 electric rear valves; front linkage 4 t std; rear lift = max at ball ends (continuous at 610 mm 5100 kg). Manufacturer listed as 'DPS'."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 5.160 CMATIC",
+  "category": "tractor",
+  "series": "ARION 5 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 165,
+  "power_kw_rated": null,
+  "power_kw_max": 121,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "DPS",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.525,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 697,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 200)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 150 l/min (110 l/min option)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8000,
+   "front_lift_kg": 4000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2564,
+  "fuel_l": 215,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "650/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-5; brochure https://www.claas.com/caas/v1/media/1421438/data/be377bae2d2ae2ccbe65a4f8072865a4 (326012000626_CI_KK_ME_0826.pdf)",
+  "notes": "Max output ECE R120 only (no separate rated figure in ECE R120); type-approval rated output 117 kW. Constant output range 1800-2100 rpm. Engine speed at max torque 1500 rpm. Max permissible gross weight 11000 kg; weight depends on spec. Tyre = max rear tyre fit. LS circuit 150 l/min std, 110 l/min option; 4 electric rear valves; front linkage 4 t std; rear lift = max at ball ends (continuous at 610 mm 5100 kg). Manufacturer listed as 'DPS'."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 5.140 CMATIC",
+  "category": "tractor",
+  "series": "ARION 5 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 145,
+  "power_kw_rated": null,
+  "power_kw_max": 107,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "DPS",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 4.525,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 619,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 200)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 150 l/min (110 l/min option)",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7500,
+   "front_lift_kg": 4000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7280,
+  "wheelbase_mm": 2564,
+  "fuel_l": 215,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "650/65 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-5; brochure https://www.claas.com/caas/v1/media/1421438/data/be377bae2d2ae2ccbe65a4f8072865a4 (326012000626_CI_KK_ME_0826.pdf)",
+  "notes": "Max output ECE R120 only (no separate rated figure in ECE R120); type-approval rated output 106 kW. Constant output range 1800-2100 rpm. Engine speed at max torque 1500 rpm. Max permissible gross weight 10250 kg; weight depends on spec. Tyre = max rear tyre fit. LS circuit 150 l/min std, 110 l/min option; 4 electric rear valves; front linkage 4 t std; rear lift = max at ball ends (continuous at 610 mm 5100 kg). Manufacturer listed as 'DPS'."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 6.190 CMATIC",
+  "category": "tractor",
+  "series": "ARION 6 CMATIC",
+  "power_hp_rated": 185,
+  "power_hp_max": 205,
+  "power_kw_rated": 136,
+  "power_kw_max": 151,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "DPS",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.788,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 849,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 220)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 150 l/min",
+   "flow_lpm": 150,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8000,
+   "front_lift_kg": 4000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 8335,
+  "wheelbase_mm": 2820,
+  "fuel_l": 370,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "710/60 R42"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-6; brochure https://www.claas.com/caas/v1/media/1329132/data/b190d927390d668ca4bd6fb073cc5b16 (325012131025_KK_ME_1225.pdf)",
+  "notes": "Rated = max output ECE R120 without CPM; max = with CPM (6.190 only; 6.160/6.140 no CPM figure). Torque 849 Nm is with CPM on 6.190. Web series page currently lists only 6.190; 6.160 and 6.140 taken from brochure 12/2025. Max permissible gross weight 12500 kg. Tyre = max rear tyre fit. Engine speed at max torque 1500 rpm; constant power range 1800-2100 rpm. Max type approval kW 154. Manufacturer listed 'DPS'. 4 electric rear valves. Rear lift = max at ball ends; front linkage 4 t."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 6.160 CMATIC",
+  "category": "tractor",
+  "series": "ARION 6 CMATIC",
+  "power_hp_rated": 165,
+  "power_hp_max": 165,
+  "power_kw_rated": 121,
+  "power_kw_max": 121,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "DPS",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.788,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 703,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 200)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 8000,
+   "front_lift_kg": 4000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7600,
+  "wheelbase_mm": 2820,
+  "fuel_l": 370,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "710/60 R42"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-6; brochure https://www.claas.com/caas/v1/media/1329132/data/b190d927390d668ca4bd6fb073cc5b16 (325012131025_KK_ME_1225.pdf)",
+  "notes": "Rated = max output ECE R120 without CPM; max = with CPM (6.190 only; 6.160/6.140 no CPM figure). Torque 849 Nm is with CPM on 6.190. Web series page currently lists only 6.190; 6.160 and 6.140 taken from brochure 12/2025. Max permissible gross weight 11000 kg. Tyre = max rear tyre fit. Engine speed at max torque 1500 rpm; constant power range 1800-2100 rpm. Max type approval kW 130. Manufacturer listed 'DPS'. 4 electric rear valves. Rear lift = max at ball ends; front linkage 4 t."
+ },
+ {
+  "brand": "Claas",
+  "model": "ARION 6.140 CMATIC",
+  "category": "tractor",
+  "series": "ARION 6 CMATIC",
+  "power_hp_rated": 145,
+  "power_hp_max": 145,
+  "power_kw_rated": 107,
+  "power_kw_max": 107,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "DPS",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.788,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 640,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC (EQ 200)",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min",
+   "flow_lpm": 110,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7500,
+   "front_lift_kg": 4000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 7470,
+  "wheelbase_mm": 2820,
+  "fuel_l": 370,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "710/60 R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/arion-6; brochure https://www.claas.com/caas/v1/media/1329132/data/b190d927390d668ca4bd6fb073cc5b16 (325012131025_KK_ME_1225.pdf)",
+  "notes": "Rated = max output ECE R120 without CPM; max = with CPM (6.190 only; 6.160/6.140 no CPM figure). Torque 849 Nm is with CPM on 6.190. Web series page currently lists only 6.190; 6.160 and 6.140 taken from brochure 12/2025. Max permissible gross weight 10250 kg. Tyre = max rear tyre fit. Engine speed at max torque 1500 rpm; constant power range 1800-2100 rpm. Max type approval kW 116. Manufacturer listed 'DPS'. 4 electric rear valves. Rear lift = max at ball ends; front linkage 4 t."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 870",
+  "category": "tractor",
+  "series": "AXION 800",
+  "power_hp_rated": 270,
+  "power_hp_max": 295,
+  "power_kw_rated": 199,
+  "power_kw_max": 217,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1276,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous (CMATIC)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150/205 options)",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 7
+  },
+  "linkage": {
+   "rear_lift_kg": 10200,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540ECO/1000ECO options)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 455,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "900/60"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-800; brochure https://www.claas.com/caas/v1/media/1139712/data/effcb5e661ca2f76c5d66f54d4bfeb9c (313012130524_KK_ME_1024.pdf)",
+  "notes": "Rated and max output ECE R120 (ISO TR 14396). Max for 870 is with CPM (295 hp); 850-800 max is without CPM. Brochure 10/2024 lists 870-800; web series page lists only 830/810 CMATIC (+FIRST CLAAS). Tyre = widest rear tyre size (width/aspect only). Hydraulics LS 110 l/min std, 150/205 options; electronic valves 3-7. Rear lift = max at ball ends (continuous at 610 mm 6200 kg; 800: continuous 6200). Engine speed at torque not given. Type-approval values differ for HEXASHIFT/CMATIC; see brochure."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 850",
+  "category": "tractor",
+  "series": "AXION 800",
+  "power_hp_rated": 250,
+  "power_hp_max": 264,
+  "power_kw_rated": 184,
+  "power_kw_max": 194,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1132,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC or HEXASHIFT 24/24",
+   "speeds": "continuous (CMATIC)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150/205 options)",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 7
+  },
+  "linkage": {
+   "rear_lift_kg": 10200,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540ECO/1000ECO options)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 455,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "900/60"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-800; brochure https://www.claas.com/caas/v1/media/1139712/data/effcb5e661ca2f76c5d66f54d4bfeb9c (313012130524_KK_ME_1024.pdf)",
+  "notes": "Rated and max output ECE R120 (ISO TR 14396). Max for 870 is with CPM (295 hp); 850-800 max is without CPM. Brochure 10/2024 lists 870-800; web series page lists only 830/810 CMATIC (+FIRST CLAAS). Tyre = widest rear tyre size (width/aspect only). Hydraulics LS 110 l/min std, 150/205 options; electronic valves 3-7. Rear lift = max at ball ends (continuous at 610 mm 6200 kg; 800: continuous 6200). Engine speed at torque not given. Type-approval values differ for HEXASHIFT/CMATIC; see brochure."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 830",
+  "category": "tractor",
+  "series": "AXION 800",
+  "power_hp_rated": 225,
+  "power_hp_max": 235,
+  "power_kw_rated": 165,
+  "power_kw_max": 173,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1016,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC or HEXASHIFT 24/24",
+   "speeds": "continuous (CMATIC)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150/205 options)",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 7
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540ECO/1000ECO options)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 455,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "900/60"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-800; brochure https://www.claas.com/caas/v1/media/1139712/data/effcb5e661ca2f76c5d66f54d4bfeb9c (313012130524_KK_ME_1024.pdf)",
+  "notes": "Rated and max output ECE R120 (ISO TR 14396). Max for 870 is with CPM (295 hp); 850-800 max is without CPM. Brochure 10/2024 lists 870-800; web series page lists only 830/810 CMATIC (+FIRST CLAAS). Tyre = widest rear tyre size (width/aspect only). Hydraulics LS 110 l/min std, 150/205 options; electronic valves 3-7. Rear lift = max at ball ends (continuous at 610 mm 6200 kg; 800: continuous 6200). Engine speed at torque not given. Type-approval values differ for HEXASHIFT/CMATIC; see brochure."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 810",
+  "category": "tractor",
+  "series": "AXION 800",
+  "power_hp_rated": 205,
+  "power_hp_max": 215,
+  "power_kw_rated": 151,
+  "power_kw_max": 158,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 941,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC or HEXASHIFT 24/24",
+   "speeds": "continuous (CMATIC)",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150/205 options)",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 7
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540ECO/1000ECO options)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 455,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "900/60"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-800; brochure https://www.claas.com/caas/v1/media/1139712/data/effcb5e661ca2f76c5d66f54d4bfeb9c (313012130524_KK_ME_1024.pdf)",
+  "notes": "Rated and max output ECE R120 (ISO TR 14396). Max for 870 is with CPM (295 hp); 850-800 max is without CPM. Brochure 10/2024 lists 870-800; web series page lists only 830/810 CMATIC (+FIRST CLAAS). Tyre = widest rear tyre size (width/aspect only). Hydraulics LS 110 l/min std, 150/205 options; electronic valves 3-7. Rear lift = max at ball ends (continuous at 610 mm 6200 kg; 800: continuous 6200). Engine speed at torque not given. Type-approval values differ for HEXASHIFT/CMATIC; see brochure."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 800",
+  "category": "tractor",
+  "series": "AXION 800",
+  "power_hp_rated": 194,
+  "power_hp_max": 205,
+  "power_kw_rated": 142,
+  "power_kw_max": 150,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 896,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "HEXASHIFT 24/24",
+   "speeds": "24/24",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 110 l/min (150/205 options)",
+   "flow_lpm": 205,
+   "max_pressure_bar": 200,
+   "rear_remote_valves_max": 7
+  },
+  "linkage": {
+   "rear_lift_kg": 9500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (540ECO/1000ECO options)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 455,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "710/70"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-800; brochure https://www.claas.com/caas/v1/media/1139712/data/effcb5e661ca2f76c5d66f54d4bfeb9c (313012130524_KK_ME_1024.pdf)",
+  "notes": "Rated and max output ECE R120 (ISO TR 14396). Max for 870 is with CPM (295 hp); 850-800 max is without CPM. Brochure 10/2024 lists 870-800; web series page lists only 830/810 CMATIC (+FIRST CLAAS). Tyre = widest rear tyre size (width/aspect only). Hydraulics LS 110 l/min std, 150/205 options; electronic valves 3-7. Rear lift = max at ball ends (continuous at 610 mm 6200 kg; 800: continuous 6200). Engine speed at torque not given. Type-approval values differ for HEXASHIFT/CMATIC; see brochure."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 8.290 CMATIC",
+  "category": "tractor",
+  "series": "AXION 8 CMATIC",
+  "power_hp_rated": 290,
+  "power_hp_max": 313,
+  "power_kw_rated": 214,
+  "power_kw_max": 230,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1282,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable 150 l/min (205 l/min option)",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 10200,
+   "front_lift_kg": 5900,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2980,
+  "fuel_l": 463,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-8-cmatic; brochure https://www.claas.com/caas/v1/media/1403586/data/26010280ea5de98e0c3403f9048dd6b5 (316032000526_CI_KK_ME_0626.pdf)",
+  "notes": "Rated = max output ECE R120 without Dynamic Power; max = with Dynamic Power. Type-approval max/rated kW 230/218. Tare weight range 10150-10650 kg (weight_kg left null). Hydraulics 150 l/min std, 205 optional. Rear lift = max at ball ends; front 5900 kg. Engine speed at max torque 1400 rpm. Engine maker not stated in brochure. Oil-change 750 h."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 8.270 CMATIC",
+  "category": "tractor",
+  "series": "AXION 8 CMATIC",
+  "power_hp_rated": 270,
+  "power_hp_max": 291,
+  "power_kw_rated": 199,
+  "power_kw_max": 214,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1215,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable 150 l/min (205 l/min option)",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 10200,
+   "front_lift_kg": 5900,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2980,
+  "fuel_l": 463,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-8-cmatic; brochure https://www.claas.com/caas/v1/media/1403586/data/26010280ea5de98e0c3403f9048dd6b5 (316032000526_CI_KK_ME_0626.pdf)",
+  "notes": "Rated = max output ECE R120 without Dynamic Power; max = with Dynamic Power. Type-approval max/rated kW 214/204. Tare weight range 10150-10650 kg (weight_kg left null). Hydraulics 150 l/min std, 205 optional. Rear lift = max at ball ends; front 5900 kg. Engine speed at max torque 1400 rpm. Engine maker not stated in brochure. Oil-change 750 h."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 8.240 CMATIC",
+  "category": "tractor",
+  "series": "AXION 8 CMATIC",
+  "power_hp_rated": 240,
+  "power_hp_max": 264,
+  "power_kw_rated": 177,
+  "power_kw_max": 194,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": null,
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1132,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Variable 150 l/min (205 l/min option)",
+   "flow_lpm": 205,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5900,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2980,
+  "fuel_l": 463,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-8-cmatic; brochure https://www.claas.com/caas/v1/media/1403586/data/26010280ea5de98e0c3403f9048dd6b5 (316032000526_CI_KK_ME_0626.pdf)",
+  "notes": "Rated = max output ECE R120 without Dynamic Power; max = with Dynamic Power. Type-approval max/rated kW 194/186. Tare weight range 9950-10450 kg (weight_kg left null). Hydraulics 150 l/min std, 205 optional. Rear lift = max at ball ends; front 5900 kg. Engine speed at max torque 1400 rpm. Engine maker not stated in brochure. Oil-change 750 h."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.330 CMATIC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 326,
+  "power_kw_rated": 233,
+  "power_kw_max": 240,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1571,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3150,
+  "fuel_l": 725,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 326 hp / 240 kW; rated output ECE R120 given in kW only (233) so hp rated null. Weight range 13000-14000 kg (weight_kg null). Max speed 40/50 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.360 CMATIC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 360,
+  "power_kw_rated": 258,
+  "power_kw_max": 265,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1667,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3150,
+  "fuel_l": 725,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 360 hp / 265 kW; rated output ECE R120 given in kW only (258) so hp rated null. Weight range 13000-14000 kg (weight_kg null). Max speed 40/50 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.390 CMATIC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 394,
+  "power_kw_rated": 283,
+  "power_kw_max": 290,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1767,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3150,
+  "fuel_l": 725,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 394 hp / 290 kW; rated output ECE R120 given in kW only (283) so hp rated null. Weight range 13500-14500 kg (weight_kg null). Max speed 40/50 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.420 CMATIC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 419,
+  "power_kw_rated": 301,
+  "power_kw_max": 308,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1801,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3150,
+  "fuel_l": 725,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 419 hp / 308 kW; rated output ECE R120 given in kW only (301) so hp rated null. Weight range 13500-14500 kg (weight_kg null). Max speed 40/50 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.450 CMATIC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC",
+  "power_hp_rated": null,
+  "power_hp_max": 448,
+  "power_kw_rated": 323,
+  "power_kw_max": 330,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3150,
+  "fuel_l": 725,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 448 hp / 330 kW; rated output ECE R120 given in kW only (323) so hp rated null. Weight range 13500-14500 kg (weight_kg null). Max speed 40/50 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.360 TERRA TRAC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC (Terra Trac crawler)",
+  "power_hp_rated": null,
+  "power_hp_max": 360,
+  "power_kw_rated": 258,
+  "power_kw_max": 265,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1667,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2950,
+  "fuel_l": 840,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 360 hp / 265 kW; rated output ECE R120 given in kW only (258) so hp rated null. Weight range 17000-18000 kg (weight_kg null). Max speed 40 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXION 9.450 TERRA TRAC",
+  "category": "tractor",
+  "series": "AXION 9 CMATIC (Terra Trac crawler)",
+  "power_hp_rated": null,
+  "power_hp_max": 448,
+  "power_kw_rated": 323,
+  "power_kw_max": 330,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 6,
+   "displacement_l": 8.71,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1850,
+   "max_torque_rpm": 1400,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "CVT",
+   "model": "CMATIC",
+   "speeds": "continuous",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing 220 l/min (370 l/min 2 pumps option)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 8
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6500,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2950,
+  "fuel_l": 840,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "750/... (max, diameter 2.2 m)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axion-9-cmatic; brochure https://www.claas.com/caas/v1/media/1425614/data/50fac7ed05a2daf91f5fab79e33d159f (315012000726_KK_ME_0926.pdf)",
+  "notes": "Max output ECE R120 448 hp / 330 kW; rated output ECE R120 given in kW only (323) so hp rated null. Weight range 17000-18000 kg (weight_kg null). Max speed 40 km/h. Hydraulics 220 l/min (1 pump) std, 370 l/min (220+150) option; electronic valves 5-8. Rear lift = max at ball ends 12000 kg; front 6500 kg. Rear PTO 540ECO/1000/1000ECO options. Max rear tyre diameter 2.2 m (750/ ... listed). Engine speed at max output 1800 rpm, at max torque 1400 rpm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXOS 3.120",
+  "category": "tractor",
+  "series": "AXOS 3",
+  "power_hp_rated": 116,
+  "power_hp_max": 120,
+  "power_kw_rated": 85,
+  "power_kw_max": 88,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 466,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "TWINSHIFT 36/18",
+   "speeds": "36F/18R",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 90 l/min",
+   "flow_lpm": 90,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5300,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2400,
+  "fuel_l": 160,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axos-3; brochure https://www.claas.com/caas/v1/media/1418098/data/09d7f95a5eb520823978452114a5229b (332012001025_KK_ME_0826.pdf)",
+  "notes": "Output at nominal engine speed (rated) and max output, ECE R120. Narrow-range 4-cyl compact tractor (min width 2000 mm); web lists 92-120 hp. Engine speed at max torque 1500 rpm (brochure labels offset in text extraction; values matched by position, verify). TWINSHIFT 36/18 per web (6-speed 3-range with creeper option; or 12F/12R mechanical reverser). Open-centre hydraulic 90 l/min, mechanical valves 2-4, 190 bar. Rear lift max at ball ends 5300 kg (continuous 4000 kg); front PTO 1000 std. Kerb weight 4400/4900 kg (min/max), gross 8000 kg. Tyre diameter max 1600 mm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXOS 3.110",
+  "category": "tractor",
+  "series": "AXOS 3",
+  "power_hp_rated": 103,
+  "power_hp_max": 112,
+  "power_kw_rated": 76,
+  "power_kw_max": 82,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 438,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "TWINSHIFT 36/18",
+   "speeds": "36F/18R",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 90 l/min",
+   "flow_lpm": 90,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5300,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2400,
+  "fuel_l": 160,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axos-3; brochure https://www.claas.com/caas/v1/media/1418098/data/09d7f95a5eb520823978452114a5229b (332012001025_KK_ME_0826.pdf)",
+  "notes": "Output at nominal engine speed (rated) and max output, ECE R120. Narrow-range 4-cyl compact tractor (min width 2000 mm); web lists 92-120 hp. Engine speed at max torque 1500 rpm (brochure labels offset in text extraction; values matched by position, verify). TWINSHIFT 36/18 per web (6-speed 3-range with creeper option; or 12F/12R mechanical reverser). Open-centre hydraulic 90 l/min, mechanical valves 2-4, 190 bar. Rear lift max at ball ends 5300 kg (continuous 4000 kg); front PTO 1000 std. Kerb weight 4400/4900 kg (min/max), gross 8000 kg. Tyre diameter max 1600 mm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXOS 3.105",
+  "category": "tractor",
+  "series": "AXOS 3",
+  "power_hp_rated": 98,
+  "power_hp_max": 103,
+  "power_kw_rated": 72,
+  "power_kw_max": 76,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 406,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "TWINSHIFT 36/18",
+   "speeds": "36F/18R",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 90 l/min",
+   "flow_lpm": 90,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5300,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2400,
+  "fuel_l": 160,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axos-3; brochure https://www.claas.com/caas/v1/media/1418098/data/09d7f95a5eb520823978452114a5229b (332012001025_KK_ME_0826.pdf)",
+  "notes": "Output at nominal engine speed (rated) and max output, ECE R120. Narrow-range 4-cyl compact tractor (min width 2000 mm); web lists 92-120 hp. Engine speed at max torque 1500 rpm (brochure labels offset in text extraction; values matched by position, verify). TWINSHIFT 36/18 per web (6-speed 3-range with creeper option; or 12F/12R mechanical reverser). Open-centre hydraulic 90 l/min, mechanical valves 2-4, 190 bar. Rear lift max at ball ends 5300 kg (continuous 4000 kg); front PTO 1000 std. Kerb weight 4400/4900 kg (min/max), gross 8000 kg. Tyre diameter max 1600 mm."
+ },
+ {
+  "brand": "Claas",
+  "model": "AXOS 3.95",
+  "category": "tractor",
+  "series": "AXOS 3",
+  "power_hp_rated": 91,
+  "power_hp_max": 92,
+  "power_kw_rated": 67,
+  "power_kw_max": 68,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.6,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 366,
+   "max_torque_rpm": 1500,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "TWINSHIFT 36/18",
+   "speeds": "36F/18R",
+   "max_speed_kmh": 40,
+   "creeper": true
+  },
+  "hydraulics": {
+   "pump_type": "Open-centre 90 l/min",
+   "flow_lpm": 90,
+   "max_pressure_bar": 190,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 5300,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2400,
+  "fuel_l": 160,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.claas.com/en-gb/agricultural-machinery/tractors/axos-3; brochure https://www.claas.com/caas/v1/media/1418098/data/09d7f95a5eb520823978452114a5229b (332012001025_KK_ME_0826.pdf)",
+  "notes": "Output at nominal engine speed (rated) and max output, ECE R120. Narrow-range 4-cyl compact tractor (min width 2000 mm); web lists 92-120 hp. Engine speed at max torque 1500 rpm (brochure labels offset in text extraction; values matched by position, verify). TWINSHIFT 36/18 per web (6-speed 3-range with creeper option; or 12F/12R mechanical reverser). Open-centre hydraulic 90 l/min, mechanical valves 2-4, 190 bar. Rear lift max at ball ends 5300 kg (continuous 4000 kg); front PTO 1000 std. Kerb weight 4400/4900 kg (min/max), gross 8000 kg. Tyre diameter max 1600 mm."
+ }
+]

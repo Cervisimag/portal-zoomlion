@@ -1,0 +1,5546 @@
+[
+ {
+  "brand": "Deutz-Fahr",
+  "model": "9290 TTV",
+  "category": "tractor",
+  "series": "Series 9",
+  "power_hp_rated": 277,
+  "power_hp_max": 295,
+  "power_kw_rated": 204,
+  "power_kw_max": 217,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TTCD 7.8",
+   "cylinders": 6,
+   "displacement_l": 7.755,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR + DPF (per brochure text)",
+   "turbo": true,
+   "max_torque_nm": 1205,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV TMT 32",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 160 l/min std / 210 opt",
+   "flow_lpm": 210,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 / 1000ECO"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3135,
+  "fuel_l": 600,
+  "adblue_l": 55,
+  "tires": {
+   "front": "650/65 R34 (max)",
+   "rear": "710/75 R42 / 900/60 R42 (max)"
+  },
+  "cab": {
+   "suspension": "pneumatic (standard)",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver; Auto-Turn, TIM, VRC, Section Control optional)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 9.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/9-series ; Official brochure https://www.deutz-fahr.com/media/308.9026.3.4-0_Serie_9_EN_bQfm06R.pdf (Technical data p.2-3)",
+  "notes": "TTCD 7.8 engine, common rail 2000 bar, double turbo. Max power @1,900 rpm, rated @2,100 rpm. Rear valves 4/5/6, front 1/2. Weight = minimum empty weight (range 12,000-12,730 kg), permissible 18,000 kg. Max tyres front 650/65 R34, rear 710/75 R42 or 900/60 R42. Cab fields from official brochure legend (standard/optional); pneumatic cab suspension, air conditioning standard; ISOBUS, SR20 RTK receiver optional. Double turbocharger standard. Max permissible weight 18,000 kg; axle loads 7,500 front / 11,500 rear."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "9310 TTV",
+  "category": "tractor",
+  "series": "Series 9",
+  "power_hp_rated": 296,
+  "power_hp_max": 312,
+  "power_kw_rated": 218,
+  "power_kw_max": 229,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TTCD 7.8",
+   "cylinders": 6,
+   "displacement_l": 7.755,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR + DPF (per brochure text)",
+   "turbo": true,
+   "max_torque_nm": 1290,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV TMT 32",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 160 l/min std / 210 opt",
+   "flow_lpm": 210,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 / 1000ECO"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3135,
+  "fuel_l": 600,
+  "adblue_l": 55,
+  "tires": {
+   "front": "650/65 R34 (max)",
+   "rear": "710/75 R42 / 900/60 R42 (max)"
+  },
+  "cab": {
+   "suspension": "pneumatic (standard)",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver; Auto-Turn, TIM, VRC, Section Control optional)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 9.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/9-series ; Official brochure https://www.deutz-fahr.com/media/308.9026.3.4-0_Serie_9_EN_bQfm06R.pdf (Technical data p.2-3)",
+  "notes": "TTCD 7.8 engine, common rail 2000 bar, double turbo. Max power @1,900 rpm, rated @2,100 rpm. Rear valves 4/5/6, front 1/2. Weight = minimum empty weight (range 12,000-12,730 kg), permissible 18,000 kg. Max tyres front 650/65 R34, rear 710/75 R42 or 900/60 R42. Cab fields from official brochure legend (standard/optional); pneumatic cab suspension, air conditioning standard; ISOBUS, SR20 RTK receiver optional. Double turbocharger standard. Max permissible weight 18,000 kg; axle loads 7,500 front / 11,500 rear."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "9340 TTV",
+  "category": "tractor",
+  "series": "Series 9",
+  "power_hp_rated": 316,
+  "power_hp_max": 336,
+  "power_kw_rated": 232,
+  "power_kw_max": 247,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TTCD 7.8",
+   "cylinders": 6,
+   "displacement_l": 7.755,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "SCR + DPF (per brochure text)",
+   "turbo": true,
+   "max_torque_nm": 1372,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV TMT 32",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 160 l/min std / 210 opt",
+   "flow_lpm": 210,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 6000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 / 1000ECO"
+  },
+  "weight_kg": 12000,
+  "wheelbase_mm": 3135,
+  "fuel_l": 600,
+  "adblue_l": 55,
+  "tires": {
+   "front": "650/65 R34 (max)",
+   "rear": "710/75 R42 / 900/60 R42 (max)"
+  },
+  "cab": {
+   "suspension": "pneumatic (standard)",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver; Auto-Turn, TIM, VRC, Section Control optional)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 9.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/9-series ; Official brochure https://www.deutz-fahr.com/media/308.9026.3.4-0_Serie_9_EN_bQfm06R.pdf (Technical data p.2-3)",
+  "notes": "TTCD 7.8 engine, common rail 2000 bar, double turbo. Max power @1,900 rpm, rated @2,100 rpm. Rear valves 4/5/6, front 1/2. Weight = minimum empty weight (range 12,000-12,730 kg), permissible 18,000 kg. Max tyres front 650/65 R34, rear 710/75 R42 or 900/60 R42. Cab fields from official brochure legend (standard/optional); pneumatic cab suspension, air conditioning standard; ISOBUS, SR20 RTK receiver optional. Double turbocharger standard. Max permissible weight 18,000 kg; axle loads 7,500 front / 11,500 rear."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "8280 TTV",
+  "category": "tractor",
+  "series": "Series 8 (8280 TTV)",
+  "power_hp_rated": 268,
+  "power_hp_max": 287,
+  "power_kw_rated": 197,
+  "power_kw_max": 211,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TTCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": true,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1226,
+   "max_torque_rpm": "1300-1500",
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV T7780",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing closed system; 160 l/min std / 210 opt",
+   "flow_lpm": 210,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11100,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 / 1000ECO / DualSpeed"
+  },
+  "weight_kg": 9430,
+  "wheelbase_mm": 2918,
+  "fuel_l": 505,
+  "adblue_l": 35,
+  "tires": {
+   "front": "600/70 R30 (max)",
+   "rear": "900/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 8 (287 CV).pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/8280-ttv ; Official brochure https://www.deutz-fahr.com/media/308.8517.3.4-2_Serie_8_Stage_V_EN_TdG8weF.pdf (Technical data)",
+  "notes": "TTCD 6.1, 2 turbos, common rail 2000 bar. Max power @1,900 rpm. Rear valves 4 or 5, front 1 or 2. Front axle M60 HD. Weight = min empty (range 9,430-10,725 kg), permissible 16,000 kg. Max tyres front 600/70 R30, rear 900/60 R38. Brochure: double turbocharger with EGR cooler; transmission TTV T7780; front axle M60 HD; max permissible weight 16,000 kg. Cab MaxiVisionPro. Fill from brochure legend (standard/optional)."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "8310 TTV",
+  "category": "tractor",
+  "series": "Series 8 (8260-8340 TTV)",
+  "power_hp_rated": null,
+  "power_hp_max": 313,
+  "power_kw_rated": null,
+  "power_kw_max": 230,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial (N67 with eVGT)",
+   "model": "FPT N67 with eVGT",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "Hi-eSCR2 SCR + DOC",
+   "turbo": true,
+   "max_torque_nm": 1282,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV with TMT technology",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 160 l/min (EST) / 220 l/min (OPC)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5450,
+   "category": "Cat. III / Cat. IV N (hooks only)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 or DualSpeed 1000/1000ECO"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3057,
+  "fuel_l": 570,
+  "adblue_l": 65,
+  "tires": {
+   "front": "650/60 R34 (max, SRI 775)",
+   "rear": "900/60 R42 / 750/70 R44 / 710/75 R42 (max)"
+  },
+  "cab": {
+   "suspension": "pneumatic",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "Auto Guidance / SDF Guidance available"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 8 (313-340 CV).pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-8 ; https://www.deutz-fahr.com/media/308.8936.3.4-0_Series_8_Digital_EN.pdf (new Series 8, Technical data, 11/25)",
+  "notes": "Data sheet (11/25) gives only max power (no rated figure) so rated is null. Hi-eSCR2 + DOC, oil change 1000 h. Air-suspended cab, M70 front axle, dry disc front brakes. Permissible 17,500 kg @60 km/h. Official page lists the series as 8260-8340 TTV (271-340 hp); models below 313 hp other than 8280 are not in the data sheet. New-generation Series 8 (Agritechnica 2025): 6.7 l FPT N67 engine, Stage V without EGR (Hi-eSCR2+DOC), SigmaVision 4-pillar cab with 15in iCluster and iControl armrest, pneumatic cab suspension, M70 front axle, gross vehicle weight 17,500 kg @60 km/h, max tyres front 650/60 R34, rear 900/60 R42 / 750/70 R44 / 710/75 R42. ISOBUS/Auto Guidance per series page (https://www.deutz-fahr.com/en-gb/tractors/series-8): ISOBUS, SDF Guidance listed as services available; option status not stated. Power in brochure is max power (kW/HP), rated not published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "8340 TTV",
+  "category": "tractor",
+  "series": "Series 8 (8260-8340 TTV)",
+  "power_hp_rated": null,
+  "power_hp_max": 340,
+  "power_kw_rated": null,
+  "power_kw_max": 250,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "FPT Industrial (N67 with eVGT)",
+   "model": "FPT N67 with eVGT",
+   "cylinders": 6,
+   "displacement_l": 6.728,
+   "emission_stage": "EU Stage V",
+   "egr": false,
+   "aftertreatment": "Hi-eSCR2 SCR + DOC",
+   "turbo": true,
+   "max_torque_nm": 1398,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV with TMT technology",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 160 l/min (EST) / 220 l/min (OPC)",
+   "flow_lpm": 220,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 12000,
+   "front_lift_kg": 5450,
+   "category": "Cat. III / Cat. IV N (hooks only)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 or DualSpeed 1000/1000ECO"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 3057,
+  "fuel_l": 570,
+  "adblue_l": 65,
+  "tires": {
+   "front": "650/60 R34 (max, SRI 775)",
+   "rear": "900/60 R42 / 750/70 R44 / 710/75 R42 (max)"
+  },
+  "cab": {
+   "suspension": "pneumatic",
+   "air_conditioning": true,
+   "isobus": true,
+   "gps_guidance": "Auto Guidance / SDF Guidance available"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 8 (313-340 CV).pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-8 ; https://www.deutz-fahr.com/media/308.8936.3.4-0_Series_8_Digital_EN.pdf (new Series 8, Technical data, 11/25)",
+  "notes": "Data sheet (11/25) gives only max power (no rated figure) so rated is null. Hi-eSCR2 + DOC, oil change 1000 h. Air-suspended cab, M70 front axle, dry disc front brakes. Permissible 17,500 kg @60 km/h. Official page lists the series as 8260-8340 TTV (271-340 hp); models below 313 hp other than 8280 are not in the data sheet. New-generation Series 8 (Agritechnica 2025): 6.7 l FPT N67 engine, Stage V without EGR (Hi-eSCR2+DOC), SigmaVision 4-pillar cab with 15in iCluster and iControl armrest, pneumatic cab suspension, M70 front axle, gross vehicle weight 17,500 kg @60 km/h, max tyres front 650/60 R34, rear 900/60 R42 / 750/70 R44 / 710/75 R42. ISOBUS/Auto Guidance per series page (https://www.deutz-fahr.com/en-gb/tractors/series-8): ISOBUS, SDF Guidance listed as services available; option status not stated. Power in brochure is max power (kW/HP), rated not published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "7250 TTV",
+  "category": "tractor",
+  "series": "Series 7 TTV",
+  "power_hp_rated": 237,
+  "power_hp_max": 247,
+  "power_kw_rated": 174,
+  "power_kw_max": 181,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1072,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV T7560",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std / 160 or 210 opt",
+   "flow_lpm": 210,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 / DualSpeed 1000/1000ECO"
+  },
+  "weight_kg": 9030,
+  "wheelbase_mm": 2918,
+  "fuel_l": 505,
+  "adblue_l": 35,
+  "tires": {
+   "front": "600/65 R30 (max)",
+   "rear": "900/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 7.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/7-ttv-series ; Official brochure https://www.deutz-fahr.com/media/308.8556.3.4-2_Serie_7_EN.pdf (Technical data p.38-39)",
+  "notes": "TCD 6.1, common rail 1600 bar. Max @1,900 rpm. Weight = min empty (9,030-10,325 kg), permissible 15,500 kg @60 km/h. Front axle Dana M60L. Max front tyre 600/65 R30, rear 900/60 R38. Cab MaxiVisionPro; CTM connectivity module standard; transmission T7560 (7250 TTV) / T7780 (HD); front axle Dana M60L / M60HD; max permissible weight 15,500 / 16,000 kg @60 km/h."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "7250 TTV HD",
+  "category": "tractor",
+  "series": "Series 7 TTV",
+  "power_hp_rated": 237,
+  "power_hp_max": 247,
+  "power_kw_rated": 174,
+  "power_kw_max": 181,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 1072,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV T7780",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 60,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std / 160 or 210 opt",
+   "flow_lpm": 210,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 11100,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540ECO/1000/1000ECO",
+   "front_pto": "1000 / DualSpeed 1000/1000ECO"
+  },
+  "weight_kg": 9185,
+  "wheelbase_mm": 2918,
+  "fuel_l": 505,
+  "adblue_l": 35,
+  "tires": {
+   "front": "600/70 R30 (max)",
+   "rear": "900/60 R38 (max)"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 7.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/7-ttv-series ; Official brochure https://www.deutz-fahr.com/media/308.8556.3.4-2_Serie_7_EN.pdf (Technical data p.38-39)",
+  "notes": "Heavy-duty version of 7250 TTV (same engine rating). Weight = min empty (9,185-10,475 kg), permissible 16,000 kg @60 km/h. Front axle Dana M60HD. Max front tyre 600/70 R30, rear 900/60 R38. Cab MaxiVisionPro; CTM connectivity module standard; transmission T7560 (7250 TTV) / T7780 (HD); front axle Dana M60L / M60HD; max permissible weight 15,500 / 16,000 kg @60 km/h."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6160",
+  "category": "tractor",
+  "series": "Series 6 (Powershift / RCshift)",
+  "power_hp_rated": 155,
+  "power_hp_max": 161,
+  "power_kw_rated": 114,
+  "power_kw_max": 119,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 698,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift (5 ranges x 6, 30+15; 54+27 with creeper) or RCshift robotised",
+   "speeds": "30+15 / 54+27",
+   "max_speed_kmh": 50,
+   "creeper": "optional creeper"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre 84 l/min std (6160-6180) or Load Sensing 120 l/min std; opt 120/160 LS",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7200,
+  "wheelbase_mm": 2767,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R28 (max); min 420/85 R24",
+   "rear": "710/60 R38 (max); min 520/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.52-58)",
+  "notes": "TCD 6.1, common rail 1600 bar, max @1,900 rpm, rated @2,100 rpm. With power management: 126/171 kW/hp, 709 Nm. Rear lift 6,200 kg std / 9,700 kg opt; front lift 4,110 / 5,450 kg opt. Fuel 350 or 410 l and weights by model not assigned in the layout so null. TTV version has different ratings (separate entry). Powershift version (RCshift robotised version in same brochure shares engine/hydraulic data). weight_kg = minimum unladen weight (range up to 8100 kg); wheelbase and tyre/weight groupings read from the brochure table. Fuel 350 l from grouped column (6160-6190: 350, 6210-6230: 410 read from the table layout). Cab MaxiVision/MaxiVision+; mechanical cab suspension standard. Rear lift 6,200 kg std, 9,700 kg optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6170",
+  "category": "tractor",
+  "series": "Series 6 (Powershift / RCshift)",
+  "power_hp_rated": 163,
+  "power_hp_max": 171,
+  "power_kw_rated": 120,
+  "power_kw_max": 126,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 727,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift (5 ranges x 6, 30+15; 54+27 with creeper) or RCshift robotised",
+   "speeds": "30+15 / 54+27",
+   "max_speed_kmh": 50,
+   "creeper": "optional creeper"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre 84 l/min std (6160-6180) or Load Sensing 120 l/min std; opt 120/160 LS",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7200,
+  "wheelbase_mm": 2767,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R28 (max); min 420/85 R24",
+   "rear": "710/60 R38 (max); min 520/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.52-58)",
+  "notes": "TCD 6.1, common rail 1600 bar, max @1,900 rpm, rated @2,100 rpm.  Rear lift 6,200 kg std / 9,700 kg opt; front lift 4,110 / 5,450 kg opt. Fuel 350 or 410 l and weights by model not assigned in the layout so null. TTV version has different ratings (separate entry). Powershift version (RCshift robotised version in same brochure shares engine/hydraulic data). weight_kg = minimum unladen weight (range up to 8100 kg); wheelbase and tyre/weight groupings read from the brochure table. Fuel 350 l from grouped column (6160-6190: 350, 6210-6230: 410 read from the table layout). Cab MaxiVision/MaxiVision+; mechanical cab suspension standard. Rear lift 6,200 kg std, 9,700 kg optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6180",
+  "category": "tractor",
+  "series": "Series 6 (Powershift / RCshift)",
+  "power_hp_rated": 174,
+  "power_hp_max": 181,
+  "power_kw_rated": 128,
+  "power_kw_max": 133,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 772,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift (5 ranges x 6, 30+15; 54+27 with creeper) or RCshift robotised",
+   "speeds": "30+15 / 54+27",
+   "max_speed_kmh": 50,
+   "creeper": "optional creeper"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre 84 l/min std (6160-6180) or Load Sensing 120 l/min std; opt 120/160 LS",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7200,
+  "wheelbase_mm": 2767,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R30 (max); min 480/70 R28",
+   "rear": "710/60 R42 (max); min 580/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.52-58)",
+  "notes": "TCD 6.1, common rail 1600 bar, max @1,900 rpm, rated @2,100 rpm. With power management: 141/192 kW/hp, 796 Nm. Rear lift 6,200 kg std / 9,700 kg opt; front lift 4,110 / 5,450 kg opt. Fuel 350 or 410 l and weights by model not assigned in the layout so null. TTV version has different ratings (separate entry). Powershift version (RCshift robotised version in same brochure shares engine/hydraulic data). weight_kg = minimum unladen weight (range up to 8100 kg); wheelbase and tyre/weight groupings read from the brochure table. Fuel 350 l from grouped column (6160-6190: 350, 6210-6230: 410 read from the table layout). Cab MaxiVision/MaxiVision+; mechanical cab suspension standard. Rear lift 6,200 kg std, 9,700 kg optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6190",
+  "category": "tractor",
+  "series": "Series 6 (Powershift / RCshift)",
+  "power_hp_rated": 179,
+  "power_hp_max": 192,
+  "power_kw_rated": 132,
+  "power_kw_max": 141,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 821,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift (5 ranges x 6, 30+15; 54+27 with creeper) or RCshift robotised",
+   "speeds": "30+15 / 54+27",
+   "max_speed_kmh": 50,
+   "creeper": "optional creeper"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre 84 l/min std (6160-6180) or Load Sensing 120 l/min std; opt 120/160 LS",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7200,
+  "wheelbase_mm": 2767,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R30 (max); min 480/70 R28",
+   "rear": "710/60 R42 (max); min 580/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.52-58)",
+  "notes": "TCD 6.1, common rail 1600 bar, max @1,900 rpm, rated @2,100 rpm.  Rear lift 6,200 kg std / 9,700 kg opt; front lift 4,110 / 5,450 kg opt. Fuel 350 or 410 l and weights by model not assigned in the layout so null. TTV version has different ratings (separate entry). Powershift version (RCshift robotised version in same brochure shares engine/hydraulic data). weight_kg = minimum unladen weight (range up to 8100 kg); wheelbase and tyre/weight groupings read from the brochure table. Fuel 350 l from grouped column (6160-6190: 350, 6210-6230: 410 read from the table layout). Cab MaxiVision/MaxiVision+; mechanical cab suspension standard. Rear lift 6,200 kg std, 9,700 kg optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6210",
+  "category": "tractor",
+  "series": "Series 6 (Powershift / RCshift)",
+  "power_hp_rated": 197,
+  "power_hp_max": 216,
+  "power_kw_rated": 145,
+  "power_kw_max": 159,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 849,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift (5 ranges x 6, 30+15; 54+27 with creeper) or RCshift robotised",
+   "speeds": "30+15 / 54+27",
+   "max_speed_kmh": 50,
+   "creeper": "optional creeper"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre 84 l/min std (6160-6180) or Load Sensing 120 l/min std; opt 120/160 LS",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7930,
+  "wheelbase_mm": 2848,
+  "fuel_l": 410,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R30 (max); min 480/70 R28",
+   "rear": "710/60 R42 (max); min 580/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.52-58)",
+  "notes": "TCD 6.1, common rail 1600 bar, max @1,900 rpm, rated @2,100 rpm.  Rear lift 6,200 kg std / 9,700 kg opt; front lift 4,110 / 5,450 kg opt. Fuel 350 or 410 l and weights by model not assigned in the layout so null. TTV version has different ratings (separate entry). Powershift version (RCshift robotised version in same brochure shares engine/hydraulic data). weight_kg = minimum unladen weight (range up to 8550 kg); wheelbase and tyre/weight groupings read from the brochure table. Fuel 410 l from grouped column (6160-6190: 350, 6210-6230: 410 read from the table layout). Cab MaxiVision/MaxiVision+; mechanical cab suspension standard. Rear lift 6,200 kg std, 9,700 kg optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6230",
+  "category": "tractor",
+  "series": "Series 6 (Powershift / RCshift)",
+  "power_hp_rated": 204,
+  "power_hp_max": 217,
+  "power_kw_rated": 150,
+  "power_kw_max": 159,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 849,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift",
+   "model": "Powershift (5 ranges x 6, 30+15; 54+27 with creeper) or RCshift robotised",
+   "speeds": "30+15 / 54+27",
+   "max_speed_kmh": 50,
+   "creeper": "optional creeper"
+  },
+  "hydraulics": {
+   "pump_type": "Open centre 84 l/min std (6160-6180) or Load Sensing 120 l/min std; opt 120/160 LS",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7930,
+  "wheelbase_mm": 2848,
+  "fuel_l": 410,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R30 (max); min 480/70 R28",
+   "rear": "710/60 R42 (max); min 580/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.52-58)",
+  "notes": "TCD 6.1, common rail 1600 bar, max @1,900 rpm, rated @2,100 rpm. With power management: 169/230 kW/hp, 891 Nm. Rear lift 6,200 kg std / 9,700 kg opt; front lift 4,110 / 5,450 kg opt. Fuel 350 or 410 l and weights by model not assigned in the layout so null. TTV version has different ratings (separate entry). Powershift version (RCshift robotised version in same brochure shares engine/hydraulic data). weight_kg = minimum unladen weight (range up to 8550 kg); wheelbase and tyre/weight groupings read from the brochure table. Fuel 410 l from grouped column (6160-6190: 350, 6210-6230: 410 read from the table layout). Cab MaxiVision/MaxiVision+; mechanical cab suspension standard. Rear lift 6,200 kg std, 9,700 kg optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6160 TTV",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 155,
+  "power_hp_max": 161,
+  "power_kw_rated": 114,
+  "power_kw_max": 119,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 698,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 6200,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7205,
+  "wheelbase_mm": 2769,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R28 (max); min 420/85 R24",
+   "rear": "710/60 R38 (max); min 520/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6170 TTV",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 163,
+  "power_hp_max": 171,
+  "power_kw_rated": 120,
+  "power_kw_max": 126,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 727,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 6200,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7205,
+  "wheelbase_mm": 2769,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R28 (max); min 420/85 R24",
+   "rear": "710/60 R38 (max); min 520/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6180 TTV",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 174,
+  "power_hp_max": 181,
+  "power_kw_rated": 128,
+  "power_kw_max": 133,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 772,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 6200,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 7465,
+  "wheelbase_mm": 2769,
+  "fuel_l": 350,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/60 R30 (max); min 420/85 R28",
+   "rear": "710/60 R42 (max); min 520/85 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6190 TTV",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 191,
+  "power_hp_max": 192,
+  "power_kw_rated": 141,
+  "power_kw_max": 141,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 821,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9200,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 8680,
+  "wheelbase_mm": 2769,
+  "fuel_l": 420,
+  "adblue_l": 29,
+  "tires": {
+   "front": "600/65 R28 (max); min 420/85 R28",
+   "rear": "900/50 R42 (max); min 520/85 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6210 TTV",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 197,
+  "power_hp_max": 216,
+  "power_kw_rated": 146,
+  "power_kw_max": 159,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 849,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9200,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 8830,
+  "wheelbase_mm": 2848,
+  "fuel_l": 420,
+  "adblue_l": 35,
+  "tires": {
+   "front": "600/65 R28 (max); min 420/85 R28",
+   "rear": "900/50 R42 (max); min 520/85 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6230 TTV",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 225,
+  "power_hp_max": 230,
+  "power_kw_rated": 165,
+  "power_kw_max": 169,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 970,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9200,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 8830,
+  "wheelbase_mm": 2848,
+  "fuel_l": 420,
+  "adblue_l": 35,
+  "tires": {
+   "front": "600/65 R28 (max); min 420/85 R28",
+   "rear": "900/50 R42 (max); min 520/85 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6230 TTV HD",
+  "category": "tractor",
+  "series": "Series 6 TTV",
+  "power_hp_rated": 225,
+  "power_hp_max": 230,
+  "power_kw_rated": 165,
+  "power_kw_max": 169,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1",
+   "cylinders": 6,
+   "displacement_l": 6.057,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 970,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV continuously variable",
+   "speeds": "continuously variable",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Load sensing; 120 l/min std, 160 opt (6230 variants 160/210)",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 10000,
+   "front_lift_kg": 5450,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000 or 540ECO/1000/1000ECO",
+   "front_pto": "1000/1000ECO"
+  },
+  "weight_kg": 9030,
+  "wheelbase_mm": 2918,
+  "fuel_l": 505,
+  "adblue_l": 35,
+  "tires": {
+   "front": "600/65 R30 (max); min 420/85 R30",
+   "rear": "900/60 R38 (max); min 480/80 R46"
+  },
+  "cab": {
+   "suspension": "mechanical (standard); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-6 ; Official brochure https://www.deutz-fahr.com/media/308.8924.3.4-0_Serie_6_PS-RCS-TTV_EN.pdf (Technical data p.56-59)",
+  "notes": "TCD 6.1, max @1,900 rpm. Rear lift 6,200 / 9,200 / 10,000 kg std depending on model (not assigned per model in layout), so null. Max speeds 40/50/60 km/h by rpm table not assigned per model. Power management values: 6160 126/171, 6180 141/192 kW/hp. 6230 and 6230 HD share one power column in the source. TTV; weight_kg = minimum unladen weight (brochure range); wheelbase, tyres, fuel, rear lift read from the brochure table (columns grouped as printed). Rear lift 6,200 kg std (9,700 kg opt) on 6160-6180, 9,200 kg on 6190-6230, 10,000 kg on 6230 HD. Cab MaxiVision+/MaxiVisionPro; mechanical cab suspension standard, pneumatic optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6130.4",
+  "category": "tractor",
+  "series": "Series 6.4",
+  "power_hp_rated": 129,
+  "power_hp_max": 136,
+  "power_kw_rated": 95,
+  "power_kw_max": 100,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 577,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "RVshift (6130-6150) / Powershift or RCshift (6160-6170) / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open centre std / Load Sensing opt",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9170,
+   "front_lift_kg": 3000,
+   "category": "Cat. IIIN (6130-6150)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (opt 540/540ECO/1000)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2562,
+  "fuel_l": 260,
+  "adblue_l": 25,
+  "tires": {
+   "front": "540/65 R26 (max); min 420/85 R24",
+   "rear": "650/65 R38 (max); min 460/85 R38"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard); mechanical or pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.4.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6-4-series ; Official brochure https://www.deutz-fahr.com/media/308.8914.3.4-1_Serie_6.4_EN_Jzct2Tl.pdf (Technical data p.58-63)",
+  "notes": "Engine FARMotion 45. Max power @2,000 rpm, rated @2,200 rpm. Same ratings for Powershift/RCshift/RVshift/TTV.  Rear lift = max optional (std 5,870 / 6,200). Fuel 260 l, AdBlue 25 l. Brochure rows for RVshift and TTV. weight_kg = minimum unladen weight 6,500 kg (with 650/65 R38 rear tyres, mixed hydraulics, front suspension, front lift and PTO); max permissible 10,500 kg. Engine FARMotion 45 (4.0 l, 3,849 cc), common rail 2,000 bar, VTG turbo. Rear lift 5,870 kg std / 9,170 kg opt, Cat. IIIN; front lift 3,000 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6140.4",
+  "category": "tractor",
+  "series": "Series 6.4",
+  "power_hp_rated": 139,
+  "power_hp_max": 147,
+  "power_kw_rated": 105,
+  "power_kw_max": 108,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 622,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "RVshift (6130-6150) / Powershift or RCshift (6160-6170) / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open centre std / Load Sensing opt",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9170,
+   "front_lift_kg": 3000,
+   "category": "Cat. IIIN (6130-6150)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (opt 540/540ECO/1000)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2562,
+  "fuel_l": 260,
+  "adblue_l": 25,
+  "tires": {
+   "front": "540/65 R26 (max); min 420/85 R24",
+   "rear": "650/65 R38 (max); min 460/85 R38"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard); mechanical or pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.4.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6-4-series ; Official brochure https://www.deutz-fahr.com/media/308.8914.3.4-1_Serie_6.4_EN_Jzct2Tl.pdf (Technical data p.58-63)",
+  "notes": "Engine FARMotion 45. Max power @2,000 rpm, rated @2,200 rpm. Same ratings for Powershift/RCshift/RVshift/TTV.  Rear lift = max optional (std 5,870 / 6,200). Fuel 260 l, AdBlue 25 l. Brochure rows for RVshift and TTV. weight_kg = minimum unladen weight 6,500 kg (with 650/65 R38 rear tyres, mixed hydraulics, front suspension, front lift and PTO); max permissible 10,500 kg. Engine FARMotion 45 (4.0 l, 3,849 cc), common rail 2,000 bar, VTG turbo. Rear lift 5,870 kg std / 9,170 kg opt, Cat. IIIN; front lift 3,000 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6150.4",
+  "category": "tractor",
+  "series": "Series 6.4",
+  "power_hp_rated": 148,
+  "power_hp_max": 156,
+  "power_kw_rated": 109,
+  "power_kw_max": 115,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 663,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "RVshift (6130-6150) / Powershift or RCshift (6160-6170) / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open centre std / Load Sensing opt",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9170,
+   "front_lift_kg": 3000,
+   "category": "Cat. IIIN (6130-6150)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000 (opt 540/540ECO/1000)",
+   "front_pto": "1000"
+  },
+  "weight_kg": 6500,
+  "wheelbase_mm": 2562,
+  "fuel_l": 260,
+  "adblue_l": 25,
+  "tires": {
+   "front": "540/65 R26 (max); min 420/85 R24",
+   "rear": "650/65 R38 (max); min 460/85 R38"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard); mechanical or pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.4.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6-4-series ; Official brochure https://www.deutz-fahr.com/media/308.8914.3.4-1_Serie_6.4_EN_Jzct2Tl.pdf (Technical data p.58-63)",
+  "notes": "Engine FARMotion 45. Max power @2,000 rpm, rated @2,200 rpm. Same ratings for Powershift/RCshift/RVshift/TTV.  Rear lift = max optional (std 5,870 / 6,200). Fuel 260 l, AdBlue 25 l. Brochure rows for RVshift and TTV. weight_kg = minimum unladen weight 6,500 kg (with 650/65 R38 rear tyres, mixed hydraulics, front suspension, front lift and PTO); max permissible 10,500 kg. Engine FARMotion 45 (4.0 l, 3,849 cc), common rail 2,000 bar, VTG turbo. Rear lift 5,870 kg std / 9,170 kg opt, Cat. IIIN; front lift 3,000 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6160.4",
+  "category": "tractor",
+  "series": "Series 6.4",
+  "power_hp_rated": 155,
+  "power_hp_max": 161,
+  "power_kw_rated": 114,
+  "power_kw_max": 118,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 4.1",
+   "cylinders": 4,
+   "displacement_l": 4.038,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 675,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "RVshift (6130-6150) / Powershift or RCshift (6160-6170) / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open centre std / Load Sensing opt",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 4110,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000"
+  },
+  "weight_kg": 7080,
+  "wheelbase_mm": 2542,
+  "fuel_l": 300,
+  "adblue_l": 21,
+  "tires": {
+   "front": "600/60 R28 (max); min 420/85 R24",
+   "rear": "710/60 R38 (max); min 520/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard on TTV, optional on Powershift/RCshift); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.4.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6-4-series ; Official brochure https://www.deutz-fahr.com/media/308.8914.3.4-1_Serie_6.4_EN_Jzct2Tl.pdf (Technical data p.54-63)",
+  "notes": "Engine TCD 4.1. Max power @1,900 rpm, rated @2,100 rpm. Same ratings for Powershift/RCshift/RVshift/TTV. Power management: 126/171 kW/hp, 685 Nm. Rear lift = max optional (std 5,870 / 6,200). Fuel 300 l, AdBlue 21 l. Powershift/RCshift/TTV share engine data. weight_kg = minimum unladen weight of Powershift/RCshift (7,080 kg; TTV 7,045 kg; max range 7,700-8,175 kg). Max permissible weight 11,500 kg (12,500 kg TTV with suspended braked front axle). Rear lift 6,200 kg std / 9,700 kg opt; front lift 3,800 efficient / 4,110 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6170.4",
+  "category": "tractor",
+  "series": "Series 6.4",
+  "power_hp_rated": 163,
+  "power_hp_max": 171,
+  "power_kw_rated": 120,
+  "power_kw_max": 126,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 4.1",
+   "cylinders": 4,
+   "displacement_l": 4.038,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 699,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2100
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "RVshift (6130-6150) / Powershift or RCshift (6160-6170) / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "Open centre std / Load Sensing opt",
+   "flow_lpm": 160,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 9700,
+   "front_lift_kg": 4110,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": "1000"
+  },
+  "weight_kg": 7080,
+  "wheelbase_mm": 2542,
+  "fuel_l": 300,
+  "adblue_l": 21,
+  "tires": {
+   "front": "600/60 R28 (max); min 420/85 R24",
+   "rear": "710/60 R38 (max); min 520/70 R38"
+  },
+  "cab": {
+   "suspension": "mechanical (standard on TTV, optional on Powershift/RCshift); pneumatic optional",
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver, Auto-Turn)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6.4.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6-4-series ; Official brochure https://www.deutz-fahr.com/media/308.8914.3.4-1_Serie_6.4_EN_Jzct2Tl.pdf (Technical data p.54-63)",
+  "notes": "Engine TCD 4.1. Max power @1,900 rpm, rated @2,100 rpm. Same ratings for Powershift/RCshift/RVshift/TTV.  Rear lift = max optional (std 5,870 / 6,200). Fuel 300 l, AdBlue 21 l. Powershift/RCshift/TTV share engine data. weight_kg = minimum unladen weight of Powershift/RCshift (7,080 kg; TTV 7,045 kg; max range 7,700-8,175 kg). Max permissible weight 11,500 kg (12,500 kg TTV with suspended braked front axle). Rear lift 6,200 kg std / 9,700 kg opt; front lift 3,800 efficient / 4,110 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6115 C",
+  "category": "tractor",
+  "series": "Series 6C",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 81,
+  "power_kw_max": 86,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 478,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "Powershift / RVshift / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "90 l/min std (Powershift), 90/120 LS on RVshift/TTV",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7100,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": "1000"
+  },
+  "weight_kg": 4505,
+  "wheelbase_mm": 2480,
+  "fuel_l": null,
+  "adblue_l": 12,
+  "tires": {
+   "front": "440/65 R28 (max); min 420/70 R24",
+   "rear": "540/65 R38 (max); min 480/70 R34"
+  },
+  "cab": {
+   "suspension": "optional mechanical / pneumatic on RVshift/TTV; not offered on Powershift",
+   "air_conditioning": true,
+   "isobus": "optional on RVshift/TTV; not offered on Powershift",
+   "gps_guidance": "optional on RVshift/TTV (SR20 RTK receiver); not offered on Powershift"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6C.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6c-series ; Official brochure https://www.deutz-fahr.com/media/308.8905.3.4.-3_Serie_6C_FARMotion_EN.pdf (Technical data p.40-43)",
+  "notes": "FARMotion 45. Figures are Powershift version; RVshift 121 hp max, 85 kW/115 hp rated, 500 Nm; TTV 120 hp max, 84 kW/114 hp rated, 509 Nm. Max @2,000 rpm, rated @2,200 rpm. Fuel 160-180 l, AdBlue 12 l. Official page lists series as 116-146 hp, models above 6135 C are not in this data sheet. Rear lift 5,410 (Powershift) / 7,100 kg. Cab/tyre/weight/wheelbase fields are Powershift values from the brochure (wheelbase 2,480 mm; RVshift/TTV 2,510 mm, 2,520 mm with HD front axle; RVshift/TTV unladen 5,215-5,900 kg). weight_kg = minimum unladen weight (Powershift range 6115 C 4,505-5,265, 6125/6135 C 4,880-5,890). Cab TopVision. Air conditioning standard."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6125 C",
+  "category": "tractor",
+  "series": "Series 6C",
+  "power_hp_rated": 120,
+  "power_hp_max": 127,
+  "power_kw_rated": 88,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 524,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "Powershift / RVshift / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "90 l/min std (Powershift), 90/120 LS on RVshift/TTV",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7100,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": "1000"
+  },
+  "weight_kg": 4880,
+  "wheelbase_mm": 2480,
+  "fuel_l": null,
+  "adblue_l": 12,
+  "tires": {
+   "front": "540/65 R24 (max); min 380/70 R24",
+   "rear": "600/65 R38 (max); min 480/70 R34"
+  },
+  "cab": {
+   "suspension": "optional mechanical / pneumatic on RVshift/TTV; not offered on Powershift",
+   "air_conditioning": true,
+   "isobus": "optional on RVshift/TTV; not offered on Powershift",
+   "gps_guidance": "optional on RVshift/TTV (SR20 RTK receiver); not offered on Powershift"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6C.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6c-series ; Official brochure https://www.deutz-fahr.com/media/308.8905.3.4.-3_Serie_6C_FARMotion_EN.pdf (Technical data p.40-43)",
+  "notes": "FARMotion 45. Figures are Powershift version; RVshift 129 hp max, 90 kW/123 hp rated, 547 Nm; TTV 129 hp max, 90 kW/123 hp rated, 547 Nm. Max @2,000 rpm, rated @2,200 rpm. Fuel 160-180 l, AdBlue 12 l. Official page lists series as 116-146 hp, models above 6135 C are not in this data sheet. Rear lift 5,410 (Powershift) / 7,100 kg. Cab/tyre/weight/wheelbase fields are Powershift values from the brochure (wheelbase 2,480 mm; RVshift/TTV 2,510 mm, 2,520 mm with HD front axle; RVshift/TTV unladen 5,215-5,900 kg). weight_kg = minimum unladen weight (Powershift range 6115 C 4,505-5,265, 6125/6135 C 4,880-5,890). Cab TopVision. Air conditioning standard."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6135 C",
+  "category": "tractor",
+  "series": "Series 6C",
+  "power_hp_rated": 129,
+  "power_hp_max": 136,
+  "power_kw_rated": 95,
+  "power_kw_max": 100,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 572,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "Powershift / RVshift / TTV",
+   "speeds": null,
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "90 l/min std (Powershift), 90/120 LS on RVshift/TTV",
+   "flow_lpm": 120,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 7100,
+   "front_lift_kg": 3000,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": "1000"
+  },
+  "weight_kg": 4880,
+  "wheelbase_mm": 2480,
+  "fuel_l": null,
+  "adblue_l": 12,
+  "tires": {
+   "front": "540/65 R24 (max); min 380/70 R24",
+   "rear": "600/65 R38 (max); min 480/70 R34"
+  },
+  "cab": {
+   "suspension": "optional mechanical / pneumatic on RVshift/TTV; not offered on Powershift",
+   "air_conditioning": true,
+   "isobus": "optional on RVshift/TTV; not offered on Powershift",
+   "gps_guidance": "optional on RVshift/TTV (SR20 RTK receiver); not offered on Powershift"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 6C.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/6c-series ; Official brochure https://www.deutz-fahr.com/media/308.8905.3.4.-3_Serie_6C_FARMotion_EN.pdf (Technical data p.40-43)",
+  "notes": "FARMotion 45. Figures are Powershift version; RVshift 137 hp max, 96 kW/130 hp rated, 574 Nm; TTV 137 hp max, 96 kW/130 hp rated, 574 Nm. Max @2,000 rpm, rated @2,200 rpm. Fuel 160-180 l, AdBlue 12 l. Official page lists series as 116-146 hp, models above 6135 C are not in this data sheet. Rear lift 5,410 (Powershift) / 7,100 kg. Cab/tyre/weight/wheelbase fields are Powershift values from the brochure (wheelbase 2,480 mm; RVshift/TTV 2,510 mm, 2,520 mm with HD front axle; RVshift/TTV unladen 5,215-5,900 kg). weight_kg = minimum unladen weight (Powershift range 6115 C 4,505-5,265, 6125/6135 C 4,880-5,890). Cab TopVision. Air conditioning standard."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5075 D",
+  "category": "tractor",
+  "series": "Series 5D",
+  "power_hp_rated": 74,
+  "power_hp_max": 75,
+  "power_kw_rated": 54.8,
+  "power_kw_max": 55.4,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 359,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "SDF T3500",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "54 l/min std / 64 opt",
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3575,
+  "wheelbase_mm": 2271,
+  "fuel_l": 85,
+  "adblue_l": null,
+  "tires": {
+   "front": "440/65 R20 (max)",
+   "rear": "600/60 R30 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-series ; Official brochure https://www.deutz-fahr.com/media/308.8908.3.4-1_Serie_5D_Stage_V_EN_U84keg8.pdf (Technical data p.17-19)",
+  "notes": "FARMotion 45. Max power as printed (kW with decimals). Rear lift 3,000 std / 3,600 opt. Weight = unladen total 3,575 kg, permissible 5,200 kg. Max tyres front 440/65 R20 rear 600/60 R30. AdBlue 13 l (none on 5075 D). Cab: 4-pillar cab standard; air conditioning optional; brochure lists no ISOBUS/guidance equipment (left null). Min tyres front 320/70 R24, rear 340/85 R36."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 D",
+  "category": "tractor",
+  "series": "Series 5D",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "SDF T3500",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "54 l/min std / 64 opt",
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3575,
+  "wheelbase_mm": 2271,
+  "fuel_l": 85,
+  "adblue_l": 13,
+  "tires": {
+   "front": "440/65 R20 (max)",
+   "rear": "600/60 R30 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-series ; Official brochure https://www.deutz-fahr.com/media/308.8908.3.4-1_Serie_5D_Stage_V_EN_U84keg8.pdf (Technical data p.17-19)",
+  "notes": "FARMotion 45. Max power as printed (kW with decimals). Rear lift 3,000 std / 3,600 opt. Weight = unladen total 3,575 kg, permissible 5,200 kg. Max tyres front 440/65 R20 rear 600/60 R30. AdBlue 13 l (none on 5075 D). Cab: 4-pillar cab standard; air conditioning optional; brochure lists no ISOBUS/guidance equipment (left null). Min tyres front 320/70 R24, rear 340/85 R36."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 D",
+  "category": "tractor",
+  "series": "Series 5D",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "SDF T3500",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "54 l/min std / 64 opt",
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3600,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3575,
+  "wheelbase_mm": 2271,
+  "fuel_l": 85,
+  "adblue_l": 13,
+  "tires": {
+   "front": "440/65 R20 (max)",
+   "rear": "600/60 R30 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-series ; Official brochure https://www.deutz-fahr.com/media/308.8908.3.4-1_Serie_5D_Stage_V_EN_U84keg8.pdf (Technical data p.17-19)",
+  "notes": "FARMotion 45. Max power as printed (kW with decimals). Rear lift 3,000 std / 3,600 opt. Weight = unladen total 3,575 kg, permissible 5,200 kg. Max tyres front 440/65 R20 rear 600/60 R30. AdBlue 13 l (none on 5075 D). Cab: 4-pillar cab standard; air conditioning optional; brochure lists no ISOBUS/guidance equipment (left null). Min tyres front 320/70 R24, rear 340/85 R36."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5080 D Keyline",
+  "category": "tractor",
+  "series": "Series 5D Keyline",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T3300 (mechanical shuttle or PowerShuttle)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "48 l/min std / 56 opt (OPC)",
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/540ECO/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": 3250,
+  "wheelbase_mm": 2100,
+  "fuel_l": 90,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "420/70 R30 (as listed; 480/70 R30 optional)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-keyline-series ; Official brochure https://www.deutz-fahr.com/media/308.8956.3.4-1_Serie_5D_Keyline_EN_LOW.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 35. Max @2,000 rpm, rated @2,200 rpm. Rear valves 2/3. 5070 D Keyline (66 hp) is below the requested range and omitted. Rear lift 2,500 kg std / 3,500 kg opt (rear_lift_kg = optional); pump 48 l/min std / 56 l/min opt (existing flow kept); rear spool valves 2/3. Fuel 90 l; AdBlue 12 l (none on 5080 D Keyline); total admissible load 5,200 kg; wheelbase 2,100 mm. Cab with adjustable steering column; brochure lists no ISOBUS/guidance."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5090 D Keyline",
+  "category": "tractor",
+  "series": "Series 5D Keyline",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T3300 (mechanical shuttle or PowerShuttle)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "48 l/min std / 56 opt (OPC)",
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/540ECO/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": 3350,
+  "wheelbase_mm": 2100,
+  "fuel_l": 90,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "420/70 R30 (as listed; 480/70 R30 optional)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-keyline-series ; Official brochure https://www.deutz-fahr.com/media/308.8956.3.4-1_Serie_5D_Keyline_EN_LOW.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 35. Max @2,000 rpm, rated @2,200 rpm. Rear valves 2/3. 5070 D Keyline (66 hp) is below the requested range and omitted. Rear lift 2,500 kg std / 3,500 kg opt (rear_lift_kg = optional); pump 48 l/min std / 56 l/min opt (existing flow kept); rear spool valves 2/3. Fuel 90 l; AdBlue 12 l (none on 5080 D Keyline); total admissible load 5,200 kg; wheelbase 2,100 mm. Cab with adjustable steering column; brochure lists no ISOBUS/guidance."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100 D Keyline",
+  "category": "tractor",
+  "series": "Series 5D Keyline",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T3300 (mechanical shuttle or PowerShuttle)",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "48 l/min std / 56 opt (OPC)",
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/540ECO/1000 optional)",
+   "front_pto": null
+  },
+  "weight_kg": 3350,
+  "wheelbase_mm": 2100,
+  "fuel_l": 90,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "420/70 R30 (as listed; 480/70 R30 optional)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-keyline-series ; Official brochure https://www.deutz-fahr.com/media/308.8956.3.4-1_Serie_5D_Keyline_EN_LOW.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 35. Max @2,000 rpm, rated @2,200 rpm. Rear valves 2/3. 5070 D Keyline (66 hp) is below the requested range and omitted. Rear lift 2,500 kg std / 3,500 kg opt (rear_lift_kg = optional); pump 48 l/min std / 56 l/min opt (existing flow kept); rear spool valves 2/3. Fuel 90 l; AdBlue 12 l (none on 5080 D Keyline); total admissible load 5,200 kg; wheelbase 2,100 mm. Cab with adjustable steering column; brochure lists no ISOBUS/guidance."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 D TTV",
+  "category": "tractor",
+  "series": "Series 5D TTV",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min std / 100 LS opt",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 4310,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4210,
+  "wheelbase_mm": 2271,
+  "fuel_l": 95,
+  "adblue_l": 13,
+  "tires": {
+   "front": "380/70 R20 (max)",
+   "rear": "540/65 R30 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D TTV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-ttv ; Official brochure https://www.deutz-fahr.com/media/308.8702.3.4-1_Serie_5D_TTV_EN_ZWaFXIL.pdf (Technical data)",
+  "notes": "FARMotion 45.  Rear lift 4,310 (std) / 3,660 (opt) as printed. Fuel 95/115 l, AdBlue 13 l. Weight = unladen 4,210 kg, permissible 5,800 kg. Max tyres front 380/70 R20 rear 540/65 R30. Fuel tank 95 l std / 115 l optional. Max permissible weight 5,800 kg. Air conditioning standard; ISOBUS (rear and in-cab connectors) and SR20 RTK receiver optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 D TTV",
+  "category": "tractor",
+  "series": "Series 5D TTV",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min std / 100 LS opt",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 4310,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4210,
+  "wheelbase_mm": 2271,
+  "fuel_l": 95,
+  "adblue_l": 13,
+  "tires": {
+   "front": "380/70 R20 (max)",
+   "rear": "540/65 R30 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D TTV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-ttv ; Official brochure https://www.deutz-fahr.com/media/308.8702.3.4-1_Serie_5D_TTV_EN_ZWaFXIL.pdf (Technical data)",
+  "notes": "FARMotion 45.  Rear lift 4,310 (std) / 3,660 (opt) as printed. Fuel 95/115 l, AdBlue 13 l. Weight = unladen 4,210 kg, permissible 5,800 kg. Max tyres front 380/70 R20 rear 540/65 R30. Fuel tank 95 l std / 115 l optional. Max permissible weight 5,800 kg. Air conditioning standard; ISOBUS (rear and in-cab connectors) and SR20 RTK receiver optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 D TTV",
+  "category": "tractor",
+  "series": "Series 5D TTV",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min std / 100 LS opt",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 4310,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 4210,
+  "wheelbase_mm": 2271,
+  "fuel_l": 95,
+  "adblue_l": 13,
+  "tires": {
+   "front": "380/70 R20 (max)",
+   "rear": "540/65 R30 (max)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": true,
+   "isobus": "optional",
+   "gps_guidance": "optional (SR20 RTK receiver)"
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5D TTV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5d-ttv ; Official brochure https://www.deutz-fahr.com/media/308.8702.3.4-1_Serie_5D_TTV_EN_ZWaFXIL.pdf (Technical data)",
+  "notes": "FARMotion 45. With power management 93/126 kW/hp; torque 444 Nm. Rear lift 4,310 (std) / 3,660 (opt) as printed. Fuel 95/115 l, AdBlue 13 l. Weight = unladen 4,210 kg, permissible 5,800 kg. Max tyres front 380/70 R20 rear 540/65 R30. Fuel tank 95 l std / 115 l optional. Max permissible weight 5,800 kg. Air conditioning standard; ISOBUS (rear and in-cab connectors) and SR20 RTK receiver optional."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095",
+  "category": "tractor",
+  "series": "Series 5",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical shuttle; Hi-Lo or 3-step Powershift (HML) options",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "55 l/min single pump (std); 90 l/min double pump with electronic On Demand (opt)",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 3950,
+  "wheelbase_mm": 2400,
+  "fuel_l": 135,
+  "adblue_l": 8,
+  "tires": {
+   "front": "380/85 R24 (as listed in brochure)",
+   "rear": "420/85 R34 (as listed in brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-series ; Official brochure https://www.deutz-fahr.com/media/308.8901.3.4-1_Serie_5_Stage_V_EN.pdf (Technical data p.26-27)",
+  "notes": "FARMotion 45. Max @2,000 rpm, rated @2,200 rpm. Weight as printed in data sheet. Data sheet has limited technical rows. Rear lift: 3,600 kg std / 4,525 kg opt (rear_lift_kg = optional maximum). Rear spool valves 2/3/4. Max speed 40 km/h at economy engine speed. Brochure lists no ISOBUS or guidance equipment; cab options only (high-visibility roof, manual A/C, etc.), so isobus left null. Total admissible weight 6,500 kg."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100",
+  "category": "tractor",
+  "series": "Series 5",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical shuttle; Hi-Lo or 3-step Powershift (HML) options",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "55 l/min single pump (std); 90 l/min double pump with electronic On Demand (opt)",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 3800,
+  "wheelbase_mm": 2350,
+  "fuel_l": 135,
+  "adblue_l": 8,
+  "tires": {
+   "front": "380/85 R24 (as listed in brochure)",
+   "rear": "420/85 R34 (as listed in brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-series ; Official brochure https://www.deutz-fahr.com/media/308.8901.3.4-1_Serie_5_Stage_V_EN.pdf (Technical data p.26-27)",
+  "notes": "FARMotion 35. Max @2,000 rpm, rated @2,200 rpm. Weight as printed in data sheet. Data sheet has limited technical rows. Rear lift: 3,600 kg std / 4,525 kg opt (rear_lift_kg = optional maximum). Rear spool valves 2/3/4. Max speed 40 km/h at economy engine speed. Brochure lists no ISOBUS or guidance equipment; cab options only (high-visibility roof, manual A/C, etc.), so isobus left null. Total admissible weight 6,500 kg."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105",
+  "category": "tractor",
+  "series": "Series 5",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical shuttle; Hi-Lo or 3-step Powershift (HML) options",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "55 l/min single pump (std); 90 l/min double pump with electronic On Demand (opt)",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 3950,
+  "wheelbase_mm": 2400,
+  "fuel_l": 135,
+  "adblue_l": 8,
+  "tires": {
+   "front": "380/85 R24 (as listed in brochure)",
+   "rear": "420/85 R34 (as listed in brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-series ; Official brochure https://www.deutz-fahr.com/media/308.8901.3.4-1_Serie_5_Stage_V_EN.pdf (Technical data p.26-27)",
+  "notes": "FARMotion 45. Max @2,000 rpm, rated @2,200 rpm. Weight as printed in data sheet. Data sheet has limited technical rows. Rear lift: 3,600 kg std / 4,525 kg opt (rear_lift_kg = optional maximum). Rear spool valves 2/3/4. Max speed 40 km/h at economy engine speed. Brochure lists no ISOBUS or guidance equipment; cab options only (high-visibility roof, manual A/C, etc.), so isobus left null. Total admissible weight 6,500 kg."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115",
+  "category": "tractor",
+  "series": "Series 5",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical shuttle; Hi-Lo or 3-step Powershift (HML) options",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "55 l/min single pump (std); 90 l/min double pump with electronic On Demand (opt)",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "420/70 R24 (as listed in brochure)",
+   "rear": "480/70 R34 (as listed in brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-series ; Official brochure https://www.deutz-fahr.com/media/308.8901.3.4-1_Serie_5_Stage_V_EN.pdf (Technical data p.26-27)",
+  "notes": "FARMotion 45. Max @2,000 rpm, rated @2,200 rpm. Weight as printed in data sheet. Data sheet has limited technical rows. Rear lift: 3,600 kg std / 4,525 kg opt (rear_lift_kg = optional maximum). Rear spool valves 2/3/4. Max speed 40 km/h at economy engine speed. Brochure lists no ISOBUS or guidance equipment; cab options only (high-visibility roof, manual A/C, etc.), so isobus left null. Total admissible weight 7,000 kg."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5125",
+  "category": "tractor",
+  "series": "Series 5",
+  "power_hp_rated": 120,
+  "power_hp_max": 126,
+  "power_kw_rated": 88.2,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 517,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "Mechanical shuttle; Hi-Lo or 3-step Powershift (HML) options",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "55 l/min single pump (std); 90 l/min double pump with electronic On Demand (opt)",
+   "flow_lpm": 90,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5410,
+   "front_lift_kg": null,
+   "category": "Cat. II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4350,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "420/70 R24 (as listed in brochure)",
+   "rear": "480/70 R34 (as listed in brochure)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": "optional (manual A/C)",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-series ; Official brochure https://www.deutz-fahr.com/media/308.8901.3.4-1_Serie_5_Stage_V_EN.pdf (Technical data p.26-27)",
+  "notes": "FARMotion 45. Max @2,000 rpm, rated @2,200 rpm. Weight as printed in data sheet. Data sheet has limited technical rows. Rear lift: 4,855 kg std / 5,410 kg opt (rear_lift_kg = optional maximum). Rear spool valves 2/3/4. Max speed 40 km/h at economy engine speed. Brochure lists no ISOBUS or guidance equipment; cab options only (high-visibility roof, manual A/C, etc.), so isobus left null. Total admissible weight 7,500 kg."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5075 Keyline",
+  "category": "tractor",
+  "series": "Series 5 Keyline",
+  "power_hp_rated": 74,
+  "power_hp_max": 75,
+  "power_kw_rated": 54.8,
+  "power_kw_max": 55.4,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "turbo": true,
+   "max_torque_nm": 359,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/1000 via dealer opt.)",
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": null,
+  "tires": {
+   "front": "380/85 R24 (as listed)",
+   "rear": "420/85 R34 (as listed)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-keyline ; Official brochure https://www.deutz-fahr.com/media/308.8922.3.4-1_Serie_5_Keyline_EN.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 45. AdBlue 10 l (none on 5075). Rear lift 3,600 std / 4,525-5,410 opt, wheelbase 2,400 mm (series values). 5105 Plus variant exists but its separate rating is not distinguishable in the data sheet. Brochure (Stage V edition incl. 5105 PLUS): rear lift standard 3,600 kg; optional 4,525 kg (5075-5105) / 5,410 kg (5115-5125, electronic lift). CORRECTION: earlier file value 5,410 kg applied to all models; rear_lift_kg now the optional maximum for each model. Pump flow printed as 55 l/min in the table (68 l/min in marketing text; existing value kept). Manual A/C and Hydro Silent-Block cab suspension standard; no ISOBUS/guidance listed. Wheelbase 2,400 mm, total admissible load 6,500 kg. weight_kg as published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 Keyline",
+  "category": "tractor",
+  "series": "Series 5 Keyline",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/1000 via dealer opt.)",
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "380/85 R24 (as listed)",
+   "rear": "420/85 R34 (as listed)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-keyline ; Official brochure https://www.deutz-fahr.com/media/308.8922.3.4-1_Serie_5_Keyline_EN.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 45. AdBlue 10 l (none on 5075). Rear lift 3,600 std / 4,525-5,410 opt, wheelbase 2,400 mm (series values). 5105 Plus variant exists but its separate rating is not distinguishable in the data sheet. Brochure (Stage V edition incl. 5105 PLUS): rear lift standard 3,600 kg; optional 4,525 kg (5075-5105) / 5,410 kg (5115-5125, electronic lift). CORRECTION: earlier file value 5,410 kg applied to all models; rear_lift_kg now the optional maximum for each model. Pump flow printed as 55 l/min in the table (68 l/min in marketing text; existing value kept). Manual A/C and Hydro Silent-Block cab suspension standard; no ISOBUS/guidance listed. Wheelbase 2,400 mm, total admissible load 6,500 kg. weight_kg as published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 Keyline",
+  "category": "tractor",
+  "series": "Series 5 Keyline",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/1000 via dealer opt.)",
+   "front_pto": null
+  },
+  "weight_kg": 4000,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "380/85 R24 (as listed)",
+   "rear": "420/85 R34 (as listed)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-keyline ; Official brochure https://www.deutz-fahr.com/media/308.8922.3.4-1_Serie_5_Keyline_EN.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 45. AdBlue 10 l (none on 5075). Rear lift 3,600 std / 4,525-5,410 opt, wheelbase 2,400 mm (series values). 5105 Plus variant exists but its separate rating is not distinguishable in the data sheet. Brochure (Stage V edition incl. 5105 PLUS): rear lift standard 3,600 kg; optional 4,525 kg (5075-5105) / 5,410 kg (5115-5125, electronic lift). CORRECTION: earlier file value 5,410 kg applied to all models; rear_lift_kg now the optional maximum for each model. Pump flow printed as 55 l/min in the table (68 l/min in marketing text; existing value kept). Manual A/C and Hydro Silent-Block cab suspension standard; no ISOBUS/guidance listed. Wheelbase 2,400 mm, total admissible load 6,500 kg. weight_kg as published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 Keyline",
+  "category": "tractor",
+  "series": "Series 5 Keyline",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4350",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5410,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "420/85 R24 (as listed)",
+   "rear": "460/85 R34 (as listed)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-keyline ; Official brochure https://www.deutz-fahr.com/media/308.8922.3.4-1_Serie_5_Keyline_EN.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 45. AdBlue 10 l (none on 5075). Rear lift 3,600 std / 4,525-5,410 opt, wheelbase 2,400 mm (series values). 5105 Plus variant exists but its separate rating is not distinguishable in the data sheet. Brochure (Stage V edition incl. 5105 PLUS): rear lift standard 3,600 kg; optional 4,525 kg (5075-5105) / 5,410 kg (5115-5125, electronic lift). CORRECTION: earlier file value 5,410 kg applied to all models; rear_lift_kg now the optional maximum for each model. Pump flow printed as 55 l/min in the table (68 l/min in marketing text; existing value kept). Manual A/C and Hydro Silent-Block cab suspension standard; no ISOBUS/guidance listed. Wheelbase 2,400 mm, total admissible load 7,000 kg. weight_kg as published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5125 Keyline",
+  "category": "tractor",
+  "series": "Series 5 Keyline",
+  "power_hp_rated": 120,
+  "power_hp_max": 126,
+  "power_kw_rated": 88.2,
+  "power_kw_max": 93,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 517,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T5350",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 5410,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO/1000/1000ECO",
+   "front_pto": null
+  },
+  "weight_kg": 4350,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "440/65 R28 (as listed)",
+   "rear": "540/65 R38 (as listed)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 Keyline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-keyline ; Official brochure https://www.deutz-fahr.com/media/308.8922.3.4-1_Serie_5_Keyline_EN.pdf (Technical data p.18-19)",
+  "notes": "FARMotion 45. AdBlue 10 l (none on 5075). Rear lift 3,600 std / 4,525-5,410 opt, wheelbase 2,400 mm (series values). 5105 Plus variant exists but its separate rating is not distinguishable in the data sheet. Rated hp printed as 110 in this data sheet but 88.2 kW and the Serie 5 sheet give 120 hp, so 120 used. Brochure (Stage V edition incl. 5105 PLUS): rear lift standard 3,600 kg; optional 4,525 kg (5075-5105) / 5,410 kg (5115-5125, electronic lift). CORRECTION: earlier file value 5,410 kg applied to all models; rear_lift_kg now the optional maximum for each model. Pump flow printed as 55 l/min in the table (68 l/min in marketing text; existing value kept). Manual A/C and Hydro Silent-Block cab suspension standard; no ISOBUS/guidance listed. Wheelbase 2,400 mm, total admissible load 7,500 kg. weight_kg as published."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 TB",
+  "category": "tractor",
+  "series": "Series 5 TB",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3400,
+  "wheelbase_mm": 2400,
+  "fuel_l": 85,
+  "adblue_l": 10,
+  "tires": {
+   "front": "300/70 R20 (as listed)",
+   "rear": "420/70 R24 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 TB.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-tb-series ; Official brochure https://www.deutz-fahr.com/media/308.8917.3.4-0_Serie_5_TB_EN_tVUcO6h.pdf (Technical data)",
+  "notes": "FARMotion 45. Max @2,000 rpm. Rear lift 3,600 / 4,525 kg. Weight 3,400 kg. AdBlue 10 l. Narrow-track (TB) version; transmission T4330, 5 gears x 2 or 4 ranges; rear lift 3,600 kg std / 4,525 kg opt; spool valves 2 std / 3 opt; front lift 2,100 kg. Tyres as listed in brochure (not max)."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 TB",
+  "category": "tractor",
+  "series": "Series 5 TB",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 55,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3400,
+  "wheelbase_mm": 2400,
+  "fuel_l": 85,
+  "adblue_l": 10,
+  "tires": {
+   "front": "300/70 R20 (as listed)",
+   "rear": "420/70 R24 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 TB.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-tb-series ; Official brochure https://www.deutz-fahr.com/media/308.8917.3.4-0_Serie_5_TB_EN_tVUcO6h.pdf (Technical data)",
+  "notes": "FARMotion 45. Max @2,000 rpm. Rear lift 3,600 / 4,525 kg. Weight 3,400 kg. AdBlue 10 l. Narrow-track (TB) version; transmission T4330, 5 gears x 2 or 4 ranges; rear lift 3,600 kg std / 4,525 kg opt; spool valves 2 std / 3 opt; front lift 2,100 kg. Tyres as listed in brochure (not max)."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5090 DF/DS/DV",
+  "category": "tractor",
+  "series": "Series 5DF/DS/DV (also Platform, PRO and TTV lines)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-speed (TTV in TTV line)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min on PRO",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3290,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF-DS-DV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5df-ds-dv-series ; Official brochure https://www.deutz-fahr.com/media/308.8921.3.4-0_5_DF_DS_DV_Cab_EN.pdf (Technical data p.24-27)",
+  "notes": "FARMotion 35. Same engine ratings for DF/DS/DV, DF Platform, PRO and TTV lines (separate data sheets).  Rear lift 3,130 std / 3,940 opt (DF), 2,600 (DS/DV). AdBlue 13 l. Specialty narrow/orchard/vineyard variants (DF/DS/DV) of the 5 series. CORRECTION: hydraulic flow set to 68 l/min (double pump option; 56 l/min std) per the official cab-version brochure; the earlier 88 l/min is the PRO line, now a separate entry. Figures for the DF cab version: fuel 81 l (61 l with front lift/PTO; 100 l XL), wheelbase 2044 mm (DS/DV 2086 mm), weight = minimum cab weight (DF 3290, DS 3265, DV 3180 kg minimum), total admissible load DF 5,200 / DS-DV 5,000 kg. Rear spool valves 2 std / 3 opt. Brochure lists no ISOBUS/guidance for this line."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 DF/DS/DV",
+  "category": "tractor",
+  "series": "Series 5DF/DS/DV (also Platform, PRO and TTV lines)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-speed (TTV in TTV line)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min on PRO",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF-DS-DV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5df-ds-dv-series ; Official brochure https://www.deutz-fahr.com/media/308.8921.3.4-0_5_DF_DS_DV_Cab_EN.pdf (Technical data p.24-27)",
+  "notes": "FARMotion 45. Same engine ratings for DF/DS/DV, DF Platform, PRO and TTV lines (separate data sheets).  Rear lift 3,130 std / 3,940 opt (DF), 2,600 (DS/DV). AdBlue 13 l. Specialty narrow/orchard/vineyard variants (DF/DS/DV) of the 5 series. CORRECTION: hydraulic flow set to 68 l/min (double pump option; 56 l/min std) per the official cab-version brochure; the earlier 88 l/min is the PRO line, now a separate entry. Figures for the DF cab version: fuel 81 l (61 l with front lift/PTO; 100 l XL), wheelbase 2174 mm (DS/DV 2216 mm), weight = minimum cab weight (DF 3515, DS 3320, DV 3235 kg minimum), total admissible load DF 5,200 / DS-DV 5,000 kg. Rear spool valves 2 std / 3 opt. Brochure lists no ISOBUS/guidance for this line."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100 DF/DS/DV",
+  "category": "tractor",
+  "series": "Series 5DF/DS/DV (also Platform, PRO and TTV lines)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-speed (TTV in TTV line)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min on PRO",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3290,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF-DS-DV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5df-ds-dv-series ; Official brochure https://www.deutz-fahr.com/media/308.8921.3.4-0_5_DF_DS_DV_Cab_EN.pdf (Technical data p.24-27)",
+  "notes": "FARMotion 35. Same engine ratings for DF/DS/DV, DF Platform, PRO and TTV lines (separate data sheets).  Rear lift 3,130 std / 3,940 opt (DF), 2,600 (DS/DV). AdBlue 13 l. Specialty narrow/orchard/vineyard variants (DF/DS/DV) of the 5 series. CORRECTION: hydraulic flow set to 68 l/min (double pump option; 56 l/min std) per the official cab-version brochure; the earlier 88 l/min is the PRO line, now a separate entry. Figures for the DF cab version: fuel 81 l (61 l with front lift/PTO; 100 l XL), wheelbase 2044 mm (DS/DV 2086 mm), weight = minimum cab weight (DF 3290, DS 3265, DV 3180 kg minimum), total admissible load DF 5,200 / DS-DV 5,000 kg. Rear spool valves 2 std / 3 opt. Brochure lists no ISOBUS/guidance for this line."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 DF/DS/DV",
+  "category": "tractor",
+  "series": "Series 5DF/DS/DV (also Platform, PRO and TTV lines)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-speed (TTV in TTV line)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min on PRO",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF-DS-DV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5df-ds-dv-series ; Official brochure https://www.deutz-fahr.com/media/308.8921.3.4-0_5_DF_DS_DV_Cab_EN.pdf (Technical data p.24-27)",
+  "notes": "FARMotion 45. Same engine ratings for DF/DS/DV, DF Platform, PRO and TTV lines (separate data sheets).  Rear lift 3,130 std / 3,940 opt (DF), 2,600 (DS/DV). AdBlue 13 l. Specialty narrow/orchard/vineyard variants (DF/DS/DV) of the 5 series. CORRECTION: hydraulic flow set to 68 l/min (double pump option; 56 l/min std) per the official cab-version brochure; the earlier 88 l/min is the PRO line, now a separate entry. Figures for the DF cab version: fuel 81 l (61 l with front lift/PTO; 100 l XL), wheelbase 2174 mm (DS/DV 2216 mm), weight = minimum cab weight (DF 3515, DS 3320, DV 3235 kg minimum), total admissible load DF 5,200 / DS-DV 5,000 kg. Rear spool valves 2 std / 3 opt. Brochure lists no ISOBUS/guidance for this line."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 DF/DS/DV",
+  "category": "tractor",
+  "series": "Series 5DF/DS/DV (also Platform, PRO and TTV lines)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-speed (TTV in TTV line)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min on PRO",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF-DS-DV.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5df-ds-dv-series ; Official brochure https://www.deutz-fahr.com/media/308.8921.3.4-0_5_DF_DS_DV_Cab_EN.pdf (Technical data p.24-27)",
+  "notes": "FARMotion 45. Same engine ratings for DF/DS/DV, DF Platform, PRO and TTV lines (separate data sheets). With overboost/management 93/126 kW/hp (5115 TTV). Rear lift 3,130 std / 3,940 opt (DF), 2,600 (DS/DV). AdBlue 13 l. Specialty narrow/orchard/vineyard variants (DF/DS/DV) of the 5 series. CORRECTION: hydraulic flow set to 68 l/min (double pump option; 56 l/min std) per the official cab-version brochure; the earlier 88 l/min is the PRO line, now a separate entry. Figures for the DF cab version: fuel 81 l (61 l with front lift/PTO; 100 l XL), wheelbase 2174 mm (DS/DV 2216 mm), weight = minimum cab weight (DF 3515, DS 3320, DV 3235 kg minimum), total admissible load DF 5,200 / DS-DV 5,000 kg. Rear spool valves 2 std / 3 opt. Brochure lists no ISOBUS/guidance for this line."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5080 DS/DV Ecoline",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV Ecoline",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "64 l/min open-centre double pump (opt); independent steering pump",
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2600,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2830,
+  "wheelbase_mm": 2050,
+  "fuel_l": 55,
+  "adblue_l": null,
+  "tires": {
+   "front": "280/70 R18 (DS) / 180/95 R16 (DV)",
+   "rear": "380/70 R28 (DS) / 280/85 R24 (DV)"
+  },
+  "cab": {
+   "suspension": "pneumatic driver seat (standard); cab suspension not stated",
+   "air_conditioning": "optional",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF-DS-DV Ecoline.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5-df-ds-dv-ecoline-series ; Official brochure https://www.deutz-fahr.com/media/308.8910.3.4-1_5_DF-DS-DV_Ecoline_EN.pdf (Technical data)",
+  "notes": "FARMotion 35, specialty narrow/vineyard Ecoline. Wheelbase 2,011 mm. CORRECTION: wheelbase changed from 2,011 mm (that is the DF Ecoline) to 2,050 mm for DS/DV per official brochure. Weights: DS 2,850 kg, DV 2,830 kg (weight_kg = lower, DV); total admissible load 4,600 kg. Fuel 55 l (35 l with front lift/PTO). Rear lift DS/DV 2,600 kg. 4-post cab standard."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 K",
+  "category": "tractor",
+  "series": "Series 5 K (specialist/compact)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "50+25 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 1850,
+  "fuel_l": 130,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "platform on Silent-Block; mechanical seat (std), pneumatic seat optional",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 K.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5k-series ; Official brochure https://www.deutz-fahr.com/media/308.8925.3.4-0_DF_5_K_-_5_KM_-_5_KF_-_crawlers_range_EN_SSolvRI.pdf (Technical data)",
+  "notes": "FARMotion 45; fuel 130 l, AdBlue 11 l, wheelbase 1,850 mm. Official site files 5 K/KF/KM under 'Specialist, Compacts'. Crawler (steel tracks 450 mm); open platform, aftermarket cab pre-arrangement optional. Rear lift 3,170 kg; rear spool valves 3 std / 5 opt. No AdBlue on the 5080 KF (brochure shows '-')."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 KM",
+  "category": "tractor",
+  "series": "Series 5 KM (specialist/compact)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "50+25 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 1850,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "platform on Silent-Block; mechanical seat (std)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 K.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-km ; Official brochure https://www.deutz-fahr.com/media/308.8925.3.4-0_DF_5_K_-_5_KM_-_5_KF_-_crawlers_range_EN_SSolvRI.pdf (Technical data)",
+  "notes": "FARMotion 45; fuel 95 l, AdBlue 11 l, wheelbase 1,850 mm. Source file is the combined 5K/KF/KM brochure. Crawler (steel tracks 400 or 450 mm); open platform, aftermarket cab pre-arrangement optional. Rear lift 3,170 kg; rear spool valves 3 std / 3+2 diverters (10 ways) opt. No AdBlue on the 5080 KF (brochure shows '-')."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 KM",
+  "category": "tractor",
+  "series": "Series 5 KM (specialist/compact)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "50+25 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 1850,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "platform on Silent-Block; mechanical seat (std)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 K.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-km ; Official brochure https://www.deutz-fahr.com/media/308.8925.3.4-0_DF_5_K_-_5_KM_-_5_KF_-_crawlers_range_EN_SSolvRI.pdf (Technical data)",
+  "notes": "FARMotion 45; fuel 95 l, AdBlue 11 l, wheelbase 1,850 mm. Source file is the combined 5K/KF/KM brochure. Crawler (steel tracks 400 or 450 mm); open platform, aftermarket cab pre-arrangement optional. Rear lift 3,170 kg; rear spool valves 3 std / 3+2 diverters (10 ways) opt. No AdBlue on the 5080 KF (brochure shows '-')."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5080 KF",
+  "category": "tractor",
+  "series": "Series 5 KF (specialist/compact)",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "50+25 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 1650,
+  "fuel_l": 95,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "platform on Silent-Block; mechanical seat (std)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 K.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-kf ; Official brochure https://www.deutz-fahr.com/media/308.8925.3.4-0_DF_5_K_-_5_KM_-_5_KF_-_crawlers_range_EN_SSolvRI.pdf (Technical data)",
+  "notes": "FARMotion 35; fuel 95 l, wheelbase 1,650 mm. Source file is the combined 5K/KF/KM brochure. Crawler (steel tracks); open platform, aftermarket cab pre-arrangement optional. Rear lift 3,170 kg; rear spool valves 3 std / 3+2 diverters (10 ways) opt. No AdBlue on the 5080 KF (brochure shows '-')."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5090 KF",
+  "category": "tractor",
+  "series": "Series 5 KF (specialist/compact)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "50+25 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 1650,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "platform on Silent-Block; mechanical seat (std)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 K.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-kf ; Official brochure https://www.deutz-fahr.com/media/308.8925.3.4-0_DF_5_K_-_5_KM_-_5_KF_-_crawlers_range_EN_SSolvRI.pdf (Technical data)",
+  "notes": "FARMotion 35; fuel 95 l, wheelbase 1,650 mm. Source file is the combined 5K/KF/KM brochure. Crawler (steel tracks); open platform, aftermarket cab pre-arrangement optional. Rear lift 3,170 kg; rear spool valves 3 std / 3+2 diverters (10 ways) opt. No AdBlue on the 5080 KF (brochure shows '-')."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100 KF",
+  "category": "tractor",
+  "series": "Series 5 KF (specialist/compact)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "50+25 l/min",
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3170,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 1650,
+  "fuel_l": 95,
+  "adblue_l": 11,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "platform on Silent-Block; mechanical seat (std)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5 K.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/series-5-kf ; Official brochure https://www.deutz-fahr.com/media/308.8925.3.4-0_DF_5_K_-_5_KM_-_5_KF_-_crawlers_range_EN_SSolvRI.pdf (Technical data)",
+  "notes": "FARMotion 35; fuel 95 l, wheelbase 1,650 mm. Source file is the combined 5K/KF/KM brochure. Crawler (steel tracks); open platform, aftermarket cab pre-arrangement optional. Rear lift 3,170 kg; rear spool valves 3 std / 3+2 diverters (10 ways) opt. No AdBlue on the 5080 KF (brochure shows '-')."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5080 DF Keyline",
+  "category": "tractor",
+  "series": "Series 5DF Keyline (66-76 hp)",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1600,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "42 or 50 l/min",
+   "flow_lpm": 50,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3050,
+   "front_lift_kg": null,
+   "category": "Cat. I or II"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO",
+   "front_pto": null
+  },
+  "weight_kg": 2535,
+  "wheelbase_mm": 1996,
+  "fuel_l": 65,
+  "adblue_l": null,
+  "tires": {
+   "front": "280/70 R16 (as listed)",
+   "rear": "360/70 R24 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 5DF Keyline (66-76 CV).pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/5df-keyline-series ; Official brochure https://www.deutz-fahr.com/media/308.8954.3.4-1_Serie_5DF_Keyline_EN.pdf (Technical data)",
+  "notes": "FARMotion 35. Rear lift 3,050 standard / 2,700 compact version; weight (ROPS) 2,535 kg. 5070 DF Keyline (66 hp) omitted (below range). ROPS tractor (no cab listed). Rear spool valves 2/3; independent steering pump; mechanical rear lift."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "4080E",
+  "category": "tractor",
+  "series": "Series 4E",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T3300",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "48 l/min std / 56 opt",
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 2950,
+  "wheelbase_mm": 2100,
+  "fuel_l": 75,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": "16.9 R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 4E.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/4e-series-stage-5 ; Official brochure https://www.deutz-fahr.com/media/308.8955.3.4-1_Serie_4E_EN_7jJVQsb.pdf (Technical data p.14-15)",
+  "notes": "FARMotion 35; fuel 75 l. Rear lift 2,500 std / 3,500 opt. 4070E (66 hp) omitted (below range). Open platform/ROPS tractor (no cab listed in brochure). Weight and wheelbase are 4WD values (2WD wheelbase 2,166 mm on 4070E/4080E). Total admissible load 5,200 kg (4WD). Rear spool valves 1/2/3; hydraulic pump 48 l/min std / 56 l/min opt; rear lift 2,500 kg std / 3,500 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "4090E",
+  "category": "tractor",
+  "series": "Series 4E",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T3300",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "48 l/min std / 56 opt",
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3050,
+  "wheelbase_mm": 2100,
+  "fuel_l": 75,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "16.9 R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 4E.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/4e-series-stage-5 ; Official brochure https://www.deutz-fahr.com/media/308.8955.3.4-1_Serie_4E_EN_7jJVQsb.pdf (Technical data p.14-15)",
+  "notes": "FARMotion 35; fuel 75 l. Rear lift 2,500 std / 3,500 opt. 4070E (66 hp) omitted (below range). Open platform/ROPS tractor (no cab listed in brochure). Weight and wheelbase are 4WD values (2WD wheelbase 2,166 mm on 4070E/4080E). Total admissible load 5,200 kg (4WD). Rear spool valves 1/2/3; hydraulic pump 48 l/min std / 56 l/min opt; rear lift 2,500 kg std / 3,500 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "4100E",
+  "category": "tractor",
+  "series": "Series 4E",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T3300",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "48 l/min std / 56 opt",
+   "flow_lpm": 56,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3500,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": null
+  },
+  "weight_kg": 3050,
+  "wheelbase_mm": 2100,
+  "fuel_l": 75,
+  "adblue_l": 12,
+  "tires": {
+   "front": null,
+   "rear": "16.9 R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Local PDF: Deutz-Fahr Tractores PDF/Serie 4E.pdf (section DATOS TECNICOS); official series page: https://www.deutz-fahr.com/en-gb/tractors/4e-series-stage-5 ; Official brochure https://www.deutz-fahr.com/media/308.8955.3.4-1_Serie_4E_EN_7jJVQsb.pdf (Technical data p.14-15)",
+  "notes": "FARMotion 35; fuel 75 l. Rear lift 2,500 std / 3,500 opt. 4070E (66 hp) omitted (below range). Open platform/ROPS tractor (no cab listed in brochure). Weight and wheelbase are 4WD values (2WD wheelbase 2,166 mm on 4070E/4080E). Total admissible load 5,200 kg (4WD). Rear spool valves 1/2/3; hydraulic pump 48 l/min std / 56 l/min opt; rear lift 2,500 kg std / 3,500 kg opt."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 Keyline Plus",
+  "category": "tractor",
+  "series": "Series 5 Keyline",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "T4330",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4525,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (540/1000 via dealer opt.)",
+   "front_pto": null
+  },
+  "weight_kg": 4250,
+  "wheelbase_mm": 2400,
+  "fuel_l": 145,
+  "adblue_l": 10,
+  "tires": {
+   "front": "420/85 R24 (as listed)",
+   "rear": "460/85 R34 (as listed)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": true,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8922.3.4-1_Serie_5_Keyline_EN.pdf (Technical data p.18-19)",
+  "notes": "Added from official brochure: 5105 PLUS shares 5105 engine ratings (106 hp max, 101 hp rated, 433 Nm, FARMotion 45) with larger tyres and 4,250 kg weight; rear lift 3,600 kg std / 4,525 kg opt; fuel 145 l, AdBlue 10 l; manual A/C and Hydro Silent-Block suspension standard; total admissible load 7,000 kg."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5090 DF/DS/DV TTV",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV TTV",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min open centre or 100 l/min Load Sensing/closed centre (std on DS/DV TTV); independent steering pump 42 l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3290,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF TTV; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF TTV; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8902.3.4-0_5DF_DS_DV_TTV_EN_3.pdf (Technical data)",
+  "notes": "Added from official brochure (TTV stepless line of the 5 DF/DS/DV). Same ECE R120 ratings as the other lines. Max speed 40 km/h @1,570 rpm (DF). Fuel 81 l (61 l with front lift/PTO), XL tank 100 l (DS/DV 75 l). weight_kg = minimum cab weight DF 3290 kg (DS 3265, DV 3180); wheelbase DF 2044 mm (DS/DV 2086 mm); total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF TTV 3,800 kg (DS/DV 2,600 kg). Rear spool valves 2/3/4/5. Hydro Silent-Block cab suspension; ISOBUS/option status symbols not recoverable from the extracted text, so ISOBUS left null."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 DF/DS/DV TTV",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV TTV",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min open centre or 100 l/min Load Sensing/closed centre (std on DS/DV TTV); independent steering pump 42 l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF TTV; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF TTV; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8902.3.4-0_5DF_DS_DV_TTV_EN_3.pdf (Technical data)",
+  "notes": "Added from official brochure (TTV stepless line of the 5 DF/DS/DV). Same ECE R120 ratings as the other lines. Max speed 40 km/h @1,570 rpm (DF). Fuel 81 l (61 l with front lift/PTO), XL tank 100 l (DS/DV 75 l). weight_kg = minimum cab weight DF 3515 kg (DS 3320, DV 3235); wheelbase DF 2174 mm (DS/DV 2216 mm); total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF TTV 3,800 kg (DS/DV 2,600 kg). Rear spool valves 2/3/4/5. Hydro Silent-Block cab suspension; ISOBUS/option status symbols not recoverable from the extracted text, so ISOBUS left null."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100 DF/DS/DV TTV",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV TTV",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min open centre or 100 l/min Load Sensing/closed centre (std on DS/DV TTV); independent steering pump 42 l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3290,
+  "wheelbase_mm": 2044,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF TTV; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF TTV; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8902.3.4-0_5DF_DS_DV_TTV_EN_3.pdf (Technical data)",
+  "notes": "Added from official brochure (TTV stepless line of the 5 DF/DS/DV). Same ECE R120 ratings as the other lines. Max speed 40 km/h @1,570 rpm (DF). Fuel 81 l (61 l with front lift/PTO), XL tank 100 l (DS/DV 75 l). weight_kg = minimum cab weight DF 3290 kg (DS 3265, DV 3180); wheelbase DF 2044 mm (DS/DV 2086 mm); total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF TTV 3,800 kg (DS/DV 2,600 kg). Rear spool valves 2/3/4/5. Hydro Silent-Block cab suspension; ISOBUS/option status symbols not recoverable from the extracted text, so ISOBUS left null."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 DF/DS/DV TTV",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV TTV",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min open centre or 100 l/min Load Sensing/closed centre (std on DS/DV TTV); independent steering pump 42 l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF TTV; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF TTV; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8902.3.4-0_5DF_DS_DV_TTV_EN_3.pdf (Technical data)",
+  "notes": "Added from official brochure (TTV stepless line of the 5 DF/DS/DV). Same ECE R120 ratings as the other lines. Max speed 40 km/h @1,570 rpm (DF). Fuel 81 l (61 l with front lift/PTO), XL tank 100 l (DS/DV 75 l). weight_kg = minimum cab weight DF 3515 kg (DS 3320, DV 3235); wheelbase DF 2174 mm (DS/DV 2216 mm); total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF TTV 3,800 kg (DS/DV 2,600 kg). Rear spool valves 2/3/4/5. Hydro Silent-Block cab suspension; ISOBUS/option status symbols not recoverable from the extracted text, so ISOBUS left null."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 DF/DS/DV TTV",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV TTV",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "CVT",
+   "model": "TTV",
+   "speeds": "continuously variable",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "84 l/min open centre or 100 l/min Load Sensing/closed centre (std on DS/DV TTV); independent steering pump 42 l/min",
+   "flow_lpm": 100,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 3800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 81,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF TTV; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF TTV; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8902.3.4-0_5DF_DS_DV_TTV_EN_3.pdf (Technical data)",
+  "notes": "Added from official brochure (TTV stepless line of the 5 DF/DS/DV). Same ECE R120 ratings as the other lines; 5115 reaches 126 hp (93 kW) with OverBoost. Max speed 40 km/h @1,570 rpm (DF). Fuel 81 l (61 l with front lift/PTO), XL tank 100 l (DS/DV 75 l). weight_kg = minimum cab weight DF 3515 kg (DS 3320, DV 3235); wheelbase DF 2174 mm (DS/DV 2216 mm); total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF TTV 3,800 kg (DS/DV 2,600 kg). Rear spool valves 2/3/4/5. Hydro Silent-Block cab suspension; ISOBUS/option status symbols not recoverable from the extracted text, so ISOBUS left null."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5075 DF Keyline",
+  "category": "tractor",
+  "series": "Series 5DF Keyline (4-cyl, 75-116 hp)",
+  "power_hp_rated": null,
+  "power_hp_max": 75,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "5-speed, 3-range; mechanical shuttle or PowerShuttle (15+15 to 30+30)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre, up to 68 l/min to lift and spool valves; separate steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3900,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (groundspeed PTO optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2176,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "open driving station with mechanically suspended seat (no cab)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deutz-fahr.com/en-gb/tractors/serie-5df-keyline-4-cyl (official series page)",
+  "notes": "New 4-cylinder 5DF Keyline (vineyard/low orchard/greenhouse) from the official series page only (no brochure/spec table published for it). Series figures: 75-116 hp, weight 2,843-2,975 kg (per-model split not published; weight_kg left null), wheelbase 2,176 mm, FARMotion 45 3.8 l with 2,000 bar common rail, max 2,200 rpm; models 5075/5095/5105/5115 DF Keyline. Only the range ends are stated (75 hp and 116 hp), so power is filled for 5075 and 5115 only; torque/rated power not published for this series. Rear lift 3,050 kg std, up to 3,900 kg with assistor rams (rear_lift_kg = max). Open centre pump up to 68 l/min, 2 mechanical rear spool valves + optional third. 5075 DF Keyline is Stage V without AdBlue. 600 h oil change. Mechanical seat, telescopic steering column."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 DF Keyline",
+  "category": "tractor",
+  "series": "Series 5DF Keyline (4-cyl, 75-116 hp)",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "5-speed, 3-range; mechanical shuttle or PowerShuttle (15+15 to 30+30)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre, up to 68 l/min to lift and spool valves; separate steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3900,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (groundspeed PTO optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2176,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "open driving station with mechanically suspended seat (no cab)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deutz-fahr.com/en-gb/tractors/serie-5df-keyline-4-cyl (official series page)",
+  "notes": "New 4-cylinder 5DF Keyline (vineyard/low orchard/greenhouse) from the official series page only (no brochure/spec table published for it). Series figures: 75-116 hp, weight 2,843-2,975 kg (per-model split not published; weight_kg left null), wheelbase 2,176 mm, FARMotion 45 3.8 l with 2,000 bar common rail, max 2,200 rpm; models 5075/5095/5105/5115 DF Keyline. Only the range ends are stated (75 hp and 116 hp), so power is filled for 5075 and 5115 only; torque/rated power not published for this series. Rear lift 3,050 kg std, up to 3,900 kg with assistor rams (rear_lift_kg = max). Open centre pump up to 68 l/min, 2 mechanical rear spool valves + optional third. 5075 DF Keyline is Stage V without AdBlue. 600 h oil change. Mechanical seat, telescopic steering column."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 DF Keyline",
+  "category": "tractor",
+  "series": "Series 5DF Keyline (4-cyl, 75-116 hp)",
+  "power_hp_rated": null,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "5-speed, 3-range; mechanical shuttle or PowerShuttle (15+15 to 30+30)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre, up to 68 l/min to lift and spool valves; separate steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3900,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (groundspeed PTO optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2176,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "open driving station with mechanically suspended seat (no cab)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deutz-fahr.com/en-gb/tractors/serie-5df-keyline-4-cyl (official series page)",
+  "notes": "New 4-cylinder 5DF Keyline (vineyard/low orchard/greenhouse) from the official series page only (no brochure/spec table published for it). Series figures: 75-116 hp, weight 2,843-2,975 kg (per-model split not published; weight_kg left null), wheelbase 2,176 mm, FARMotion 45 3.8 l with 2,000 bar common rail, max 2,200 rpm; models 5075/5095/5105/5115 DF Keyline. Only the range ends are stated (75 hp and 116 hp), so power is filled for 5075 and 5115 only; torque/rated power not published for this series. Rear lift 3,050 kg std, up to 3,900 kg with assistor rams (rear_lift_kg = max). Open centre pump up to 68 l/min, 2 mechanical rear spool valves + optional third. 5075 DF Keyline is Stage V without AdBlue. 600 h oil change. Mechanical seat, telescopic steering column."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 DF Keyline",
+  "category": "tractor",
+  "series": "Series 5DF Keyline (4-cyl, 75-116 hp)",
+  "power_hp_rated": null,
+  "power_hp_max": 116,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "5-speed, 3-range; mechanical shuttle or PowerShuttle (15+15 to 30+30)",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "open centre, up to 68 l/min to lift and spool valves; separate steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 3900,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO (groundspeed PTO optional)",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2176,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": "open driving station with mechanically suspended seat (no cab)",
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deutz-fahr.com/en-gb/tractors/serie-5df-keyline-4-cyl (official series page)",
+  "notes": "New 4-cylinder 5DF Keyline (vineyard/low orchard/greenhouse) from the official series page only (no brochure/spec table published for it). Series figures: 75-116 hp, weight 2,843-2,975 kg (per-model split not published; weight_kg left null), wheelbase 2,176 mm, FARMotion 45 3.8 l with 2,000 bar common rail, max 2,200 rpm; models 5075/5095/5105/5115 DF Keyline. Only the range ends are stated (75 hp and 116 hp), so power is filled for 5075 and 5115 only; torque/rated power not published for this series. Rear lift 3,050 kg std, up to 3,900 kg with assistor rams (rear_lift_kg = max). Open centre pump up to 68 l/min, 2 mechanical rear spool valves + optional third. 5075 DF Keyline is Stage V without AdBlue. 600 h oil change. Mechanical seat, telescopic steering column."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "6145 C",
+  "category": "tractor",
+  "series": "Series 6C",
+  "power_hp_rated": null,
+  "power_hp_max": 146,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": null,
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": null,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "powershift/CVT",
+   "model": "Powershift / RVshift / TTV",
+   "speeds": null,
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": null,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": null,
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://www.deutz-fahr.com/en-gb/tractors/6c-series (series page, 'Series 6C 6115C-6145C ... up to 146 HP', hero: weight 4,505-5,900 kg)",
+  "notes": "Top model of Series 6C added from the official series page, which states up to 146 hp (taken as max power; rated power and kW not published there). The official 6C brochure (308.8905.3.4.-3) covers only 6115 C-6135 C; no per-model data for the 6145 C was found, so all other fields are null."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5090 DF/DS/DV PRO",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV PRO",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "PowerShuttle, 5 gears with Hi-Lo or HML",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min; independent steering pump 42 l/min",
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3290,
+  "wheelbase_mm": 2044,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF PRO; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF PRO; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": null,
+   "isobus": "optional",
+   "gps_guidance": "optional (ROWguidance pre-arrangement, iMonitor)"
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.9024.3.4-0_Serie_5_DF_DS_DV_Pro_EN_qW8le4t.pdf (Technical data p.2-5)",
+  "notes": "New PRO generation (vineyard/orchard). Added from official brochure. Power ECE R120 same as DF/DS/DV. Fuel: XL tank 100 l (80 l with front lift/PTO). weight_kg = minimum DF PRO weight (DF 3290-up, DS 3265, DV 3180 kg minimum), wheelbase DF 2044 mm / DS-DV 2086 mm, total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF PRO 3,130 std / 3,940 kg opt, DS/DV PRO 2,600 kg; front lift 2,100 kg optional. 3/4 electronic rear spool valves; 4-pillar cab, electronic joystick."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 DF/DS/DV PRO",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV PRO",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "PowerShuttle, 5 gears with Hi-Lo or HML",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min; independent steering pump 42 l/min",
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF PRO; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF PRO; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": null,
+   "isobus": "optional",
+   "gps_guidance": "optional (ROWguidance pre-arrangement, iMonitor)"
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.9024.3.4-0_Serie_5_DF_DS_DV_Pro_EN_qW8le4t.pdf (Technical data p.2-5)",
+  "notes": "New PRO generation (vineyard/orchard). Added from official brochure. Power ECE R120 same as DF/DS/DV. Fuel: XL tank 100 l (80 l with front lift/PTO). weight_kg = minimum DF PRO weight (DF 3515-up, DS 3320, DV 3235 kg minimum), wheelbase DF 2174 mm / DS-DV 2216 mm, total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF PRO 3,130 std / 3,940 kg opt, DS/DV PRO 2,600 kg; front lift 2,100 kg optional. 3/4 electronic rear spool valves; 4-pillar cab, electronic joystick."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100 DF/DS/DV PRO",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV PRO",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "PowerShuttle, 5 gears with Hi-Lo or HML",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min; independent steering pump 42 l/min",
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3290,
+  "wheelbase_mm": 2044,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF PRO; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF PRO; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": null,
+   "isobus": "optional",
+   "gps_guidance": "optional (ROWguidance pre-arrangement, iMonitor)"
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.9024.3.4-0_Serie_5_DF_DS_DV_Pro_EN_qW8le4t.pdf (Technical data p.2-5)",
+  "notes": "New PRO generation (vineyard/orchard). Added from official brochure. Power ECE R120 same as DF/DS/DV. Fuel: XL tank 100 l (80 l with front lift/PTO). weight_kg = minimum DF PRO weight (DF 3290-up, DS 3265, DV 3180 kg minimum), wheelbase DF 2044 mm / DS-DV 2086 mm, total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF PRO 3,130 std / 3,940 kg opt, DS/DV PRO 2,600 kg; front lift 2,100 kg optional. 3/4 electronic rear spool valves; 4-pillar cab, electronic joystick."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 DF/DS/DV PRO",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV PRO",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "PowerShuttle, 5 gears with Hi-Lo or HML",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min; independent steering pump 42 l/min",
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF PRO; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF PRO; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": null,
+   "isobus": "optional",
+   "gps_guidance": "optional (ROWguidance pre-arrangement, iMonitor)"
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.9024.3.4-0_Serie_5_DF_DS_DV_Pro_EN_qW8le4t.pdf (Technical data p.2-5)",
+  "notes": "New PRO generation (vineyard/orchard). Added from official brochure. Power ECE R120 same as DF/DS/DV. Fuel: XL tank 100 l (80 l with front lift/PTO). weight_kg = minimum DF PRO weight (DF 3515-up, DS 3320, DV 3235 kg minimum), wheelbase DF 2174 mm / DS-DV 2216 mm, total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF PRO 3,130 std / 3,940 kg opt, DS/DV PRO 2,600 kg; front lift 2,100 kg optional. 3/4 electronic rear spool valves; 4-pillar cab, electronic joystick."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 DF/DS/DV PRO",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV PRO",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "PowerShuttle, 5 gears with Hi-Lo or HML",
+   "speeds": "30+30 (Hi-Lo) or 45+45 (HML)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "88 l/min; independent steering pump 42 l/min",
+   "flow_lpm": 88,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": 2100,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000 or 540/540ECO/Ground Speed",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 3515,
+  "wheelbase_mm": 2174,
+  "fuel_l": 100,
+  "adblue_l": 13,
+  "tires": {
+   "front": "300/70 R20 (DF PRO; DS 280/70 R18, DV 180/95 R16)",
+   "rear": "420/70 R28 (DF PRO; DS 380/70 R28, DV 280/85 R24)"
+  },
+  "cab": {
+   "suspension": "Hydro Silent-Block (standard)",
+   "air_conditioning": null,
+   "isobus": "optional",
+   "gps_guidance": "optional (ROWguidance pre-arrangement, iMonitor)"
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.9024.3.4-0_Serie_5_DF_DS_DV_Pro_EN_qW8le4t.pdf (Technical data p.2-5)",
+  "notes": "New PRO generation (vineyard/orchard). Added from official brochure. Power ECE R120 same as DF/DS/DV. Fuel: XL tank 100 l (80 l with front lift/PTO). weight_kg = minimum DF PRO weight (DF 3515-up, DS 3320, DV 3235 kg minimum), wheelbase DF 2174 mm / DS-DV 2216 mm, total admissible load DF 5,200 / DS-DV 5,000 kg. Rear lift DF PRO 3,130 std / 3,940 kg opt, DS/DV PRO 2,600 kg; front lift 2,100 kg optional. 3/4 electronic rear spool valves; 4-pillar cab, electronic joystick."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5090 DF Platform",
+  "category": "tractor",
+  "series": "Series 5DF (Platform)",
+  "power_hp_rated": 86,
+  "power_hp_max": 91,
+  "power_kw_rated": 63.5,
+  "power_kw_max": 67,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 372,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-gear mechanical shuttle / PowerShuttle",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "68 l/min double pump (opt); independent steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": "optional"
+  },
+  "weight_kg": 2590,
+  "wheelbase_mm": 2044,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70 R16 (as listed)",
+   "rear": "380/70 R20 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8920.3.4-0_Serie_5_DF_Plat_EN_iS0hu3A.pdf (Technical data)",
+  "notes": "Platform (open, no cab; welded platform with tunnel) version of Series 5DF. Added from official brochure. Weight as published (2,590 / 2,650 kg), total admissible load 5,000 kg. Rear lift 3,130 kg std / 3,940 kg opt; mechanical rear lift std, electronic optional. Power ECE R120 same as DF/DS/DV."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5095 DF Platform",
+  "category": "tractor",
+  "series": "Series 5DF (Platform)",
+  "power_hp_rated": 90,
+  "power_hp_max": 95,
+  "power_kw_rated": 66.4,
+  "power_kw_max": 70,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 389,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-gear mechanical shuttle / PowerShuttle",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "68 l/min double pump (opt); independent steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": "optional"
+  },
+  "weight_kg": 2650,
+  "wheelbase_mm": 2174,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70 R16 (as listed)",
+   "rear": "380/70 R20 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8920.3.4-0_Serie_5_DF_Plat_EN_iS0hu3A.pdf (Technical data)",
+  "notes": "Platform (open, no cab; welded platform with tunnel) version of Series 5DF. Added from official brochure. Weight as published (2,590 / 2,650 kg), total admissible load 5,000 kg. Rear lift 3,130 kg std / 3,940 kg opt; mechanical rear lift std, electronic optional. Power ECE R120 same as DF/DS/DV."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5100 DF Platform",
+  "category": "tractor",
+  "series": "Series 5DF (Platform)",
+  "power_hp_rated": 97,
+  "power_hp_max": 102,
+  "power_kw_rated": 71.1,
+  "power_kw_max": 75,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 417,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-gear mechanical shuttle / PowerShuttle",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "68 l/min double pump (opt); independent steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": "optional"
+  },
+  "weight_kg": 2590,
+  "wheelbase_mm": 2044,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70 R16 (as listed)",
+   "rear": "380/70 R20 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8920.3.4-0_Serie_5_DF_Plat_EN_iS0hu3A.pdf (Technical data)",
+  "notes": "Platform (open, no cab; welded platform with tunnel) version of Series 5DF. Added from official brochure. Weight as published (2,590 / 2,650 kg), total admissible load 5,000 kg. Rear lift 3,130 kg std / 3,940 kg opt; mechanical rear lift std, electronic optional. Power ECE R120 same as DF/DS/DV."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5105 DF Platform",
+  "category": "tractor",
+  "series": "Series 5DF (Platform)",
+  "power_hp_rated": 101,
+  "power_hp_max": 106,
+  "power_kw_rated": 74,
+  "power_kw_max": 78,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 433,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-gear mechanical shuttle / PowerShuttle",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "68 l/min double pump (opt); independent steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": "optional"
+  },
+  "weight_kg": 2650,
+  "wheelbase_mm": 2174,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70 R16 (as listed)",
+   "rear": "380/70 R20 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8920.3.4-0_Serie_5_DF_Plat_EN_iS0hu3A.pdf (Technical data)",
+  "notes": "Platform (open, no cab; welded platform with tunnel) version of Series 5DF. Added from official brochure. Weight as published (2,590 / 2,650 kg), total admissible load 5,000 kg. Rear lift 3,130 kg std / 3,940 kg opt; mechanical rear lift std, electronic optional. Power ECE R120 same as DF/DS/DV."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5115 DF Platform",
+  "category": "tractor",
+  "series": "Series 5DF (Platform)",
+  "power_hp_rated": 110,
+  "power_hp_max": 116,
+  "power_kw_rated": 80.6,
+  "power_kw_max": 85,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 45",
+   "cylinders": 4,
+   "displacement_l": 3.849,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 472,
+   "max_torque_rpm": 1400,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": "4- or 5-gear mechanical shuttle / PowerShuttle",
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "68 l/min double pump (opt); independent steering pump",
+   "flow_lpm": 68,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 3940,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": "optional"
+  },
+  "weight_kg": 2650,
+  "wheelbase_mm": 2174,
+  "fuel_l": 82,
+  "adblue_l": 13,
+  "tires": {
+   "front": "240/70 R16 (as listed)",
+   "rear": "380/70 R20 (as listed)"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8920.3.4-0_Serie_5_DF_Plat_EN_iS0hu3A.pdf (Technical data)",
+  "notes": "Platform (open, no cab; welded platform with tunnel) version of Series 5DF. Added from official brochure. Weight as published (2,590 / 2,650 kg), total admissible load 5,000 kg. Rear lift 3,130 kg std / 3,940 kg opt; mechanical rear lift std, electronic optional. Power ECE R120 same as DF/DS/DV."
+ },
+ {
+  "brand": "Deutz-Fahr",
+  "model": "5080 DF Ecoline",
+  "category": "tractor",
+  "series": "Series 5 DF/DS/DV Ecoline",
+  "power_hp_rated": 75,
+  "power_hp_max": 76,
+  "power_kw_rated": 55.2,
+  "power_kw_max": 55.8,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "SDF FARMotion",
+   "model": "FARMotion 35",
+   "cylinders": 3,
+   "displacement_l": 2.887,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": 341,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": null,
+  "transmission": {
+   "type": "other",
+   "model": null,
+   "speeds": null,
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "64 l/min open-centre double pump (opt); independent steering pump",
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2800,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540ECO or 540/540ECO/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2995,
+  "wheelbase_mm": 2011,
+  "fuel_l": 55,
+  "adblue_l": null,
+  "tires": {
+   "front": "300/70 R20 (as listed)",
+   "rear": "420/70 R28 (as listed)"
+  },
+  "cab": {
+   "suspension": "pneumatic driver seat (standard); cab suspension not stated",
+   "air_conditioning": "optional",
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "Official brochure https://www.deutz-fahr.com/media/308.8910.3.4-1_5_DF-DS-DV_Ecoline_EN.pdf (Technical data)",
+  "notes": "Added from official brochure (DF Ecoline variant): weight 2,995 kg, total admissible load 5,000 kg, wheelbase 2,011 mm, fuel 55 l (35 l with front lift/PTO), rear lift 2,800 kg, 64 l/min double-pump option, 4-post cab standard, air conditioning optional. FARMotion 35, 75/76 hp."
+ }
+]

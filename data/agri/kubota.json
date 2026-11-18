@@ -1,0 +1,1811 @@
+[
+ {
+  "brand": "Kubota",
+  "model": "M4-073",
+  "category": "tractor",
+  "series": "M4003",
+  "power_hp_rated": 74,
+  "power_hp_max": null,
+  "power_kw_rated": 54.6,
+  "power_kw_max": 55,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3307-CR-TE5",
+   "cylinders": 4,
+   "displacement_l": 3.331,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "18/18 (36/36 with Dual Speed option)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 63,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 2500,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 540/1000",
+   "front_pto": null
+  },
+  "weight_kg": 2785,
+  "wheelbase_mm": 2135,
+  "fuel_l": 90,
+  "adblue_l": null,
+  "tires": {
+   "front": "320/85R20",
+   "rear": "420/85R30"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m4003/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2021/02/M4003-Brochure.pdf (Donnees techniques)",
+  "notes": "Smallest in range; M4-063 (66 hp) excluded (<70 hp). Rated ECE R120 74 hp (54.6 kW); website lists max incl. Powerboost 74 cv / 55 kW. Weight 2785 kg = cab (ROPS 2570); fuel 90 l = cab (ROPS 70). Emission stage not stated in source."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-092",
+  "category": "tractor",
+  "series": "M5002",
+  "power_hp_rated": 95,
+  "power_hp_max": null,
+  "power_kw_rated": 71,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 326,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2600
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "Roll-bar 18/18; cab 36/36 with Dual Speed",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4100,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 540/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3500,
+  "wheelbase_mm": 2250,
+  "fuel_l": 105,
+  "adblue_l": 12,
+  "tires": {
+   "front": "360/70R24",
+   "rear": "480/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2021/02/M5002-FR.pdf (Donnees techniques)",
+  "notes": "Rated (ECE R120) cab version at 2600 rpm: 95 hp (71 kW); roll-bar version at 2400 rpm: 93 hp (69 kW). Weight 3500 kg = cab (roll-bar 3200). Pump 64 l/min cab (60 roll-bar). Fuel 105 l / AdBlue 12 l. M5-102 not listed in brochure table."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-112",
+  "category": "tractor",
+  "series": "M5002",
+  "power_hp_rated": 115,
+  "power_hp_max": null,
+  "power_kw_rated": 84.4,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 358,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2600
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "Roll-bar 18/18; cab 36/36 with Dual Speed",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 64,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 3
+  },
+  "linkage": {
+   "rear_lift_kg": 4100,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 540/1000",
+   "front_pto": null
+  },
+  "weight_kg": 3500,
+  "wheelbase_mm": 2250,
+  "fuel_l": 105,
+  "adblue_l": 12,
+  "tires": {
+   "front": "360/70R24",
+   "rear": "480/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2021/02/M5002-FR.pdf (Donnees techniques)",
+  "notes": "Rated (ECE R120) cab version at 2600 rpm: 115 hp (84.4 kW); roll-bar version at 2400 rpm: 107 hp (79 kW). Weight 3500 kg = cab (roll-bar 3200). Pump 64 l/min cab (60 roll-bar). Fuel 105 l / AdBlue 12 l. M5-102 not listed in brochure table."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-072N",
+  "category": "tractor",
+  "series": "M5002 Narrow (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 74,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 271,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "18/18 (36/36 with Doubler)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 2300,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 76,
+  "adblue_l": 6.5,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002-narrow/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/11/M5002N-fr-digital.pdf (Donnees techniques)",
+  "notes": "Narrow specialty tractor, width 1250-1800 mm. Brochure table lists 74 hp. Torque value as per brochure order (per-version columns not resolvable). Pump 63.3 / 68.6 l/min by version; weight roll-bar 2570-2749 kg, cab 2710-2954 kg (range, per model not resolvable). Hydraulic valves max 5. Emission stage not stated in source."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-082N",
+  "category": "tractor",
+  "series": "M5002 Narrow (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 87,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 294,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "18/18 (36/36 with Doubler)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 2300,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 76,
+  "adblue_l": 6.5,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002-narrow/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/11/M5002N-fr-digital.pdf (Donnees techniques)",
+  "notes": "Narrow specialty tractor, width 1250-1800 mm. Brochure table lists 87 hp. Torque value as per brochure order (per-version columns not resolvable). Pump 63.3 / 68.6 l/min by version; weight roll-bar 2570-2749 kg, cab 2710-2954 kg (range, per model not resolvable). Hydraulic valves max 5. Emission stage not stated in source."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-092N",
+  "category": "tractor",
+  "series": "M5002 Narrow (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 94,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 331,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "18/18 (36/36 with Doubler)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 2300,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 76,
+  "adblue_l": 6.5,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002-narrow/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/11/M5002N-fr-digital.pdf (Donnees techniques)",
+  "notes": "Narrow specialty tractor, width 1250-1800 mm. Brochure lists 94 and 96 hp for the two versions (2400/2600 rpm; column mapping ambiguous); first value used. Torque value as per brochure order (per-version columns not resolvable). Pump 63.3 / 68.6 l/min by version; weight roll-bar 2570-2749 kg, cab 2710-2954 kg (range, per model not resolvable). Hydraulic valves max 5. Emission stage not stated in source."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-102N",
+  "category": "tractor",
+  "series": "M5002 Narrow (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 107,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 362,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "18/18 (36/36 with Doubler)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 2300,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 76,
+  "adblue_l": 6.5,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002-narrow/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/11/M5002N-fr-digital.pdf (Donnees techniques)",
+  "notes": "Narrow specialty tractor, width 1250-1800 mm. Brochure lists 107 and 106 hp for the two versions; column mapping ambiguous; first value used. Torque value as per brochure order (per-version columns not resolvable). Pump 63.3 / 68.6 l/min by version; weight roll-bar 2570-2749 kg, cab 2710-2954 kg (range, per model not resolvable). Hydraulic valves max 5. Emission stage not stated in source."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M5-112N",
+  "category": "tractor",
+  "series": "M5002 Narrow (orchard/vineyard specialty narrow tractor)",
+  "power_hp_rated": 115,
+  "power_hp_max": null,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 364,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "synchro",
+   "model": "6 synchro speeds x 3 ranges",
+   "speeds": "18/18 (36/36 with Doubler)",
+   "max_speed_kmh": 40,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": null,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 5
+  },
+  "linkage": {
+   "rear_lift_kg": 2300,
+   "front_lift_kg": null,
+   "category": "Cat. II (auto hooks)"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540 Eco; option 1000",
+   "front_pto": null
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": 76,
+  "adblue_l": 6.5,
+  "tires": {
+   "front": "280/70R18",
+   "rear": "380/70R28"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/fr/products/m5002-narrow/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/11/M5002N-fr-digital.pdf (Donnees techniques)",
+  "notes": "Narrow specialty tractor, width 1250-1800 mm. Brochure table lists 115 hp. Torque value as per brochure order (per-version columns not resolvable). Pump 63.3 / 68.6 l/min by version; weight roll-bar 2570-2749 kg, cab 2710-2954 kg (range, per model not resolvable). Hydraulic valves max 5. Emission stage not stated in source."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-101 U",
+  "category": "tractor",
+  "series": "M6001 Utility",
+  "power_hp_rated": 104,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 346,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 71,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (option)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4300,
+  "wheelbase_mm": 2440,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6001-utility-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/03/M6001U-Brochure-FR-digital-1.pdf (Donnees techniques)",
+  "notes": "Power labelled 97/68/EC in brochure table. Weight 4300 / 4845 kg base (+ F-SUS front suspension variants 4560 / 5065); wheelbase 2440 (2540 F-SUS) / 2685 (2680 F-SUS). Valves 2 std, 3rd+4th option."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-111 U",
+  "category": "tractor",
+  "series": "M6001 Utility",
+  "power_hp_rated": 111,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-TIE5",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 379,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 71,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (option)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4300,
+  "wheelbase_mm": 2440,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6001-utility-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/03/M6001U-Brochure-FR-digital-1.pdf (Donnees techniques)",
+  "notes": "Power labelled 97/68/EC in brochure table. Weight 4300 / 4845 kg base (+ F-SUS front suspension variants 4560 / 5065); wheelbase 2440 (2540 F-SUS) / 2685 (2680 F-SUS). Valves 2 std, 3rd+4th option."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-121 U",
+  "category": "tractor",
+  "series": "M6001 Utility",
+  "power_hp_rated": 123,
+  "power_hp_max": null,
+  "power_kw_rated": 90,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-TIE5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 503,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 77,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6100,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (option)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4845,
+  "wheelbase_mm": 2685,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "420/70R24",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6001-utility-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/03/M6001U-Brochure-FR-digital-1.pdf (Donnees techniques)",
+  "notes": "Power labelled 97/68/EC in brochure table. Weight 4300 / 4845 kg base (+ F-SUS front suspension variants 4560 / 5065); wheelbase 2440 (2540 F-SUS) / 2685 (2680 F-SUS). Valves 2 std, 3rd+4th option."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-131 U",
+  "category": "tractor",
+  "series": "M6001 Utility",
+  "power_hp_rated": 133,
+  "power_hp_max": null,
+  "power_kw_rated": 98,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-TIE5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 544,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 77,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6100,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (option)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4845,
+  "wheelbase_mm": 2685,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "420/70R24",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6001-utility-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/03/M6001U-Brochure-FR-digital-1.pdf (Donnees techniques)",
+  "notes": "Power labelled 97/68/EC in brochure table. Weight 4300 / 4845 kg base (+ F-SUS front suspension variants 4560 / 5065); wheelbase 2440 (2540 F-SUS) / 2685 (2680 F-SUS). Valves 2 std, 3rd+4th option."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-141 U",
+  "category": "tractor",
+  "series": "M6001 Utility",
+  "power_hp_rated": 143,
+  "power_hp_max": null,
+  "power_kw_rated": 105,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-TIE5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 566,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 77,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6100,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (option)",
+   "front_pto": "1000 (option)"
+  },
+  "weight_kg": 4845,
+  "wheelbase_mm": 2685,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "420/70R24",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6001-utility-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2022/03/M6001U-Brochure-FR-digital-1.pdf (Donnees techniques)",
+  "notes": "Power labelled 97/68/EC in brochure table. Weight 4300 / 4845 kg base (+ F-SUS front suspension variants 4560 / 5065); wheelbase 2440 (2540 F-SUS) / 2685 (2680 F-SUS). Valves 2 std, 3rd+4th option."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M95GX-IV",
+  "category": "tractor",
+  "series": "MGX-IV",
+  "power_hp_rated": 104,
+  "power_hp_max": null,
+  "power_kw_rated": 77,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIEF4",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": "EU Stage IV",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 346,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 76.3,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (optional)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4300,
+  "wheelbase_mm": 2440,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/mgx-iv-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/08/Kubota-MGXIV-EN-Leaflet-1.pdf",
+  "notes": "Previous-generation line still listed on Kubota Europe site (Stage IV engine; succeeded by M6001 Utility). Weight 4300/4845 kg base (+F-SUS 4560/5065). Valves 2 std, 3rd+4th optional."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M105GX-IV",
+  "category": "tractor",
+  "series": "MGX-IV",
+  "power_hp_rated": 111,
+  "power_hp_max": null,
+  "power_kw_rated": 81,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V3800-CR-TIEF4",
+   "cylinders": 4,
+   "displacement_l": 3.769,
+   "emission_stage": "EU Stage IV",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 379,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2400
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 76.3,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 5000,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (optional)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4300,
+  "wheelbase_mm": 2440,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "380/70R24",
+   "rear": "520/70R34"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/mgx-iv-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/08/Kubota-MGXIV-EN-Leaflet-1.pdf",
+  "notes": "Previous-generation line still listed on Kubota Europe site (Stage IV engine; succeeded by M6001 Utility). Weight 4300/4845 kg base (+F-SUS 4560/5065). Valves 2 std, 3rd+4th optional."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M115GX-IV",
+  "category": "tractor",
+  "series": "MGX-IV",
+  "power_hp_rated": 123,
+  "power_hp_max": null,
+  "power_kw_rated": 90,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-CR-TIEF4",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage IV",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 503,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 82.5,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6100,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (optional)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4845,
+  "wheelbase_mm": 2685,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "420/70R24",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/mgx-iv-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/08/Kubota-MGXIV-EN-Leaflet-1.pdf",
+  "notes": "Previous-generation line still listed on Kubota Europe site (Stage IV engine; succeeded by M6001 Utility). Weight 4300/4845 kg base (+F-SUS 4560/5065). Valves 2 std, 3rd+4th optional."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M125GX-IV",
+  "category": "tractor",
+  "series": "MGX-IV",
+  "power_hp_rated": 133,
+  "power_hp_max": null,
+  "power_kw_rated": 98,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-CR-TIEF4",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage IV",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 544,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 82.5,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6100,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (optional)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4845,
+  "wheelbase_mm": 2685,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "420/70R24",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/mgx-iv-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/08/Kubota-MGXIV-EN-Leaflet-1.pdf",
+  "notes": "Previous-generation line still listed on Kubota Europe site (Stage IV engine; succeeded by M6001 Utility). Weight 4300/4845 kg base (+F-SUS 4560/5065). Valves 2 std, 3rd+4th optional."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M135GX-IV",
+  "category": "tractor",
+  "series": "MGX-IV",
+  "power_hp_rated": 143,
+  "power_hp_max": null,
+  "power_kw_rated": 105,
+  "power_kw_max": null,
+  "power_standard": "97/68/EC",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-CR-TIEF4",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage IV",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 566,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 2200
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "flow_lpm": 82.5,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 6100,
+   "front_lift_kg": null,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/1000; 540/540 Eco (optional)",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": 4845,
+  "wheelbase_mm": 2685,
+  "fuel_l": 190,
+  "adblue_l": 16,
+  "tires": {
+   "front": "420/70R24",
+   "rear": "520/70R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/mgx-iv-2/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/08/Kubota-MGXIV-EN-Leaflet-1.pdf",
+  "notes": "Previous-generation line still listed on Kubota Europe site (Stage IV engine; succeeded by M6001 Utility). Weight 4300/4845 kg base (+F-SUS 4560/5065). Valves 2 std, 3rd+4th optional."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-122",
+  "category": "tractor",
+  "series": "M6002",
+  "power_hp_rated": 123,
+  "power_hp_max": 143,
+  "power_kw_rated": 91,
+  "power_kw_max": 105,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-TIEF5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 549,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges (robotised GST)",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": "CCLS",
+   "flow_lpm": 115,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7000,
+   "front_lift_kg": 3260,
+   "category": "Cat. II/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000"
+  },
+  "weight_kg": 6000,
+  "wheelbase_mm": 2690,
+  "fuel_l": 230,
+  "adblue_l": 20,
+  "tires": {
+   "front": "320/85R28 to 480/65R24",
+   "rear": "320/90R46 to 650/60R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6002/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/10/M6002-Leaflet.pdf (Technical data)",
+  "notes": "hp_max = incl. Transport Powerboost (+20 hp). Torque column mapping from leaflet layout (549/594/645 in model order). Shipping weight 6000 kg; valves 3 (option 4). Tire sizes shown as min-max range."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-132",
+  "category": "tractor",
+  "series": "M6002",
+  "power_hp_rated": 133,
+  "power_hp_max": 153,
+  "power_kw_rated": 98,
+  "power_kw_max": 113,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-TIEF5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 594,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges (robotised GST)",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": "CCLS",
+   "flow_lpm": 115,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7000,
+   "front_lift_kg": 3260,
+   "category": "Cat. II/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000"
+  },
+  "weight_kg": 6000,
+  "wheelbase_mm": 2690,
+  "fuel_l": 230,
+  "adblue_l": 20,
+  "tires": {
+   "front": "320/85R28 to 480/65R24",
+   "rear": "320/90R46 to 650/60R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6002/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/10/M6002-Leaflet.pdf (Technical data)",
+  "notes": "hp_max = incl. Transport Powerboost (+20 hp). Torque column mapping from leaflet layout (549/594/645 in model order). Shipping weight 6000 kg; valves 3 (option 4). Tire sizes shown as min-max range."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M6-142",
+  "category": "tractor",
+  "series": "M6002",
+  "power_hp_rated": 143,
+  "power_hp_max": 163,
+  "power_kw_rated": 106,
+  "power_kw_max": 120,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108-TIEF5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 645,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "8 powershift x 3 ranges (robotised GST)",
+   "speeds": "24/24 (32/32 with creeper)",
+   "max_speed_kmh": 40,
+   "creeper": "32/32 option"
+  },
+  "hydraulics": {
+   "pump_type": "CCLS",
+   "flow_lpm": 115,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 4
+  },
+  "linkage": {
+   "rear_lift_kg": 7000,
+   "front_lift_kg": 3260,
+   "category": "Cat. II/IIIN"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000"
+  },
+  "weight_kg": 6000,
+  "wheelbase_mm": 2690,
+  "fuel_l": 230,
+  "adblue_l": 20,
+  "tires": {
+   "front": "320/85R28 to 480/65R24",
+   "rear": "320/90R46 to 650/60R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m6002/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/10/M6002-Leaflet.pdf (Technical data)",
+  "notes": "hp_max = incl. Transport Powerboost (+20 hp). Torque column mapping from leaflet layout (549/594/645 in model order). Shipping weight 6000 kg; valves 3 (option 4). Tire sizes shown as min-max range."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M7133",
+  "category": "tractor",
+  "series": "M7003",
+  "power_hp_rated": 130,
+  "power_hp_max": 150,
+  "power_kw_rated": 95,
+  "power_kw_max": 110,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108 TIEF5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 600,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Standard (powershift 30F/15R) / Premium / Premium-KVT",
+   "speeds": "30/15 (54/27 creeper) / KVT stepless",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "fixed-displacement (Standard) / load-sensing variable (Premium/KVT)",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9400,
+   "front_lift_kg": 3500,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2720,
+  "fuel_l": 330,
+  "adblue_l": 38,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m7003/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/10/M7003-Leaflet.pdf (Technical data)",
+  "notes": "Superseded by M7004 on the site but both listed. Leaflet variants: Standard / Premium / Premium-KVT shown in model order (column mapping from layout). Top speed 40/50 km/h; pump 80 l/min (Standard fixed) / 110 l/min (load sensing); weight 6600-7350 kg range (max shown); valves 3 (opt 4) mechanical Standard, 4 (opt 6) electrohydraulic."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M7153",
+  "category": "tractor",
+  "series": "M7003",
+  "power_hp_rated": 150,
+  "power_hp_max": 170,
+  "power_kw_rated": 110,
+  "power_kw_max": 125,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108 TIEF5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 689,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Standard (powershift 30F/15R) / Premium / Premium-KVT",
+   "speeds": "30/15 (54/27 creeper) / KVT stepless",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "fixed-displacement (Standard) / load-sensing variable (Premium/KVT)",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9400,
+   "front_lift_kg": 3500,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2720,
+  "fuel_l": 330,
+  "adblue_l": 38,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m7003/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/10/M7003-Leaflet.pdf (Technical data)",
+  "notes": "Superseded by M7004 on the site but both listed. Leaflet variants: Standard / Premium / Premium-KVT shown in model order (column mapping from layout). Top speed 40/50 km/h; pump 80 l/min (Standard fixed) / 110 l/min (load sensing); weight 6600-7350 kg range (max shown); valves 3 (opt 4) mechanical Standard, 4 (opt 6) electrohydraulic."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M7173",
+  "category": "tractor",
+  "series": "M7003",
+  "power_hp_rated": 170,
+  "power_hp_max": 175,
+  "power_kw_rated": 125,
+  "power_kw_max": 130,
+  "power_standard": "ECE R120",
+  "engine": {
+   "make": "Kubota",
+   "model": "V6108 TIEF5",
+   "cylinders": 4,
+   "displacement_l": 6.124,
+   "emission_stage": "EU Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": 711,
+   "max_torque_rpm": 1500,
+   "rated_rpm": 1900
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "Standard (powershift 30F/15R) / Premium / Premium-KVT",
+   "speeds": "30/15 (54/27 creeper) / KVT stepless",
+   "max_speed_kmh": 50,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "fixed-displacement (Standard) / load-sensing variable (Premium/KVT)",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": 6
+  },
+  "linkage": {
+   "rear_lift_kg": 9400,
+   "front_lift_kg": 3500,
+   "category": "Cat. III"
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": 2720,
+  "fuel_l": 330,
+  "adblue_l": 38,
+  "tires": {
+   "front": "540/65R28",
+   "rear": "650/65R38"
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/products/m7003/ ; https://ke.kubota-eu.com/agriculture/wp-content/uploads/sites/2/2020/10/M7003-Leaflet.pdf (Technical data)",
+  "notes": "Superseded by M7004 on the site but both listed. Leaflet variants: Standard / Premium / Premium-KVT shown in model order (column mapping from layout). Top speed 40/50 km/h; pump 80 l/min (Standard fixed) / 110 l/min (load sensing); weight 6600-7350 kg range (max shown); valves 3 (opt 4) mechanical Standard, 4 (opt 6) electrohydraulic."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M7-134",
+  "category": "tractor",
+  "series": "M7004",
+  "power_hp_rated": 130,
+  "power_hp_max": 150,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Kubota",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": 6.1,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "K-Power (30F/15R, up to 54F/27R) or KVT",
+   "speeds": "30/15 up to 54/27; KVT stepless",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed-centre load-sensing variable",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9400,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/it/products/m7004/ ; https://ke.kubota-eu.com/agriculture/products/m7004/",
+  "notes": "Succeeds M7003. Web page gives only power (without/with boost, boost up to +20 hp), 6.1 L engine, 110 l/min pump, 9400 kg lift, PTO speeds; no leaflet/spec table found, so other fields null. Power standard not stated."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M7-154",
+  "category": "tractor",
+  "series": "M7004",
+  "power_hp_rated": 150,
+  "power_hp_max": 170,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Kubota",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": 6.1,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "K-Power (30F/15R, up to 54F/27R) or KVT",
+   "speeds": "30/15 up to 54/27; KVT stepless",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed-centre load-sensing variable",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9400,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/it/products/m7004/ ; https://ke.kubota-eu.com/agriculture/products/m7004/",
+  "notes": "Succeeds M7003. Web page gives only power (without/with boost, boost up to +20 hp), 6.1 L engine, 110 l/min pump, 9400 kg lift, PTO speeds; no leaflet/spec table found, so other fields null. Power standard not stated."
+ },
+ {
+  "brand": "Kubota",
+  "model": "M7-174",
+  "category": "tractor",
+  "series": "M7004",
+  "power_hp_rated": 170,
+  "power_hp_max": 175,
+  "power_kw_rated": null,
+  "power_kw_max": null,
+  "power_standard": null,
+  "engine": {
+   "make": "Kubota",
+   "model": null,
+   "cylinders": null,
+   "displacement_l": 6.1,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF+SCR",
+   "turbo": true,
+   "max_torque_nm": null,
+   "max_torque_rpm": null,
+   "rated_rpm": null
+  },
+  "hybrid": {
+   "electric_motor_kw": null,
+   "battery_kwh": null,
+   "description": null
+  },
+  "transmission": {
+   "type": "powershift",
+   "model": "K-Power (30F/15R, up to 54F/27R) or KVT",
+   "speeds": "30/15 up to 54/27; KVT stepless",
+   "max_speed_kmh": null,
+   "creeper": null
+  },
+  "hydraulics": {
+   "pump_type": "closed-centre load-sensing variable",
+   "flow_lpm": 110,
+   "max_pressure_bar": null,
+   "rear_remote_valves_max": null
+  },
+  "linkage": {
+   "rear_lift_kg": 9400,
+   "front_lift_kg": null,
+   "category": null
+  },
+  "pto": {
+   "rear_speeds_rpm": "540/540E/1000/1000E",
+   "front_pto": "1000 (optional)"
+  },
+  "weight_kg": null,
+  "wheelbase_mm": null,
+  "fuel_l": null,
+  "adblue_l": null,
+  "tires": {
+   "front": null,
+   "rear": null
+  },
+  "cab": {
+   "suspension": null,
+   "air_conditioning": null,
+   "isobus": null,
+   "gps_guidance": null
+  },
+  "source": "https://ke.kubota-eu.com/agriculture/it/products/m7004/ ; https://ke.kubota-eu.com/agriculture/products/m7004/",
+  "notes": "Succeeds M7003. Web page gives only power (without/with boost, boost up to +20 hp), 6.1 L engine, 110 l/min pump, 9400 kg lift, PTO speeds; no leaflet/spec table found, so other fields null. Power standard not stated."
+ }
+]

@@ -1,0 +1,1806 @@
+[
+ {
+  "brand": "Sany",
+  "model": "SY16C",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE18GU"
+  ],
+  "weight_kg": 1825,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "max oil flow 72",
+   "pump_flow_total_lpm": 72,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.2,
+   "arm_dig_force_kn": 9.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2360,
+   "max_reach_mm": 4000,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 23,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy16c/",
+  "notes": "Rated power 14.6 kW at 2400 rpm, standard not stated (so net/gross left null); spec table 1825 kg vs highlights 1750 kg; forces are ISO breakout/stick breakout; boom/arm/shoe configuration not stated; platform ROPS/FOPS tested (canopy)"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY20C",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE20G"
+  ],
+  "weight_kg": 1975,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "max oil flow 66",
+   "pump_flow_total_lpm": 66,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.6,
+   "arm_dig_force_kn": 9.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy20c/",
+  "notes": "Rated power 14.6 kW at 2400 rpm, standard not stated; stick breakout printed as 8.3 / 9.2 kN (9.2 shown); dig depth/reach printed as 3410 / 2385 mm look swapped or inconsistent so left null; rubber tracks 230 mm; ROPS/TOPS canopy"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY26U",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE26GU",
+   "ZE27GU"
+  ],
+  "weight_kg": 2660,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing, piston pumps",
+   "pump_flow_lpm": "max oil flow 81",
+   "pump_flow_total_lpm": 81,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 27.9,
+   "arm_dig_force_kn": 14.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2820,
+   "max_reach_mm": 4850,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.06,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy26u",
+  "notes": "Rated power 14.8 kW (table) / 14.6 kW (highlights) at 2400 rpm, standard not stated; zero tail swing U model, rubber track 300 mm; forces ISO breakout/stick breakout; boom/arm configuration not stated"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY35U",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE35GU",
+   "ZE36GU"
+  ],
+  "weight_kg": 3680,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing, piston pumps",
+   "pump_flow_lpm": "max oil flow 88",
+   "pump_flow_total_lpm": 88,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.4,
+   "arm_dig_force_kn": 18.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3115,
+   "max_reach_mm": 5480,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.12,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy35u",
+  "notes": "Rated power 18.2 kW at 2200 rpm, standard not stated; page also refers to SY35C in places; cab with A/C (canopy optional); rubber track 300 mm; forces ISO breakout/stick breakout; configuration not stated"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY50U",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU"
+  ],
+  "weight_kg": 5300,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV88-PSY",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DPF (standard equipment)"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "pump_flow_lpm": "max oil flow 138.6",
+   "pump_flow_total_lpm": 138.6,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 32.5,
+   "arm_dig_force_kn": 22.9,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3420,
+   "max_reach_mm": 5880,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.152,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy50u/",
+  "notes": "Rated power 29.1 kW at 2400 rpm, standard not stated; short-tail; rubber track; cab with manual A/C; forces ISO breakout/stick breakout; configuration not stated; slightly below ZE55GU weight"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY60C",
+  "category": "mini_excavator",
+  "equivalent_to": [
+   "ZE55GU",
+   "ZE60G"
+  ],
+  "weight_kg": 6000,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C-WSY",
+   "displacement_l": 3.3,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3990,
+   "max_reach_mm": 6280,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.21,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy60c/",
+  "notes": "Power 42.4 kW at 2000 rpm, standard not stated; displacement 3300 cc; torque 241 Nm at 1300 rpm; travel speed is max listed; max reach height 5747 mm not confirmed as dump height so not used; configuration not stated"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY75C",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE75G"
+  ],
+  "weight_kg": 7280,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC+DPF (self-regenerating coating)"
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "pump_flow_lpm": "1x158 (max oil flow)",
+   "pump_flow_total_lpm": 158,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 53,
+   "arm_dig_force_kn": 35,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4450,
+   "max_reach_mm": 6505,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy75c",
+  "notes": "Rated power 43 kW at 2000 rpm (table) or 42.4 kW at 1900 rpm (highlights), standard not stated; forces ISO breakout/stick breakout; configuration not stated"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY135C",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE135G"
+  ],
+  "weight_kg": 14870,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1X",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "AdBlue (SCR) exhaust cleaning"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x110 (max oil flow)",
+   "pump_flow_total_lpm": 220,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103,
+   "arm_dig_force_kn": 67,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5500,
+   "max_reach_mm": 8290,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy135c/",
+  "notes": "Rated power 78.5 kW at 2000 rpm, standard not stated; torque 375 Nm at 1800 rpm; total flow is sum of 2x110 as printed; forces ISO breakout/stick breakout; configuration not stated; heavy-duty undercarriage, steel track"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY155U",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE145GU"
+  ],
+  "weight_kg": 16000,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1X",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1900,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DPF"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x110 (max oil flow)",
+   "pump_flow_total_lpm": 220,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103,
+   "arm_dig_force_kn": 67,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5468,
+   "max_reach_mm": 8338,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy155u/",
+  "notes": "Short-tail (U) steel track; rated power 78.5 kW at 1900 rpm, standard not stated; forces ISO breakout/stick breakout; enclosed cab with automatic climate control; configuration not stated"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY215C",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE210GLC",
+   "ZE225GN"
+  ],
+  "weight_kg": 23550,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSB6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "SCR+DPF+DOC"
+  },
+  "hydraulics": {
+   "pump_type": "Variable piston pumps",
+   "pump_flow_lpm": "2x241",
+   "pump_flow_total_lpm": 482,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 400
+  },
+  "performance": {
+   "bucket_dig_force_kn": 143,
+   "arm_dig_force_kn": 115,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6450,
+   "max_reach_mm": 9745,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.93,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy215c/",
+  "notes": "Rated power 129 kW at 2200 rpm, standard not stated; 600 mm steel track; forces ISO breakout/stick breakout; aux flow = page 'max hydraulic oil flow 400 l/min'; configuration not stated; total flow is sum of 2x241"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY305C",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE335G"
+  ],
+  "weight_kg": 32265,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSL9-C280",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2100,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "SCR+DPF"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x280 (max oil flow)",
+   "pump_flow_total_lpm": 560,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 204,
+   "arm_dig_force_kn": 153,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6815,
+   "max_reach_mm": 10870,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.7,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy305c/",
+  "notes": "Rated power 209 kW at 2100 rpm, standard not stated; page states 'no exhaust gas recirculation'; heavy-duty steel chain; forces ISO breakout/stick tear-out; configuration not stated"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY365H",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE375G"
+  ],
+  "weight_kg": 39000,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2100,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DPF+DOC"
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 550
+  },
+  "performance": {
+   "bucket_dig_force_kn": 235,
+   "arm_dig_force_kn": 170,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7337,
+   "max_reach_mm": 10831,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy365h",
+  "notes": "Rated power 231 kW at 2100 rpm, standard not stated; 600 mm triple-grouser; aux flow = max oil flow AUX1 550 l/min; ROPS/FOPS level II cab; forces ISO breakout/stick; configuration not stated; heavier than ZE375G (39 vs 37.5 t)"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY750H",
+  "category": "excavator",
+  "equivalent_to": [
+   "ZE750G"
+  ],
+  "weight_kg": 78500,
+  "engine": {
+   "make": "Cummins",
+   "model": "X15",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF"
+  },
+  "hydraulics": {
+   "pump_type": "Kawasaki, load-sensing",
+   "pump_flow_lpm": "2x504 (max oil flow)",
+   "pump_flow_total_lpm": 1008,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 410,
+   "arm_dig_force_kn": 354,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7580,
+   "max_reach_mm": 12100,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 5.0,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy750h/",
+  "notes": "Rated power 391 kW at 1400 rpm (spec table; highlights say 1800 rpm - conflict); standard not stated; standard boom 7 m / arm 3 m; forces ISO breakout/tear-out; total flow is sum of 2x504"
+ },
+ {
+  "brand": "Sany",
+  "model": "SS270V (Stage V)",
+  "category": "skid_steer",
+  "equivalent_to": [
+   "ZS120V"
+  ],
+  "weight_kg": 4300,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1290,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyglobal.com/product/loader/skid333_new/225/1565/",
+  "notes": "Power 53.7 kW at 2400 rpm, standard not stated; 'rated load' 1.29 t as printed (not stated as ROC); global page, no Europe-specific sheet found; Sany skid steers start ~4.3 t so larger than ZS120V (3.75 t) - nearest, no match for ZS030R/ZS090V"
+ },
+ {
+  "brand": "Sany",
+  "model": "ST230V (Euro V)",
+  "category": "compact_track_loader",
+  "equivalent_to": [
+   "ZT120V"
+  ],
+  "weight_kg": 4680,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 1100,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyglobal.com/product/loader/skid333_new/225/1568/",
+  "notes": "Power 53.7 kW at 2400 rpm, standard not stated; 'rated load' 1.1 t as printed (not stated as ROC); global page lists only these figures; no match for ZT090V"
+ },
+ {
+  "brand": "Sany",
+  "model": "SW956E",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL55GE"
+  ],
+  "weight_kg": 20000,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": 5800,
+   "tipping_load_kg": 13600
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyglobal.com/product/loader/wheel_loader_new/223/1557/",
+  "notes": "Electric; battery 350 kWh; operating weight 20 t; rated payload 5.8 t; tipping load 13.6 t straight / 12.8 t full turn (straight shown); no motor data on page; global (China) page"
+ },
+ {
+  "brand": "Sany",
+  "model": "SW978E",
+  "category": "wheel_loader",
+  "equivalent_to": [
+   "ZWL75GE"
+  ],
+  "weight_kg": 25000,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 4.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 14500
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyglobal.com/product/loader/wheel_loader_new/223/1696/",
+  "notes": "Electric; battery 466 kWh; operating weight 25 t; tipping load 14.5 t straight / 13.8 t full turn (straight shown); page 'rated payload 14.5 T' equals tipping load so judged unreliable and not used; no motor data; global page"
+ },
+ {
+  "brand": "Sany",
+  "model": "SY10U",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1195,
+  "engine": {
+   "make": "Kubota",
+   "model": "D722",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 8.8
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 40,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 12.9,
+   "arm_dig_force_kn": 6.9,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 1868,
+   "max_reach_mm": 3539,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.025,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy10u",
+  "notes": "Nominal rated power 8.8 kW at 2200 rpm (net/gross not stated); ISO breakout forces; 890 mm arm, 180 mm rubber tracks, telescopic undercarriage; ROPS canopy; weight per spec table."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY18C",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1925,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 14.6
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing (Casappa)",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 72,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.2,
+   "arm_dig_force_kn": 9.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2360,
+   "max_reach_mm": 4000,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 23,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy18c",
+  "notes": "Rated power 14.6 kW at 2400 rpm (net/gross not stated); pump maker Casappa, load-sensing; ISO forces; rubber tracks; ROPS/FOPS-tested platform; cab present."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY18U",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1925,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV80F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 14.6
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 72,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 16.6,
+   "arm_dig_force_kn": 9.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 2385,
+   "max_reach_mm": 4010,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 23,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy18u",
+  "notes": "Rated power 14.6 kW at 2400 rpm (net/gross not stated); two arm variants on page: arm force 9.2/8.3 kN, depth 2385/2585 mm, reach 4010/4135 mm - first value of each pair used; canopy short-tail; ROPS/FOPS-tested platform."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY19E",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 1950,
+  "engine": {
+   "make": "Sany (electric motor)",
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 15
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 72,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 15.2,
+   "arm_dig_force_kn": 9.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 3.6,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.04,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy19e/",
+  "notes": "Battery-electric; 15 kW peak/max output (net/gross n/a); canopy TOPS/FOPS; rubber tracks 230 mm; up to 6 h run time; travel 3.6 km/h fast."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY26C",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 2775,
+  "engine": {
+   "make": null,
+   "model": null,
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": null,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": null,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy26c/",
+  "notes": "Weight from the SANY Europe range listing (2775 kg). The SY26C product page shows the SY26U data (2660 kg, spec table empty), so no further data is reliable; all other fields left null."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY35C",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 3680,
+  "engine": {
+   "make": "Yanmar",
+   "model": "3TNV88F",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18.2
+  },
+  "hydraulics": {
+   "pump_type": "Axial piston pumps, load-sensing",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 88,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 30.4,
+   "arm_dig_force_kn": 18.2,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3115,
+   "max_reach_mm": 5240,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.12,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy35c/",
+  "notes": "Rated power 18.2 kW at 2200 rpm (net/gross not stated); piston pumps load-sensing; ISO breakout/arm forces; rubber track 300 mm; cab with A/C (canopy optional); ROPS/FOPS not stated."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY35E",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 4300,
+  "engine": {
+   "make": "Sany (electric motor)",
+   "model": "VMAX",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 18
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 88,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 26.51,
+   "arm_dig_force_kn": 19.96,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3115,
+   "max_reach_mm": 5480,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.12,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy35e",
+  "notes": "Electric (\"VMAX\" motor); 18 kW nominal at 2200 rpm; 1400 mm arm; rubber track 300 mm; ROPS/TOPS cab with A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY60U",
+  "category": "mini_excavator",
+  "equivalent_to": [],
+  "weight_kg": 6504,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98C",
+   "displacement_l": 3.3,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DPF",
+   "power_kw_rated": 42.5
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 40,
+   "arm_dig_force_kn": 30,
+   "swing_speed_rpm": 10,
+   "travel_speed_kmh": 4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 3990,
+   "max_reach_mm": 6375,
+   "max_dump_height_mm": 3970,
+   "bucket_capacity_m3": 0.22,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 85,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy60c-sy60u/",
+  "notes": "Page covers SY60U only. Engine named 4TNV98C in highlights and 4NTV98C in table; power net/gross not stated; DPF; 2x12V batteries; cab with A/C; ROPS/FOPS not stated."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY80U",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 8800,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT-VSY",
+   "displacement_l": null,
+   "cylinders": 4,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 53.7
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 193.2,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 72.7,
+   "arm_dig_force_kn": 40.5,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 4535,
+   "max_reach_mm": 7290,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.28,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy80u",
+  "notes": "Figures for SY80U standard; SY80U 2PB variant: 9580 kg, bucket 59 kN, arm 44.5 kN, depth 4520, reach 7570. Power 53.7 kW at 2100 rpm (net/gross not stated); DOC+DPF; short-tail, rubber tracks; cab ROPS/FOPS, manual A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY155U 2PB",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 16500,
+  "engine": {
+   "make": "Isuzu",
+   "model": "4JJ1X",
+   "displacement_l": 2.999,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1900,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 78.5
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 103,
+   "arm_dig_force_kn": 67,
+   "swing_speed_rpm": 12.5,
+   "travel_speed_kmh": 5.3,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 5274,
+   "max_reach_mm": 8591,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.6,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": 210,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/kompaktbagger/sy155u-2pb/",
+  "notes": "Power 78.5 kW at 1900 rpm (net/gross not stated); displacement 2999 ccm; travel 3.3/5.3 km/h; page overall height 363 mm looks like a typo (not used); cab data not stated."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY215E",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 23200,
+  "engine": {
+   "make": "Sany (electric motor)",
+   "model": "VMAX",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "Zero emission (electric)",
+   "egr": null,
+   "aftertreatment": null,
+   "power_kw_rated": 150
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 138,
+   "arm_dig_force_kn": 103,
+   "swing_speed_rpm": 11.3,
+   "travel_speed_kmh": 5.4,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6255,
+   "max_reach_mm": 10280,
+   "max_dump_height_mm": 6576,
+   "bucket_capacity_m3": 1.1,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/raupenbagger/sy215e/",
+  "notes": "Battery-electric (PMSM \"VMAX\" motor, 150 kW continuous, 422 kWh LFP CATL); steel track 600; travel 3.3/5.4 km/h; cab heated, auto climate, ROPS/FOPS not stated."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY265C",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 27000,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSB6.7",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2000,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "DOC + diesel filter",
+   "power_kw_rated": 142
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": null,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": 400
+  },
+  "performance": {
+   "bucket_dig_force_kn": 187,
+   "arm_dig_force_kn": 130,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 6705,
+   "max_reach_mm": 9745,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy265c",
+  "notes": "Power 142 kW at 2000 rpm (highlights box says 145 kW; net/gross not stated); max oil flow AUX1 400 l/min; Kawasaki hydraulics; steel track 600; auto A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY390H",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 40150,
+  "engine": {
+   "make": "Cummins",
+   "model": "L9",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2100,
+   "emission_stage": "Stage V",
+   "egr": false,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 252
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": "2x352",
+   "pump_flow_total_lpm": 704,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 233,
+   "arm_dig_force_kn": 184,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7473,
+   "max_reach_mm": 11022,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 1.9,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy390h/",
+  "notes": "Power 252 kW at 2100 rpm (net/gross not stated); engine runs without EGR; pump flow 2x352 l/min; 600 mm 2-bar shoes; ROPS/FOPS cab, auto A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY500H",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 52500,
+  "engine": {
+   "make": "Cummins",
+   "model": "QSX12",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2100,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "SCR+DOC",
+   "power_kw_rated": 298
+  },
+  "hydraulics": {
+   "pump_type": "2 variable axial piston pumps",
+   "pump_flow_lpm": "2x360",
+   "pump_flow_total_lpm": 720,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 253,
+   "arm_dig_force_kn": 227,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7705,
+   "max_reach_mm": 10929,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy500h/",
+  "notes": "Power 298 kW at 2100 rpm (net/gross not stated); SCR, DOC; two variable axial piston pumps 2x360 l/min; steel track 600; cab ROPS/FOPS structure, auto A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SY980H",
+  "category": "excavator",
+  "equivalent_to": [],
+  "weight_kg": 95000,
+  "engine": {
+   "make": "Scania",
+   "model": "DC15",
+   "displacement_l": null,
+   "cylinders": 8,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1900,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": "DOC+DPF",
+   "power_kw_rated": 478
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing",
+   "pump_flow_lpm": "2x565",
+   "pump_flow_total_lpm": 1130,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": 495,
+   "arm_dig_force_kn": 469,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": 7062,
+   "max_reach_mm": 12557,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 6.5,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": null,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/bagger/sy980h/",
+  "notes": "Power 478 kW at 1900 rpm (net/gross not stated); DOC+DPF; pump flow 2x565 l/min (Kawasaki electronic control, Rexroth); standard mass-excavation boom 7.25 m / arm 2.92 m; auto A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SW305",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 14500,
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 6.1 L6",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 2200,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "power_kw_rated": 129
+  },
+  "hydraulics": {
+   "pump_type": "Rexroth load-sensing variable pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 220,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 41,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 2.3,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": null
+  },
+  "source": "https://www.sanyeurope.com/produkte/radlader/sw305/",
+  "notes": "Power 129 kW at 2200 rpm per ISO/TR14396; torque 880 Nm; Stage V with SCR+DPF; Rexroth load-sensing pump; ZF Ergopower transmission; max speed 41 km/h; ROPS/FOPS cab, A/C optional."
+ },
+ {
+  "brand": "Sany",
+  "model": "SW405",
+  "category": "wheel_loader",
+  "equivalent_to": [],
+  "weight_kg": 18500,
+  "engine": {
+   "make": "Deutz",
+   "model": "TCD 7.8",
+   "displacement_l": null,
+   "cylinders": 6,
+   "power_kw_net": null,
+   "power_kw_gross": null,
+   "rpm": 1800,
+   "emission_stage": "Stage V",
+   "egr": null,
+   "aftertreatment": "SCR+DPF",
+   "power_kw_rated": 195
+  },
+  "hydraulics": {
+   "pump_type": "Load-sensing variable pump",
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 307,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": 40,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 3.2,
+   "breakout_force_kn": null,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": null
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/radlader/sw405/",
+  "notes": "Power 195 kW at 1800 rpm per ISO/TR14396; Stage V with SCR+DPF; load-sensing variable pump; max speed 40 km/h; ROPS/FOPS cab with auto A/C."
+ },
+ {
+  "brand": "Sany",
+  "model": "SS210R",
+  "category": "skid_steer",
+  "equivalent_to": [],
+  "weight_kg": 3950,
+  "engine": {
+   "make": "Yanmar",
+   "model": "4TNV98CT",
+   "displacement_l": null,
+   "cylinders": null,
+   "power_kw_net": 53.7,
+   "power_kw_gross": null,
+   "rpm": 2400,
+   "emission_stage": null,
+   "egr": null,
+   "aftertreatment": null
+  },
+  "hydraulics": {
+   "pump_type": null,
+   "pump_flow_lpm": null,
+   "pump_flow_total_lpm": 120,
+   "system_pressure_bar": null,
+   "aux_flow_lpm": null
+  },
+  "performance": {
+   "bucket_dig_force_kn": null,
+   "arm_dig_force_kn": null,
+   "swing_speed_rpm": null,
+   "travel_speed_kmh": null,
+   "gradeability_pct": null,
+   "max_dig_depth_mm": null,
+   "max_reach_mm": null,
+   "max_dump_height_mm": null,
+   "bucket_capacity_m3": 0.4,
+   "breakout_force_kn": 20,
+   "rated_operating_capacity_kg": null,
+   "tipping_load_kg": 1996
+  },
+  "capacities": {
+   "fuel_l": null,
+   "hydraulic_tank_l": null
+  },
+  "cab": {
+   "rops_fops": true,
+   "air_conditioning": true
+  },
+  "source": "https://www.sanyeurope.com/produkte/kompaktlader/ss210r/",
+  "notes": "Net power 53.7 kW at 2400 rpm; page calls it Kompaktlader, wheeled option implied (full rubber tyres optional) but drive type not stated; two speed ranges; ROPS/FOPS cab with auto A/C; sanyglobal lists 3.85 t."
+ }
+]
