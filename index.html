@@ -13,6 +13,7 @@ select,input{padding:8px;border-radius:6px;border:1px solid #8886;background:var
 .btn,.del{border:0;padding:8px 12px;border-radius:6px;background:var(--r);color:var(--n);font-weight:700;cursor:pointer}.del{background:var(--c);color:var(--t);border:1px solid #8886}
 .comp{display:grid;grid-template-columns:1fr 1fr auto;gap:8px;align-items:end;margin-top:8px}
 .tw{overflow-x:auto;margin-top:12px}table{width:100%;border-collapse:collapse;background:var(--c);border-radius:8px}td,th{padding:8px;border-bottom:1px solid #8883;text-align:left;vertical-align:top;min-width:120px}th{background:var(--n);color:#fff}td:first-child,th:first-child{position:sticky;left:0;background:var(--c);min-width:110px}th:first-child{background:var(--n)}
+.sum{margin:12px 0 0;font-weight:600}.sum small{font-weight:400}td input.pr{min-width:90px}
 small{display:block;font-size:12px;margin-top:2px;opacity:.85}.up{color:var(--up);font-weight:700;opacity:1}.dn{color:var(--dn);font-weight:700;opacity:1}.leg{font-size:12px;opacity:.8}
 @media(max-width:600px){.comp{grid-template-columns:1fr auto}.comp label:first-child{grid-column:1/-1}td,th{padding:6px;font-size:13px;min-width:100px}td:first-child,th:first-child{min-width:90px}}
 a{color:var(--n)}@media(prefers-color-scheme:dark){a{color:var(--r)}}
@@ -66,9 +67,13 @@ const r1=x=>Math.round(x*10)/10;
 function dif(a,b,r,approx){if(typeof a!='number'||typeof b!='number')return '';const d=a-b,p=b?Math.round(d/b*100):null,c=!r[3]||!d||approx?'':(d>0?'up':'dn');
  return `<small class="${c}">Zoomlion ${approx?'≈ ':''}${d>0?'+':''}${r1(d)} ${r[2]||''}${p!=null?` (${p>0?'+':''}${p} %)`:''}${approx?' · tipos de potencia distintos':''}</small>`}
 const MAXC=3;
+// Precio por unidad de prestación: [fila, unidad, denominador(o,z) -> número | {v,t}]; t = tipo de dato si puede diferir (potencia neta/bruta, nominal/máxima)
+const RAT_T=[['Precio por kW','€/kW',(o,z)=>{const p=pw(o,pw(z)?.t)||pw(o);return p&&{v:p.v,t:p.t}}],['Precio por tonelada','€/t',o=>o.weight_kg&&o.weight_kg/1000],['Precio por kN (cazo)','€/kN',o=>g(o,'performance.bucket_dig_force_kn')]];
+const RAT_A=[['Precio por CV','€/CV',o=>{const v=o.power_hp_rated??o.power_hp_max;return v&&{v,t:o.power_hp_rated!=null?'nominal':'máxima'}}],['Precio por kg','€/kg',o=>o.weight_kg],['Precio por Nm de par','€/Nm',o=>g(o,'engine.max_torque_nm')]];
+const dn=(r,o,z)=>{const x=r[2](o,z);return x&&typeof x=='object'?x:x?{v:x}:null};
 // cfg: k ('t'|'a'), dir, brands, rows, models(zt), group(m), zbase(model,ztech), metric(o)->n, tol, fam(o), label(o)
 function makeCmp(root,cfg){
- const q=s=>root.querySelector(s);let ZT={},CT=[],ready=false;
+ const q=s=>root.querySelector(s);let ZT={},CT=[],ready=false,cur=null;const P={}; // P: precios que escribe el cliente, solo en memoria (ni se guardan ni van en el enlace)
  root.innerHTML=`<h2>Comparador</h2><div class=ctl><label>Modelo Zoomlion<select class=zs></select></label><div class=comps></div><p><button class="btn add">+ Añadir competidor</button> <button class="btn share">Copiar enlace</button> <button class="btn print">Imprimir / guardar PDF</button></p></div><p class=leg>Bajo cada dato de la competencia: diferencia de Zoomlion. <span class=up>Verde</span>: ventaja Zoomlion · <span class=dn>Rojo</span>: ventaja competidor · ★ modelo equivalente.</p><div class="res tw"></div>`;
  const zref=()=>cfg.zbase(q('.zs').value,ZT[q('.zs').value]||{});
  const rows=()=>[...root.querySelectorAll('.comp')];
@@ -96,9 +101,29 @@ function makeCmp(root,cfg){
     return `<tr><td>${r[0]}<td>${zp?`${fv(zp.v,'kW')} <small>${zp.t}</small>`:'—'}`+cells.map(x=>`<td>${x}`).join('')}
    const a=val(z,r),bs=cs.map(c=>val(c,r));if(a===null&&bs.every(b=>b===null))return '';
    return `<tr><td>${r[0]}<td>${fv(a,r[2])}`+bs.map(b=>`<td>${fv(b,r[2])}${dif(a,b,r)}`).join('')}).join('');
-  q('.res').innerHTML=`<table><tr><th><th>Zoomlion ${esc(z.model)}`+cs.map(c=>`<th>${esc(c.brand+' '+c.model)}`).join('')+body+`</table>${z.doc?`<p class=noprint><a href="${z.doc}" data-p="${z.doc}">Ver ficha técnica Zoomlion</a></p>`:''}`;
+  const keys=['Zoomlion '+z.model,...cs.map(c=>c.brand+' '+c.model)];cur={z,cs,keys};
+  const price=`<tr><td>Precio (€, sin IVA)`+keys.map((k,i)=>`<td><input class=pr data-i=${i} type=number min=0 step=any inputmode=decimal placeholder="€" aria-label="Precio ${esc(k)}" value="${P[k]??''}">`).join('');
+  const rat=cfg.ratios.map(r=>`<tr class=rt hidden><td>${r[0]}`+keys.map((k,i)=>`<td data-i=${i}>`).join('')).join('');
+  q('.res').innerHTML=`<p class=sum></p><table><tr><th><th>Zoomlion ${esc(z.model)}`+cs.map(c=>`<th>${esc(c.brand+' '+c.model)}`).join('')+price+rat+body+`</table>${z.doc?`<p class=noprint><a href="${z.doc}" data-p="${z.doc}">Ver ficha técnica Zoomlion</a></p>`:''}`;
+  calc();
   if(ready)history.replaceState(null,'',link());
  }
+ // Ratios de precio: se recalculan al teclear sin rehacer la tabla (así el campo no pierde el foco)
+ function calc(){
+  const {z,cs,keys}=cur,objs=[z,...cs],V=cfg.ratios.map((r,j)=>{
+   const vals=objs.map((o,i)=>{const d=dn(r,o,z);return P[keys[i]]>0&&d?{x:P[keys[i]]/d.v,t:d.t}:null});
+   const tr=root.querySelectorAll('tr.rt')[j];tr.hidden=!vals.some(Boolean);
+   tr.querySelectorAll('td[data-i]').forEach(td=>{const i=+td.dataset.i,v=vals[i];
+    td.innerHTML=v?Math.round(v.x).toLocaleString('es-ES')+' '+r[1]+(v.t?`<small>${v.t}</small>`:'')+(i&&vals[0]?pct(vals[0],v):''):'—'});
+   return vals});
+  const lines=[];
+  keys.forEach((k,i)=>{if(!i||!(P[keys[0]]>0)||!(P[k]>0))return;
+   const parts=cfg.ratios.map((r,j)=>{const a=V[j][0],b=V[j][i];if(!a||!b)return '';const p=Math.round((a.x/b.x-1)*100);return (p?`un ${Math.abs(p)} % ${p<0?'menos':'más'} por ${r[1].slice(2)}`:`lo mismo por ${r[1].slice(2)}`)+(a.t!=b.t?' (aprox.: potencia de distinto tipo)':'')}).filter(Boolean);
+   if(parts.length)lines.push(`Con estos precios, frente a ${esc(k)}, Zoomlion cuesta ${parts.join(', ')}.`)});
+  q('.sum').innerHTML=(lines.length?lines.join('<br>'):'Introduce el precio de Zoomlion y de la competencia (sin IVA) para ver el coste por kW, por tonelada, etc.')+'<small>Cálculo orientativo con los datos de la tabla: no incluye equipamiento, opciones ni transporte. Los precios no se guardan ni se incluyen en el enlace.</small>';
+ }
+ // % de diferencia del precio por unidad de Zoomlion frente a un competidor; verde si Zoomlion sale más barato
+ const pct=(a,b)=>{const p=Math.round((a.x/b.x-1)*100),ap=a.t!=b.t;return `<small class="${ap||!p?'':p<0?'up':'dn'}">Zoomlion ${ap?'≈ ':''}${p>0?'+':''}${p} %${ap?' · tipos de potencia distintos':''}</small>`};
  Promise.all([...cfg.brands.map(b=>getJ(`data/${cfg.dir}/${b}.json`)),getJ(`data/${cfg.dir}/zoomlion.json`)]).then(a=>{
   ZT=Object.fromEntries(a.pop().map(x=>[x.model,x]));CT=a.flat();
   const ms=cfg.models(ZT);q('.zs').innerHTML=[...new Set(ms.map(cfg.group))].map(g=>`<optgroup label="${g}">`+ms.filter(m=>cfg.group(m)==g).map(m=>`<option>${esc(m)}`).join('')+'</optgroup>').join('');
@@ -108,6 +133,7 @@ function makeCmp(root,cfg){
   if(!rows().length)addRow();
   render();ready=true;
  });
+ root.addEventListener('input',e=>{const t=e.target;if(!t.classList.contains('pr'))return;const k=cur.keys[t.dataset.i],v=parseFloat(t.value);v>0?P[k]=v:delete P[k];calc()});
  root.addEventListener('change',e=>{const t=e.target;if(t.classList.contains('zs'))rows().forEach(r=>fillModels(r));else if(t.classList.contains('bs'))fillModels(t.closest('.comp'));render()});
  root.addEventListener('click',e=>{const t=e.target;
   if(t.classList.contains('add')){addRow(rows().at(-1)?.querySelector('.bs').value);render()}
@@ -117,12 +143,12 @@ function makeCmp(root,cfg){
  return {set(m){q('.zs').value=m;rows().forEach(r=>fillModels(r));render()}};
 }
 const fam=c=>/loader|skid/.test(c||'')?(/wheel/.test(c)?'w':'s'):'e';
-const cmpT=makeCmp($('#cmp'),{k:'t',dir:'tech',brands:BR_T,rows:ROWS_T,models:()=>ZL.map(m=>m.model),group:m=>sec(ZL.find(x=>x.model==m)),
+const cmpT=makeCmp($('#cmp'),{k:'t',dir:'tech',brands:BR_T,rows:ROWS_T,ratios:RAT_T,models:()=>ZL.map(m=>m.model),group:m=>sec(ZL.find(x=>x.model==m)),
  zbase:(m,zt)=>{const x=ZL.find(y=>y.model==m),z={model:m,weight_kg:w(x),...zt,doc:pdf(x),engine:{...(zt.engine||{})}};if(!z.engine.make&&!z.engine.model)z.engine.model=x.specs['Motor']?.[0]||null;return z},
  metric:o=>o.weight_kg,tol:.2,fam:o=>fam(o.category),label:c=>(c.weight_kg/1000).toFixed(1)+' t'});
 const agrp=m=>m?.category=='hybrid_tractor'?'Híbridos':'Convencionales';
 let AZ={};
-const cmpA=makeCmp($('#acmp'),{k:'a',dir:'agri',brands:BR_A,rows:ROWS_A,models:zt=>(AZ=zt,Object.keys(zt)),group:m=>agrp(AZ[m]),
+const cmpA=makeCmp($('#acmp'),{k:'a',dir:'agri',brands:BR_A,rows:ROWS_A,ratios:RAT_A,models:zt=>(AZ=zt,Object.keys(zt)),group:m=>agrp(AZ[m]),
  zbase:(m,zt)=>({...zt,model:m}),metric:o=>o.power_hp_rated??o.power_hp_max,tol:.15,fam:()=>1,label:c=>(c.power_hp_rated??c.power_hp_max)+' CV'});
 // Catálogo agrícola: híbridos y convencionales
 getJ('data/agri/zoomlion.json').then(a=>{const card=m=>`<div class=card><h3>${esc(m.model)}${m.category=='hybrid_tractor'?' · HÍBRIDO':''}</h3>${esc(m.series||'')}<br>${m.power_hp_rated?m.power_hp_rated+' CV':''} ${esc(eng(m))}<p>${m.doc?`<a href="${m.doc}" data-p="${m.doc}">Ver ficha técnica</a> · `:''}<a href="#" data-a="${esc(m.model)}">Comparar</a></p></div>`;
