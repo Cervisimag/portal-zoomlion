@@ -1,92 +1,135 @@
 <!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Portal Zoomlion</title>
 <style>
-:root{--r:#92d13d;--n:#170843;--bg:#f5f5f6;--c:#fff;--t:#1b1b1d}
-@media(prefers-color-scheme:dark){:root{--bg:#141415;--c:#1f1f21;--t:#eee}}
+:root{--r:#92d13d;--n:#170843;--bg:#f5f5f6;--c:#fff;--t:#1b1b1d;--up:#2e7d32;--dn:#c62828}
+@media(prefers-color-scheme:dark){:root{--bg:#141415;--c:#1f1f21;--t:#eee;--up:#81c784;--dn:#ef9a9a}}
 *{box-sizing:border-box}body{margin:0;font:15px system-ui;background:var(--bg);color:var(--t)}
-header{background:#fff;border-bottom:5px solid var(--r);padding:10px 16px;display:flex;align-items:center;justify-content:space-between}header img{height:40px}
-nav{display:flex;gap:6px;padding:10px 16px}nav button{border:0;padding:8px 14px;border-radius:6px;background:var(--c);color:var(--t);cursor:pointer}
+header{background:#fff;border-bottom:5px solid var(--r);padding:10px 16px;display:flex;align-items:center;justify-content:space-between}header img{height:40px;max-width:45%;object-fit:contain}
+nav{display:flex;flex-wrap:wrap;gap:6px;padding:10px 16px}nav button{border:0;padding:8px 14px;border-radius:6px;background:var(--c);color:var(--t);cursor:pointer}
 nav.top button{font-weight:700;font-size:16px;padding:10px 18px}nav button.on{background:var(--r);color:var(--n);font-weight:700}main{padding:0 16px 40px;max-width:1100px;margin:auto}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
 .card{background:var(--c);border-radius:8px;padding:12px}.card h3{margin:0 0 4px}
-select,input{padding:8px;border-radius:6px;border:1px solid #8886;background:var(--c);color:var(--t);width:100%}
-table{width:100%;border-collapse:collapse;background:var(--c);border-radius:8px}td,th{padding:8px;border-bottom:1px solid #8883;text-align:left;vertical-align:top}
-.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}@media(max-width:600px){.two{grid-template-columns:1fr}}
-a{color:var(--n)}.viewer iframe{width:100%;height:calc(100vh - 70px);border:0;background:#fff;border-radius:8px}#viewer{position:fixed;inset:0;z-index:9;background:#000d;padding:12px 16px;margin:0}#viewer a{color:#fff}.viewer button{border:0;padding:6px 12px;border-radius:6px;background:var(--r);color:var(--n);font-weight:700;cursor:pointer}@media(prefers-color-scheme:dark){a{color:var(--r)}}footer{max-width:1100px;margin:auto;padding:16px;font-size:12px;opacity:.75}h2{border-left:5px solid var(--r);padding-left:8px}th{background:var(--n);color:#fff}.d{font-weight:700}
+select,input{padding:8px;border-radius:6px;border:1px solid #8886;background:var(--c);color:var(--t);width:100%}label{display:block;font-size:13px}
+.btn,.del{border:0;padding:8px 12px;border-radius:6px;background:var(--r);color:var(--n);font-weight:700;cursor:pointer}.del{background:var(--c);color:var(--t);border:1px solid #8886}
+.comp{display:grid;grid-template-columns:1fr 1fr auto;gap:8px;align-items:end;margin-top:8px}
+.tw{overflow-x:auto;margin-top:12px}table{width:100%;border-collapse:collapse;background:var(--c);border-radius:8px}td,th{padding:8px;border-bottom:1px solid #8883;text-align:left;vertical-align:top;min-width:120px}th{background:var(--n);color:#fff}td:first-child,th:first-child{position:sticky;left:0;background:var(--c);min-width:110px}th:first-child{background:var(--n)}
+small{display:block;font-size:12px;margin-top:2px;opacity:.85}.up{color:var(--up);font-weight:700;opacity:1}.dn{color:var(--dn);font-weight:700;opacity:1}.leg{font-size:12px;opacity:.8}
+@media(max-width:600px){.comp{grid-template-columns:1fr auto}.comp label:first-child{grid-column:1/-1}td,th{padding:6px;font-size:13px;min-width:100px}td:first-child,th:first-child{min-width:90px}}
+a{color:var(--n)}@media(prefers-color-scheme:dark){a{color:var(--r)}}
+.viewer iframe{width:100%;height:calc(100vh - 70px);border:0;background:#fff;border-radius:8px}#viewer{position:fixed;inset:0;z-index:9;background:#000d;padding:12px 16px;margin:0}#viewer a{color:#fff}
+footer{max-width:1100px;margin:auto;padding:16px;font-size:12px;opacity:.75}h2{border-left:5px solid var(--r);padding-left:8px}.filter{max-width:360px;margin:8px 0}
+@media print{nav,.ctl,#viewer,.filter,.noprint{display:none!important}body,:root{background:#fff;color:#000;--c:#fff;--t:#000}main>div[hidden]{display:none}th{background:#170843!important;color:#fff!important;-webkit-print-color-adjust:exact;print-color-adjust:exact}td:first-child,th:first-child{position:static}.tw{overflow:visible}td,th{min-width:0;font-size:11px}footer{opacity:1}}
 </style>
 <header><img src="img/logo_zoomlion.png" alt="Zoomlion"><img src="img/logo_cervisimag.png" alt="Cervisimag"></header>
 <nav class=top><button data-s=t class=on>Movimiento de tierras</button><button data-s=a>Agrícola</button></nav><nav><button data-v=cat class=on>Catálogo</button><button data-v=cmp>Comparador</button><button data-v=pres>Presentaciones</button></nav>
 <main><div id=cat></div><div id=cmp hidden></div><div id=acat hidden></div><div id=acmp hidden></div><div id=pres hidden></div><div id=apres hidden></div></main>
-<div id=viewer class=viewer hidden><p><button class=vclose>Cerrar visor</button> <a class=vopen target=_blank>Abrir en pestaña nueva</a></p><iframe allowfullscreen></iframe></div>
+<div id=viewer class=viewer hidden><p><button class="btn vclose">Cerrar visor</button> <a class=vopen target=_blank>Abrir en pestaña nueva</a></p><iframe allowfullscreen title="Visor de documentos"></iframe></div>
 <footer>Datos técnicos orientativos, recopilados de las fichas y webs públicas de cada fabricante y de la documentación de Zoomlion. Pueden variar según versión, configuración y mercado; confirme siempre con la ficha oficial antes de tomar una decisión. Marcas y modelos pertenecen a sus respectivos propietarios. Última actualización: <span id=upd></span>.</footer>
 <script src="data/data.js"></script>
 <script>
 const $=s=>document.querySelector(s),num=s=>{const m=(s||'').replace(/\./g,'').replace(',','.').match(/[\d.]+/);return m?+m[0]:null};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const getJ=u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():[]).catch(()=>[]); // no-cache: revalida con el servidor, así los datos nuevos se ven al momento
 const kind=m=>m.specs['TIPO DE MÁQUINA']?.[0]||'';
 const w=m=>num(m.specs['Peso operativo']?.[0]);
-const cv=m=>num((m.specs['Motor']||[]).find(l=>/CV/.test(l))?.split('(')[1]);
-const dp=m=>num((m.specs['Brazo de excavación']||[]).find(l=>/Prof/.test(l)));
 const pdf=m=>`docs/${m.model.toLowerCase()}.pdf`;
-const esc=s=>String(s??'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
-// Catálogo agrupado por tipo
+const filt='<input class=filter type=search placeholder="Buscar modelo…" aria-label="Buscar modelo">';
+// Catálogo de tierras: excavadoras, palas y minicargadoras
 const sec=m=>/ruedas/i.test(kind(m))?'Palas cargadoras':/cargadora/i.test(kind(m))?'Minicargadoras':'Excavadoras';
 const groups={Excavadoras:[],'Palas cargadoras':[],Minicargadoras:[]};ZL.forEach(m=>groups[sec(m)].push(m));
-$('#cat').innerHTML=Object.entries(groups).map(([k,a])=>`<h2>${esc(k)}</h2><div class=grid>`+a.map(m=>
-`<div class=card><h3>${m.model}</h3>${esc((m.specs['Peso operativo']||[''])[0])}<br>${esc((m.specs['Motor']||[''])[0])}<p><a href="${pdf(m)}" data-p="${pdf(m)}">Ver ficha técnica</a> · <a href="#" data-c="${m.model}">Comparar</a></p></div>`).join('')+'</div>').join('');
+$('#cat').innerHTML=filt+Object.entries(groups).map(([k,a])=>`<section><h2>${esc(k)}</h2><div class=grid>`+a.map(m=>
+`<div class=card><h3>${m.model}</h3>${esc((m.specs['Peso operativo']||[''])[0])}<br>${esc((m.specs['Motor']||[''])[0])}<p><a href="${pdf(m)}" data-p="${pdf(m)}">Ver ficha técnica</a> · <a href="#" data-c="${m.model}">Comparar</a></p></div>`).join('')+'</div></section>').join('');
 // Comparador genérico: tierras (data/tech) y agrícola (data/agri). Esquemas en data/SCHEMA*.md
 const g=(o,p)=>p.split('.').reduce((a,k)=>a?.[k],o);
 const val=(o,r)=>{let v=typeof r[1]=='function'?r[1](o):g(o,r[1]);if(typeof v=='boolean')v=v?'Sí':'No';return v===null||v===undefined||v===''?null:v};
-const fmt=(v,r)=>v===null?'—':(r[2]?`${esc(v)} ${r[2]}`:/^https?:/.test(v)?`<a href="${esc(v)}" target=_blank>enlace</a>`:esc(v));
 const eng=o=>[g(o,'engine.make'),g(o,'engine.model')].filter(Boolean).join(' ');
-const ROWS_T=[['Peso operativo','weight_kg','kg'],['Motor',eng],['Cilindrada','engine.displacement_l','l'],['Potencia neta','engine.power_kw_net','kW'],['Potencia bruta','engine.power_kw_gross','kW'],['Potencia (neta/bruta sin especificar)',o=>g(o,'engine.power_kw_rated')??g(o,'engine.power_kw_unspecified'),'kW'],['Régimen','engine.rpm','rpm'],['Norma de emisiones','engine.emission_stage'],['Válvula EGR','engine.egr'],['Postratamiento','engine.aftertreatment'],
-['Bombas hidráulicas','hydraulics.pump_type'],['Caudal por bomba','hydraulics.pump_flow_lpm','L/min'],['Caudal total','hydraulics.pump_flow_total_lpm','L/min'],['Presión del sistema','hydraulics.system_pressure_bar','bar'],['Caudal auxiliar','hydraulics.aux_flow_lpm','L/min'],
-['Fuerza de excavación (cazo)','performance.bucket_dig_force_kn','kN'],['Fuerza de excavación (brazo)','performance.arm_dig_force_kn','kN'],['Fuerza de arranque','performance.breakout_force_kn','kN'],['Carga de vuelco','performance.tipping_load_kg','kg'],['Capacidad de carga','performance.rated_operating_capacity_kg','kg'],['Capacidad del cazo','performance.bucket_capacity_m3','m³'],
-['Velocidad de giro','performance.swing_speed_rpm','rpm'],['Velocidad de traslación','performance.travel_speed_kmh','km/h'],['Pendiente superable','performance.gradeability_pct','%'],['Prof. máx. excavación','performance.max_dig_depth_mm','mm'],['Alcance máx.','performance.max_reach_mm','mm'],['Altura de descarga','performance.max_dump_height_mm','mm'],
-['Depósito combustible','capacities.fuel_l','l'],['Depósito hidráulico','capacities.hydraulic_tank_l','l'],['Cabina ROPS/FOPS','cab.rops_fops'],['Aire acondicionado','cab.air_conditioning'],['Fuente','source'],['Notas','notes']];
-const ROWS_A=[['Potencia nominal','power_hp_rated','CV'],['Potencia máxima','power_hp_max','CV'],['Potencia nominal (kW)','power_kw_rated','kW'],['Potencia máxima (kW)','power_kw_max','kW'],['Norma de potencia','power_standard'],['Motor',eng],['Cilindros','engine.cylinders'],['Cilindrada','engine.displacement_l','l'],['Norma de emisiones','engine.emission_stage'],['Válvula EGR','engine.egr'],['Postratamiento','engine.aftertreatment'],['Turbo','engine.turbo'],['Par máximo','engine.max_torque_nm','Nm'],['Régimen par máx.','engine.max_torque_rpm','rpm'],['Régimen nominal','engine.rated_rpm','rpm'],
-['Motor eléctrico','hybrid.electric_motor_kw','kW'],['Batería','hybrid.battery_kwh','kWh'],['Sistema híbrido','hybrid.description'],
-['Tipo de cambio','transmission.type'],['Modelo de cambio','transmission.model'],['Velocidades','transmission.speeds'],['Velocidad máx.','transmission.max_speed_kmh','km/h'],['Superreductor','transmission.creeper'],
-['Tipo de bomba','hydraulics.pump_type'],['Caudal hidráulico','hydraulics.flow_lpm','L/min'],['Presión máx.','hydraulics.max_pressure_bar','bar'],['Distribuidores traseros (máx.)','hydraulics.rear_remote_valves_max'],
-['Elevador trasero','linkage.rear_lift_kg','kg'],['Elevador delantero','linkage.front_lift_kg','kg'],['Elevador trasero (daN)','linkage.rear_lift_dan','daN'],['Elevador delantero (daN)','linkage.front_lift_dan','daN'],['Categoría enganche','linkage.category'],['TDF trasera','pto.rear_speeds_rpm'],['TDF delantera','pto.front_pto'],
-['Peso','weight_kg','kg'],['Distancia entre ejes','wheelbase_mm','mm'],['Depósito combustible','fuel_l','l'],['Depósito AdBlue','adblue_l','l'],['Neumáticos delanteros','tires.front'],['Neumáticos traseros','tires.rear'],['Suspensión de cabina','cab.suspension'],['Aire acondicionado','cab.air_conditioning'],['ISOBUS','cab.isobus'],['Guiado GPS','cab.gps_guidance'],['Fuente','source'],['Notas','notes']];
+// Potencia de tierras: cada fabricante publica neta, bruta o "nominal" sin decir cuál; se compara el mismo tipo cuando ambos lo tienen
+const PW=[['neta','engine.power_kw_net'],['bruta','engine.power_kw_gross'],['sin especificar','engine.power_kw_rated']];
+const pw=(o,t)=>{for(const [k,p] of PW){const v=g(o,p);if(v!=null&&(!t||t==k))return {v,t:k}}return null};
+// fila: [etiqueta, ruta|función|'POWER', unidad, dir] dir 1 = más es mejor, 0 = neutro
+const ROWS_T=[['Peso operativo','weight_kg','kg',0],['Motor',eng],['Cilindrada','engine.displacement_l','l',0],['Potencia','POWER','kW',1],['Régimen','engine.rpm','rpm',0],['Norma de emisiones','engine.emission_stage'],['Válvula EGR','engine.egr'],['Postratamiento','engine.aftertreatment'],
+['Bombas hidráulicas','hydraulics.pump_type'],['Caudal por bomba','hydraulics.pump_flow_lpm','L/min'],['Caudal total','hydraulics.pump_flow_total_lpm','L/min',1],['Presión del sistema','hydraulics.system_pressure_bar','bar',1],['Caudal auxiliar','hydraulics.aux_flow_lpm','L/min',1],
+['Fuerza de excavación (cazo)','performance.bucket_dig_force_kn','kN',1],['Fuerza de excavación (brazo)','performance.arm_dig_force_kn','kN',1],['Fuerza de arranque','performance.breakout_force_kn','kN',1],['Carga de vuelco','performance.tipping_load_kg','kg',1],['Capacidad de carga','performance.rated_operating_capacity_kg','kg',1],['Capacidad del cazo','performance.bucket_capacity_m3','m³',1],
+['Velocidad de giro','performance.swing_speed_rpm','rpm',1],['Velocidad de traslación','performance.travel_speed_kmh','km/h',1],['Pendiente superable','performance.gradeability_pct','%',1],['Prof. máx. excavación','performance.max_dig_depth_mm','mm',1],['Alcance máx.','performance.max_reach_mm','mm',1],['Altura de descarga','performance.max_dump_height_mm','mm',1],
+['Depósito combustible','capacities.fuel_l','l',0],['Depósito hidráulico','capacities.hydraulic_tank_l','l',0],['Cabina ROPS/FOPS','cab.rops_fops'],['Aire acondicionado','cab.air_conditioning'],['Fuente','source'],['Notas','notes']];
+const ROWS_A=[['Potencia nominal','power_hp_rated','CV',1],['Potencia máxima','power_hp_max','CV',1],['Potencia nominal (kW)','power_kw_rated','kW',1],['Potencia máxima (kW)','power_kw_max','kW',1],['Norma de potencia','power_standard'],['Motor',eng],['Cilindros','engine.cylinders','',0],['Cilindrada','engine.displacement_l','l',0],['Norma de emisiones','engine.emission_stage'],['Válvula EGR','engine.egr'],['Postratamiento','engine.aftertreatment'],['Turbo','engine.turbo'],['Par máximo','engine.max_torque_nm','Nm',1],['Régimen par máx.','engine.max_torque_rpm','rpm',0],['Régimen nominal','engine.rated_rpm','rpm',0],
+['Motor eléctrico','hybrid.electric_motor_kw','kW',1],['Batería','hybrid.battery_kwh','kWh',1],['Sistema híbrido','hybrid.description'],
+['Tipo de cambio','transmission.type'],['Modelo de cambio','transmission.model'],['Velocidades','transmission.speeds'],['Velocidad máx.','transmission.max_speed_kmh','km/h',1],['Superreductor','transmission.creeper'],
+['Tipo de bomba','hydraulics.pump_type'],['Caudal hidráulico','hydraulics.flow_lpm','L/min',1],['Presión máx.','hydraulics.max_pressure_bar','bar',1],['Distribuidores traseros (máx.)','hydraulics.rear_remote_valves_max','',1],
+['Elevador trasero','linkage.rear_lift_kg','kg',1],['Elevador delantero','linkage.front_lift_kg','kg',1],['Elevador trasero (daN)','linkage.rear_lift_dan','daN',1],['Elevador delantero (daN)','linkage.front_lift_dan','daN',1],['Categoría enganche','linkage.category'],['TDF trasera','pto.rear_speeds_rpm'],['TDF delantera','pto.front_pto'],
+['Peso','weight_kg','kg',0],['Distancia entre ejes','wheelbase_mm','mm',0],['Depósito combustible','fuel_l','l',0],['Depósito AdBlue','adblue_l','l',0],['Neumáticos delanteros','tires.front'],['Neumáticos traseros','tires.rear'],['Suspensión de cabina','cab.suspension'],['Aire acondicionado','cab.air_conditioning'],['ISOBUS','cab.isobus'],['Guiado GPS','cab.gps_guidance'],['Fuente','source'],['Notas','notes']];
 const BR_T=['hidromek','case','liebherr','caterpillar','komatsu','kobelco','sany','liugong','volvo','jcb','develon','hyundai','hitachi','kubota','takeuchi'];
 const BR_A=['fendt','claas','johndeere','newholland','deutzfahr','caseih','masseyferguson','valtra','kubota','same','lovol','lamborghini'];
-const getJ=u=>fetch(u).then(r=>r.ok?r.json():[]).catch(()=>[]);
-// cfg: dir, brands, rows, models(), zbase(model,ztech), metric(o)->n, tol, fam(o)
+const fv=(v,u)=>v===null?'—':/^https?:/.test(v)?`<a href="${esc(v)}" target=_blank>enlace</a>`:esc(v)+(u?' '+u:'');
+const r1=x=>Math.round(x*10)/10;
+// diferencia Zoomlion − competidor, en verde si favorece a Zoomlion
+function dif(a,b,r,approx){if(typeof a!='number'||typeof b!='number')return '';const d=a-b,p=b?Math.round(d/b*100):null,c=!r[3]||!d||approx?'':(d>0?'up':'dn');
+ return `<small class="${c}">Zoomlion ${approx?'≈ ':''}${d>0?'+':''}${r1(d)} ${r[2]||''}${p!=null?` (${p>0?'+':''}${p} %)`:''}${approx?' · tipos de potencia distintos':''}</small>`}
+const MAXC=3;
+// cfg: k ('t'|'a'), dir, brands, rows, models(zt), group(m), zbase(model,ztech), metric(o)->n, tol, fam(o), label(o)
 function makeCmp(root,cfg){
- const q=s=>root.querySelector(s);let ZT={},CT=[];
- root.innerHTML=`<h2>Comparador</h2><div class=two><div><label>Modelo Zoomlion</label><select class=zs></select></div><div><label>Marca de la competencia</label><select class=bs></select></div></div><div class=two style="margin-top:8px"><div><label>Modelo de la competencia</label><select class=cs></select></div><div></div></div><div class=res style="margin-top:12px"></div>`;
+ const q=s=>root.querySelector(s);let ZT={},CT=[],ready=false;
+ root.innerHTML=`<h2>Comparador</h2><div class=ctl><label>Modelo Zoomlion<select class=zs></select></label><div class=comps></div><p><button class="btn add">+ Añadir competidor</button> <button class="btn share">Copiar enlace</button> <button class="btn print">Imprimir / guardar PDF</button></p></div><p class=leg>Bajo cada dato de la competencia: diferencia de Zoomlion. <span class=up>Verde</span>: ventaja Zoomlion · <span class=dn>Rojo</span>: ventaja competidor · ★ modelo equivalente.</p><div class="res tw"></div>`;
  const zref=()=>cfg.zbase(q('.zs').value,ZT[q('.zs').value]||{});
- function fill(){
-  const b=q('.bs').value,z=zref(),zm=cfg.metric(z),zf=cfg.fam(z);
+ const rows=()=>[...root.querySelectorAll('.comp')];
+ function fillModels(row,pick){
+  const b=row.querySelector('.bs').value,z=zref(),zm=cfg.metric(z),zf=cfg.fam(z);
   const d=c=>zm&&cfg.metric(c)?Math.abs(cfg.metric(c)-zm)/zm:9,eq=c=>cfg.fam(c)==zf&&d(c)<=cfg.tol;
   const list=CT.filter(c=>c.brand==b).sort((a,b)=>d(a)-d(b)),opt=(c,p)=>`<option value="${CT.indexOf(c)}">${p}${esc(c.model)}${cfg.metric(c)?` (${cfg.label(c)})`:''}`;
-  q('.cs').innerHTML=list.filter(eq).map(c=>opt(c,'★ ')).join('')+list.filter(c=>!eq(c)).sort((a,b)=>(cfg.metric(a)||0)-(cfg.metric(b)||0)).map(c=>opt(c,'')).join('');
+  const s=row.querySelector('.cs');s.innerHTML=list.filter(eq).map(c=>opt(c,'★ ')).join('')+list.filter(c=>!eq(c)).sort((a,b)=>(cfg.metric(a)||0)-(cfg.metric(b)||0)).map(c=>opt(c,'')).join('');
+  if(pick!=null)s.value=pick;
  }
+ const upd=()=>{rows().forEach(r=>r.querySelector('.del').hidden=rows().length<2);q('.add').hidden=rows().length>=MAXC};
+ function addRow(brand,pick){
+  if(rows().length>=MAXC)return;
+  const d=document.createElement('div');d.className='comp';
+  d.innerHTML=`<label>Marca<select class=bs>${[...new Set(CT.map(c=>c.brand))].sort().map(b=>`<option>${esc(b)}`).join('')}</select></label><label>Modelo de la competencia<select class=cs></select></label><button class=del title="Quitar competidor" aria-label="Quitar competidor">✕</button>`;
+  q('.comps').append(d);if(brand)d.querySelector('.bs').value=brand;fillModels(d,pick);upd();
+ }
+ const link=()=>'#'+[cfg.k,q('.zs').value,...rows().map(r=>{const c=CT[r.querySelector('.cs').value];return c?c.brand+'|'+c.model:''})].map(encodeURIComponent).join('/');
  function render(){
-  const z=zref();
-  const c=CT[q('.cs').value];
-  if(!c){q('.res').innerHTML='<p>Sin datos para esta marca todavía.</p>';return}
-  const rows=cfg.rows.map(r=>[r,val(z,r),val(c,r)]).filter(([r,a,b])=>a!==null||b!==null);
-  q('.res').innerHTML=`<table><tr><th><th>Zoomlion ${esc(z.model)}<th>${esc(((c.brand||'')+' '+(c.model||'')).trim())}<th>Dif. (Zoomlion − comp.)</tr>`+rows.map(([r,a,b])=>`<tr><td>${r[0]}<td>${fmt(a,r)}<td>${fmt(b,r)}<td class=d>${typeof a=='number'&&typeof b=='number'?`${a-b>0?'+':''}${Math.round((a-b)*10)/10} ${r[2]||''}`:'—'}`).join('')+`</table>${z.doc?`<p><a href="${z.doc}" data-p="${z.doc}">Ver ficha técnica Zoomlion</a></p>`:''}`;
+  const z=zref(),cs=rows().map(r=>CT[r.querySelector('.cs').value]).filter(Boolean);
+  if(!cs.length){q('.res').innerHTML='<p>Sin datos para esta marca todavía.</p>';return}
+  const zp=pw(z),body=cfg.rows.map(r=>{
+   if(r[1]=='POWER'){if(!zp&&!cs.some(c=>pw(c)))return '';
+    const cells=cs.map(c=>{const p=zp&&pw(c,zp.t)||pw(c);return p?`${fv(p.v,'kW')} <small>${p.t}</small>${zp?dif(zp.v,p.v,r,p.t!=zp.t):''}`:'—'});
+    return `<tr><td>${r[0]}<td>${zp?`${fv(zp.v,'kW')} <small>${zp.t}</small>`:'—'}`+cells.map(x=>`<td>${x}`).join('')}
+   const a=val(z,r),bs=cs.map(c=>val(c,r));if(a===null&&bs.every(b=>b===null))return '';
+   return `<tr><td>${r[0]}<td>${fv(a,r[2])}`+bs.map(b=>`<td>${fv(b,r[2])}${dif(a,b,r)}`).join('')}).join('');
+  q('.res').innerHTML=`<table><tr><th><th>Zoomlion ${esc(z.model)}`+cs.map(c=>`<th>${esc(c.brand+' '+c.model)}`).join('')+body+`</table>${z.doc?`<p class=noprint><a href="${z.doc}" data-p="${z.doc}">Ver ficha técnica Zoomlion</a></p>`:''}`;
+  if(ready)history.replaceState(null,'',link());
  }
  Promise.all([...cfg.brands.map(b=>getJ(`data/${cfg.dir}/${b}.json`)),getJ(`data/${cfg.dir}/zoomlion.json`)]).then(a=>{
   ZT=Object.fromEntries(a.pop().map(x=>[x.model,x]));CT=a.flat();
-  const ms=cfg.models(ZT);q('.zs').innerHTML=cfg.group?[...new Set(ms.map(cfg.group))].map(g=>`<optgroup label="${g}">`+ms.filter(m=>cfg.group(m)==g).map(m=>`<option>${esc(m)}`).join('')+'</optgroup>').join(''):ms.map(m=>`<option>${esc(m)}`).join('');
-  q('.bs').innerHTML=[...new Set(CT.map(c=>c.brand))].sort().map(b=>`<option>${esc(b)}`).join('');
-  fill();render();
+  const ms=cfg.models(ZT);q('.zs').innerHTML=[...new Set(ms.map(cfg.group))].map(g=>`<optgroup label="${g}">`+ms.filter(m=>cfg.group(m)==g).map(m=>`<option>${esc(m)}`).join('')+'</optgroup>').join('');
+  // enlace compartido: #t/ZE225GN/Komatsu|PC210LC-11/...
+  const h=location.hash.slice(1).split('/').map(decodeURIComponent);
+  if(h[0]==cfg.k&&ms.includes(h[1])){q('.zs').value=h[1];h.slice(2,2+MAXC).forEach(x=>{const [b,m]=x.split('|'),i=CT.findIndex(c=>c.brand==b&&c.model==m);if(i>=0)addRow(b,i)});go(cfg.k,'cmp')}
+  if(!rows().length)addRow();
+  render();ready=true;
  });
- q('.zs').onchange=q('.bs').onchange=()=>{fill();render()};root.addEventListener('input',e=>{if(e.target.tagName!='SELECT'||e.target.className=='cs')render()});
- return {set(m){q('.zs').value=m;fill();render()}};
+ root.addEventListener('change',e=>{const t=e.target;if(t.classList.contains('zs'))rows().forEach(r=>fillModels(r));else if(t.classList.contains('bs'))fillModels(t.closest('.comp'));render()});
+ root.addEventListener('click',e=>{const t=e.target;
+  if(t.classList.contains('add')){addRow(rows().at(-1)?.querySelector('.bs').value);render()}
+  if(t.classList.contains('del')){t.closest('.comp').remove();upd();render()}
+  if(t.classList.contains('share')){const u=location.href.split('#')[0]+link();(navigator.clipboard?navigator.clipboard.writeText(u):Promise.reject()).then(()=>{t.textContent='Enlace copiado ✓';setTimeout(()=>t.textContent='Copiar enlace',2000)},()=>prompt('Copia este enlace:',u))}
+  if(t.classList.contains('print'))print()});
+ return {set(m){q('.zs').value=m;rows().forEach(r=>fillModels(r));render()}};
 }
 const fam=c=>/loader|skid/.test(c||'')?(/wheel/.test(c)?'w':'s'):'e';
-const cmpT=makeCmp($('#cmp'),{dir:'tech',brands:BR_T,rows:ROWS_T,models:()=>ZL.map(m=>m.model),group:m=>sec(ZL.find(x=>x.model==m)),
+const cmpT=makeCmp($('#cmp'),{k:'t',dir:'tech',brands:BR_T,rows:ROWS_T,models:()=>ZL.map(m=>m.model),group:m=>sec(ZL.find(x=>x.model==m)),
  zbase:(m,zt)=>{const x=ZL.find(y=>y.model==m),z={model:m,weight_kg:w(x),...zt,doc:pdf(x),engine:{...(zt.engine||{})}};if(!z.engine.make&&!z.engine.model)z.engine.model=x.specs['Motor']?.[0]||null;return z},
  metric:o=>o.weight_kg,tol:.2,fam:o=>fam(o.category),label:c=>(c.weight_kg/1000).toFixed(1)+' t'});
-const cmpA=makeCmp($('#acmp'),{dir:'agri',brands:BR_A,rows:ROWS_A,models:zt=>Object.keys(zt),
+const agrp=m=>m?.category=='hybrid_tractor'?'Híbridos':'Convencionales';
+let AZ={};
+const cmpA=makeCmp($('#acmp'),{k:'a',dir:'agri',brands:BR_A,rows:ROWS_A,models:zt=>(AZ=zt,Object.keys(zt)),group:m=>agrp(AZ[m]),
  zbase:(m,zt)=>({...zt,model:m}),metric:o=>o.power_hp_rated??o.power_hp_max,tol:.15,fam:()=>1,label:c=>(c.power_hp_rated??c.power_hp_max)+' CV'});
-// Catálogo agrícola
-getJ('data/agri/zoomlion.json').then(a=>{$('#acat').innerHTML=a.length?`<h2>Tractores Zoomlion</h2><div class=grid>`+a.map(m=>`<div class=card><h3>${esc(m.model)}${m.category=='hybrid_tractor'?' · HÍBRIDO':''}</h3>${esc(m.series||'')}<br>${m.power_hp_rated?m.power_hp_rated+' CV':''} ${esc(eng(m))}<p>${m.doc?`<a href="${m.doc}" data-p="${m.doc}">Ver ficha técnica</a> · `:''}<a href="#" data-a="${esc(m.model)}">Comparar</a></p></div>`).join('')+'</div>':'<p>Datos agrícolas en preparación.</p>'});
+// Catálogo agrícola: híbridos y convencionales
+getJ('data/agri/zoomlion.json').then(a=>{const card=m=>`<div class=card><h3>${esc(m.model)}${m.category=='hybrid_tractor'?' · HÍBRIDO':''}</h3>${esc(m.series||'')}<br>${m.power_hp_rated?m.power_hp_rated+' CV':''} ${esc(eng(m))}<p>${m.doc?`<a href="${m.doc}" data-p="${m.doc}">Ver ficha técnica</a> · `:''}<a href="#" data-a="${esc(m.model)}">Comparar</a></p></div>`;
+ $('#acat').innerHTML=filt+['Híbridos','Convencionales'].map(k=>`<section><h2>Tractores ${k.toLowerCase()}</h2><div class=grid>`+a.filter(m=>agrp(m)==k).map(card).join('')+'</div></section>').join('')});
+// Buscador del catálogo
+document.addEventListener('input',e=>{if(!e.target.classList.contains('filter'))return;const t=e.target.value.trim().toLowerCase(),box=e.target.parentElement;
+ box.querySelectorAll('.card').forEach(c=>c.hidden=!c.textContent.toLowerCase().includes(t));box.querySelectorAll('section').forEach(s=>s.hidden=![...s.querySelectorAll('.card')].some(c=>!c.hidden))});
 // Presentaciones: data/presentaciones.json {t:[{title,file,description}],a:[...]}; los archivos van en presentaciones/
 getJ('data/presentaciones.json').then(p=>[['#pres','t'],['#apres','a']].forEach(([id,k])=>{const a=p[k]||[];$(id).innerHTML='<h2>Presentaciones</h2>'+(a.length?'<div class=grid>'+a.map(x=>`<div class=card><h3>${esc(x.title)}</h3>${esc(x.description||'')}<p><a href="${esc(x.file)}" data-p="${esc(x.file)}">Ver presentación</a></p></div>`).join('')+'</div>':'<p>Próximamente.</p>')}));
 $('#upd').textContent=new Date(document.lastModified).toLocaleDateString('es-ES');
@@ -94,11 +137,12 @@ const st={s:'t',v:'cat'};
 function go(sec,v){st.s=sec||st.s;st.v=v||st.v;document.querySelectorAll('nav.top button').forEach(x=>x.classList.toggle('on',x.dataset.s==st.s));document.querySelectorAll('nav:not(.top) button').forEach(x=>x.classList.toggle('on',x.dataset.v==st.v));['cat','cmp','pres','acat','acmp','apres'].forEach(id=>$('#'+id).hidden=id!=(st.s=='t'?'':'a')+st.v)}
 document.querySelectorAll('nav.top button').forEach(b=>b.onclick=()=>go(b.dataset.s,'cat'));
 document.querySelectorAll('nav:not(.top) button').forEach(b=>b.onclick=()=>go(null,b.dataset.v));
-// PowerPoint: visor en línea de Microsoft (necesita la URL pública del sitio publicado; no funciona en localhost)
+// Visor: PDF y HTML directos; PowerPoint con el visor en línea de Microsoft (necesita la URL pública; no funciona en localhost)
 const vsrc=f=>/\.pptx?$/.test(f)?'https://view.officeapps.live.com/op/embed.aspx?src='+encodeURIComponent(new URL(f,location.href).href):f;
-document.addEventListener('click',e=>{const t=e.target,p=t.dataset?.p,v=t.closest?.('.viewer');
- if(p){e.preventDefault();const w=$('#viewer');w.querySelector('iframe').src=vsrc(p);w.querySelector('.vopen').href=p;w.hidden=false;return}
- if(v&&t.className=='vclose')closeV()});
-const closeV=()=>{$('#viewer iframe').src='about:blank';$('#viewer').hidden=true};document.addEventListener('keydown',e=>{if(e.key=='Escape')closeV()});
-document.addEventListener('click',e=>{const c=e.target.dataset?.c,a=e.target.dataset?.a;if(c||a){e.preventDefault();(c?cmpT:cmpA).set(c||a);go(c?'t':'a','cmp')}});
+const closeV=()=>{$('#viewer iframe').src='about:blank';$('#viewer').hidden=true};
+document.addEventListener('keydown',e=>{if(e.key=='Escape')closeV()});
+document.addEventListener('click',e=>{const t=e.target,p=t.dataset?.p,c=t.dataset?.c,a=t.dataset?.a;
+ if(p){e.preventDefault();const v=$('#viewer');v.querySelector('iframe').src=vsrc(p);v.querySelector('.vopen').href=p;v.hidden=false;return}
+ if(t.classList.contains('vclose'))return closeV();
+ if(c||a){e.preventDefault();(c?cmpT:cmpA).set(c||a);go(c?'t':'a','cmp')}});
 </script>
